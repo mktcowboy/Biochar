@@ -15,13 +15,13 @@ Synthesized from the science research report (2026-09-14); citations only from t
 
 | Resource | URL |
 |---|---|
-| IPCC 2019 biochar appendix (PDF) | https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf |
-| Lehmann et al. 2021 (*Nat. Geosci.*) | https://doi.org/10.1038/s41561-021-00852-8 |
-| Woolf et al. 2021 (*ES&T*) | https://doi.org/10.1021/acs.est.1c02425 |
+| IPCC 2019 biochar appendix (PDF) | https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf · [[IPCC 2019 Biochar Appendix]] |
+| [[Lehmann et al. 2021]] (*Nat. Geosci.*) | https://doi.org/10.1038/s41561-021-00852-8 |
+| [[Woolf et al. 2021]] (*ES&T*) | https://doi.org/10.1021/acs.est.1c02425 |
 | Woolf et al. 2010 (*Nat. Commun.*) | https://doi.org/10.1038/ncomms1053 |
-| Bilias et al. 2024 IUPAC glossary | https://doi.org/10.1515/pac-2021-0106 |
+| [[Bilias et al. 2024]] IUPAC glossary | https://doi.org/10.1515/pac-2021-0106 |
 | Weng & Cowie 2025 | https://doi.org/10.1038/s43247-025-02228-x |
-| State of CDR Ch. 10 (Fuss et al. 2026) | https://doi.org/10.17605/OSF.IO/FBZ4X |
+| State of CDR Ch. 10 ([[Fuss & Lunstrum 2026]]) | https://doi.org/10.17605/OSF.IO/FBZ4X |
 | EBC | https://www.european-biochar.org/ |
 | IBI | https://biochar-international.org/ |
 

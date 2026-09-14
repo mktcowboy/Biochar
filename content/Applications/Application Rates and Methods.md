@@ -10,8 +10,8 @@ Practice-oriented guide to **how much** biochar to apply and **how** to place it
 
 ## Principles
 
-1. **Soil- and product-specific.** NRCS: rates should be based on soil tests **and** carbon-amendment lab results; biochar properties vary widely ([CPS 336 FAQ, Apr 2026](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)).
-2. **Charge / inoculate** fresh char with compost, manure, compost tea, or nutrients before or during application when agronomic response is a goal ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf); [CPS 336 2022 PDF](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf)).
+1. **Soil- and product-specific.** NRCS: rates should be based on soil tests **and** carbon-amendment lab results; biochar properties vary widely ([CPS 336 FAQ, Apr 2026](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[NRCS CPS 336 FAQ 2026]]).
+2. **Charge / inoculate** fresh char with compost, manure, compost tea, or nutrients before or during application when agronomic response is a goal ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf); [CPS 336 2022 PDF](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf) · [[NRCS CPS 336 Standard 2022]]).
 3. **Incorporate** when possible; surface-only applications risk wind/water loss, especially on slopes ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)).
 4. Separate **CDR mass** goals from **agronomic optimum**—high research rates are not always economic ([[Agronomic Economics]]).
 
@@ -21,11 +21,11 @@ Bulk rate tables below assume you have already decided **how** the char is condi
 
 | Practice | Sourced guidance | URL |
 |---|---|---|
-| USBI charge window | Inoculate/charge **1–3 weeks** with compost, manure, tea, fertilizer, urine, or microbes | https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf |
+| USBI charge window | Inoculate/charge **1–3 weeks** with compost, manure, tea, fertilizer, urine, or microbes | https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf · [[USBI Ag Guidelines 2023]] |
 | NRCS language | Inoculate with compost, compost tea, or manure | https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf |
-| Co-compost loading | Roughly **5–15%** biochar w/w early in composting (see ranges in inoculation chapter) | https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf · https://doi.org/10.1016/j.jenvman.2020.111443 |
-| Enriched fertilizer rates | Often **≪2 t ha⁻¹** when nutrient-loaded and root-zone placed | https://doi.org/10.1002/ldr.2761 · https://doi.org/10.3390/agriculture5030723 |
-| Immobilization risk if skipped | Fresh wood char can bind nutrients; Kammann untreated 2% w/w cut biomass to ~60% of control | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf · https://doi.org/10.1038/srep11080 |
+| Co-compost loading | Roughly **5–15%** biochar w/w early in composting (see ranges in inoculation chapter) | https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf · [[Pacific Biochar Compost White Paper 2023]] · https://doi.org/10.1016/j.jenvman.2020.111443 · [[Antonangelo et al. 2021]] |
+| Enriched fertilizer rates | Often **≪2 t ha⁻¹** when nutrient-loaded and root-zone placed | https://doi.org/10.1002/ldr.2761 · [[Schmidt et al. 2017]] · https://doi.org/10.3390/agriculture5030723 · [[Schmidt et al. 2015]] |
+| Immobilization risk if skipped | Fresh wood char can bind nutrients; Kammann untreated 2% w/w cut biomass to ~60% of control | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf · https://doi.org/10.1038/srep11080 · [[Kammann et al. 2015]] |
 
 Full mechanisms, evidence tables, commercial BBFs, and safety: **[[Biochar Inoculation for Fertilizer]]**. Blend payment scenarios: [[Biochar Compost and Manure Blends]].
 
@@ -40,13 +40,14 @@ Full mechanisms, evidence tables, commercial BBFs, and safety: **[[Biochar Inocu
 | NRCS FY2024: 40% biochar / 60% compost | **1.6 yd³ biochar + 3.3 tons compost /ac** | Scenario 34 | same |
 | NRCS FY2024: 20% biochar / 80% compost | **0.8 yd³ biochar + 4.4 tons compost /ac** | Scenario 35 | same |
 | NRCS FY2024: 80% biochar / 20% compost | **3.2 yd³ biochar + 1.1 tons compost /ac** | Scenario 37 | same |
-| Research literature (historical) | **~5–50+ t ha⁻¹** (extremes **100**) | Not farm default | https://doi.org/10.1016/j.agee.2011.08.015 |
+| Research literature (historical) | **~5–50+ t ha⁻¹** (extremes **100**) | Not farm default | https://doi.org/10.1016/j.agee.2011.08.015 · [[Jeffery et al. 2011]] |
 | Enriched biochar fertilizers | Often **<2 t ha⁻¹** | Nepal multi-crop trials | https://doi.org/10.1002/ldr.2761 |
-| Oasis Vineyard (as-applied wet) | Biochar **10 t/ac**; compost **15 t/ac** | Row-ripped bowl ~2×2.5 ft | https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf |
+| Oasis Vineyard (as-applied wet) | Biochar **10 t/ac**; compost **15 t/ac** | Row-ripped bowl ~2×2.5 ft | https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf · [[Oasis Vineyard Trial 2023]] |
 | Dominus Estate | Biochar **25 t/ac** to **36"** | SOM-targeted design | https://pacificbiochar.com/case-study-biochar-application-with-dominus-estate-in-napa-valley-after-2-years-fallow/ |
 | Wakefield (company guidance) | ~**2 t/ac** average farm cite; bulk **2–3** supersacks/ac (2 yd³ each) | Marketing / partnership pages | https://wakefieldbiochar.com/learning-center/ds-smith-partners-with-wakefield-to-convert-paper-mill-waste-to-useful-biochar/ · https://wakefieldbiochar.com/biochar-for-landscapers/ |
 | Exomad guidance | Site-specific; **5–10% by volume** of cultivated top layer examples; inoculate | Company ag page | https://www.exomadgreen.com/biochar |
-| Woolf 2021 optional N₂O inventory credit | Only if **>10 Mg C ha⁻¹** year 1 | Inventory rule, not agronomic optimum | https://doi.org/10.1021/acs.est.1c02425 |
+| Exomad/CIAT field trial (Santa Cruz, Bolivia) | **4 t ha⁻¹** once, 30 days pre-plant; no re-application for the following corn crop | Company report; beans then corn | https://www.exomadgreen.com/_files/ugd/8b0a69_153ad8a2b8244bfc8a136176be56a408.pdf · [[Exomad Green Corn and Bean Field Study]] |
+| [[Woolf et al. 2021\|Woolf 2021]] optional N₂O inventory credit | Only if **>10 Mg C ha⁻¹** year 1 | Inventory rule, not agronomic optimum | https://doi.org/10.1021/acs.est.1c02425 |
 
 ### Unit conversion caveats
 
@@ -76,7 +77,7 @@ CPS 336 may be planned on **pasture**; **not** on native rangeland except to fac
 
 ### Composting facility co-batching
 
-Add biochar **into** composting (not only field blend). Earth Foundries × Napa Recycling: **10% biochar** in green/food compost reduced VOCs **33%** and shortened curing ([PDF](https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf)). SEC/Napa Recycling American Canyon pathway blends new pyrolysis char with compost for farm/garden sales ([SBI May 2025](https://sonomabiocharinitiative.org/sec-and-napa-recycling-pyrolysis-startup/)). See [[Biochar Compost and Manure Blends]].
+Add biochar **into** composting (not only field blend). Earth Foundries × Napa Recycling: **10% (by volume) biochar** in green/food compost reduced VOCs **33%** and shortened curing ([PDF](https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf) · [[Earth Foundries Co-Composting Report 2023]]). SEC/Napa Recycling American Canyon pathway blends new pyrolysis char with compost for farm/garden sales ([SBI May 2025](https://sonomabiocharinitiative.org/sec-and-napa-recycling-pyrolysis-startup/)). See [[Biochar Compost and Manure Blends]].
 
 ## Timing
 

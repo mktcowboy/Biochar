@@ -23,7 +23,7 @@ CSI Global Biochar C-Sink requires **EBC- or WBC-certified** biochar—see [[CSI
 
 - [EBC Guidelines](https://www.european-biochar.org/)
 - [IBI Biochar Standards](https://biochar-international.org/)
-- [Bilias et al. 2024 IUPAC](https://doi.org/10.1515/pac-2021-0106)
+- [Bilias et al. 2024 IUPAC](https://doi.org/10.1515/pac-2021-0106) · [[Bilias et al. 2024]]
 
 ## Related notes
 

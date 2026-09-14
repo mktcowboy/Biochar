@@ -24,8 +24,8 @@ aliases: [H/C_org, O/C_org, Biochar properties]
 
 - [Keiluweit et al. 2010](https://doi.org/10.1021/es9031419)
 - [Spokas 2010](https://doi.org/10.4155/cmt.10.32)
-- [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425)
-- [Bilias et al. 2024](https://doi.org/10.1515/pac-2021-0106)
+- [[Woolf et al. 2021]] ([DOI](https://doi.org/10.1021/acs.est.1c02425))
+- [[Bilias et al. 2024]] ([DOI](https://doi.org/10.1515/pac-2021-0106))
 - [EBC](https://www.european-biochar.org/) · [IBI](https://biochar-international.org/)
 
 ## Related notes

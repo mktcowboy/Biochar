@@ -5,7 +5,7 @@ aliases: [Persistence, Biochar permanence]
 
 # Permanence
 
-Biochar C mineralizes **1–2 orders of magnitude more slowly** than unpyrolysed biomass because of fused aromatic structure ([Lehmann et al., 2021](https://doi.org/10.1038/s41561-021-00852-8)). Persistence depends on **material chemistry** (aromatic condensation) **and** environment (soil temperature, moisture, minerals, microbes). It is probabilistic / centennial–millennial for well-made chars—not literal forever ([Schmidt et al., 2025](https://doi.org/10.1111/gcbb.70092); [Woolf et al., 2021](https://doi.org/10.1021/acs.est.1c02425)).
+Biochar C mineralizes **1–2 orders of magnitude more slowly** than unpyrolysed biomass because of fused aromatic structure ([[Lehmann et al. 2021|Lehmann et al., 2021]] · [DOI](https://doi.org/10.1038/s41561-021-00852-8)). Persistence depends on **material chemistry** (aromatic condensation) **and** environment (soil temperature, moisture, minerals, microbes). It is probabilistic / centennial–millennial for well-made chars—not literal forever ([Schmidt et al., 2025](https://doi.org/10.1111/gcbb.70092); [[Woolf et al. 2021|Woolf et al., 2021]] · [DOI](https://doi.org/10.1021/acs.est.1c02425)).
 
 ## Policy / accounting proxies
 
@@ -21,7 +21,7 @@ Biochar C mineralizes **1–2 orders of magnitude more slowly** than unpyrolysed
 
 | Source | Finding |
 |---|---|
-| **[IPCC 2019 App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)** | F_perm (100 yr): **0.65** (350–450 °C), **0.80** (450–600 °C), **0.89** (>600 °C / high-T gasification); ±~11–15% |
+| **[IPCC 2019 App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC 2019 Biochar Appendix]]** | F_perm (100 yr): **0.65** (350–450 °C), **0.80** (450–600 °C), **0.89** (>600 °C / high-T gasification); ±~11–15% |
 | **[Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425)** | At **14.9 °C** (global cropland mean), 100-yr F_perm ≈ **0.63 / 0.71 / 0.82** (low/med/high T). At 1000 yr much lower (e.g. high-T ~0.25 at 14.9 °C) |
 | **[Lehmann et al. 2021](https://doi.org/10.1038/s41561-021-00852-8)** | Of biochars with **H/C_org < 0.5**, 95% showed >50% C remaining after 100 yr (mean **~82%** in that subset) |
 | **[Spokas 2010](https://doi.org/10.4155/cmt.10.32)** | O/C-based half-life classes (approximate rule-of-thumb; not inventory-grade alone) |

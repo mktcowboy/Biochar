@@ -38,6 +38,7 @@ Only **36%** of durable CDR suppliers listed on CDR.fyi had a registered sale as
 | Produced to date | **>320,000 t** durable CDR (Apr 2026 Supercritical/Exomad release) |
 | Facilities | Concepción & Riberalta (expanded); third under construction; two more planned (May 2025 release) |
 | Pathway | Forestry residues (else open-burned) → biochar → local agricultural soils |
+| Agronomy evidence | Company field report with CIAT (Santa Cruz): yields numerically **+15%** (biochar alone) to **+32–34%** (biochar + NPKS + microbes), but yield ANOVA not significant — [[Exomad Green Corn and Bean Field Study]] ([PDF](https://www.exomadgreen.com/_files/ugd/8b0a69_153ad8a2b8244bfc8a136176be56a408.pdf)) |
 | Certification | **Puro.earth** Biochar Methodology; Carbonfuture MRV+ on Microsoft deals |
 | Flagship offtakes | Microsoft **>32 kt** (2023); Microsoft **≥1.24 Mt** / 10y (2025); Supercritical **up to 500 kt** / 3y (2026); Senken **105 kt** (Q1 2026) |
 | Ambition cited | **1 Mt CO₂ / yr by 2027** |

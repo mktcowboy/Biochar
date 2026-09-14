@@ -13,8 +13,8 @@ USDA Natural Resources Conservation Service **Conservation Practice Standard 336
 | Document | URL |
 |---|---|
 | National CPS 336 page (downloads + state links) | https://www.nrcs.usda.gov/resources/guides-and-instructions/soil-carbon-amendment-ac-336-conservation-practice-standard |
-| National standard PDF (Nov 2022) | https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf |
-| Planning FAQ (April 2026) | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf |
+| National standard PDF (Nov 2022) | https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf · [[NRCS CPS 336 Standard 2022]] |
+| Planning FAQ (April 2026) | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf · [[NRCS CPS 336 FAQ 2026]] |
 | Soil Carbon Amendments overview / tools | https://www.nrcs.usda.gov/conservation-basics/natural-resource-concerns/soil/soil-health/soil-carbon-amendments |
 | Producer funding quick guide (Farmland Info hosting) | https://farmlandinfo.org/wp-content/uploads/sites/2/2023/12/biochar_funding_for_US_producers_quick_guide_.pdf |
 | ABI / biochar.org funding guidelines PDF (2026) | https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Funding-2026-final.pdf |

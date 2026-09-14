@@ -34,7 +34,7 @@ Science: [[Permanence]] · [[Permanence Science for Credits]] · [[Biochar as Du
 |---|---|
 | What it credits | Net CDR across biomass → thermochemical conversion → **eligible use** |
 | Durability label | **Several centuries** (≥200 years); EU “permanent removal” alignment cited by Puro |
-| Prior label | CORC100+ (Edition 2022; Woolf et al. 2021 multi-pool) |
+| Prior label | CORC100+ (Edition 2022; [[Woolf et al. 2021]] multi-pool) |
 | H/C_org gate | **< 0.70** |
 | Crediting period (Ed. 2025) | **10 years**, renewable twice |
 | Issuance | **Ex-post** after durable eligible use + Output Audit |
@@ -190,7 +190,7 @@ At first **durable eligible use** + successful Output Audit — not at the kiln 
 7. [CORC page](https://puro.earth/buy-carbon-credits/removal-certificate-corc/)
 8. Persistence model — https://github.com/puro-earth/PuroBiocharPersistenceEdition2025
 9. Woolf et al. 2021 — https://doi.org/10.1021/acs.est.1c02425
-10. Sanei et al. 2024 — https://doi.org/10.1016/j.coal.2023.104409
+10. [[Sanei et al. 2024]] — https://doi.org/10.1016/j.coal.2023.104409
 11. Azzi et al. 2024 — https://doi.org/10.1016/j.geoderma.2023.116761
 
 Also: [[Key Sources]]

@@ -37,10 +37,10 @@ Credit programs and product standards ([EBC](https://www.european-biochar.org/)/
 
 ## Primary links
 
-- [IPCC 2019 biochar appendix](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)
-- [Bilias et al. 2024 IUPAC](https://doi.org/10.1515/pac-2021-0106)
+- [IPCC 2019 biochar appendix](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC 2019 Biochar Appendix]]
+- [Bilias et al. 2024 IUPAC](https://doi.org/10.1515/pac-2021-0106) · [[Bilias et al. 2024]]
 - [Keiluweit et al. 2010](https://doi.org/10.1021/es9031419)
-- [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425)
+- [[Woolf et al. 2021]] ([DOI](https://doi.org/10.1021/acs.est.1c02425))
 - [EBC](https://www.european-biochar.org/) · [IBI](https://biochar-international.org/)
 
 ## See also

@@ -11,7 +11,7 @@ aliases: [Uncertainties, Open questions]
 - **Sustainable feedstock** (wastes/residues; no deforestation) is required for net climate benefit.
 - Biochar can **raise yields** especially in acid/degraded/tropical soils, but responses are **context-specific**.
 - **N₂O reductions** are real in many systems in year 1; magnitude and multi-year persistence less certain.
-- **MRV** can focus on mass × C fraction × permanence factor at the kiln/gate, with application verification—cheaper than full soil flux monitoring ([Lehmann 2021](https://doi.org/10.1038/s41561-021-00852-8)).
+- **MRV** can focus on mass × C fraction × permanence factor at the kiln/gate, with application verification—cheaper than full soil flux monitoring ([[Lehmann et al. 2021|Lehmann 2021]] · [DOI](https://doi.org/10.1038/s41561-021-00852-8)).
 - Quality control for **PAHs/heavy metals** and process emissions (kiln CH₄) matters for safe deployment.
 
 ## Open debates / uncertainties
@@ -22,7 +22,7 @@ aliases: [Uncertainties, Open questions]
 4. **Energy vs CDR trade-off:** Relative benefit depends on **what energy is displaced** (coal vs renewables); as grids decarbonize, soil biochar becomes relatively more attractive ([Lehmann 2021](https://doi.org/10.1038/s41561-021-00852-8)).
 5. **Economic vs technical potential:** Technical/sustainable multi-Gt ≠ near-term deployable; IAM/economic potentials often **≪1 Gt by 2050**.
 6. **Non-soil uses** (concrete, asphalt, animal feed, materials): permanence pathways differ; soil-amendment science does not automatically transfer.
-7. **Climate feedback on permanence:** Warmer soils accelerate decay ([Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) Q10 framework)—future warming reduces F_perm relative to today’s tables.
+7. **Climate feedback on permanence:** Warmer soils accelerate decay ([[Woolf et al. 2021]] · [DOI](https://doi.org/10.1021/acs.est.1c02425) Q10 framework)—future warming reduces F_perm relative to today’s tables.
 
 ## Primary links
 
@@ -30,7 +30,7 @@ aliases: [Uncertainties, Open questions]
 - [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425)
 - [Schmidt et al. 2025](https://doi.org/10.1111/gcbb.70092)
 - [Weng & Cowie 2025](https://doi.org/10.1038/s43247-025-02228-x)
-- [State of CDR / Fuss 2026](https://doi.org/10.17605/OSF.IO/FBZ4X)
+- [State of CDR / Fuss 2026](https://doi.org/10.17605/OSF.IO/FBZ4X) · [[Fuss & Lunstrum 2026]]
 
 ## Related notes
 

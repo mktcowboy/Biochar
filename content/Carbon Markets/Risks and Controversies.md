@@ -7,7 +7,7 @@ aliases: [Controversies, Greenwashing, Leakage]
 
 ## Permanence science divergence
 
-Decomposition-model camp (IPCC, Woolf 2021, Puro CORC200+, Isometric 200y) vs inertinite/Ro camp (Sanei et al.; Isometric 1000y; CSI upper class). Critiques argue inertinite proxies can overstate absolute permanence or that two-pool models mis-specify chemistry. See [[Permanence Science for Credits]] and [[Consensus vs Debates]].
+Decomposition-model camp (IPCC, [[Woolf et al. 2021|Woolf 2021]], Puro CORC200+, Isometric 200y) vs inertinite/Ro camp (Sanei et al.; Isometric 1000y; CSI upper class). Critiques argue inertinite proxies can overstate absolute permanence or that two-pool models mis-specify chemistry. See [[Permanence Science for Credits]] and [[Consensus vs Debates]].
 
 ## Leakage & land-use
 
@@ -25,7 +25,7 @@ Same tonne claimed as product footprint reduction, voluntary credit, and complia
 
 ## Overstated yields / MRV gaps
 
-Crediting before application; weak retail chain-of-custody; optimistic permanence factors; ignoring CH₄ from pyrolysis or biomass storage. Delivery vs contracted volume gaps create expectation risk ([[CDR.fyi](https://www.cdr.fyi/)](https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025)).
+Crediting before application; weak retail chain-of-custody; optimistic permanence factors; ignoring CH₄ from pyrolysis or biomass storage. Delivery vs contracted volume gaps create expectation risk ([CDR.fyi](https://www.cdr.fyi/)(https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025)).
 
 ## Greenwashing critiques
 

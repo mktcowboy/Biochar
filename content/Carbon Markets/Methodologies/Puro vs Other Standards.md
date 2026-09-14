@@ -55,7 +55,7 @@ Two camps appear across standards:
 
 **Puro’s explicit stance:** stopped at **centuries**, not millennia, pending integration of Ro/inertinite science; Ro reporting **encouraged** but **does not yet change quantification** ([permanence post](https://puro.earth/insights/post/biochar-permanence/)).
 
-Deep science: [[Permanence]] · [[Permanence Science for Credits]] · Woolf et al. 2021 ([DOI](https://doi.org/10.1021/acs.est.1c02425)) · Sanei et al. 2024 ([DOI](https://doi.org/10.1016/j.coal.2023.104409)) · Azzi et al. 2024 ([DOI](https://doi.org/10.1016/j.geoderma.2023.116761))  
+Deep science: [[Permanence]] · [[Permanence Science for Credits]] · [[Woolf et al. 2021]] ([DOI](https://doi.org/10.1021/acs.est.1c02425)) · [[Sanei et al. 2024]] ([DOI](https://doi.org/10.1016/j.coal.2023.104409)) · Azzi et al. 2024 ([DOI](https://doi.org/10.1016/j.geoderma.2023.116761))  
 Concept note: [[Puro CORC200+]] · method math: [[Puro Biochar Methodology Edition 2025]]
 
 ---

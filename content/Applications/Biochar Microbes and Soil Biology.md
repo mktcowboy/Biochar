@@ -16,11 +16,11 @@ Protocol depth for charging lives in [[Biochar Inoculation for Fertilizer]]; nut
 
 ## 1. Purpose and problem statement
 
-Practitioners often call biochar a “microbial hotel.” That metaphor is **partly true and partly marketing**. Lehmann et al. (2011) review how biochar alters soil biota through habitat, moisture, pH, sorption of signaling compounds and toxins, and nutrient supply ([DOI](https://doi.org/10.1016/j.soilbio.2011.04.022)). Quilliam et al. (2013) provide the necessary counterweight: wood biochar buried **three years** in agricultural soil showed **very sparse** internal colonization; at **50 t ha⁻¹**, biochar contributed only ~**6.5%** of topsoil pore space and ~**7.4%** of surface area, with many pores **<1 µm**—effectively uninhabitable for many microbes ([DOI](https://doi.org/10.1016/j.soilbio.2013.06.004)).
+Practitioners often call biochar a “microbial hotel.” That metaphor is **partly true and partly marketing**. Lehmann et al. (2011) review how biochar alters soil biota through habitat, moisture, pH, sorption of signaling compounds and toxins, and nutrient supply ([DOI](https://doi.org/10.1016/j.soilbio.2011.04.022)). [[Quilliam et al. 2013|Quilliam et al. (2013)]] provide the necessary counterweight: wood biochar buried **three years** in agricultural soil showed **very sparse** internal colonization; at **50 t ha⁻¹**, biochar contributed only ~**6.5%** of topsoil pore space and ~**7.4%** of surface area, with many pores **<1 µm**—effectively uninhabitable for many microbes ([DOI](https://doi.org/10.1016/j.soilbio.2013.06.004)).
 
-NRCS and USBI still recommend **inoculating** biochar with compost, compost tea, or manure before agronomic use—because biology + nutrients must be **pre-loaded**, not assumed to self-assemble after broadcasting dry char ([CPS 336 2022](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf); [USBI Ag Guidelines](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf); [NRCS FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)).
+NRCS and USBI still recommend **inoculating** biochar with compost, compost tea, or manure before agronomic use—because biology + nutrients must be **pre-loaded**, not assumed to self-assemble after broadcasting dry char ([CPS 336 2022](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf) · [[NRCS CPS 336 Standard 2022]]; [USBI Ag Guidelines](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf) · [[USBI Ag Guidelines 2023]]; [NRCS FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[NRCS CPS 336 FAQ 2026]]).
 
-A 56-study meta-analysis (Ross & Emery / Tapp Ross, *SSSAJ* 2025) finds that **microbial inocula** raise soil N, SOC, and crop productivity versus biochar alone on average—but effects concentrate in **local/research-grade** and **fungal** inocula; **commercial** products are largely weak; greenhouse responses exceed field ([DOI](https://doi.org/10.1002/saj2.20792)). That is the evidence bar for “inoculated fertilizer biochar” claims.
+A 56-study meta-analysis ([[Ross & Emery 2025|Ross & Emery / Tapp Ross]], *SSSAJ* 2025) finds that **microbial inocula** raise soil N, SOC, and crop productivity versus biochar alone on average—but effects concentrate in **local/research-grade** and **fungal** inocula; **commercial** products are largely weak; greenhouse responses exceed field ([DOI](https://doi.org/10.1002/saj2.20792)). That is the evidence bar for “inoculated fertilizer biochar” claims.
 
 ---
 
@@ -84,7 +84,7 @@ Chew et al. (2020) report that a wheat-straw-based activated biochar fertilizer 
 
 Effects on soil fauna are **context-dependent**. A meta-analysis of biochar addition on soil fauna communities provides the quantitative synthesis for abundance/diversity responses across taxa ([DOI](https://doi.org/10.1111/sum.13096)). A focused review on earthworm activity changes under biochar discusses avoidance, casting, and feeding responses as functions of feedstock, rate, and aging ([DOI](https://doi.org/10.1007/s42773-023-00287-x)).
 
-Kammann et al. (2015) note earthworm preference (ISO-17512 avoidance test) favoring biochar-compost over pure compost in their composting program’s quality testing narrative ([DOI](https://doi.org/10.1038/srep11080) and associated production notes). Prefer meta/review DOIs above for general claims; treat single preference tests as case evidence.
+[[Kammann et al. 2015|Kammann et al. (2015)]] note earthworm preference (ISO-17512 avoidance test) favoring biochar-compost over pure compost in their composting program’s quality testing narrative ([DOI](https://doi.org/10.1038/srep11080) and associated production notes). Prefer meta/review DOIs above for general claims; treat single preference tests as case evidence.
 
 **Practice note:** high rates of fresh, dusty, high-pH, or high-PAH char can deter fauna; composted/charged products are the lower-risk entry (link [[Contaminants and Quality]]).
 
@@ -99,7 +99,7 @@ Rhizosphere biology and fertilizer chemistry are one system:
 3. PGPR/AMF on char carriers improve acquisition efficiency (Ross & Emery [DOI](https://doi.org/10.1002/saj2.20792); PeerJ AMF review).
 4. Root exudates interact with priming (Weng field negative priming [DOI](https://doi.org/10.1038/nclimate3276)).
 
-Schmidt et al. low-dose urine/liquid-enriched biochars place biology and nutrients **in planting pits**—a rhizosphere-first design ([DOI](https://doi.org/10.3390/agriculture5030723); [DOI](https://doi.org/10.1002/ldr.2761)).
+Schmidt et al. low-dose urine/liquid-enriched biochars place biology and nutrients **in planting pits**—a rhizosphere-first design ([DOI](https://doi.org/10.3390/agriculture5030723) · [[Schmidt et al. 2015]]; [DOI](https://doi.org/10.1002/ldr.2761) · [[Schmidt et al. 2017]]).
 
 ---
 
@@ -114,7 +114,7 @@ Schmidt et al. low-dose urine/liquid-enriched biochars place biology and nutrien
 | EM / bokashi-style | Fermentation consortia | Example EMBF tobacco physiology gains in Ndoung table (Li et al.) | https://doi.org/10.1016/j.heliyon.2021.e08473 |
 | Single-strain PGP bacteria | e.g. *Burkholderia*, *Bacillus* | Tripti et al. 2017: **10⁷ cfu g⁻¹**, viability to **240 d** on ag-waste biochar | PMC https://pmc.ncbi.nlm.nih.gov/articles/PMC8646155/ |
 | AMF / mycorrhizal inocula | Fungal propagules | Stronger meta effects than bacterial on average | https://doi.org/10.1002/saj2.20792 |
-| Co-composting (COMBI) | Community + coating + nutrients | Often outperforms post-blend | https://doi.org/10.1016/j.jenvman.2020.111443 |
+| Co-composting (COMBI) | Community + coating + nutrients | Often outperforms post-blend | https://doi.org/10.1016/j.jenvman.2020.111443 · [[Antonangelo et al. 2021]] |
 
 USBI recommends roughly **1–3 weeks** moist activation before use ([USBI PDF](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf)).
 
@@ -146,7 +146,7 @@ Priming = change in mineralization rate of native soil organic matter after amen
 |---|---|---|
 | Cross & Sohi 2011 | Priming potential linked to labile C contents of biochar products | https://doi.org/10.1016/j.soilbio.2011.06.016 |
 | Zimmerman et al. 2011 | Positive and negative priming among biochars/soils; time-dependent | https://doi.org/10.1016/j.soilbio.2011.02.005 |
-| Wang et al. 2016 meta | Mean SOC mineralization change ~**−4%** (negative priming on average); short-term positive priming common | https://doi.org/10.1111/gcbb.12266 |
+| [[Wang et al. 2016]] meta | Mean SOC mineralization **−3.8%** (95% CI crosses zero); significant negative priming in studies under six months (**−8.6%**); positive priming in sandy soils (**+20.8%**) | https://doi.org/10.1111/gcbb.12266 |
 | Weng et al. 2017 | Decade-scale negative priming / SOC accrual in field | https://doi.org/10.1038/nclimate3276 |
 
 **Link to fertilizer use:** positive priming + immobilization can coincide in the first weeks after fresh low-T char—plants see less inorganic N even as microbes burn labile C (Bruun [DOI](https://doi.org/10.1016/j.soilbio.2011.11.019); Nguyen [DOI](https://doi.org/10.1016/j.geoderma.2016.11.004)). Longer-term negative priming supports SOC goals ([[GHG Fluxes]]; [[Permanence]]). Charging with compost shifts the early labile-C / nutrient stoichiometry toward plant-available supply (NRCS FAQ framing).
@@ -165,7 +165,7 @@ Reviews of biochar synergies with biocontrol agents / phages discuss combined st
 
 ### 9.2 Dose–response caution (Graber / Jaiswal line)
 
-Jaiswal et al. (2014) show *Rhizoctonia solani* suppression and cucumber growth responses that depend on pyrolysis temperature, feedstock, **and concentration**—including non-monotonic (U-shaped) patterns ([DOI](https://doi.org/10.1016/j.soilbio.2013.10.047)). More biochar is not always more suppression.
+Jaiswal et al. (2014) show *Rhizoctonia solani* suppression and cucumber growth responses that depend on pyrolysis temperature, feedstock, **and concentration**—including non-monotonic (U-shaped) patterns ([DOI](https://doi.org/10.1016/j.soilbio.2013.10.051)). More biochar is not always more suppression.
 
 ### 9.3 Vault position
 
@@ -194,11 +194,11 @@ Hagemann et al. (2017): organic coating forms during co-composting; patchy hotsp
 
 Antonangelo et al. (2021): COMBI often outperforms simple post-compost blending; optimal loading band ~**10–15% w/w** in their synthesis ([DOI](https://doi.org/10.1016/j.jenvman.2020.111443)).
 
-Pacific Biochar practitioner white paper: wood biochar **5–10% by weight** early in composting ([PDF](https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf)).
+Pacific Biochar practitioner white paper: wood biochar **5–10% by weight** early in composting ([PDF](https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf) · [[Pacific Biochar Compost White Paper 2023]]).
 
 ### 10.3 Facility example
 
-Earth Foundries × Napa Recycling: **10%** biochar in green/food compost; VOC **−33%**, process benefits ([PDF](https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf)).
+Earth Foundries × Napa Recycling: **10%** (by volume) biochar in green/food compost; VOC **−33%**, process benefits ([PDF](https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf) · [[Earth Foundries Co-Composting Report 2023]]).
 
 ---
 
@@ -218,12 +218,12 @@ Earth Foundries × Napa Recycling: **10%** biochar in green/food compost; VOC **
 
 | Example | Biology / inoculation angle | URL |
 |---|---|---|
-| Oasis Vineyard, CA | Compost+biochar highest 5-harvest mean (+36%) — biology+nutrients blend | https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf |
-| Earth Foundries × Napa | 10% biochar co-composting microbiology/process | https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf |
+| Oasis Vineyard, CA | Compost+biochar highest 5-harvest mean (+36%) — biology+nutrients blend | https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf · [[Oasis Vineyard Trial 2023]] |
+| Earth Foundries × Napa | 10% (by volume) biochar co-composting microbiology/process | https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf |
 | Schmidt/Pandit Nepal | Liquid enrichment; rhizosphere placement across 13 crops | https://doi.org/10.1002/ldr.2761 |
 | Carbon Gold Enriched Biochar | Marketing: minerals + microbes / mycorrhizae / *Trichoderma* / actinomyces from wormcasts | https://www.carbongold.com/biochar-soil-improver/ |
 | Wakefield CarbonBoost | Marketing: biochar + humic acid + microbes | https://wakefieldbiochar.com/products/wakefield-biochar-with-carbonboost-premium-soil-conditioner/ |
-| Exomad Green | Soil donation / field trials (agronomy + CDR) | https://www.exomadgreen.com/biochar |
+| Exomad Green | Soil donation / field trials (agronomy + CDR); CIAT corn/bean trial includes a microbial arm (T4 vs T3: +7.5% beans, +14.7% corn; yield ANOVA not significant; inoculant unspecified) — [[Exomad Green Corn and Bean Field Study]] | https://www.exomadgreen.com/biochar · https://www.exomadgreen.com/_files/ugd/8b0a69_153ad8a2b8244bfc8a136176be56a408.pdf |
 | SEC / Napa Recycling | Urban wood biochar blended with compost for farms | https://sonomabiocharinitiative.org/sec-and-napa-recycling-pyrolysis-startup/ |
 
 Commercial microbial claims above are **marketing pages**, not meta-analytic proof—read against Ross & Emery ([DOI](https://doi.org/10.1002/saj2.20792)).
@@ -234,22 +234,14 @@ Commercial microbial claims above are **marketing pages**, not meta-analytic pro
 
 | Claim | Number / result | Source |
 |---|---|---|
-| Quilliam pore contribution at 50 t ha⁻¹ | ~6.5% pore space; ~7.4% surface area | https://doi.org/10.1016/j.soilbio.2013.06.004 |
-| Untreated vs co-composted biomass | ~60% vs up to ~305% of control | https://doi.org/10.1038/srep11080 |
-| Inocula meta study count | 56 studies | https://doi.org/10.1002/saj2.20792 |
-| Commercial inocula | Weak (slight P only) | same |
-| Fungal vs bacterial inocula | Fungal stronger | same |
 | Tripti carrier viability | 10⁷ cfu g⁻¹; 240 d | https://pmc.ncbi.nlm.nih.gov/articles/PMC8646155/ |
 | Chew BCF rice biomass | +67%; N +40%; P +46% | https://doi.org/10.1016/j.scitotenv.2019.136431 |
 | PeerJ AMF+BC share with gains | ~78% of n=72; 15–35% class improvements | https://peerj.com/articles/21336/ |
-| Wang priming meta | ~−4% mean SOC mineralization | https://doi.org/10.1111/gcbb.12266 |
 | Steiner NH₃ reduction | up to −64% | https://doi.org/10.2134/jeq2009.0337 |
 | Jindo enzyme activity | +30–40% | https://doi.org/10.1016/j.biortech.2012.01.120 |
 | Sanchez-Monedero compost rates | 3–50% studied; ~10% often optimal | https://doi.org/10.1016/j.biortech.2017.09.193 |
-| Antonangelo COMBI loading | 10–15% w/w optimal band | https://doi.org/10.1016/j.jenvman.2020.111443 |
-| USBI charge time | 1–3 weeks | https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf |
-| Earth Foundries VOC | −33% | https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf |
-| Oasis combo yield | +36% five-harvest mean | https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf |
+
+Figures from [[Quilliam et al. 2013]], [[Kammann et al. 2015]], [[Ross & Emery 2025]], [[Wang et al. 2016]], [[Antonangelo et al. 2021]], [[USBI Ag Guidelines 2023]], [[Earth Foundries Co-Composting Report 2023]] and [[Oasis Vineyard Trial 2023]] are kept in their source notes, with a check status for each number.
 
 ---
 
@@ -299,7 +291,7 @@ Full protocols: [[Biochar Inoculation for Fertilizer]].
 
 ## 18. Deep dive — connecting microbial inocula to BBF chemistry
 
-Ndoung et al. (2021) list post-pyrolysis microbial enrichment alongside mineral enrichment ([DOI](https://doi.org/10.1016/j.heliyon.2021.e08473)). Melo et al. (2022) show BBFs raise productivity at low rates ([DOI](https://doi.org/10.1007/s11104-021-05276-2))—mostly nutrient-matrix studies, not always live inocula. The Ross & Emery meta isolates the **live inoculum increment** atop biochar ([DOI](https://doi.org/10.1002/saj2.20792)). Optimal products likely combine:
+Ndoung et al. (2021) list post-pyrolysis microbial enrichment alongside mineral enrichment ([DOI](https://doi.org/10.1016/j.heliyon.2021.e08473)). [[Melo et al. 2022|Melo et al. (2022)]] show BBFs raise productivity at low rates ([DOI](https://doi.org/10.1007/s11104-021-05276-2))—mostly nutrient-matrix studies, not always live inocula. The Ross & Emery meta isolates the **live inoculum increment** atop biochar ([DOI](https://doi.org/10.1002/saj2.20792)). Optimal products likely combine:
 
 - Mineral/organic nutrient charge (chemistry chapter),
 - Living inoculum or compost community (this chapter),
@@ -333,9 +325,9 @@ Chew et al. (2020) sit at that intersection: activated BCF changed rhizosphere m
 
 ## Primary outbound links
 
+Source notes (checked figures and full citations): [[Quilliam et al. 2013]] · [[Ross & Emery 2025]] · [[Wang et al. 2016]] · [[Kammann et al. 2015]] · [[Antonangelo et al. 2021]] · [[Melo et al. 2022]] · [[Schmidt et al. 2015]] · [[Schmidt et al. 2017]] · [[NRCS CPS 336 FAQ 2026]] · [[NRCS CPS 336 Standard 2022]] · [[USBI Ag Guidelines 2023]] · [[Pacific Biochar Compost White Paper 2023]] · [[Oasis Vineyard Trial 2023]] · [[Earth Foundries Co-Composting Report 2023]]. Other references:
+
 - Lehmann 2011 biota — https://doi.org/10.1016/j.soilbio.2011.04.022
-- Quilliam 2013 — https://doi.org/10.1016/j.soilbio.2013.06.004
-- Ross & Emery / Tapp Ross 2025 inocula meta — https://doi.org/10.1002/saj2.20792
 - Carrier review 2023 — https://doi.org/10.1016/j.scitotenv.2023.163968
 - Diversity/productivity meta — https://doi.org/10.1007/s42773-022-00138-1
 - Disease suppress meta — https://doi.org/10.1007/s42773-022-00164-z
@@ -343,38 +335,26 @@ Chew et al. (2020) sit at that intersection: activated BCF changed rhizosphere m
 - PGPR co-application review — https://doi.org/10.1186/s40538-022-00327-x
 - PeerJ AMF synergies — https://peerj.com/articles/21336/
 - Chew 2020 — https://doi.org/10.1016/j.scitotenv.2019.136431
-- Wang 2016 priming — https://doi.org/10.1111/gcbb.12266
 - Weng 2017 — https://doi.org/10.1038/nclimate3276
 - Cross & Sohi 2011 — https://doi.org/10.1016/j.soilbio.2011.06.016
 - Zimmerman 2011 — https://doi.org/10.1016/j.soilbio.2011.02.005
 - Sanchez-Monedero 2018 — https://doi.org/10.1016/j.biortech.2017.09.193
-- Antonangelo 2021 — https://doi.org/10.1016/j.jenvman.2020.111443
 - Jindo 2012 — https://doi.org/10.1016/j.biortech.2012.01.120
 - Steiner 2010 — https://doi.org/10.2134/jeq2009.0337
-- Kammann 2015 — https://doi.org/10.1038/srep11080
 - Hagemann 2017 Nat Commun — https://doi.org/10.1038/s41467-017-01123-0
 - Joseph 2018 — https://doi.org/10.1016/j.scitotenv.2017.09.200
-- Jaiswal 2014 Rhizoctonia — https://doi.org/10.1016/j.soilbio.2013.10.047
+- Jaiswal 2014 Rhizoctonia — https://doi.org/10.1016/j.soilbio.2013.10.051
 - Charosphere N genes — https://doi.org/10.1016/j.soilbio.2021.108420
 - Charosphere synthesis — https://doi.org/10.1007/s42773-023-00247-5
 - Earthworm fauna meta — https://doi.org/10.1111/sum.13096
 - Earthworm activity review — https://doi.org/10.1007/s42773-023-00287-x
 - Clough 2013 N dynamics — https://doi.org/10.3390/agronomy3020275
 - Ndoung 2021 — https://doi.org/10.1016/j.heliyon.2021.e08473
-- Melo 2022 — https://doi.org/10.1007/s11104-021-05276-2
-- Schmidt 2015 — https://doi.org/10.3390/agriculture5030723
-- Schmidt 2017 — https://doi.org/10.1002/ldr.2761
 - Bruun 2012 — https://doi.org/10.1016/j.soilbio.2011.11.019
 - Nguyen 2017 SIN — https://doi.org/10.1016/j.geoderma.2016.11.004
 - Cayuela 2013 denitrification — https://doi.org/10.1038/srep01732
 - BC–biocontrol review — https://doi.org/10.1016/j.apsoil.2025.106613
 - Ippolito 2020 — https://doi.org/10.1007/s42773-020-00067-x
-- NRCS FAQ — https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf
-- CPS 336 2022 — https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf
-- USBI Ag Guidelines — https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf
-- Pacific white paper — https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf
-- Oasis PDF — https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf
-- Earth Foundries PDF — https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf
 - Carbon Gold — https://www.carbongold.com/biochar-soil-improver/
 - Wakefield CarbonBoost — https://wakefieldbiochar.com/products/wakefield-biochar-with-carbonboost-premium-soil-conditioner/
 - Exomad — https://www.exomadgreen.com/biochar
@@ -400,7 +380,7 @@ Expect weak spontaneous colonization ([Quilliam](https://doi.org/10.1016/j.soilb
 Combined biochar–AMF often shows 15–35% class gains in the PeerJ synthesis, especially under drought/salinity ([PeerJ](https://peerj.com/articles/21336/)). Still verify local strains; fungal inocula beat many bacterial products in the cross-study meta ([DOI](https://doi.org/10.1002/saj2.20792)).
 
 ### Scenario C — Disease-pressure vegetable system
-Use disease metas as supporting evidence ([DOI](https://doi.org/10.1007/s42773-022-00164-z)), but design rates carefully (Jaiswal U-shaped responses [DOI](https://doi.org/10.1016/j.soilbio.2013.10.047)). Pair with compost quality and resistant cultivars.
+Use disease metas as supporting evidence ([DOI](https://doi.org/10.1007/s42773-022-00164-z)), but design rates carefully (Jaiswal U-shaped responses [DOI](https://doi.org/10.1016/j.soilbio.2013.10.051)). Pair with compost quality and resistant cultivars.
 
 ### Scenario D — On-farm composting facility
 Add wood biochar early at ~5–10% (Pacific) or up to ~10–15% (Antonangelo). Track NH₃/VOC/maturity (Steiner; Earth Foundries). Product becomes COMBI fertilizer-biology carrier for farms ([[Biochar Compost and Manure Blends]]).

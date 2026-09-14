@@ -7,7 +7,7 @@ aliases: [CDR potential, IPCC biochar accounting]
 
 ## IPCC inventory method
 
-IPCC *2019 Refinement* Vol. 4 Appendix 4 provides a method for estimating biochar C in mineral cropland/grassland soils ([PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)).
+IPCC *2019 Refinement* Vol. 4 Appendix 4 provides a method for estimating biochar C in mineral cropland/grassland soils ([PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC 2019 Biochar Appendix]]).
 
 **F_perm after 100 years** (conservative ~20 °C basis in appendix notes):
 
@@ -19,17 +19,17 @@ IPCC *2019 Refinement* Vol. 4 Appendix 4 provides a method for estimating biocha
 
 Uncertainty roughly ±11–15%. Guidance / basis for future Tier 1—**not** a credit methodology. See [[Verra VM0044]], [[Puro CORC200+]], etc. for market methods.
 
-Woolf et al. (2021) extends this with H/C_org and soil-temperature predictors. DOI: [10.1021/acs.est.1c02425](https://doi.org/10.1021/acs.est.1c02425).
+[[Woolf et al. 2021|Woolf et al. (2021)]] extends this with H/C_org and soil-temperature predictors. DOI: [10.1021/acs.est.1c02425](https://doi.org/10.1021/acs.est.1c02425).
 
 ## Mitigation / CDR potential estimates
 
 | Source | Estimate |
 |---|---|
-| [Woolf et al. 2010](https://doi.org/10.1038/ncomms1053) | Max **1.8 Pg CO₂-Cₑ yr⁻¹** (≈ **~6.6 Pg CO₂e** if ×44/12); century total **130 Pg CO₂-Cₑ**. Prefer Lehmann 2021 / Weng 2025 for updated framing. |
+| [Woolf et al. 2010](https://doi.org/10.1038/ncomms1053) | Max **1.8 Pg CO₂-Cₑ yr⁻¹** (≈ **~6.6 Pg CO₂e** if ×44/12); century total **130 Pg CO₂-Cₑ**. Prefer [[Lehmann et al. 2021\|Lehmann 2021]] / Weng 2025 for updated framing. |
 | [Lehmann et al. 2021](https://doi.org/10.1038/s41561-021-00852-8) | Emission reductions **3.4–6.3 Pg CO₂e yr⁻¹** (~half CDR); residues-only **2.4–3.9**; with land sparing + CCS up to **~7.4–10.3** |
 | [Weng & Cowie 2025](https://doi.org/10.1038/s43247-025-02228-x) | Literature **0.03–11**; credible multi-Gt scale |
-| [State of CDR 2026 (Fuss et al.)](https://doi.org/10.17605/OSF.IO/FBZ4X) | Sustainable removal **≤~2.7 GtCO₂ yr⁻¹**; total mitigation **≤~10.3**; IAM 2050 **<0.1–1.1** |
-| Costs ([Fuss et al. 2026](https://doi.org/10.17605/OSF.IO/FBZ4X)) | Often **~$70–360/tCO₂** (recent); broader historical **~$10–345** |
+| [State of CDR 2026 (Fuss & Lunstrum)](https://doi.org/10.17605/OSF.IO/FBZ4X) · [[Fuss & Lunstrum 2026]] | Sustainable removal **≤~2.7 GtCO₂ yr⁻¹**; total mitigation **≤~10.3**; IAM 2050 **<0.1–1.1** |
+| Costs ([Fuss & Lunstrum 2026](https://doi.org/10.17605/OSF.IO/FBZ4X)) | Often **~$70–360/tCO₂** (recent); broader historical **~$10–345** |
 
 ## LCA / system boundaries
 
@@ -46,7 +46,7 @@ MRV can focus on mass produced × C fraction × permanence factor at the kiln/ga
 - Lehmann et al. (2021). DOI: [10.1038/s41561-021-00852-8](https://doi.org/10.1038/s41561-021-00852-8)
 - Woolf et al. (2010). DOI: [10.1038/ncomms1053](https://doi.org/10.1038/ncomms1053)
 - Weng & Cowie (2025). DOI: [10.1038/s43247-025-02228-x](https://doi.org/10.1038/s43247-025-02228-x)
-- Fuss et al. (2026). DOI: [10.17605/OSF.IO/FBZ4X](https://doi.org/10.17605/OSF.IO/FBZ4X)
+- Fuss & Lunstrum (2026). DOI: [10.17605/OSF.IO/FBZ4X](https://doi.org/10.17605/OSF.IO/FBZ4X)
 
 ## Related notes
 

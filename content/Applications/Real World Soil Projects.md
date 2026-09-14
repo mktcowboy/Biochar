@@ -17,7 +17,7 @@ Report date: **2026-09-14**.
 - **Registry:** Puro facility page states CORC **100+** durability; biochar from sawmill hardwood residues pyrolyzed ~**600 °C**; biochar **donated to local Indigenous communities** for agricultural soil enhancement ([Puro — Exomad Green, Concepción](https://puro.earth/cdr-credit-suppliers/facilities/exomad-green-concepcion/)).
 - **Issuance (facility table on Puro page):** 2023 **21,252**; 2024 **58,344**; 2025 **102,458**; 2026 **91,457** CORCs (as published on page at fetch time).
 - **Ag guidance:** mix with inoculant; site-specific rates; planting-row / volume-% examples ([Exomad biochar](https://www.exomadgreen.com/biochar)).
-- **Field study (trade press, 2025-07-04):** Santa Cruz trials — corn **+15%** (up to **+32%** with fertilizer + microbes); beans **+13%** (up to **+25%**) ([Bioenergy International](https://bioenergyinternational.com/biochar-field-study-reveals-significant-crop-yield-improvements-in-bolivia/)).
+- **Field study (company report with CIAT; press 2025-07-04):** Santa Cruz trials, 4 t ha⁻¹ once — corn **+15%** (up to **+32%** with fertilizer + microbes); beans **+13%** (up to **+25%**) ([PDF](https://www.exomadgreen.com/_files/ugd/8b0a69_153ad8a2b8244bfc8a136176be56a408.pdf); [Bioenergy International](https://bioenergyinternational.com/biochar-field-study-reveals-significant-crop-yield-improvements-in-bolivia/)). Yield ANOVA not significant and no fertilizer-only control — see [[Exomad Green Corn and Bean Field Study]].
 - **MRV partner case study:** [Carbonfuture — Exomad](https://www.carbonfuture.earth/case-studies/exomad-green).
 
 **Verification note:** Soil end-use is explicit on Puro and company pages (donation / farm application)—not a non-soil-only sink.
@@ -42,7 +42,7 @@ Report date: **2026-09-14**.
 - Partners: Sonoma Ecology Center, **UC Riverside**, Monterey Pacific Inc., **Pacific Biochar**; funded via California Department of Water Resources.
 - Pre-plant (2016–2017): biochar **10 t/ac**, compost **15 t/ac**, combo, vs control on sandy low-OM soils; incorporation ~30" in vine row.
 - **Five harvests:** combo **+36%**, biochar **+25%**, compost **+29%** average yield vs control; positive ROI by second harvest; incremental revenue by fifth harvest **$9,752 / $12,569 / $14,937** per acre (biochar / compost / combo) at ~$1,500/ton grapes; amendment costs (2016 delivered) biochar **$240/ton**, compost **$40/ton** wet.
-- Primary source PDF: https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf
+- Primary source PDF: https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf · [[Oasis Vineyard Trial 2023]]
 
 ### Dominus Estate — Napa Valley, California
 
@@ -56,7 +56,7 @@ Report date: **2026-09-14**.
 
 ### Earth Foundries × Napa Recycling — composting with biochar
 
-- 2023 project report: **10% biochar** addition to green/food-waste composting reduced **VOCs 33%**, accelerated curing, affected finished compost nutrient/salinity metrics ([PDF](https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf)).
+- 2023 project report: **10% (by volume) biochar** addition to green/food-waste composting reduced **VOCs 33%**, accelerated curing, affected finished compost nutrient/salinity metrics ([PDF](https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf) · [[Earth Foundries Co-Composting Report 2023]]).
 
 ### Wakefield BioChar — NRCS CPS 336 channel & paper-mill partnership
 
@@ -65,7 +65,7 @@ Report date: **2026-09-14**.
 
 ## US programs / demos (practice standard)
 
-- **NRCS CPS 336** national standard & FAQ (rates, scenarios, biosolids exclusion): https://www.nrcs.usda.gov/resources/guides-and-instructions/soil-carbon-amendment-ac-336-conservation-practice-standard · https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf
+- **NRCS CPS 336** national standard & FAQ (rates, scenarios, biosolids exclusion): https://www.nrcs.usda.gov/resources/guides-and-instructions/soil-carbon-amendment-ac-336-conservation-practice-standard · https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf · [[NRCS CPS 336 FAQ 2026]]
 - Producer funding explainer (American Farmland Trust / Farmland Info hosting USBI-style guide): https://farmlandinfo.org/wp-content/uploads/sites/2/2023/12/biochar_funding_for_US_producers_quick_guide_.pdf
 - USBI: https://biochar-us.org/
 - Note: publicly cited **acreage totals** for national EQIP 336 adoption are sparse in primary USDA statistical releases as of this research pass—treat state office reports as the authority when citing acres.
@@ -74,9 +74,9 @@ Report date: **2026-09-14**.
 
 | Location | What | URL |
 |---|---|---|
-| **Nepal** | Urine-enhanced / liquid-enriched biochar fertilizers; pumpkin trial + 21 multi-crop trials | https://doi.org/10.3390/agriculture5030723 · https://doi.org/10.1002/ldr.2761 |
+| **Nepal** | Urine-enhanced / liquid-enriched biochar fertilizers; pumpkin trial + 21 multi-crop trials | https://doi.org/10.3390/agriculture5030723 · [[Schmidt et al. 2015]] · https://doi.org/10.1002/ldr.2761 · [[Schmidt et al. 2017]] |
 | **Brazil (Seropédica)** | Biochar on degraded pastures; environmental + CBA | https://doi.org/10.1038/s41598-019-47647-x |
-| **Bolivia (Exomad)** | Industrial production + farm soil use + yield trials | links above |
+| **Bolivia (Exomad)** | Industrial production + farm soil use + yield trials | links above · [[Exomad Green Corn and Bean Field Study]] |
 | **India (Odisha, Verra 4679)** | Farm-waste biochar returned to farms | https://verra.org/verra-registers-first-biochar-project/ |
 
 Australian mine-spoil and pasture trials exist in the peer-reviewed literature (e.g., acacia–biochar mine rehab [DOI](https://doi.org/10.1007/s11356-014-3451-1)); treat as research deployments unless a named commercial operator page is added later.

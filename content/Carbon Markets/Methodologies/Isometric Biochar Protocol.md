@@ -29,8 +29,8 @@ Ex-post **net CO₂e removal** = stored − counterfactual − lifecycle emissio
 
 | Option | Basis |
 |---|---|
-| **200-year** | Conservative [Woolf et al. (2021)](https://doi.org/10.1021/acs.est.1c02425)–based decay using H/C_org + mean annual soil T (coefficients a=-0.383, b=0.350, c=-0.048; F_durable capped at 0.95; soil T floor 7 °C) |
-| **1000-year** | Random reflectance with inertinite benchmark **R₀ ≥ 2%**, applied to non-reactive C fraction, credited at mean − 1 SD ([Sanei et al. 2024](https://doi.org/10.1016/j.coal.2023.104409) framework) |
+| **200-year** | Conservative [[Woolf et al. 2021\|Woolf et al. (2021)]] ([DOI](https://doi.org/10.1021/acs.est.1c02425))–based decay using H/C_org + mean annual soil T (coefficients a=-0.383, b=0.350, c=-0.048; F_durable capped at 0.95; soil T floor 7 °C) |
+| **1000-year** | Random reflectance with inertinite benchmark **R₀ ≥ 2%**, applied to non-reactive C fraction, credited at mean − 1 SD ([[Sanei et al. 2024]] · [DOI](https://doi.org/10.1016/j.coal.2023.104409) framework) |
 
 ## Additionality & buffer
 

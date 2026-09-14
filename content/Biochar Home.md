@@ -18,7 +18,7 @@ Research vault for biochar science, production, applications, carbon markets, po
 | Carbon markets | [[Carbon Markets Hub]] | Methodologies, MRV, market volumes, buyers, risks |
 | Policy & programs | [[Policy Hub]] | NRCS CPS 336, EBC/IBI product standards |
 | Industry | [[Industry Hub]] | Producers, offtakers, project landscape (links out) |
-| Sources | [[Key Sources]] | DOIs, registry URLs, primary references |
+| Sources | [[Key Sources]] | Source notes with checked figures (Bases index), bibliography, registry URLs |
 
 ## Science
 
@@ -52,6 +52,7 @@ Research vault for biochar science, production, applications, carbon markets, po
 | N₂O / CH₄ / priming (ag) | [[GHG Fluxes]] |
 | Rates & methods / NRCS scenarios | [[Application Rates and Methods]] |
 | Real-world soil projects | [[Real World Soil Projects]] |
+| Field study — Exomad/CIAT corn & beans (Bolivia) | [[Exomad Green Corn and Bean Field Study]] |
 | **Inoculation / charging / BBFs** | [[Biochar Inoculation for Fertilizer]] |
 | **Nutrients & fertilizer chemistry** | [[Biochar Nutrients and Fertilizer Chemistry]] |
 | **Microbes & soil biology** | [[Biochar Microbes and Soil Biology]] |
@@ -102,13 +103,13 @@ Research vault for biochar science, production, applications, carbon markets, po
 | European Biochar Certificate | https://www.european-biochar.org/ |
 | IBI Biochar Standards | https://biochar-international.org/ |
 | ICVCM | https://www.icvcm.org/ |
-| IPCC 2019 biochar appendix (PDF) | https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf |
+| IPCC 2019 biochar appendix (PDF) | https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf · [[IPCC 2019 Biochar Appendix]] |
 
 Prefer these live pages for markets, registries, and standards; keep claim-level citations inside topic notes (see [[Key Sources]]).
 
 ## How to use this vault
 
-- Prefer [[Quantitative Benchmarks]] as the single source of truth for cited numbers.
+- For numbers from heavily cited papers and reports, the **source note** is the checked home (index in [[Key Sources]]); [[Quantitative Benchmarks]] is a cross-source cheat sheet. Add new source notes with `content/templates/Source Note.md`.
 - For Puro, prefer the **deep cluster** under [[Carbon Markets Hub]] — chapters, not stubs.
 - Cross-link permanence science ([[Permanence]], [[Permanence Science for Credits]]) when reading any methodology note.
 - New folders use **hub MOCs** for empty domains; expand with sources before inventing facts.

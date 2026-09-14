@@ -1,0 +1,52 @@
+filters:
+  and:
+    - file.hasTag("source")
+    - not:
+        - file.inFolder("templates")
+        - file.inFolder("content/templates")
+properties:
+  note.source_type:
+    displayName: Type
+  note.peer_reviewed:
+    displayName: Peer reviewed
+  note.year:
+    displayName: Year
+  note.venue:
+    displayName: Venue
+  note.checked_against:
+    displayName: Checked against
+  note.verified:
+    displayName: Checked on
+  note.doi:
+    displayName: DOI
+views:
+  - type: table
+    name: All sources
+    order:
+      - file.name
+      - note.year
+      - note.source_type
+      - note.peer_reviewed
+      - note.checked_against
+      - note.venue
+      - note.doi
+  - type: table
+    name: By type
+    groupBy:
+      property: note.source_type
+      direction: ASC
+    order:
+      - file.name
+      - note.year
+      - note.checked_against
+      - note.venue
+  - type: table
+    name: Not checked against full text
+    filters:
+      and:
+        - 'checked_against != "full text"'
+    order:
+      - file.name
+      - note.checked_against
+      - note.year
+      - note.source_type

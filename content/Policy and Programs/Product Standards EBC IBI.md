@@ -35,7 +35,7 @@ Brief hub on **product quality standards** for biochar (European Biochar Certifi
 
 - [European Biochar Certificate](https://www.european-biochar.org/)
 - [IBI Biochar Standards](https://biochar-international.org/)
-- [Bilias et al. 2024 IUPAC glossary](https://doi.org/10.1515/pac-2021-0106)
+- [Bilias et al. 2024 IUPAC glossary](https://doi.org/10.1515/pac-2021-0106) · [[Bilias et al. 2024]]
 - [CSI Global Biochar C-Sink 3.3](https://www.carbon-standards.com/docs/transfer/4000039EN.pdf) (requires EBC/WBC-certified biochar)
 
 ## Related notes

@@ -1,12 +1,40 @@
 ---
-tags: [sources, bibliography]
-aliases: [Bibliography, Sources, References]
+tags: [sources, bibliography, hub]
+aliases: [Bibliography, Sources, References, Source index]
 updated: 2026-09-14
 ---
 
 # Key Sources
 
-Primary and high-signal references used in this vault. Do not invent papers, DOIs, volumes, or prices beyond this list and the linked notes.
+Primary and high-signal references used in this vault. Don't invent papers, DOIs, volumes, or prices beyond this list and the linked notes. **Rule:** every data claim in a note carries an outbound `https://…` or `https://doi.org/…` link, not only a `[[wikilink]]`.
+
+## Source notes
+
+The most-cited papers and reports each have their own note in `Sources/`. Each note holds the figures the vault uses from that source, where in the source each figure appears, and whether it was checked against the full text or only the abstract. Topic notes link to these notes instead of restating the numbers, and each source note's backlinks (Obsidian's backlinks pane, or the Backlinks section on the published site) list the notes that rely on it.
+
+![[Source Index.base]]
+
+- **In Obsidian**, the embed above is a live table with three views: *All sources*, *By type*, and *Not checked against full text*. On the published site, open the Sources folder page instead (Quartz ignores `.base` files).
+- **Adding a source note:** create it from `content/templates/Source Note.md` (point Obsidian's Templates setting at `content/templates`), fill in the properties, and link to it from the topic notes that cite it.
+- **Company reports with their own note:** [[Exomad Green Corn and Bean Field Study]] · [[Oasis Vineyard Trial 2023]] · [[Earth Foundries Co-Composting Report 2023]] · [[Pacific Biochar Compost White Paper 2023]]
+
+### Corrections made while building the source notes (2026-09-14)
+
+| Cited as | Problem | Fix |
+|---|---|---|
+| Ye et al. 2020 | DOI 10.1111/sum.12555 is a different paper | https://doi.org/10.1111/sum.12546 · [[Ye et al. 2020]] |
+| Archanjo et al. 2017 | DOI ending 01.038 didn't resolve | https://doi.org/10.1016/j.geoderma.2017.01.037 |
+| Ndoung et al. 2021 | One link used e08501, an unrelated medical paper | https://doi.org/10.1016/j.heliyon.2021.e08473 |
+| Jaiswal et al. 2014 | DOI ending 10.047 is an unrelated priming paper | https://doi.org/10.1016/j.soilbio.2013.10.051 |
+| Vandecasteele et al. 2016 | DOI ending 11.059 is a paper on VOCs in surface coatings | https://doi.org/10.1016/j.jenvman.2015.11.045 |
+| "Gale 2021" post-processing meta-analysis | Crossref lists the author as Thomas | Thomas (2021) — https://doi.org/10.1007/s42773-021-00115-0 |
+| "Marschner et al. 2022" N-uptake review | Crossref lists the authors as Rasse et al. | Rasse et al. (2022) — https://doi.org/10.1007/s11104-022-05365-w |
+| "Fuss et al. 2026" | The chapter has two authors | [[Fuss & Lunstrum 2026]] |
+| Wang et al. 2016 | Cited for "short-term positive priming"; the paper found negative priming in short studies | [[Wang et al. 2016]] |
+| Jia et al. 2023 | Called "field-focused"; it pools lab, pot and field studies | [[Jia et al. 2023]] |
+| Kammann et al. 2015 | "+305%" and "3–5 g NO₃⁻-N kg⁻¹" | Up to 305% *of* the control; ~2.1–5.2 g kg⁻¹ depending on method — [[Kammann et al. 2015]] |
+| Earth Foundries report | "10% biochar" | 10% by volume — [[Earth Foundries Co-Composting Report 2023]] |
+| Quilliam et al. 2013 clover caveat | Comes from a different Quilliam paper | https://doi.org/10.1007/s11104-012-1411-4 |
 
 ## Live link directory (bookmark)
 
@@ -25,48 +53,118 @@ Primary and high-signal references used in this vault. Do not invent papers, DOI
 | Integrity | ICVCM home | https://www.icvcm.org/ |
 | Integrity | ICVCM Puro CCP-Eligible | https://www.icvcm.org/integrity-council-confirms-carbon-crediting-program-puro-earth-as-ccp-eligible/ |
 | Integrity | ICVCM VM0044 CCP decision PDF | https://icvcm.org/wp-content/uploads/2025/08/M43_VCS_VM0044_v1.2_2025.pdf |
-| Science | IPCC 2019 biochar appendix PDF | https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf |
-| Product std | EBC | https://www.european-biochar.org/ |
-| Product std | IBI | https://biochar-international.org/ |
-| Policy | NRCS CPS 336 FAQ | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf |
+| Science | IPCC 2019 biochar appendix PDF | https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf · [[IPCC 2019 Biochar Appendix]] |
+| Product standard | EBC | https://www.european-biochar.org/ |
+| Product standard | IBI | https://biochar-international.org/ |
+| Policy | NRCS CPS 336 FAQ (April 2026) | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf · [[NRCS CPS 336 FAQ 2026]] |
+| Policy | NRCS CPS 336 standard (November 2022) | https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf · [[NRCS CPS 336 Standard 2022]] |
 | Policy | EU CRCF Delegated Reg. 2026/285 | https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32026R0285 |
 
-**Rule:** Prefer these live pages for markets, pricing, registries, and standards. Every vault data claim should carry an outbound `https://…` or `https://doi.org/…` in the note body—not only `[[wikilinks]]`.
+Prefer these live pages for markets, pricing, registries, and standards.
 
+## Literature without a source note
 
+Each entry appears once. Author names, years, and journals match Crossref as of 2026-09-14. Papers and reports that have a source note are in the index above, not here.
 
-## Science — foundational
+### Science: foundations, permanence, CDR potential
 
-- Glaser et al. (2001). *Naturwissenschaften*. [10.1007/s001140000193](https://doi.org/10.1007/s001140000193)
-- Lehmann, Gaunt & Rondon (2006). *Mitig. Adapt. Strateg. Glob. Change*. [10.1007/s11027-005-9006-5](https://doi.org/10.1007/s11027-005-9006-5)
-- Lehmann (2007). *Nature*. [10.1038/447143a](https://doi.org/10.1038/447143a)
-- Woolf et al. (2010). *Nat. Commun.* [10.1038/ncomms1053](https://doi.org/10.1038/ncomms1053)
-- Keiluweit et al. (2010). *Environ. Sci. Technol.* [10.1021/es9031419](https://doi.org/10.1021/es9031419)
-- Spokas (2010). *Carbon Management*. [10.4155/cmt.10.32](https://doi.org/10.4155/cmt.10.32)
-- Zimmerman (2010). *Environ. Sci. Technol.* [10.1021/es903140c](https://doi.org/10.1021/es903140c)
-- Major et al. (2010). *Glob. Change Biol.* [10.1111/j.1365-2486.2009.02044.x](https://doi.org/10.1111/j.1365-2486.2009.02044.x)
-- Jeffery et al. (2011). *Agric. Ecosyst. Environ.* [10.1016/j.agee.2011.08.015](https://doi.org/10.1016/j.agee.2011.08.015)
-- Cayuela et al. (2014). *Agric. Ecosyst. Environ.* [10.1016/j.agee.2013.10.009](https://doi.org/10.1016/j.agee.2013.10.009)
-- Wang et al. (2016). *GCB Bioenergy*. [10.1111/gcbb.12266](https://doi.org/10.1111/gcbb.12266)
+- Glaser et al. (2001). Terra preta as a model for tropical agriculture. *Naturwissenschaften*. [10.1007/s001140000193](https://doi.org/10.1007/s001140000193)
+- Lehmann, Gaunt & Rondon (2006). Bio-char sequestration in terrestrial ecosystems. *Mitig. Adapt. Strateg. Glob. Change*. [10.1007/s11027-005-9006-5](https://doi.org/10.1007/s11027-005-9006-5)
+- Lehmann (2007). A handful of carbon. *Nature*. [10.1038/447143a](https://doi.org/10.1038/447143a)
+- Gaunt & Lehmann (2008). Energy balance and emissions of biochar vs bioenergy. *Environ. Sci. Technol.* [10.1021/es071361i](https://doi.org/10.1021/es071361i)
+- Cheng et al. (2008). Natural oxidation of black carbon in soils. *Geochim. Cosmochim. Acta*. [10.1016/j.gca.2008.01.010](https://doi.org/10.1016/j.gca.2008.01.010)
+- Roberts et al. (2010). Life cycle assessment of biochar systems. *Environ. Sci. Technol.* [10.1021/es902266r](https://doi.org/10.1021/es902266r)
+- Woolf et al. (2010). Sustainable biochar to mitigate global climate change. *Nat. Commun.* [10.1038/ncomms1053](https://doi.org/10.1038/ncomms1053)
+- Keiluweit et al. (2010). Dynamic molecular structure of biochar. *Environ. Sci. Technol.* [10.1021/es9031419](https://doi.org/10.1021/es9031419)
+- Spokas (2010). Biochar stability and O:C molar ratios. *Carbon Management*. [10.4155/cmt.10.32](https://doi.org/10.4155/cmt.10.32)
+- Zimmerman (2010). Abiotic and microbial oxidation of biochar. *Environ. Sci. Technol.* [10.1021/es903140c](https://doi.org/10.1021/es903140c)
+- Major et al. (2010). Fate of soil-applied black carbon. *Glob. Change Biol.* [10.1111/j.1365-2486.2009.02044.x](https://doi.org/10.1111/j.1365-2486.2009.02044.x)
+- Zimmerman et al. (2011). Positive and negative priming among biochar-amended soils. *Soil Biol. Biochem.* [10.1016/j.soilbio.2011.02.005](https://doi.org/10.1016/j.soilbio.2011.02.005)
+- Cross & Sohi (2011). Priming potential of biochar and labile carbon. *Soil Biol. Biochem.* [10.1016/j.soilbio.2011.06.016](https://doi.org/10.1016/j.soilbio.2011.06.016)
+- Weng et al. (2017). Biochar built soil carbon over a decade by stabilizing rhizodeposits. *Nat. Clim. Change*. [10.1038/nclimate3276](https://doi.org/10.1038/nclimate3276)
+- Azzi et al. (2024). Modelling long-term biochar carbon storage from harmonized decomposition data. *Geoderma*. [10.1016/j.geoderma.2023.116761](https://doi.org/10.1016/j.geoderma.2023.116761)
+- Weng & Cowie (2025). Gigaton-scale mitigation potential of biochar. *Commun. Earth Environ.* [10.1038/s43247-025-02228-x](https://doi.org/10.1038/s43247-025-02228-x)
+- Schmidt et al. (2025). Biochar permanence — a policy commentary. *GCB Bioenergy*. [10.1111/gcbb.70092](https://doi.org/10.1111/gcbb.70092)
 
-## Science — recent (2021–2026)
+### Soil, yields, water and economics
 
-- Lehmann et al. (2021). *Nat. Geosci.* [10.1038/s41561-021-00852-8](https://doi.org/10.1038/s41561-021-00852-8)
-- Woolf et al. (2021). *Environ. Sci. Technol.* [10.1021/acs.est.1c02425](https://doi.org/10.1021/acs.est.1c02425)
-- IPCC (2019). Biochar appendix. [PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)
-- Jia et al. (2023). *Land Degrad. Dev.* [10.1002/ldr.4868](https://doi.org/10.1002/ldr.4868)
-- Bilias et al. (2024). *Pure Appl. Chem.* [10.1515/pac-2021-0106](https://doi.org/10.1515/pac-2021-0106)
-- Weng & Cowie (2025). *Commun. Earth Environ.* [10.1038/s43247-025-02228-x](https://doi.org/10.1038/s43247-025-02228-x)
-- Schmidt et al. (2025). *GCB Bioenergy*. [10.1111/gcbb.70092](https://doi.org/10.1111/gcbb.70092)
-- Fuss et al. (2026). State of CDR Ch. 10. [10.17605/OSF.IO/FBZ4X](https://doi.org/10.17605/OSF.IO/FBZ4X)
-- Weng et al. (2017). *Nat. Clim. Change*. [10.1038/nclimate3276](https://doi.org/10.1038/nclimate3276)
-- Sanei et al. (2024). Inertinite benchmark. [10.1016/j.coal.2023.104409](https://doi.org/10.1016/j.coal.2023.104409)
-- Azzi et al. (2024). Biochar permanence / geoderma. [10.1016/j.geoderma.2023.116761](https://doi.org/10.1016/j.geoderma.2023.116761)
+- Galinato et al. (2011). Economic value of biochar in crop production and carbon sequestration. *Energy Policy*. [10.1016/j.enpol.2011.07.035](https://doi.org/10.1016/j.enpol.2011.07.035)
+- Biederman & Harpole (2013). Biochar, plant productivity and nutrient cycling meta-analysis. *GCB Bioenergy*. [10.1111/gcbb.12037](https://doi.org/10.1111/gcbb.12037)
+- Reverchon et al. (2015). Acacia–biochar system for mine-site rehabilitation. *Environ. Sci. Pollut. Res.* [10.1007/s11356-014-3451-1](https://doi.org/10.1007/s11356-014-3451-1)
+- Omondi et al. (2016). Biochar and soil hydrological properties meta-analysis. *Geoderma*. [10.1016/j.geoderma.2016.03.029](https://doi.org/10.1016/j.geoderma.2016.03.029)
+- Blanco-Canqui (2017). Biochar and soil physical properties. *Soil Sci. Soc. Am. J.* [10.2136/sssaj2017.01.0017](https://doi.org/10.2136/sssaj2017.01.0017)
+- Latawiec et al. (2019). Biochar on degraded pastures in Brazil. *Sci. Rep.* [10.1038/s41598-019-47647-x](https://doi.org/10.1038/s41598-019-47647-x)
+- Razzaghi et al. (2020). Does biochar improve soil water retention? *Geoderma*. [10.1016/j.geoderma.2019.114055](https://doi.org/10.1016/j.geoderma.2019.114055)
+- Wei et al. (2023). Soil texture and biochar-driven water retention. *Geoderma*. [10.1016/j.geoderma.2023.116591](https://doi.org/10.1016/j.geoderma.2023.116591)
 
-## Product standards
+### GHG fluxes
 
-- European Biochar Certificate (EBC) — [european-biochar.org](https://www.european-biochar.org/)
-- IBI Biochar Standards — [biochar-international.org](https://biochar-international.org/)
+- Cayuela et al. (2013). Biochar and denitrification in soils. *Sci. Rep.* [10.1038/srep01732](https://doi.org/10.1038/srep01732)
+- Cayuela et al. (2015). Molar H:C_org ratio as a key factor in N₂O mitigation. *Agric. Ecosyst. Environ.* [10.1016/j.agee.2014.12.015](https://doi.org/10.1016/j.agee.2014.12.015)
+
+### Nutrients and biochar-based fertilizers
+
+- Silber et al. (2010). pH-dependent mineral release from biochar. *Environ. Sci. Technol.* [10.1021/es101283d](https://doi.org/10.1021/es101283d)
+- Taghizadeh-Toosi et al. (2012). Biochar-adsorbed ammonia is bioavailable. *Plant Soil*. [10.1007/s11104-011-0870-3](https://doi.org/10.1007/s11104-011-0870-3)
+- Taghizadeh-Toosi et al. (2012). Low-temperature wood biochar captures NH₃-N from ruminant urine. *Plant Soil*. [10.1007/s11104-011-1010-9](https://doi.org/10.1007/s11104-011-1010-9)
+- Bruun et al. (2012). Slow vs fast pyrolysis biochar and soil C/N turnover. *Soil Biol. Biochem.* [10.1016/j.soilbio.2011.11.019](https://doi.org/10.1016/j.soilbio.2011.11.019)
+- Clough et al. (2013). Biochar and soil nitrogen dynamics review. *Agronomy*. [10.3390/agronomy3020275](https://doi.org/10.3390/agronomy3020275)
+- Nguyen et al. (2017). Biochar and soil inorganic N meta-analysis. *Geoderma*. [10.1016/j.geoderma.2016.11.004](https://doi.org/10.1016/j.geoderma.2016.11.004)
+- Zheng et al. (2017). Biochar compound fertilizer in maize. *Agric. Ecosyst. Environ.* [10.1016/j.agee.2017.02.034](https://doi.org/10.1016/j.agee.2017.02.034)
+- Hagemann et al. (2017). Organic coating explains biochar nutrient retention. *Nat. Commun.* [10.1038/s41467-017-01123-0](https://doi.org/10.1038/s41467-017-01123-0)
+- Hagemann et al. (2017). Nitrate capture and slow release in biochar-amended compost and soil. *PLOS ONE*. [10.1371/journal.pone.0171214](https://doi.org/10.1371/journal.pone.0171214)
+- Archanjo et al. (2017). Nanoscale analyses of field-aged and co-composted biochar surfaces. *Geoderma*. [10.1016/j.geoderma.2017.01.037](https://doi.org/10.1016/j.geoderma.2017.01.037)
+- Joseph et al. (2018). Microstructural and chemical changes when composting high-temperature biochar. *Sci. Total Environ.* [10.1016/j.scitotenv.2017.09.200](https://doi.org/10.1016/j.scitotenv.2017.09.200)
+- Hestrin et al. (2019). Fire-derived organic matter retains ammonia through covalent bonds. *Nat. Commun.* [10.1038/s41467-019-08401-z](https://doi.org/10.1038/s41467-019-08401-z)
+- Ippolito et al. (2020). Feedstock and pyrolysis temperature effects on biochar characteristics. *Biochar*. [10.1007/s42773-020-00067-x](https://doi.org/10.1007/s42773-020-00067-x)
+- Jindo et al. (2020). Biochar in soil N, P and K cycles (circular economy review, part 1). *Chem. Biol. Technol. Agric.* [10.1186/s40538-020-00182-8](https://doi.org/10.1186/s40538-020-00182-8)
+- Shi et al. (2020). Biochar-bound urea boosts growth and cuts N leaching. *Sci. Total Environ.* [10.1016/j.scitotenv.2019.134424](https://doi.org/10.1016/j.scitotenv.2019.134424)
+- Puga et al. (2020). Biochar-based N fertilizers: emissions, use efficiency and maize yield. *Sci. Total Environ.* [10.1016/j.scitotenv.2019.135375](https://doi.org/10.1016/j.scitotenv.2019.135375)
+- Lustosa Filho et al. (2020). Aging of biochar-based fertilizers and P pools. *Sci. Total Environ.* [10.1016/j.scitotenv.2019.136028](https://doi.org/10.1016/j.scitotenv.2019.136028)
+- Chew et al. (2020). Biochar-based fertilizer and rice root membrane potential. *Sci. Total Environ.* [10.1016/j.scitotenv.2019.136431](https://doi.org/10.1016/j.scitotenv.2019.136431)
+- Carneiro et al. (2021). Long-term biochar-based fertilizer use in tropical soil. *Sci. Total Environ.* [10.1016/j.scitotenv.2020.143955](https://doi.org/10.1016/j.scitotenv.2020.143955)
+- Luo et al. (2021). Mg-enriched biochar fertilizer and slow release. *Sci. Total Environ.* [10.1016/j.scitotenv.2020.144454](https://doi.org/10.1016/j.scitotenv.2020.144454)
+- Jia et al. (2021). Biochar-coated urea and N use efficiency. *Chem. Biol. Technol. Agric.* [10.1186/s40538-020-00205-4](https://doi.org/10.1186/s40538-020-00205-4)
+- Ghodszad et al. (2021). Biochar and the fate of phosphorus review. *Chemosphere*. [10.1016/j.chemosphere.2021.131176](https://doi.org/10.1016/j.chemosphere.2021.131176)
+- Ndoung et al. (2021). Biochar-based fertilizer enrichment scoping review. *Heliyon*. [10.1016/j.heliyon.2021.e08473](https://doi.org/10.1016/j.heliyon.2021.e08473) · [PMC8646155](https://pmc.ncbi.nlm.nih.gov/articles/PMC8646155/)
+- Thomas (2021). Post-processing biochar to improve plant growth: review and meta-analysis. *Biochar*. [10.1007/s42773-021-00115-0](https://doi.org/10.1007/s42773-021-00115-0)
+- Gao et al. (2022). Biochar-based nitrogen fertilizers critical review. *Biochar*. [10.1007/s42773-022-00160-3](https://doi.org/10.1007/s42773-022-00160-3)
+- Rasse et al. (2022). Biochar-based fertilizers and plant N uptake: sorption limits. *Plant Soil*. [10.1007/s11104-022-05365-w](https://doi.org/10.1007/s11104-022-05365-w)
+- Luo et al. (2025). Biochar-based fertilizers: advancements and future directions. *Agronomy*. [10.3390/agronomy15051104](https://doi.org/10.3390/agronomy15051104)
+- Kohira et al. (2026). Biochar–nitrogen interactions under inorganic vs organic fertilization. *Sci. Total Environ.* [10.1016/j.scitotenv.2026.181941](https://doi.org/10.1016/j.scitotenv.2026.181941)
+
+### Composting
+
+- Steiner et al. (2010). Biochar reduces N loss in poultry litter composting. *J. Environ. Qual.* [10.2134/jeq2009.0337](https://doi.org/10.2134/jeq2009.0337)
+- Jindo et al. (2012). Biochar-blended composts from poultry manure. *Bioresour. Technol.* [10.1016/j.biortech.2012.01.120](https://doi.org/10.1016/j.biortech.2012.01.120)
+- Vandecasteele et al. (2016). Biochar added before vs after composting. *J. Environ. Manage.* [10.1016/j.jenvman.2015.11.045](https://doi.org/10.1016/j.jenvman.2015.11.045)
+- Li et al. (2016). N₂O from biochar-amended composting and denitrifier genes. *AMB Express*. [10.1186/s13568-016-0208-x](https://doi.org/10.1186/s13568-016-0208-x)
+- Sanchez-Monedero et al. (2018). Biochar as an additive in organic waste composting. *Bioresour. Technol.* [10.1016/j.biortech.2017.09.193](https://doi.org/10.1016/j.biortech.2017.09.193)
+- Sánchez-Monedero et al. (2019). Biochar, compost and biochar-blended compost across cropping systems. *Agronomy*. [10.3390/agronomy9050225](https://doi.org/10.3390/agronomy9050225)
+- Yin et al. (2021). Biochar and GHG emissions during composting review. *Sci. Total Environ.* [10.1016/j.scitotenv.2021.149294](https://doi.org/10.1016/j.scitotenv.2021.149294)
+
+### Microbes and soil biology
+
+- Lehmann et al. (2011). Biochar effects on soil biota — a review. *Soil Biol. Biochem.* [10.1016/j.soilbio.2011.04.022](https://doi.org/10.1016/j.soilbio.2011.04.022)
+- Jaiswal et al. (2014). *Rhizoctonia* suppression in cucumber by biochar temperature, feedstock and dose. *Soil Biol. Biochem.* [10.1016/j.soilbio.2013.10.051](https://doi.org/10.1016/j.soilbio.2013.10.051)
+- Yu et al. (2021). Bacterial N-cycling traits along a charosphere gradient. *Soil Biol. Biochem.* [10.1016/j.soilbio.2021.108420](https://doi.org/10.1016/j.soilbio.2021.108420)
+- Singh et al. (2022). Biochar, soil properties, microbial diversity and productivity meta-analysis. *Biochar*. [10.1007/s42773-022-00138-1](https://doi.org/10.1007/s42773-022-00138-1)
+- Yang et al. (2022). Biochar and plant disease suppression meta-analysis. *Biochar*. [10.1007/s42773-022-00164-z](https://doi.org/10.1007/s42773-022-00164-z)
+- Malik et al. (2022). Co-applied biochar and PGPR review. *Chem. Biol. Technol. Agric.* [10.1186/s40538-022-00327-x](https://doi.org/10.1186/s40538-022-00327-x)
+- Bolan et al. (2023). Biochar as a microbial carrier. *Sci. Total Environ.* [10.1016/j.scitotenv.2023.163968](https://doi.org/10.1016/j.scitotenv.2023.163968)
+- Medeiros et al. (2023). Biochar and bacterial plant diseases meta-analysis. *Bioscience Journal*. [10.14393/bj-v39n0a2023-67325](https://doi.org/10.14393/bj-v39n0a2023-67325)
+- Ran et al. (2023). Charosphere hotspots with and without N additions. *Biochar*. [10.1007/s42773-023-00247-5](https://doi.org/10.1007/s42773-023-00247-5)
+- Cui et al. (2023). Earthworm activity responses to biochar. *Biochar*. [10.1007/s42773-023-00287-x](https://doi.org/10.1007/s42773-023-00287-x)
+- Li et al. (2024). Biochar and soil fauna communities meta-analysis. *Soil Use Manage.* [10.1111/sum.13096](https://doi.org/10.1111/sum.13096)
+- Li Lanruo et al. (2026). Biochar with biological control against soil-borne disease. *Appl. Soil Ecol.* [10.1016/j.apsoil.2025.106613](https://doi.org/10.1016/j.apsoil.2025.106613)
+- Biochar–arbuscular mycorrhizal fungi synergies, systematic review. *PeerJ*. https://peerj.com/articles/21336/
+
+## Product standards and commercial products
+
+- European Biochar Certificate (EBC) — https://www.european-biochar.org/
+- IBI Biochar Standards — https://biochar-international.org/
+- Carbon Gold Enriched Biochar (marketing page) — https://www.carbongold.com/biochar-soil-improver/
+- Wakefield CarbonBoost (marketing page) — https://wakefieldbiochar.com/products/wakefield-biochar-with-carbonboost-premium-soil-conditioner/
 
 ## Carbon markets — Puro.earth (primary)
 
@@ -91,18 +189,20 @@ Primary and high-signal references used in this vault. Do not invent papers, DOI
 
 Vault Puro cluster: [[Puro.earth Overview]] · [[Puro CORC200+]] · [[Puro Biochar Methodology Edition 2025]] · [[Puro Project Cycle and MRV]] · [[Puro Pricing and CORC Indexes]] · [[Puro vs Other Standards]]
 
-## Carbon markets — other methodologies & registries
+## Carbon markets — other methodologies and registries
 
 1. Verra VM0044 v1.2 — https://verra.org/methodologies/vm0044-biochar-utilization-in-soil-and-non-soil-applications-v1-2/ (active 2025-06-27)
 2. Verra minor revision — https://verra.org/verra-publishes-minor-revision-to-biochar-methodology/ (2025-06-27)
 3. ICVCM CCP decision M43 VM0044 v1.2 — https://icvcm.org/wp-content/uploads/2025/08/M43_VCS_VM0044_v1.2_2025.pdf (Board 2025-07-24)
-4. Isometric Biochar Protocol v1.3 — https://registry.isometric.com/protocol/biochar/1.3
-5. Isometric Soil Storage Module v1.3 — https://registry.isometric.com/module/biochar-storage-soil-environments/1.3
-6. CSI Global Biochar C-Sink 3.3 — https://www.carbon-standards.com/docs/transfer/4000039EN.pdf (2026-06-09)
-7. EU Delegated Reg. 2026/285 — https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32026R0285
-8. NRCS CPS 336 FAQ — https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf (April 2026)
+4. Verra ICVCM endorsement announcement — https://verra.org/verras-biochar-and-forest-management-approaches-endorsed-by-icvcm-as-high-integrity-solutions/
+5. Isometric Biochar Protocol v1.3 — https://registry.isometric.com/protocol/biochar/1.3
+6. Isometric Soil Storage Module v1.3 — https://registry.isometric.com/module/biochar-storage-soil-environments/1.3
+7. CSI Global Biochar C-Sink 3.3 — https://www.carbon-standards.com/docs/transfer/4000039EN.pdf (2026-06-09)
+8. CSI formulas & emission factors PDF — https://www.carbon-standards.com/docs/transfer/4000115EN.pdf
+9. Global C-Sink Registry — https://global-c-registry.org/
+10. EU Delegated Reg. 2026/285 — https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32026R0285
 
-## Market data — trackers & indexes
+## Market data — trackers and indexes
 
 - CDR.fyi Biochar Snapshot 2025 — https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025 (2025-09-09)
 - CDR.fyi 2024 Year in Review — https://www.cdr.fyi/blog/2024-year-in-review (2025-02-14)
@@ -121,99 +221,18 @@ Vault Puro cluster: [[Puro.earth Overview]] · [[Puro CORC200+]] · [[Puro Bioch
 - Altitude / Empacar (>305 kt CORCs) — https://www.altitudecarbon.com/news/altitude-partners-with-empacar (2026-03-23)
 - AMP / Google (200 kt) — https://ampsortation.com/articles/google-biochar-carbon-credits (2026-03-17)
 - Supercritical / Exomad (up to 500 kt) — https://gosupercritical.com/resources/press/exomad-green-supercritical-agreement (2026-04-16)
+- Exomad / Supercritical companion post — https://www.exomadgreen.com/post/exomad-green-and-supercritical-sign-500-000-tonne-biochar-agreement
 
 Vault market cluster: [[Market Hub]] · [[Market Volumes and Pricing]] · [[Buyers and Offtakes]] · [[Historical Deals]] · [[Price Indexes and Benchmarks]] · [[Supply Landscape]] · [[Durable CDR Quality Tiers]]
 
+## Company field trials — related material
 
-## Market data — additional deal / supplier press
-
-- Exomad / Supercritical companion post — https://www.exomadgreen.com/post/exomad-green-and-supercritical-sign-500-000-tonne-biochar-agreement
-- Supercritical / Liferaft–Microsoft facilitation — https://gosupercritical.com/resources/press/liferaft-microsoft-offtake
-- Global C-Sink Registry — https://global-c-registry.org/
-- CSI formulas & emission factors PDF — https://www.carbon-standards.com/docs/transfer/4000115EN.pdf
-- Isometric soil storage module — https://registry.isometric.com/module/biochar-storage-soil-environments/1.3
-- Verra ICVCM endorsement announcement — https://verra.org/verras-biochar-and-forest-management-approaches-endorsed-by-icvcm-as-high-integrity-solutions/
-- Puro Biochar permanence science — https://puro.earth/insights/post/biochar-permanence/
-
-## Science — additional DOIs used in vault
-
-- Jeffery et al. (2017). *Environ. Res. Lett.* [10.1088/1748-9326/aa67bd](https://doi.org/10.1088/1748-9326/aa67bd)
-- Roberts et al. (2010). *Environ. Sci. Technol.* [10.1021/es902266r](https://doi.org/10.1021/es902266r)
-- Gaunt & Lehmann (2008). *Environ. Sci. Technol.* [10.1021/es071361i](https://doi.org/10.1021/es071361i)
-
-## Applications — inoculation / biochar-based fertilizers
-
-- Kammann et al. (2015). Co-composted biochar nitrate capture. [10.1038/srep11080](https://doi.org/10.1038/srep11080)
-- Hagemann et al. (2017). Organic coating. *Nat. Commun.* [10.1038/s41467-017-01123-0](https://doi.org/10.1038/s41467-017-01123-0)
-- Hagemann et al. (2017). Nitrate capture & slow release. *PLOS ONE* [10.1371/journal.pone.0171214](https://doi.org/10.1371/journal.pone.0171214)
-- Joseph et al. (2018). Composting microstructure / nutrient retention. [10.1016/j.scitotenv.2017.09.200](https://doi.org/10.1016/j.scitotenv.2017.09.200)
-- Ndoung et al. (2021). BCF enrichment scoping review. [10.1016/j.heliyon.2021.e08473](https://doi.org/10.1016/j.heliyon.2021.e08473) · [PMC8646155](https://pmc.ncbi.nlm.nih.gov/articles/PMC8646155/)
-- Melo et al. (2022). BBF productivity meta-analysis. [10.1007/s11104-021-05276-2](https://doi.org/10.1007/s11104-021-05276-2)
-- Microbial inocula + biochar meta. *Soil Sci. Soc. Am. J.* [10.1002/saj2.20792](https://doi.org/10.1002/saj2.20792)
-- Schmidt et al. (2015). Urine-enhanced biochar pumpkin trial. [10.3390/agriculture5030723](https://doi.org/10.3390/agriculture5030723)
-- Schmidt et al. (2017). Liquid enrichment 21 trials / 13 crops. [10.1002/ldr.2761](https://doi.org/10.1002/ldr.2761)
-- Antonangelo et al. (2021). COMBI review. [10.1016/j.jenvman.2020.111443](https://doi.org/10.1016/j.jenvman.2020.111443)
-- Sanchez-Monedero et al. (2018). Biochar in composting. [10.1016/j.biortech.2017.09.193](https://doi.org/10.1016/j.biortech.2017.09.193)
-- Steiner et al. (2010). Poultry litter compost N loss. [10.2134/jeq2009.0337](https://doi.org/10.2134/jeq2009.0337)
-- Quilliam et al. (2013). Charosphere habitat skepticism. [10.1016/j.soilbio.2013.06.004](https://doi.org/10.1016/j.soilbio.2013.06.004)
-- Bruun et al. (2012). Pyrolysis biochar C/N turnover. [10.1016/j.soilbio.2011.11.019](https://doi.org/10.1016/j.soilbio.2011.11.019)
-- Hestrin et al. (2019). Ammonia covalent retention. [10.1038/s41467-019-08401-z](https://doi.org/10.1038/s41467-019-08401-z)
-- Zheng et al. (2017). Biochar compound fertilizer maize. [10.1016/j.agee.2017.02.034](https://doi.org/10.1016/j.agee.2017.02.034)
-- Puga et al. (2020). Biochar-based N fertilizers. [10.1016/j.scitotenv.2019.135375](https://doi.org/10.1016/j.scitotenv.2019.135375)
-- Gale (2021). Physicochemical post-processing meta. [10.1007/s42773-021-00115-0](https://doi.org/10.1007/s42773-021-00115-0)
-- Gao et al. (2022). Biochar-based N fertilizers review. [10.1007/s42773-022-00160-3](https://doi.org/10.1007/s42773-022-00160-3)
-- BCF advancements review (2025). *Agronomy* [10.3390/agronomy15051104](https://doi.org/10.3390/agronomy15051104)
-- USBI Ag Guidelines (Aller et al. 2023) — https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf
-- Pacific Biochar + Compost white paper (2023) — https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf
-- NRCS CPS 336 2022 — https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf
-- Carbon Gold Enriched Biochar — https://www.carbongold.com/biochar-soil-improver/
-- Wakefield CarbonBoost — https://wakefieldbiochar.com/products/wakefield-biochar-with-carbonboost-premium-soil-conditioner/
-
-
-
-
-## Nutrients & fertilizer chemistry
-
-- Nguyen et al. (2017). Soil inorganic N meta. [10.1016/j.geoderma.2016.11.004](https://doi.org/10.1016/j.geoderma.2016.11.004)
-- Clough et al. (2013). Biochar and soil N dynamics review. [10.3390/agronomy3020275](https://doi.org/10.3390/agronomy3020275)
-- Taghizadeh-Toosi et al. (2012). Biochar-adsorbed NH₃ bioavailable. [10.1007/s11104-011-0870-3](https://doi.org/10.1007/s11104-011-0870-3)
-- Hestrin et al. (2019). Covalent ammonia retention. [10.1038/s41467-019-08401-z](https://doi.org/10.1038/s41467-019-08401-z)
-- Kammann et al. (2015). Nitrate capture / co-composted biochar. [10.1038/srep11080](https://doi.org/10.1038/srep11080)
-- Hagemann et al. (2017). Organic coating. [10.1038/s41467-017-01123-0](https://doi.org/10.1038/s41467-017-01123-0)
-- Hagemann et al. (2017). Nitrate capture PLOS. [10.1371/journal.pone.0171214](https://doi.org/10.1371/journal.pone.0171214)
-- Ndoung et al. (2021). BCF enrichment scoping review. [10.1016/j.heliyon.2021.e08473](https://doi.org/10.1016/j.heliyon.2021.e08473) · [PMC8646155](https://pmc.ncbi.nlm.nih.gov/articles/PMC8646155/)
-- Melo et al. (2022). BBF productivity meta. [10.1007/s11104-021-05276-2](https://doi.org/10.1007/s11104-021-05276-2)
-- Marschner et al. (2022). BCF N uptake / coating limits. [10.1007/s11104-022-05365-w](https://doi.org/10.1007/s11104-022-05365-w)
-- Puga et al. (2020). Biochar-based N fertilizers. [10.1016/j.scitotenv.2019.135375](https://doi.org/10.1016/j.scitotenv.2019.135375)
-- Ippolito et al. (2020). Feedstock × HTT nutrient meta. [10.1007/s42773-020-00067-x](https://doi.org/10.1007/s42773-020-00067-x)
-- NPK cycles review. [10.1186/s40538-020-00182-8](https://doi.org/10.1186/s40538-020-00182-8)
-- P fate review. [10.1016/j.chemosphere.2021.131176](https://doi.org/10.1016/j.chemosphere.2021.131176)
-- Silber et al. (2010). pH-dependent mineral release. [10.1021/es101283d](https://doi.org/10.1021/es101283d)
-- Ye et al. (2020). Biochar ± fertilizer field meta. [10.1111/sum.12555](https://doi.org/10.1111/sum.12555) · [PDF](https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf)
-- BCF advancements review (2025). [10.3390/agronomy15051104](https://doi.org/10.3390/agronomy15051104)
-- Chapter: [[Biochar Nutrients and Fertilizer Chemistry]]
-
-## Microbes & soil biology
-
-- Lehmann et al. (2011). Biochar effects on soil biota. [10.1016/j.soilbio.2011.04.022](https://doi.org/10.1016/j.soilbio.2011.04.022)
-- Quilliam et al. (2013). Sparse field colonization. [10.1016/j.soilbio.2013.06.004](https://doi.org/10.1016/j.soilbio.2013.06.004)
-- Microbial inocula + biochar meta. [10.1002/saj2.20792](https://doi.org/10.1002/saj2.20792)
-- Biochar as microbial carrier review. [10.1016/j.scitotenv.2023.163968](https://doi.org/10.1016/j.scitotenv.2023.163968)
-- Diversity / productivity meta. [10.1007/s42773-022-00138-1](https://doi.org/10.1007/s42773-022-00138-1)
-- Disease suppression meta. [10.1007/s42773-022-00164-z](https://doi.org/10.1007/s42773-022-00164-z)
-- Bacterial disease meta. [10.14393/bj-v39n0a2023-67325](https://doi.org/10.14393/bj-v39n0a2023-67325)
-- PGPR + biochar review. [10.1186/s40538-022-00327-x](https://doi.org/10.1186/s40538-022-00327-x)
-- Biochar–AMF synergies systematic review. [PeerJ](https://peerj.com/articles/21336/)
-- Chew et al. (2020). BCF rhizosphere. [10.1016/j.scitotenv.2019.136431](https://doi.org/10.1016/j.scitotenv.2019.136431)
-- Wang et al. (2016). Priming meta. [10.1111/gcbb.12266](https://doi.org/10.1111/gcbb.12266)
-- Weng et al. (2017). Decade-scale negative priming. [10.1038/nclimate3276](https://doi.org/10.1038/nclimate3276)
-- Jaiswal et al. (2014). Rhizoctonia dose–response. [10.1016/j.soilbio.2013.10.047](https://doi.org/10.1016/j.soilbio.2013.10.047)
-- Soil fauna meta. [10.1111/sum.13096](https://doi.org/10.1111/sum.13096)
-- Earthworm activity review. [10.1007/s42773-023-00287-x](https://doi.org/10.1007/s42773-023-00287-x)
-- Chapter: [[Biochar Microbes and Soil Biology]]
+- Exomad/CIAT corn and bean trial: [[Exomad Green Corn and Bean Field Study]] · [Exomad R&D page](https://www.exomadgreen.com/research-development)
+- Press: [Bioenergy International 2025-07-04](https://bioenergyinternational.com/biochar-field-study-reveals-significant-crop-yield-improvements-in-bolivia/) · [Carbon Herald 2025-07-04](https://carbonherald.com/in-a-new-field-study-exomad-green-finds-biochar-improved-corn-and-bean-crops/)
+- CIAT — Centro de Investigación Agrícola Tropical (Santa Cruz, Bolivia) — https://www.ciatbo.org/
+- Other Exomad field-study PDFs (not yet summarized): [Sorghum, Yacuiba](https://www.exomadgreen.com/_files/ugd/8b0a69_9e7dd73d46d84e33aa86b7a7308c14b2.pdf) · [La Rivera, Concepción](https://www.exomadgreen.com/_files/ugd/8b0a69_89a6513212434da5af5a2734956a6a3c.pdf)
 
 ## Vault entry points
 
-- [[Biochar Home]] · [[Science Hub]] · [[Carbon Markets Hub]] · [[Market Hub]] · [[Industry Hub]]
-- Puro cluster: [[Puro.earth Overview]] · [[Puro CORC200+]] · [[Puro Biochar Methodology Edition 2025]] · [[Puro Project Cycle and MRV]] · [[Puro Pricing and CORC Indexes]] · [[Puro vs Other Standards]]
-- Market cluster: [[Market Volumes and Pricing]] · [[Buyers and Offtakes]] · [[Historical Deals]] · [[Price Indexes and Benchmarks]] · [[Supply Landscape]] · [[Durable CDR Quality Tiers]]
+- [[Biochar Home]] · [[Science Hub]] · [[Applications Hub]] · [[Carbon Markets Hub]] · [[Market Hub]] · [[Industry Hub]] · [[Policy Hub]]
+- Numbers cheat sheet: [[Quantitative Benchmarks]]

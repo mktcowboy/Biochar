@@ -41,7 +41,7 @@ Keep these layers separate when reading methodologies or offtake contracts.
 
 | Resource | URL |
 |---|---|
-| NRCS CPS 336 FAQ (Apr 2026 PDF) | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf |
+| NRCS CPS 336 FAQ (Apr 2026 PDF) | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf · [[NRCS CPS 336 FAQ 2026]] |
 | EBC | https://www.european-biochar.org/ |
 | IBI | https://biochar-international.org/ |
 | Verra VM0044 v1.2 | https://verra.org/methodologies/vm0044-biochar-utilization-in-soil-and-non-soil-applications-v1-2/ |

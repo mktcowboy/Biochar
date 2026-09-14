@@ -10,7 +10,7 @@ Brief hub for biomass inputs to biochar. Existing notes already cover how feedst
 
 ## What we already know (in vault)
 
-- [[Production]] — feedstock is a primary control alongside temperature and residence time; woody/low-ash chars often ~50–90% C; manure/sludge and gasification residues are much lower (Woolf et al., 2021 examples in that note).
+- [[Production]] — feedstock is a primary control alongside temperature and residence time; woody/low-ash chars often ~50–90% C; manure/sludge and gasification residues are much lower ([[Woolf et al. 2021|Woolf et al., 2021]] examples in that note).
 - [[Properties]] — ash, nutrients, pH, and CEC vary widely with feedstock class; H/C_org and O/C_org remain the usual persistence proxies.
 - [[Contaminants and Quality]] — sludge, treated wood, and some manures raise contaminant and eligibility questions for product standards and credit methodologies.
 
@@ -35,8 +35,8 @@ Brief hub for biomass inputs to biochar. Existing notes already cover how feedst
 ## Primary links
 
 - [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) (FC by feedstock class)
-- [Lehmann et al. 2021](https://doi.org/10.1038/s41561-021-00852-8)
-- [IPCC 2019 App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)
+- [[Lehmann et al. 2021]] ([DOI](https://doi.org/10.1038/s41561-021-00852-8))
+- [IPCC 2019 App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC 2019 Biochar Appendix]]
 
 ## Related notes
 

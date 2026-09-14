@@ -9,6 +9,8 @@ https://mktcowboy.github.io/Biochar/
 ## Structure
 
 - `content/` — the vault notes (edit these in Obsidian or here)
+  - `content/Sources/` — one note per heavily cited source (checked figures) plus `Key Sources`; `Source Index.base` indexes them in Obsidian (Quartz ignores `.base` files)
+  - `content/templates/` — `Source Note.md`, the template for new source notes (Quartz ignores this folder)
 - `site/` — Quartz static-site generator and configuration
 - `docs/github-pages-deploy.yml` — Actions workflow template (add under `.github/workflows/deploy.yml` once the `workflow` OAuth scope is available)
 - Currently deployed by building Quartz and pushing the `gh-pages` branch
