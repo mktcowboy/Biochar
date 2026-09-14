@@ -19,6 +19,14 @@ aliases: [Double counting, Credit ownership]
 - Disclose stacking of NRCS / other ag payments with credit issuance
 - Maintain chain-of-custody records (often ≥5 years)—see [[MRV Stack]]
 
+## Primary links
+
+- [Puro Registry](https://registry.puro.earth/)
+- [Verra VM0044](https://verra.org/methodologies/vm0044-biochar-utilization-in-soil-and-non-soil-applications-v1-2/)
+- [Isometric Biochar Protocol](https://registry.isometric.com/protocol/biochar/1.3)
+- [CSI Global Biochar C-Sink 3.3](https://www.carbon-standards.com/docs/transfer/4000039EN.pdf)
+- [ICVCM](https://www.icvcm.org/)
+
 ## Related notes
 
 - [[Risks and Controversies]]

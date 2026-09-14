@@ -44,6 +44,13 @@ All associated GHG from biomass → application must be registered and **offset*
 - **Global Artisan C-Sink** — separate CSI standard for distributed/artisanal production
 - ICVCM: CSI submitted Global C-Sink Standards for assessment (materials dated 2026)—treat as *in process*, not automatic CCP approval
 
+## Primary links
+
+- [Global Biochar C-Sink 3.3 PDF](https://www.carbon-standards.com/docs/transfer/4000039EN.pdf)
+- [CSI service page](https://www.carbon-standards.com/en/standards/service-501~global-biochar-c-sink.html)
+- [EBC](https://www.european-biochar.org/) (product certification prerequisite)
+- [Formulas & EFs companion PDF](https://www.carbon-standards.com/docs/transfer/4000115EN.pdf)
+
 ## Related notes
 
 - [[Contaminants and Quality]]

@@ -9,7 +9,7 @@ Same science, different program interpretations. Do not mix thresholds across re
 
 | Source | Threshold / use | Horizon |
 |---|---|---|
-| **IPCC 2019** | Pyrolysis **temperature class** for F_perm; H/C_org & O/C as future options | 100 years |
+| **[IPCC 2019](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)** | Pyrolysis **temperature class** for F_perm; H/C_org & O/C as future options | 100 years |
 | **NRCS CPS 336** | H:C_org **max 0.7** (practice eligibility—not a credit) | Soil amendment |
 | **Isometric soil** | H/C_org **< 0.5**, O/C_org **< 0.2**; F_durable from Woolf-style (200y) or Ro (1000y) | 200 or 1000 years |
 | **CSI Global Biochar C-Sink 3.3** | H/C_org **≤ 0.40** for any GPC; **> 0.40** = SPC only; Ro≥3.8% or HyPy≥90% → upper class | GPC >1000y; SPC over 1000y |
@@ -25,6 +25,16 @@ Same science, different program interpretations. Do not mix thresholds across re
 Puro explicitly chose **centuries not millennia** pending more integrated science ([Puro permanence post, 2025-07-03](https://puro.earth/insights/post/biochar-permanence/)).
 
 See also science-side [[Permanence]] and [[Consensus vs Debates]].
+
+## Primary links
+
+- [IPCC 2019 App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)
+- [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425)
+- [Schmidt et al. 2025](https://doi.org/10.1111/gcbb.70092)
+- [Sanei et al. 2024](https://doi.org/10.1016/j.coal.2023.104409)
+- [Puro permanence post](https://puro.earth/insights/post/biochar-permanence/)
+- [Verra VM0044](https://verra.org/methodologies/vm0044-biochar-utilization-in-soil-and-non-soil-applications-v1-2/)
+- [Isometric Biochar v1.3](https://registry.isometric.com/protocol/biochar/1.3)
 
 ## Related notes
 

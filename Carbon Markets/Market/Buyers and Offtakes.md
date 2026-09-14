@@ -17,12 +17,12 @@ Chapter on **who buys biochar carbon removal (BCR)**, how concentrated demand is
 | Feature | Public signal | Source |
 |---|---|---|
 | Unique BCR purchasers | **290** (since 2022) | [Snapshot 2025](https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025) |
-| Top-4 BCR share | Microsoft + Google + BCG + JPMorgan ≈ **57%** | Snapshot 2025 |
-| Microsoft BCR share | ≈ **46%** of cumulative BCR contracted | Snapshot 2025 |
-| Long tail | Majority of purchasers **<100 t**; median ~**73–90 t** | Snapshot 2025 |
-| Entry method | BCR is the **most common** first durable CDR purchase by buyer count (~5× next method) | Snapshot 2025 |
+| Top-4 BCR share | Microsoft + Google + BCG + JPMorgan ≈ **57%** | [Snapshot 2025](https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025) |
+| Microsoft BCR share | ≈ **46%** of cumulative BCR contracted | [Snapshot 2025](https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025) |
+| Long tail | Majority of purchasers **<100 t**; median ~**73–90 t** | [Snapshot 2025](https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025) |
+| Entry method | BCR is the **most common** first durable CDR purchase by buyer count (~5× next method) | [Snapshot 2025](https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025) |
 | Q1 2026 Microsoft share | **~43%** of durable CDR contracted that quarter | [Q1 2026](https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof) |
-| Intermediaries | **74%** of Q1 2026 tonnes facilitated by intermediaries | Q1 2026 |
+| Intermediaries | **74%** of Q1 2026 tonnes facilitated by intermediaries | [Q1 2026](https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof) |
 
 **Takeaway:** A few catalytic buyers set megatonne headlines; a long tail of small trials creates the unique-buyer count. Strategy shifts by Microsoft (or a small peer set) can move the market—see [[Risks and Controversies]].
 
@@ -32,18 +32,18 @@ Chapter on **who buys biochar carbon removal (BCR)**, how concentrated demand is
 
 ### 2.1 Diversified durable-CDR majors
 
-For Microsoft, Google, BCG, and JPMorgan, Snapshot 2025 notes BCR is **≤35%** of each firm’s durable CDR portfolio—they also buy BECCS, DAC, EW, mCDR, etc.
+For Microsoft, Google, BCG, and JPMorgan, [Snapshot 2025](https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025) notes BCR is **≤35%** of each firm’s durable CDR portfolio—they also buy BECCS, DAC, EW, mCDR, etc.
 
 | Buyer | Role in BCR | Illustrative public offtakes |
 |---|---|---|
-| **Microsoft** | Largest single BCR (and durable CDR) purchaser | Exomad 32 kt (2023); Carba 44 kt (2025); Exomad ≥1.24 Mt (2025); Liferaft 1 Mt (2026) — [[Historical Deals]] |
-| **Google** | Large diversified buyer; first named biochar megadeals Jan 2025 | Varaha 100 kt + Charm biochar 100 kt by 2030; AMP 200 kt by 2030 |
+| **Microsoft** | Largest single BCR (and durable CDR) purchaser | Exomad [>32 kt](https://www.carbonfuture.com/project-showcase/carbonfuture-announces-innovative-offtake-collaboration-with-exomad-green-and-microsoft-for-large-scale-biochar-carbon-removal) (2023); Carba [44 kt](https://carba.com/press/carba-announces-5-year-carbon-removal-credit-purchase-agreement-with-microsoft) (2025); Exomad [≥1.24 Mt](https://www.exomadgreen.com/post/exomad-green-announces-world-s-largest-biochar-carbon-removal-agreement-with-microsoft-tracked-by-c) (2025); Liferaft [1 Mt](https://www.liferaft.cc/news/liferaft-microsoft-announcement) (2026) — [[Historical Deals]] |
+| **Google** | Large diversified buyer; first named biochar megadeals Jan 2025 | Varaha + Charm biochar [100 kt each](https://blog.google/feed/were-announcing-our-first-partnerships-to-scale-biochar-for-co2-removal/) by 2030; AMP [200 kt](https://ampsortation.com/articles/google-biochar-carbon-credits) by 2030 |
 | **BCG** | Top-4 BCR purchaser (volume share in Snapshot aggregate) | Deal-level volumes not fully broken out in abridged Snapshot |
 | **JPMorgan** | Top-4 BCR purchaser; also Frontier member context | Deal-level volumes not fully broken out in abridged Snapshot |
 
 ### 2.2 BCR-dominant / BCR-exclusive portfolios
 
-Snapshot 2025 highlights four purchasers that rely almost exclusively on BCR:
+[Snapshot 2025](https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025) highlights four purchasers that rely almost exclusively on BCR:
 
 | Buyer | BCR share of CDR (Snapshot) | Stated rationale themes |
 |---|---|---|
@@ -58,8 +58,8 @@ Swiss Re also led Q1 2026 **retirements** (~**14 kt**), showing claim-use activi
 
 | Actor | Type | Public BCR signal |
 |---|---|---|
-| **Altitude** | CDR financing fund (launched Feb 2025 per CDR.fyi) | Empacar **>305 kt** CORCs; cumulative **1.45 Mt** contracted (3rd-largest purchaser per Q1 2026) |
-| **Supercritical** | Marketplace / intermediary | Facilitated Liferaft–Microsoft; **up to 500 kt** Exomad agreement (Apr 2026); Q1 2026 top intermediary by tonnes (~**1.5 Mt** / 88% of facilitated tonnes in that report’s intermediary ranking) |
+| **Altitude** | CDR financing fund (launched Feb 2025 per CDR.fyi) | Empacar [**>305 kt** CORCs](https://www.altitudecarbon.com/news/altitude-partners-with-empacar); cumulative **1.45 Mt** contracted (3rd-largest purchaser per [Q1 2026](https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof)) |
+| **Supercritical** | Marketplace / intermediary | Facilitated [Liferaft–Microsoft](https://gosupercritical.com/resources/press/liferaft-microsoft-offtake); [**up to 500 kt** Exomad](https://gosupercritical.com/resources/press/exomad-green-supercritical-agreement) (Apr 2026); Q1 2026 top intermediary by tonnes (~**1.5 Mt** / 88% of facilitated tonnes in [Q1 2026](https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof)) |
 | **Senken** | Intermediary | **105 kt** Exomad to undisclosed buyers (Q1 2026) |
 | **Frontier** buyers | Advance market commitment | Q1 2026: **>210 kt** across 6 deals (57% BiCRS—not all biochar) |
 | **Carbonfuture** | dMRV / offtake infrastructure | Embedded in Microsoft–Exomad deals (MRV+) |
@@ -126,10 +126,10 @@ Nasdaq additionally frames purchases as supporting marketplace scale and UN SDG 
 
 | Risk | Evidence | Implication |
 |---|---|---|
-| Buyer concentration | Microsoft ~46% cumulative BCR; ~43% of Q1 2026 durable CDR | Demand shock if strategy/pacing changes |
-| Slow unique-buyer growth | +7% unique purchasers in 2024; first-time buyers −18% | Volume growth ≠ broad market deepening |
-| Delivery lag | ~22% of cumulative contracted BCR delivered by end-Q2 2025 | Forward books can outrun physical capacity |
-| Intermediary dependence | 74% of Q1 2026 tonnes | Diligence quality and fee stacks matter for mid-market buyers |
+| Buyer concentration | Microsoft ~46% cumulative BCR ([Snapshot](https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025)); ~43% of Q1 2026 durable CDR ([Q1 2026](https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof)) | Demand shock if strategy/pacing changes |
+| Slow unique-buyer growth | +7% unique purchasers in 2024; first-time buyers −18% ([YIR](https://www.cdr.fyi/blog/2024-year-in-review)) | Volume growth ≠ broad market deepening |
+| Delivery lag | ~22% of cumulative contracted BCR delivered by end-Q2 2025 ([Snapshot](https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025)) | Forward books can outrun physical capacity |
+| Intermediary dependence | 74% of Q1 2026 tonnes ([Q1 2026](https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof)) | Diligence quality and fee stacks matter for mid-market buyers |
 
 Broader risk map: [[Risks and Controversies]]. Volume math: [[Market Volumes and Pricing]].
 

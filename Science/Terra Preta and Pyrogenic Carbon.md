@@ -13,6 +13,11 @@ Amazonian Dark Earths (**Terra Preta**) are the cultural and historical inspirat
 
 This historical analog underpins the idea that intentionally produced pyrogenic carbon can improve tropical soils and store carbon for long periods—later formalized in Lehmann (2006/2007) and modern CDR literature (see [[Foundational Papers]]).
 
+## Primary links
+
+- [Glaser et al. 2001](https://doi.org/10.1007/s001140000193)
+- [[Foundational Papers]] · [[Key Sources]]
+
 ## Related notes
 
 - [[Overview and Definition]]

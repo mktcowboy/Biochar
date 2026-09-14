@@ -34,7 +34,7 @@ Only **36%** of durable CDR suppliers listed on CDR.fyi had a registered sale as
 | Field | Public fact |
 |---|---|
 | Role | Largest BCR supplier by tonnes sold (~**60%** since 2022); leading durable CDR *deliverer* in multiple CDR.fyi periods |
-| Cumulative sold | **>2.35 Mt** after Q1 2026 Supercritical + Senken deals (CDR.fyi) |
+| Cumulative sold | **>2.35 Mt** after Q1 2026 Supercritical + Senken deals ([CDR.fyi Q1 2026](https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof)) |
 | Produced to date | **>320,000 t** durable CDR (Apr 2026 Supercritical/Exomad release) |
 | Facilities | Concepción & Riberalta (expanded); third under construction; two more planned (May 2025 release) |
 | Pathway | Forestry residues (else open-burned) → biochar → local agricultural soils |
@@ -77,9 +77,9 @@ Only **36%** of durable CDR suppliers listed on CDR.fyi had a registered sale as
 
 | Field | Public fact |
 |---|---|
-| Role | Google **100 kt** by 2030; cumulative sold **>500 kt** (CDR.fyi Q1 2026); **$20M** funding Q1 2026 |
+| Role | Google **100 kt** by 2030; cumulative sold **>500 kt** ([CDR.fyi Q1 2026](https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof)); **$20M** funding Q1 2026 |
 | Pathway | Invasive plants / agricultural waste → biochar; smallholder networks (Reuters/Google coverage) |
-| Sources | [Google Jan 2025](https://blog.google/feed/were-announcing-our-first-partnerships-to-scale-biochar-for-co2-removal/); Q1 2026 update |
+| Sources | [Google Jan 2025](https://blog.google/feed/were-announcing-our-first-partnerships-to-scale-biochar-for-co2-removal/); [Q1 2026](https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof) |
 
 ### Charm Industrial (United States) — biochar path
 
@@ -154,6 +154,14 @@ Purchaser geography remains heavily **US corporates** buying global supply ([YIR
 5. Artisanal vs industrial segmentation deliberately collapsed in Snapshot 2025 (“biochar in its entirety”).
 
 ---
+
+
+## Primary links
+
+- [CDR.fyi Snapshot 2025](https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025)
+- [CDR.fyi Q1 2026](https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof)
+- [CDR.fyi 2024 YIR](https://www.cdr.fyi/blog/2024-year-in-review)
+- Supplier press URLs in §2 tables · [[Key Sources]]
 
 ## See also
 

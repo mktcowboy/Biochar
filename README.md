@@ -19,3 +19,7 @@ Start at [[Biochar Home]] (file: `Biochar Home.md`).
 ## Sync
 
 This repository is the source of truth for the vault. Machine-specific Obsidian UI state and local settings are excluded via `.gitignore`.
+
+## Citation rule
+
+Data claims in notes should include outbound primary-source URLs (`https://…` or `https://doi.org/…`) in the note body—not only Obsidian `[[wikilinks]]`. See `Sources/Key Sources.md` for the live link directory.

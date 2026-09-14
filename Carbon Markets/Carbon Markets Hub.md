@@ -10,6 +10,19 @@ Landing page for biochar carbon removal (BCR) markets, methodologies, MRV, and r
 
 Folder layout: concepts at the top level; registry methods under `Methodologies/`; volumes and buyers under `Market/`. US NRCS practice guidance now lives under [[Policy Hub]].
 
+
+## Live registries & indexes
+
+| Resource | URL |
+|---|---|
+| CDR.fyi | https://www.cdr.fyi/ |
+| Puro indexes (CORCCHAR / CORCX) | https://puro.earth/buy-carbon-credits/removal-certificate-corc/carbon-removal-indexes/ |
+| Puro Registry | https://registry.puro.earth/ |
+| Verra VM0044 v1.2 | https://verra.org/methodologies/vm0044-biochar-utilization-in-soil-and-non-soil-applications-v1-2/ |
+| Isometric Biochar Protocol v1.3 | https://registry.isometric.com/protocol/biochar/1.3 |
+| CSI docs | https://www.carbon-standards.com/ |
+| ICVCM | https://www.icvcm.org/ |
+
 ## Concepts
 
 - [[Biochar as Durable CDR]] — removal pathway vs avoidance
@@ -66,6 +79,18 @@ MOC: [[Market Hub]]
 - Production: [[Production]] · [[Properties]] · [[Production Hub]]
 - Applications: [[Applications Hub]] · [[Soil and Agriculture]] · [[Materials and Built Uses]]
 - Industry: [[Industry Hub]]
+
+
+## Primary links
+
+- [CDR.fyi](https://www.cdr.fyi/)
+- [Puro indexes](https://puro.earth/buy-carbon-credits/removal-certificate-corc/carbon-removal-indexes/)
+- [Puro Registry](https://registry.puro.earth/)
+- [Verra VM0044 v1.2](https://verra.org/methodologies/vm0044-biochar-utilization-in-soil-and-non-soil-applications-v1-2/)
+- [Isometric Biochar v1.3](https://registry.isometric.com/protocol/biochar/1.3)
+- [CSI C-Sink 3.3 PDF](https://www.carbon-standards.com/docs/transfer/4000039EN.pdf)
+- [ICVCM](https://www.icvcm.org/)
+- [[Key Sources]]
 
 ## Vault navigation
 

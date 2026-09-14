@@ -25,7 +25,7 @@ Same tonne claimed as product footprint reduction, voluntary credit, and complia
 
 ## Overstated yields / MRV gaps
 
-Crediting before application; weak retail chain-of-custody; optimistic permanence factors; ignoring CH₄ from pyrolysis or biomass storage. Delivery vs contracted volume gaps create expectation risk ([CDR.fyi](https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025)).
+Crediting before application; weak retail chain-of-custody; optimistic permanence factors; ignoring CH₄ from pyrolysis or biomass storage. Delivery vs contracted volume gaps create expectation risk ([[CDR.fyi](https://www.cdr.fyi/)](https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025)).
 
 ## Greenwashing critiques
 
@@ -34,6 +34,14 @@ NGOs (e.g., Fern, Carbon Market Watch) criticize carbon-removal certification fr
 ## Buyer concentration
 
 Microsoft and a few others dominate BCR volume—see [[Buyers and Offtakes]] · [[Market Volumes and Pricing]] · [[Historical Deals]]. Q1 2026 intermediaries facilitated **74%** of contracted tonnes ([CDR.fyi](https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof)).
+
+## Primary links
+
+- [CDR.fyi Snapshot 2025](https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025) (concentration / delivery ratios)
+- [CDR.fyi Q1 2026](https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof)
+- [ICVCM](https://www.icvcm.org/)
+- [Verra VM0044](https://verra.org/methodologies/vm0044-biochar-utilization-in-soil-and-non-soil-applications-v1-2/)
+- [EBC](https://www.european-biochar.org/)
 
 ## Related notes
 

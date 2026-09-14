@@ -42,16 +42,16 @@ Timeline of **major public biochar CDR (BCR) offtakes** with volumes, counterpar
 
 ### Microsoft × Exomad Green (1.24 Mt)
 
-- Largest BCR agreement by volume at announcement (May 2025); among largest durable CDR deals generally (Exomad claim).
-- Builds on prior 32 kt relationship.
+- Largest BCR agreement by volume at announcement (May 2025); among largest durable CDR deals generally ([Exomad claim](https://www.exomadgreen.com/post/exomad-green-announces-world-s-largest-biochar-carbon-removal-agreement-with-microsoft-tracked-by-c)).
+- Builds on prior [>32 kt](https://www.carbonfuture.com/project-showcase/carbonfuture-announces-innovative-offtake-collaboration-with-exomad-green-and-microsoft-for-large-scale-biochar-carbon-removal) relationship.
 - Biomass: forestry residues that would otherwise be open-burned; biochar to local agricultural soils.
 - Facilities: Concepción & Riberalta (expanded); third facility under construction at announcement time.
-- Exomad goal cited: **1 Mt CO₂ / yr by 2027**.
+- Exomad goal cited: **1 Mt CO₂ / yr by 2027** ([Exomad May 2025](https://www.exomadgreen.com/post/exomad-green-announces-world-s-largest-biochar-carbon-removal-agreement-with-microsoft-tracked-by-c)).
 - Delivery share claim at announcement: **27%** of durable CDR deliveries (CDR.fyi data cited by Exomad, Apr 2025 context).
 
 ### Google × Varaha & Charm (100 kt each)
 
-- Google called them “the largest biochar carbon removal deals to date” **as of 16 Jan 2025**—later surpassed by Microsoft–Exomad and Microsoft–Liferaft.
+- Google called them “the largest biochar carbon removal deals to date” **as of 16 Jan 2025** ([Google blog](https://blog.google/feed/were-announcing-our-first-partnerships-to-scale-biochar-for-co2-removal/))—later surpassed by Microsoft–Exomad and Microsoft–Liferaft.
 - Adds biochar alongside EW, DAC, Frontier, and Symbiosis toolkit.
 
 ### Google × AMP (200 kt)
@@ -64,7 +64,7 @@ Timeline of **major public biochar CDR (BCR) offtakes** with volumes, counterpar
 
 - Largest US biochar offtake announced to date (coverage consensus; Liferaft primary emphasizes rural Midwest jobs + Microsoft carbon-negative goal).
 - Biochar–compost mix for approved agricultural end uses.
-- Second-largest BCR purchase historically per CDR.fyi Q1 2026 (~43.5% of that quarter’s contracted durable CDR).
+- Second-largest BCR purchase historically per [CDR.fyi Q1 2026](https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof) (~43.5% of that quarter’s contracted durable CDR).
 
 ### Altitude × Empacar (>305 kt)
 
@@ -90,11 +90,11 @@ Timeline of **major public biochar CDR (BCR) offtakes** with volumes, counterpar
 
 | Aggregate | Figure | Source |
 |---|---|---|
-| Cumulative BCR contracted Q1 2022–H1 2025 | **3.04 Mt** | Snapshot 2025 |
-| Exomad share of BCR tonnes sold since 2022 | ~**60%** | Snapshot 2025 |
-| Exomad cumulative tonnes sold after Q1 2026 deals | **>2.35 Mt** | Q1 2026 update |
-| Varaha cumulative tonnes sold | **>500 kt** | Q1 2026 update |
-| Q4 2024 multi-supplier burst | Exomad, Charm, Varaha, Carboneers, Aperam, Planboo “many thousands of tons each” | Snapshot 2025 (exact per-deal tonnes not in abridged body) |
+| Cumulative BCR contracted Q1 2022–H1 2025 | **3.04 Mt** | [Snapshot 2025](https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025) |
+| Exomad share of BCR tonnes sold since 2022 | ~**60%** | [Snapshot 2025](https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025) |
+| Exomad cumulative tonnes sold after Q1 2026 deals | **>2.35 Mt** | [Q1 2026](https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof) |
+| Varaha cumulative tonnes sold | **>500 kt** | [Q1 2026](https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof) |
+| Q4 2024 multi-supplier burst | Exomad, Charm, Varaha, Carboneers, Aperam, Planboo “many thousands of tons each” | [Snapshot 2025](https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025) (exact per-deal tonnes not in abridged body) |
 
 ---
 
@@ -113,6 +113,13 @@ Timeline of **major public biochar CDR (BCR) offtakes** with volumes, counterpar
 5. Updates after Q1 2026 for delivery against these offtakes.
 
 ---
+
+
+## Primary links
+
+1. [CDR.fyi Snapshot 2025](https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025)
+2. [CDR.fyi Q1 2026](https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof)
+3. Deal press URLs in the timeline table above · [[Key Sources]]
 
 ## See also
 

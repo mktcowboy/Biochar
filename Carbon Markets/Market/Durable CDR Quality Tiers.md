@@ -26,10 +26,10 @@ CDR.fyi and corporate statements repeatedly cite **integrity, durability, scalab
 
 | Label | Status relevant to biochar (research date) | Source |
 |---|---|---|
-| ICVCM CCP — **methodology** | [[Verra VM0044]] v1.2 **CCP-Approved** (Board 2025-07-24) | [ICVCM PDF](https://icvcm.org/wp-content/uploads/2025/08/M43_VCS_VM0044_v1.2_2025.pdf) |
+| ICVCM CCP — **methodology** | [[Verra VM0044]] v1.2 **CCP-Approved** (Board 2025-07-24) — [methodology](https://verra.org/methodologies/vm0044-biochar-utilization-in-soil-and-non-soil-applications-v1-2/) | [ICVCM PDF](https://icvcm.org/wp-content/uploads/2025/08/M43_VCS_VM0044_v1.2_2025.pdf) |
 | ICVCM CCP — **program** | Puro General Rules v4.2+ **CCP-Eligible**; biochar method assessment separate | [ICVCM 2025-12-11](https://www.icvcm.org/integrity-council-confirms-carbon-crediting-program-puro-earth-as-ccp-eligible/) |
 | ICROA / CORSIA claims | Program-dependent (Isometric claims on protocol pages; verify live) | [[Isometric Biochar Protocol]] |
-| EU CRCF “permanent removal” | Delegated Reg. (EU) 2026/285; geographic/activity rules | [[Key Sources]] |
+| EU CRCF “permanent removal” | Delegated Reg. (EU) 2026/285; geographic/activity rules | [EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32026R0285) · [[Key Sources]] |
 
 Whether CCP labels **raise bilateral prices** is **not publicly quantified** in CDR.fyi abridged posts—treat as a segmentation hypothesis, not a measured premium.
 
@@ -53,6 +53,16 @@ Buyers increasingly price **near-term deliverability** alongside permanence (Sup
 - No public, standardized BCR “grade” across registries.
 - Limited disclosed price differentials by tier.
 - dMRV platforms (e.g., Carbonfuture) appear in megadeal contracts but are not themselves a registry grade.
+
+
+## Primary links
+
+- [CDR.fyi Biochar Snapshot 2025](https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025)
+- [Verra VM0044 v1.2](https://verra.org/methodologies/vm0044-biochar-utilization-in-soil-and-non-soil-applications-v1-2/)
+- [ICVCM M43 VM0044](https://icvcm.org/wp-content/uploads/2025/08/M43_VCS_VM0044_v1.2_2025.pdf)
+- [ICVCM Puro CCP-Eligible](https://www.icvcm.org/integrity-council-confirms-carbon-crediting-program-puro-earth-as-ccp-eligible/)
+- [Isometric Biochar v1.3](https://registry.isometric.com/protocol/biochar/1.3)
+- [CSI Global Biochar C-Sink 3.3 PDF](https://www.carbon-standards.com/docs/transfer/4000039EN.pdf)
 
 ## See also
 

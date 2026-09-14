@@ -6,7 +6,7 @@ updated: 2026-09-14
 
 # Biochar
 
-Research vault for biochar science, production, applications, carbon markets, policy, and industry. Notes synthesize primary literature and registry documents (see [[Key Sources]]). Report date context: 2026-09-14.
+Research vault for biochar science, production, applications, carbon markets, policy, and industry. Notes synthesize primary literature and registry documents (see [[Key Sources]]). Report date context: 2026-09-14. **User rule:** every data claim should carry an outbound `https://…` or `https://doi.org/…` in the note body—not only `[[wikilinks]]`.
 
 ## Domain map
 
@@ -79,6 +79,24 @@ Research vault for biochar science, production, applications, carbon markets, po
 | US ag (NRCS CPS 336) | [[NRCS CPS 336 and US Ag]] |
 | Product standards | [[Product Standards EBC IBI]] |
 | Industry landscape | [[Industry Hub]] |
+
+
+## Primary links / Primary live links (outbound)
+
+| Resource | URL |
+|---|---|
+| CDR.fyi market tracker | https://www.cdr.fyi/ |
+| Puro CORC indexes (CORCX / CORCCHAR) | https://puro.earth/buy-carbon-credits/removal-certificate-corc/carbon-removal-indexes/ |
+| Puro Registry | https://registry.puro.earth/ |
+| Verra VM0044 v1.2 | https://verra.org/methodologies/vm0044-biochar-utilization-in-soil-and-non-soil-applications-v1-2/ |
+| Isometric Biochar Protocol v1.3 | https://registry.isometric.com/protocol/biochar/1.3 |
+| CSI / Carbon Standards docs | https://www.carbon-standards.com/ |
+| European Biochar Certificate | https://www.european-biochar.org/ |
+| IBI Biochar Standards | https://biochar-international.org/ |
+| ICVCM | https://www.icvcm.org/ |
+| IPCC 2019 biochar appendix (PDF) | https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf |
+
+Prefer these live pages for markets, registries, and standards; keep claim-level citations inside topic notes (see [[Key Sources]]).
 
 ## How to use this vault
 

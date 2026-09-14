@@ -8,6 +8,19 @@ updated: 2026-09-14
 
 Map of the commercial landscape: producers, project developers, offtakers, and how supply meets voluntary CDR demand. This vault already has market volume and buyer notes under Carbon Markets; this hub **links out** rather than duplicating those files.
 
+
+## Live commercial / market links
+
+| Resource | URL |
+|---|---|
+| CDR.fyi tracker & leaderboards | https://www.cdr.fyi/ |
+| Puro CORCCHAR / CORCX | https://puro.earth/buy-carbon-credits/removal-certificate-corc/carbon-removal-indexes/ |
+| Puro Registry | https://registry.puro.earth/ |
+| Verra methodology catalog (VM0044) | https://verra.org/methodologies/vm0044-biochar-utilization-in-soil-and-non-soil-applications-v1-2/ |
+| Isometric registry (biochar) | https://registry.isometric.com/protocol/biochar/1.3 |
+
+Deal press releases and supplier pages are listed under [[Historical Deals]] and [[Key Sources]].
+
 ## Domain purpose
 
 Industry sits at the intersection of:
@@ -46,6 +59,14 @@ See [[Supply Landscape]] for sourced supplier profiles (Exomad Green, Liferaft, 
 - Overlap between product sales (soil amendment) and credit stacking
 - US vs Global South delivery footprints and logistics constraints
 - Post–Q1 2026 delivery against megadeals
+
+
+## Primary links
+
+- [CDR.fyi](https://www.cdr.fyi/)
+- [Puro indexes](https://puro.earth/buy-carbon-credits/removal-certificate-corc/carbon-removal-indexes/)
+- [Puro Registry](https://registry.puro.earth/)
+- Deal press — see [[Historical Deals]] · [[Key Sources]]
 
 ## See also
 

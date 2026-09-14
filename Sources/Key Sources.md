@@ -8,6 +8,33 @@ updated: 2026-09-14
 
 Primary and high-signal references used in this vault. Do not invent papers, DOIs, volumes, or prices beyond this list and the linked notes.
 
+## Live link directory (bookmark)
+
+| Category | Resource | URL |
+|---|---|---|
+| Market tracker | CDR.fyi home | https://www.cdr.fyi/ |
+| Market tracker | Biochar Snapshot 2025 | https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025 |
+| Market tracker | 2024 Year in Review | https://www.cdr.fyi/blog/2024-year-in-review |
+| Market tracker | Q1 2026 Durable CDR Update | https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof |
+| Index | Puro CORCX / CORCCHAR | https://puro.earth/buy-carbon-credits/removal-certificate-corc/carbon-removal-indexes/ |
+| Registry | Puro Registry | https://registry.puro.earth/ |
+| Methodology | Verra VM0044 v1.2 | https://verra.org/methodologies/vm0044-biochar-utilization-in-soil-and-non-soil-applications-v1-2/ |
+| Methodology | Isometric Biochar Protocol v1.3 | https://registry.isometric.com/protocol/biochar/1.3 |
+| Methodology | CSI Global Biochar C-Sink 3.3 PDF | https://www.carbon-standards.com/docs/transfer/4000039EN.pdf |
+| Methodology | CSI service page | https://www.carbon-standards.com/en/standards/service-501~global-biochar-c-sink.html |
+| Integrity | ICVCM home | https://www.icvcm.org/ |
+| Integrity | ICVCM Puro CCP-Eligible | https://www.icvcm.org/integrity-council-confirms-carbon-crediting-program-puro-earth-as-ccp-eligible/ |
+| Integrity | ICVCM VM0044 CCP decision PDF | https://icvcm.org/wp-content/uploads/2025/08/M43_VCS_VM0044_v1.2_2025.pdf |
+| Science | IPCC 2019 biochar appendix PDF | https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf |
+| Product std | EBC | https://www.european-biochar.org/ |
+| Product std | IBI | https://biochar-international.org/ |
+| Policy | NRCS CPS 336 FAQ | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf |
+| Policy | EU CRCF Delegated Reg. 2026/285 | https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32026R0285 |
+
+**Rule:** Prefer these live pages for markets, pricing, registries, and standards. Every vault data claim should carry an outbound `https://…` or `https://doi.org/…` in the note body—not only `[[wikilinks]]`.
+
+
+
 ## Science — foundational
 
 - Glaser et al. (2001). *Naturwissenschaften*. [10.1007/s001140000193](https://doi.org/10.1007/s001140000193)
@@ -96,6 +123,23 @@ Vault Puro cluster: [[Puro.earth Overview]] · [[Puro CORC200+]] · [[Puro Bioch
 - Supercritical / Exomad (up to 500 kt) — https://gosupercritical.com/resources/press/exomad-green-supercritical-agreement (2026-04-16)
 
 Vault market cluster: [[Market Hub]] · [[Market Volumes and Pricing]] · [[Buyers and Offtakes]] · [[Historical Deals]] · [[Price Indexes and Benchmarks]] · [[Supply Landscape]] · [[Durable CDR Quality Tiers]]
+
+
+## Market data — additional deal / supplier press
+
+- Exomad / Supercritical companion post — https://www.exomadgreen.com/post/exomad-green-and-supercritical-sign-500-000-tonne-biochar-agreement
+- Supercritical / Liferaft–Microsoft facilitation — https://gosupercritical.com/resources/press/liferaft-microsoft-offtake
+- Global C-Sink Registry — https://global-c-registry.org/
+- CSI formulas & emission factors PDF — https://www.carbon-standards.com/docs/transfer/4000115EN.pdf
+- Isometric soil storage module — https://registry.isometric.com/module/biochar-storage-soil-environments/1.3
+- Verra ICVCM endorsement announcement — https://verra.org/verras-biochar-and-forest-management-approaches-endorsed-by-icvcm-as-high-integrity-solutions/
+- Puro Biochar permanence science — https://puro.earth/insights/post/biochar-permanence/
+
+## Science — additional DOIs used in vault
+
+- Jeffery et al. (2017). *Environ. Res. Lett.* [10.1088/1748-9326/aa67bd](https://doi.org/10.1088/1748-9326/aa67bd)
+- Roberts et al. (2010). *Environ. Sci. Technol.* [10.1021/es902266r](https://doi.org/10.1021/es902266r)
+- Gaunt & Lehmann (2008). *Environ. Sci. Technol.* [10.1021/es071361i](https://doi.org/10.1021/es071361i)
 
 ## Vault entry points
 

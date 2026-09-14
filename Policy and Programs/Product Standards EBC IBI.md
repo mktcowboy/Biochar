@@ -12,7 +12,7 @@ Brief hub on **product quality standards** for biochar (European Biochar Certifi
 
 | Layer | Examples in vault | What it does |
 |---|---|---|
-| Product standards | EBC / IBI (this note) | Material definition, H/C_org and contaminant limits, use classes |
+| Product standards | [EBC](https://www.european-biochar.org/) / [IBI](https://biochar-international.org/) (this note) | Material definition, H/C_org and contaminant limits, use classes |
 | Carbon methodologies | [[Verra VM0044]], [[Puro Biochar Methodology Edition 2025]], [[Isometric Biochar Protocol]], [[CSI Global Biochar C-Sink]] | Project eligibility, baselines, MRV, issuance |
 | Practice standards | [[NRCS CPS 336 and US Ag]] | Farm conservation practice, not tradable credits |
 
@@ -30,6 +30,13 @@ Brief hub on **product quality standards** for biochar (European Biochar Certifi
 - IBI standard version status and lab methods
 - Where registries *require* vs *accept* EBC/IBI certificates
 - Relationship between product labels and consumer / soil-amendment marketing claims ([[Risks and Controversies]])
+
+## Primary links
+
+- [European Biochar Certificate](https://www.european-biochar.org/)
+- [IBI Biochar Standards](https://biochar-international.org/)
+- [Bilias et al. 2024 IUPAC glossary](https://doi.org/10.1515/pac-2021-0106)
+- [CSI Global Biochar C-Sink 3.3](https://www.carbon-standards.com/docs/transfer/4000039EN.pdf) (requires EBC/WBC-certified biochar)
 
 ## Related notes
 

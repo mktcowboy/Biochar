@@ -46,7 +46,7 @@ CDR.fyi tracks durable removals (hundreds to thousands of years permanence). Cov
 ### Growth narrative
 
 - 2022–2024: purchase tonnage roughly **tripled** year-over-year; 2024 purchases exceeded all prior years combined.
-- Q2 2025: largest BCR quarter ever, driven by Microsoft–Exomad Green **1.24 Mt** ([[Historical Deals]]).
+- Q2 2025: largest BCR quarter ever, driven by Microsoft–Exomad Green **≥1.24 Mt** ([Exomad May 2025](https://www.exomadgreen.com/post/exomad-green-announces-world-s-largest-biochar-carbon-removal-agreement-with-microsoft-tracked-by-c); [[Historical Deals]]).
 - Deliveries and retirements roughly **doubled** annually 2022–2024; Q1–Q2 2025 retirements were closer to flat vs year-ago quarters (+12% / +0.4%).
 
 ### BCR’s role inside durable CDR
@@ -61,7 +61,7 @@ Interpretation: biochar is the **workhorse of delivered/retired tonnes** and the
 
 ### Market value series (pricing basis from 2024 YIR)
 
-Using CDR.fyi’s 2024 Year-in-Review pricing basis applied to BCR volumes:
+Using CDR.fyi’s [2024 Year-in-Review](https://www.cdr.fyi/blog/2024-year-in-review) pricing basis applied to BCR volumes ([Snapshot 2025](https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025)):
 
 | Year | Est. BCR market value |
 |---|---|
@@ -116,11 +116,11 @@ Full citations in [[Historical Deals]]:
 
 | Buyer / facilitator | Seller | Volume |
 |---|---|---|
-| Microsoft | Liferaft | **1 Mt** (~43.5% of quarter) |
-| Supercritical | Exomad Green | **500 kt** |
-| Altitude | Empacar | **305 kt** |
-| Google | AMP | **200 kt** |
-| Undisclosed via Senken | Exomad Green | **105 kt** |
+| Microsoft | Liferaft | **1 Mt** (~43.5% of quarter) ([Liferaft](https://www.liferaft.cc/news/liferaft-microsoft-announcement)) |
+| Supercritical | Exomad Green | **up to 500 kt** ([Supercritical](https://gosupercritical.com/resources/press/exomad-green-supercritical-agreement)) |
+| Altitude | Empacar | **>305 kt** ([Altitude](https://www.altitudecarbon.com/news/altitude-partners-with-empacar)) |
+| Google | AMP | **200 kt** ([AMP](https://ampsortation.com/articles/google-biochar-carbon-credits)) |
+| Undisclosed via Senken | Exomad Green | **105 kt** ([CDR.fyi Q1 2026](https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof)) |
 
 Exomad + Varaha ≈ **70%** of Q1 **deliveries**. Investment aside: Varaha raised **$20M** in Q1 2026 (CDR.fyi).
 
@@ -149,8 +149,8 @@ Deep how-to-read: [[Price Indexes and Benchmarks]] · [[Puro Pricing and CORC In
 
 | Observation | Detail | Caveat |
 |---|---|---|
-| All-method WAP ↓ | $490 → $320 / t (2023→2024) | Mix of DAC, BECCS, EW, BCR, etc. |
-| Biochar ↑ | **+18%** YoY | Exact BCR mean **undisclosed** in abridged YIR |
+| All-method WAP ↓ | $490 → $320 / t (2023→2024) ([YIR](https://www.cdr.fyi/blog/2024-year-in-review)) | Mix of DAC, BECCS, EW, BCR, etc. |
+| Biochar ↑ | **+18%** YoY ([YIR](https://www.cdr.fyi/blog/2024-year-in-review)) | Exact BCR mean **undisclosed** in abridged YIR |
 | Narrow BCR band | YIR says biochar settled into a “relatively narrow price range” | No numeric band published in abridged post |
 | Megadeal unit prices | Generally **not** in press releases | Major transparency gap |
 
@@ -180,9 +180,9 @@ Public abridged sources **do not quantify** CCP-label or 1000-year-path premiums
 
 | Signal | Figure | Source |
 |---|---|---|
-| Puro biochar CORC issuance → transfer/retirement | **95 days (2021) → 22 days (mid-2025)** | Snapshot citing Puro Aug 2025 report |
-| Retired : delivered (BCR cumulative) | ~**50%** by end-Q2 2025 | Snapshot 2025 |
-| Intermediary share of Q1 2026 tonnes | **74%** | Q1 2026 update |
+| Puro biochar CORC issuance → transfer/retirement | **95 days (2021) → 22 days (mid-2025)** | [Snapshot 2025](https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025) citing Puro Aug 2025 report |
+| Retired : delivered (BCR cumulative) | ~**50%** by end-Q2 2025 | [Snapshot 2025](https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025) |
+| Intermediary share of Q1 2026 tonnes | **74%** | [Q1 2026](https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof) |
 
 Faster CORC turnover improves working-capital dynamics for suppliers on the Puro stack ([[Puro Project Cycle and MRV]] · [[Puro Pricing and CORC Indexes]]).
 

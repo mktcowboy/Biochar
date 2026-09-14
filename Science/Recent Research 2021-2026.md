@@ -27,7 +27,7 @@ aliases: [Recent reviews, 2021-2026 research]
 
 9. **Global field vs lab synthesis (2022).** *Renewable & Sustainable Energy Reviews*. Field: yield **+15.7%**, CH₄ **−14.8%**, N₂O **−23.1%**, SOC stocks **+26.6%**.
 
-10. **Jeffery et al. (2017).** Biochar boosts tropical but not temperate crop yields. *Environ. Res. Lett.* 12:053001 — still widely cited.
+10. **Jeffery et al. (2017).** Biochar boosts tropical but not temperate crop yields. *Environ. Res. Lett.* 12:053001. DOI: [10.1088/1748-9326/aa67bd](https://doi.org/10.1088/1748-9326/aa67bd) — still widely cited.
 
 11. **Ye et al. (2020).** Biochar effects on crop yields with and without fertilizer… *Soil Use Manage.* 36:2–18 — used heavily in Lehmann 2021.
 
@@ -37,7 +37,11 @@ aliases: [Recent reviews, 2021-2026 research]
 
 ## Contaminants / process
 
-PAH content depends on feedstock, T, vapor residence, and especially post-pyrolysis vapor condensation. Clean process design + batch testing against EBC/IBI limits is the practical consensus. See [[Contaminants and Quality]].
+PAH content depends on feedstock, T, vapor residence, and especially post-pyrolysis vapor condensation. Clean process design + batch testing against EBC/IBI limits is the practical consensus. See [[Contaminants and Quality]]; product limits: [EBC](https://www.european-biochar.org/) / [IBI](https://biochar-international.org/).
+
+## Primary links
+
+DOIs above resolve via `https://doi.org/…`. IPCC appendix: [PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf). Directory: [[Key Sources]].
 
 ## Related notes
 

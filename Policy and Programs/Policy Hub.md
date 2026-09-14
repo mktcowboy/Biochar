@@ -37,6 +37,17 @@ Keep these layers separate when reading methodologies or offtake contracts.
 - Public procurement or labeling rules for biochar products
 - Interaction of compliance markets with voluntary BCR (if/when sources exist)
 
+## Primary links
+
+| Resource | URL |
+|---|---|
+| NRCS CPS 336 FAQ (Apr 2026 PDF) | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf |
+| EBC | https://www.european-biochar.org/ |
+| IBI | https://biochar-international.org/ |
+| Verra VM0044 v1.2 | https://verra.org/methodologies/vm0044-biochar-utilization-in-soil-and-non-soil-applications-v1-2/ |
+| EU CRCF Delegated Reg. 2026/285 | https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32026R0285 |
+| ICVCM | https://www.icvcm.org/ |
+
 ## See also
 
 - [[Carbon Markets Hub]] · [[Applications Hub]] · [[Production Hub]]

@@ -82,7 +82,7 @@ Full commercial context (fees, offtake waiver, liquidity days): [[Puro Pricing a
 [[Durable CDR Quality Tiers]] hypothesizes CCP / 1000-year / delivery premia. As of research date:
 
 - **No** public table of BCR $/t by registry or CCP label in CDR.fyi abridged posts.
-- [[Verra VM0044]] CCP-Approved status (2025-07-24) may influence RFP eligibility more than observable spot spreads.
+- [[Verra VM0044]] [CCP-Approved](https://icvcm.org/wp-content/uploads/2025/08/M43_VCS_VM0044_v1.2_2025.pdf) status (2025-07-24; [methodology](https://verra.org/methodologies/vm0044-biochar-utilization-in-soil-and-non-soil-applications-v1-2/)) may influence RFP eligibility more than observable spot spreads.
 - Puro biochar methodology **not yet CCP-Approved** while program is CCP-Eligible ([ICVCM 2025-12-11](https://www.icvcm.org/integrity-council-confirms-carbon-crediting-program-puro-earth-as-ccp-eligible/))—segmentation risk, not a measured €/t delta.
 
 ---

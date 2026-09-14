@@ -22,6 +22,11 @@ aliases: [What is biochar, Biochar definition]
 | Hydrochar | Hydrothermal carbonization; typically higher H/C, less aromatic |
 | Biocoal / torrefied biomass | Mainly energy fuel |
 
+## Primary links
+
+- [Bilias et al. 2024 IUPAC glossary](https://doi.org/10.1515/pac-2021-0106)
+- [IPCC 2019 Refinement App. 4 (PDF)](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)
+
 ## Related notes
 
 - [[Production]] — how it is made

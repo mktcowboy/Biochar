@@ -32,6 +32,11 @@ aliases: [CPS 336, NRCS, Soil Carbon Amendment]
 6. **Application:** Incorporate where possible; watch pH, EC, P loading, slope/erosion; consider compost blends.
 7. **MRV systems:** Batch IDs, weigh tickets, geotagged application, 5+ year record retention.
 
+## Primary links
+
+- [NRCS CPS 336 FAQ (Apr 2026)](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)
+- [EBC](https://www.european-biochar.org/) · [IBI](https://biochar-international.org/)
+
 ## Related notes
 
 - [[Crop Yield Effects]]

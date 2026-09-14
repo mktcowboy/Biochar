@@ -20,7 +20,7 @@ This is **carbon dioxide removal (CDR)** / **biochar carbon removal (BCR)** when
 ## Why treated as durable
 
 - Higher pyrolysis severity → lower H/C_org (and often O/C_org) → slower mineralization.
-- IPCC 2019 F_perm ≈ 0.65 / 0.80 / 0.89 by temperature class at ~20 °C baseline.
+- [IPCC 2019](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) F_perm ≈ 0.65 / 0.80 / 0.89 by temperature class at ~20 °C baseline.
 - Woolf et al. (2021) refined with H/C_org + soil temperature. DOI: [10.1021/acs.est.1c02425](https://doi.org/10.1021/acs.est.1c02425)
 - Petrographic approaches (Ro / inertinite) argue millennial persistence for highly condensed fractions (Sanei et al. 2024; DOI: [10.1016/j.coal.2023.104409](https://doi.org/10.1016/j.coal.2023.104409)).
 
@@ -29,6 +29,13 @@ This is **carbon dioxide removal (CDR)** / **biochar carbon removal (BCR)** when
 ## Soil / materials pathways
 
 Dominant voluntary-market pathway for ag operators: **soil application** (direct spreading, compost/manure/digestate blends, or bedding/feed routes where allowed). Non-soil pathways (concrete, asphalt) also generate credits under Verra, Puro, Isometric, and CSI with different end-use evidence.
+
+## Primary links
+
+- [IPCC 2019 App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)
+- [Lehmann et al. 2021](https://doi.org/10.1038/s41561-021-00852-8)
+- [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425)
+- [CDR.fyi](https://www.cdr.fyi/)
 
 ## Related notes
 

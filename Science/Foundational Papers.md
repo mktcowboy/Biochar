@@ -25,10 +25,14 @@ Approximate Semantic Scholar citation counts (accessed 2026-09-14). These works 
 ### Also foundational (counts not retrieved in report session)
 
 - Lehmann & Joseph (eds.). *Biochar for Environmental Management* (2009; 2nd ed. 2015) — field handbook
-- Roberts et al. (2010). LCA of biochar systems. *Environ. Sci. Technol.* 44:827–833
-- Gaunt & Lehmann (2008). Energy balance and emissions… *Environ. Sci. Technol.* 42:4152–4158
+- Roberts et al. (2010). LCA of biochar systems. *Environ. Sci. Technol.* 44:827–833 — [10.1021/es902266r](https://doi.org/10.1021/es902266r) 
+- Gaunt & Lehmann (2008). Energy balance and emissions… *Environ. Sci. Technol.* 42:4152–4158 — [10.1021/es071361i](https://doi.org/10.1021/es071361i)
 
 **Context:** Woolf (2010) and Lehmann (2006/2007) dominate climate-mitigation framing; Keiluweit (2010) and Spokas (2010) dominate materials/stability; Jeffery (2011) and Cayuela (2014) dominate agronomy/N₂O metas; Glaser (2001) remains the historical origin story.
+
+## Primary links
+
+All DOIs in the table above resolve via `https://doi.org/…`. Full directory: [[Key Sources]].
 
 ## Related notes
 
