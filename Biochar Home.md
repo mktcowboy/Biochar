@@ -40,6 +40,11 @@ Research vault for biochar science, carbon markets, and durable CDR. Notes synth
 | MRV | [[MRV Stack]] |
 | Verra VM0044 | [[Verra VM0044]] |
 | Puro CORC200+ | [[Puro CORC200+]] |
+| Puro.earth overview | [[Puro.earth Overview]] |
+| Puro Edition 2025 method | [[Puro Biochar Methodology Edition 2025]] |
+| Puro project cycle / MRV | [[Puro Project Cycle and MRV]] |
+| Puro pricing / indexes | [[Puro Pricing and CORC Indexes]] |
+| Puro vs other standards | [[Puro vs Other Standards]] |
 | Isometric | [[Isometric Biochar Protocol]] |
 | CSI C-Sink | [[CSI Global Biochar C-Sink]] |
 | Volumes & prices | [[Market Volumes and Pricing]] |
