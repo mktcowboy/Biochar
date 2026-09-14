@@ -1,0 +1,25 @@
+.DS_Store
+Thumbs.db
+
+# Obsidian local/per-machine UI state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+**/.obsidian/workspace*.json
+**/.obsidian/cache/
+**/.obsidian/plugins/*/data.json
+
+# Trash & recovery snapshots
+.trash/
+**/.trash/
+.obsidian.rollback-temp-*/
+.obsidian.safe-reset-*/
+
+# Claude Code local settings (machine-specific paths)
+.claude/
+
+# Python build artifacts
+__pycache__/
+*.pyc
+
+# Windows / shell crash dumps
+*.stackdump
