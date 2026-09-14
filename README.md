@@ -1,25 +1,31 @@
 # Biochar
 
-An Obsidian-compatible Markdown vault for biochar notes, research, and cross-references.
+An Obsidian research vault on biochar science, soil applications, carbon markets, and durable CDR — published as a static site with [Quartz 4](https://quartz.jzhao.xyz/).
+
+## Live site
+
+https://mktcowboy.github.io/Biochar/
 
 ## Structure
 
-Top-level domains (wikilinks are filename-based, so folder moves do not break `[[links]]`):
+- `content/` — the vault notes (edit these in Obsidian or here)
+- `site/` — Quartz static-site generator and configuration
+- `.github/workflows/deploy.yml` — builds and deploys to GitHub Pages on every push to `main`
 
-- `Science/` — definition, permanence, literature, CDR/IPCC accounting
-- `Production/` — pyrolysis, properties, contaminants, feedstocks
-- `Applications/` — soil/ag effects, materials & built uses
-- `Carbon Markets/` — concepts, `Methodologies/`, `Market/`
-- `Policy and Programs/` — NRCS, product standards (EBC/IBI)
-- `Industry/` — commercial landscape hub (links to market notes)
-- `Sources/` — bibliography and primary URLs
+## Develop locally
 
-Start at [[Biochar Home]] (file: `Biochar Home.md`).
+```bash
+cd site
+npm install
+npx quartz build --directory ../content --serve
+```
 
-## Sync
+Then open http://localhost:8080.
 
-This repository is the source of truth for the vault. Machine-specific Obsidian UI state and local settings are excluded via `.gitignore`.
+## Updating content
 
-## Citation rule
+Edit notes under `content/`, commit, and push to `main`. The GitHub Action rebuilds and redeploys automatically.
 
-Data claims in notes should include outbound primary-source URLs (`https://…` or `https://doi.org/…`) in the note body—not only Obsidian `[[wikilinks]]`. See `Sources/Key Sources.md` for the live link directory.
+---
+
+Built with [Quartz](https://quartz.jzhao.xyz/) v4.5.2 (MIT, see `site/LICENSE.txt`).

@@ -23,3 +23,8 @@ __pycache__/
 
 # Windows / shell crash dumps
 *.stackdump
+
+# Quartz / Node
+site/node_modules/
+site/quartz/.quartz-cache/
+public/
