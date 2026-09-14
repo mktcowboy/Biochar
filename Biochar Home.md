@@ -14,7 +14,7 @@ Research vault for biochar science, production, applications, carbon markets, po
 |---|---|---|
 | Science | [[Science Hub]] | Definition, permanence, literature, CDR/IPCC accounting, debates |
 | Production | [[Production Hub]] | Pyrolysis, properties, contaminants, feedstocks |
-| Applications | [[Applications Hub]] | Soil/ag, yields, GHG fluxes, materials & built uses |
+| Applications | [[Applications Hub]] | Soil/ag chapter set, yields, GHG, rates, real-world projects, materials |
 | Carbon markets | [[Carbon Markets Hub]] | Methodologies, MRV, market volumes, buyers, risks |
 | Policy & programs | [[Policy Hub]] | NRCS CPS 336, EBC/IBI product standards |
 | Industry | [[Industry Hub]] | Producers, offtakers, project landscape (links out) |
@@ -46,9 +46,14 @@ Research vault for biochar science, production, applications, carbon markets, po
 
 | Topic | Note |
 |---|---|
-| Soil & agriculture map | [[Soil and Agriculture]] |
+| Applications MOC | [[Applications Hub]] |
+| **Soil & agriculture (primary chapter)** | [[Soil and Agriculture]] |
 | Crop yields | [[Crop Yield Effects]] |
-| N₂O / CH₄ / priming | [[GHG Fluxes]] |
+| N₂O / CH₄ / priming (ag) | [[GHG Fluxes]] |
+| Rates & methods / NRCS scenarios | [[Application Rates and Methods]] |
+| Real-world soil projects | [[Real World Soil Projects]] |
+| Compost & manure blends | [[Biochar Compost and Manure Blends]] |
+| Agronomic economics | [[Agronomic Economics]] |
 | Materials & built uses | [[Materials and Built Uses]] |
 
 ## Carbon markets
