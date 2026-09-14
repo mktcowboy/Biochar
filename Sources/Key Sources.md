@@ -147,7 +147,7 @@ Vault market cluster: [[Market Hub]] · [[Market Volumes and Pricing]] · [[Buye
 - Hagemann et al. (2017). Organic coating. *Nat. Commun.* [10.1038/s41467-017-01123-0](https://doi.org/10.1038/s41467-017-01123-0)
 - Hagemann et al. (2017). Nitrate capture & slow release. *PLOS ONE* [10.1371/journal.pone.0171214](https://doi.org/10.1371/journal.pone.0171214)
 - Joseph et al. (2018). Composting microstructure / nutrient retention. [10.1016/j.scitotenv.2017.09.200](https://doi.org/10.1016/j.scitotenv.2017.09.200)
-- Ndoung et al. (2021). BCF enrichment scoping review. [10.1016/j.heliyon.2021.e08501](https://doi.org/10.1016/j.heliyon.2021.e08501) · [PMC8646155](https://pmc.ncbi.nlm.nih.gov/articles/PMC8646155/)
+- Ndoung et al. (2021). BCF enrichment scoping review. [10.1016/j.heliyon.2021.e08473](https://doi.org/10.1016/j.heliyon.2021.e08473) · [PMC8646155](https://pmc.ncbi.nlm.nih.gov/articles/PMC8646155/)
 - Melo et al. (2022). BBF productivity meta-analysis. [10.1007/s11104-021-05276-2](https://doi.org/10.1007/s11104-021-05276-2)
 - Microbial inocula + biochar meta. *Soil Sci. Soc. Am. J.* [10.1002/saj2.20792](https://doi.org/10.1002/saj2.20792)
 - Schmidt et al. (2015). Urine-enhanced biochar pumpkin trial. [10.3390/agriculture5030723](https://doi.org/10.3390/agriculture5030723)
@@ -169,6 +169,48 @@ Vault market cluster: [[Market Hub]] · [[Market Volumes and Pricing]] · [[Buye
 - Carbon Gold Enriched Biochar — https://www.carbongold.com/biochar-soil-improver/
 - Wakefield CarbonBoost — https://wakefieldbiochar.com/products/wakefield-biochar-with-carbonboost-premium-soil-conditioner/
 
+
+
+
+## Nutrients & fertilizer chemistry
+
+- Nguyen et al. (2017). Soil inorganic N meta. [10.1016/j.geoderma.2016.11.004](https://doi.org/10.1016/j.geoderma.2016.11.004)
+- Clough et al. (2013). Biochar and soil N dynamics review. [10.3390/agronomy3020275](https://doi.org/10.3390/agronomy3020275)
+- Taghizadeh-Toosi et al. (2012). Biochar-adsorbed NH₃ bioavailable. [10.1007/s11104-011-0870-3](https://doi.org/10.1007/s11104-011-0870-3)
+- Hestrin et al. (2019). Covalent ammonia retention. [10.1038/s41467-019-08401-z](https://doi.org/10.1038/s41467-019-08401-z)
+- Kammann et al. (2015). Nitrate capture / co-composted biochar. [10.1038/srep11080](https://doi.org/10.1038/srep11080)
+- Hagemann et al. (2017). Organic coating. [10.1038/s41467-017-01123-0](https://doi.org/10.1038/s41467-017-01123-0)
+- Hagemann et al. (2017). Nitrate capture PLOS. [10.1371/journal.pone.0171214](https://doi.org/10.1371/journal.pone.0171214)
+- Ndoung et al. (2021). BCF enrichment scoping review. [10.1016/j.heliyon.2021.e08473](https://doi.org/10.1016/j.heliyon.2021.e08473) · [PMC8646155](https://pmc.ncbi.nlm.nih.gov/articles/PMC8646155/)
+- Melo et al. (2022). BBF productivity meta. [10.1007/s11104-021-05276-2](https://doi.org/10.1007/s11104-021-05276-2)
+- Marschner et al. (2022). BCF N uptake / coating limits. [10.1007/s11104-022-05365-w](https://doi.org/10.1007/s11104-022-05365-w)
+- Puga et al. (2020). Biochar-based N fertilizers. [10.1016/j.scitotenv.2019.135375](https://doi.org/10.1016/j.scitotenv.2019.135375)
+- Ippolito et al. (2020). Feedstock × HTT nutrient meta. [10.1007/s42773-020-00067-x](https://doi.org/10.1007/s42773-020-00067-x)
+- NPK cycles review. [10.1186/s40538-020-00182-8](https://doi.org/10.1186/s40538-020-00182-8)
+- P fate review. [10.1016/j.chemosphere.2021.131176](https://doi.org/10.1016/j.chemosphere.2021.131176)
+- Silber et al. (2010). pH-dependent mineral release. [10.1021/es101283d](https://doi.org/10.1021/es101283d)
+- Ye et al. (2020). Biochar ± fertilizer field meta. [10.1111/sum.12555](https://doi.org/10.1111/sum.12555) · [PDF](https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf)
+- BCF advancements review (2025). [10.3390/agronomy15051104](https://doi.org/10.3390/agronomy15051104)
+- Chapter: [[Biochar Nutrients and Fertilizer Chemistry]]
+
+## Microbes & soil biology
+
+- Lehmann et al. (2011). Biochar effects on soil biota. [10.1016/j.soilbio.2011.04.022](https://doi.org/10.1016/j.soilbio.2011.04.022)
+- Quilliam et al. (2013). Sparse field colonization. [10.1016/j.soilbio.2013.06.004](https://doi.org/10.1016/j.soilbio.2013.06.004)
+- Microbial inocula + biochar meta. [10.1002/saj2.20792](https://doi.org/10.1002/saj2.20792)
+- Biochar as microbial carrier review. [10.1016/j.scitotenv.2023.163968](https://doi.org/10.1016/j.scitotenv.2023.163968)
+- Diversity / productivity meta. [10.1007/s42773-022-00138-1](https://doi.org/10.1007/s42773-022-00138-1)
+- Disease suppression meta. [10.1007/s42773-022-00164-z](https://doi.org/10.1007/s42773-022-00164-z)
+- Bacterial disease meta. [10.14393/bj-v39n0a2023-67325](https://doi.org/10.14393/bj-v39n0a2023-67325)
+- PGPR + biochar review. [10.1186/s40538-022-00327-x](https://doi.org/10.1186/s40538-022-00327-x)
+- Biochar–AMF synergies systematic review. [PeerJ](https://peerj.com/articles/21336/)
+- Chew et al. (2020). BCF rhizosphere. [10.1016/j.scitotenv.2019.136431](https://doi.org/10.1016/j.scitotenv.2019.136431)
+- Wang et al. (2016). Priming meta. [10.1111/gcbb.12266](https://doi.org/10.1111/gcbb.12266)
+- Weng et al. (2017). Decade-scale negative priming. [10.1038/nclimate3276](https://doi.org/10.1038/nclimate3276)
+- Jaiswal et al. (2014). Rhizoctonia dose–response. [10.1016/j.soilbio.2013.10.047](https://doi.org/10.1016/j.soilbio.2013.10.047)
+- Soil fauna meta. [10.1111/sum.13096](https://doi.org/10.1111/sum.13096)
+- Earthworm activity review. [10.1007/s42773-023-00287-x](https://doi.org/10.1007/s42773-023-00287-x)
+- Chapter: [[Biochar Microbes and Soil Biology]]
 
 ## Vault entry points
 

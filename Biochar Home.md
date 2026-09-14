@@ -53,6 +53,8 @@ Research vault for biochar science, production, applications, carbon markets, po
 | Rates & methods / NRCS scenarios | [[Application Rates and Methods]] |
 | Real-world soil projects | [[Real World Soil Projects]] |
 | **Inoculation / charging / BBFs** | [[Biochar Inoculation for Fertilizer]] |
+| **Nutrients & fertilizer chemistry** | [[Biochar Nutrients and Fertilizer Chemistry]] |
+| **Microbes & soil biology** | [[Biochar Microbes and Soil Biology]] |
 | Compost & manure blends | [[Biochar Compost and Manure Blends]] |
 | Agronomic economics | [[Agronomic Economics]] |
 | Materials & built uses | [[Materials and Built Uses]] |

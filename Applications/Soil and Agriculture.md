@@ -24,6 +24,8 @@ Most historical agronomy and a large share of voluntary biochar CDR still assume
 | Named farms, vineyards, credit projects | [[Real World Soil Projects]] |
 | Compost / manure co-application | [[Biochar Compost and Manure Blends]] |
 | **Inoculation / charging / BBFs** | [[Biochar Inoculation for Fertilizer]] |
+| **Nutrients & fertilizer chemistry** | [[Biochar Nutrients and Fertilizer Chemistry]] |
+| **Microbes & soil biology** | [[Biochar Microbes and Soil Biology]] |
 | Cost / benefit (sourced only) | [[Agronomic Economics]] |
 | US EQIP/CSP practice | [[NRCS CPS 336 and US Ag]] |
 | Persistence of applied C | [[Permanence]] · [[Permanence Science for Credits]] |
@@ -66,6 +68,13 @@ Fresh biochar can temporarily **immobilize nutrients**; NRCS and USBI therefore 
 
 Credit/MRV: Puro soil amendment **pure/mixed** (AF1–AF2) remains eligible end-use; co-composting does not erase aromatic C stability for permanence chemistry ([Hagemann 2017](https://doi.org/10.1038/s41467-017-01123-0); [[Puro Biochar Methodology Edition 2025]]). Details: [[Biochar Inoculation for Fertilizer]] §9.
 
+### 1.2c Nutrients & fertilizer chemistry (chapter pointer)
+
+Deep chemistry of N/P/K, CEC/AEC, liming, BBF formulations, and fertilizer-use efficiency: [[Biochar Nutrients and Fertilizer Chemistry]]. Headline metas: soil inorganic N mean ~**−11% NH₄⁺ / −10% NO₃⁻** in the first year class of evidence ([Nguyen 2017](https://doi.org/10.1016/j.geoderma.2016.11.004)); BBFs at mean **0.9 t ha⁻¹** give **+10%** productivity vs fertilized controls ([Melo 2022](https://doi.org/10.1007/s11104-021-05276-2)); biochar+fertilizer field synergy ~**+15%** ([Ye 2020](https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf)).
+
+### 1.2d Microbes & soil biology (chapter pointer)
+
+Habitat vs sparse colonization, inocula efficacy, AMF/PGPR, priming, and disease-suppression uncertainty: [[Biochar Microbes and Soil Biology]]. Key contrast: biota review ([Lehmann 2011](https://doi.org/10.1016/j.soilbio.2011.04.022)) vs sparse field colonization of wood char ([Quilliam 2013](https://doi.org/10.1016/j.soilbio.2013.06.004)); inocula meta favors local/fungal over commercial products ([DOI](https://doi.org/10.1002/saj2.20792)).
 
 ### 1.3 Microbial habitat and SOC interactions
 

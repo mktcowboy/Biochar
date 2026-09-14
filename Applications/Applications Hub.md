@@ -28,9 +28,17 @@ Science and markets both care *where* char is placed:
 | [[Application Rates and Methods]] | t/ha & yd³/ac, incorporation, banding, NRCS scenarios |
 | [[Real World Soil Projects]] | Named farms, vineyards, composting, credit soil projects + URLs |
 | [[Biochar Inoculation for Fertilizer]] | **Charging / inoculation / BBFs / COMBI** — mechanisms, protocols, evidence, products |
+| [[Biochar Nutrients and Fertilizer Chemistry]] | **N/P/K/CEC/liming chemistry** — sorption, BBF formulations, FUE, safety |
+| [[Biochar Microbes and Soil Biology]] | **Habitat, inocula, AMF/PGPR, priming, disease** — biology spine for inoculation |
 | [[Biochar Compost and Manure Blends]] | Co-composting, CPS 336 blend recipes, facility trials |
 | [[Agronomic Economics]] | Sourced cost/benefit (Oasis, Galinato, NRCS payments) |
 | [[Materials and Built Uses]] | Non-soil pathways; credit eligibility links |
+
+## Quick links — nutrients & microbes (inoculation spine)
+
+- Nutrients chapter: [[Biochar Nutrients and Fertilizer Chemistry]] — [Nguyen 2017 SIN meta](https://doi.org/10.1016/j.geoderma.2016.11.004) · [Melo 2022 BBF](https://doi.org/10.1007/s11104-021-05276-2) · [Ndoung 2021](https://doi.org/10.1016/j.heliyon.2021.e08473)
+- Microbes chapter: [[Biochar Microbes and Soil Biology]] — [Lehmann 2011](https://doi.org/10.1016/j.soilbio.2011.04.022) · [Quilliam 2013](https://doi.org/10.1016/j.soilbio.2013.06.004) · [Inocula meta](https://doi.org/10.1002/saj2.20792)
+- Practice bridge: [[Biochar Inoculation for Fertilizer]]
 
 ## Quick links — soil mechanisms
 
@@ -59,4 +67,4 @@ Science and markets both care *where* char is placed:
 
 ## Research dump
 
-Working notes: `/workspace/biochar-research/soil-agriculture-applications.md` · `/workspace/biochar-research/biochar-inoculation.md` (box paths; not necessarily in git).
+Working notes: `/workspace/biochar-research/soil-agriculture-applications.md` · `/workspace/biochar-research/biochar-inoculation.md` · `/workspace/biochar-research/biochar-nutrients.md` · `/workspace/biochar-research/biochar-microbes.md` (box paths; not necessarily in git).

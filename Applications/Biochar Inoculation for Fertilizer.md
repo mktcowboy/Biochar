@@ -10,7 +10,9 @@ Chapter on **inoculating / charging / activating / enriching** biochar before us
 
 **Hard rule for this vault:** every quantitative or named claim below carries an outbound URL or DOI. Companion dump: `/workspace/biochar-research/biochar-inoculation.md` (box path).
 
-**Related notes:** [[Biochar Compost and Manure Blends]] · [[Soil and Agriculture]] · [[Application Rates and Methods]] · [[Crop Yield Effects]] · [[Agronomic Economics]] · [[Contaminants and Quality]] · [[Product Standards EBC IBI]] · [[NRCS CPS 336 and US Ag]] · [[MRV Stack]] · [[Applications Hub]] · [[Key Sources]]
+> **Companion deep chapters (2026-09-14):** [[Biochar Nutrients and Fertilizer Chemistry]] (N/P/K, CEC, BBF chemistry, FUE) · [[Biochar Microbes and Soil Biology]] (habitat, inocula meta, AMF/PGPR, priming, disease). This note stays the **practice/protocol** spine—charge methods, COMBI, products, decision trees—without duplicating those chemistry/biology chapters.
+
+**Related notes:** [[Biochar Nutrients and Fertilizer Chemistry]] · [[Biochar Microbes and Soil Biology]] · [[Biochar Compost and Manure Blends]] · [[Soil and Agriculture]] · [[Application Rates and Methods]] · [[Crop Yield Effects]] · [[Agronomic Economics]] · [[Contaminants and Quality]] · [[Product Standards EBC IBI]] · [[NRCS CPS 336 and US Ag]] · [[MRV Stack]] · [[Applications Hub]] · [[Key Sources]]
 
 ---
 
@@ -34,7 +36,7 @@ Practitioners and papers use overlapping words. Map them deliberately:
 |---|---|---|
 | **Inoculate** | NRCS, USBI, farm practice | Load char with **biological** media and/or microbes (compost, compost tea, manure, EM, mycorrhizae, PGP bacteria) before or during soil application ([CPS 336](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf); [USBI](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf)) |
 | **Charge / activate** | USBI, retailers, growers | Synonyms for filling pores/surfaces with **nutrients ± microbes**; USBI lists inoculating/charging/activating/blending/mixing together ([USBI](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf)) |
-| **Enrich / BCF / BBF** | Peer-reviewed literature | Produce **nutrient-enriched biochar fertilizers** via direct pyrolysis of nutrient-rich feedstocks, **pre-pyrolysis** impregnation, or **post-pyrolysis** nutrient loading ([Ndoung et al. 2021](https://doi.org/10.1016/j.heliyon.2021.e08501); PMC https://pmc.ncbi.nlm.nih.gov/articles/PMC8646155/; Melo et al. 2022 [DOI](https://doi.org/10.1007/s11104-021-05276-2); 2025 review [DOI](https://doi.org/10.3390/agronomy15051104)) |
+| **Enrich / BCF / BBF** | Peer-reviewed literature | Produce **nutrient-enriched biochar fertilizers** via direct pyrolysis of nutrient-rich feedstocks, **pre-pyrolysis** impregnation, or **post-pyrolysis** nutrient loading ([Ndoung et al. 2021](https://doi.org/10.1016/j.heliyon.2021.e08473); PMC https://pmc.ncbi.nlm.nih.gov/articles/PMC8646155/; Melo et al. 2022 [DOI](https://doi.org/10.1007/s11104-021-05276-2); 2025 review [DOI](https://doi.org/10.3390/agronomy15051104)) |
 | **Co-compost / COMBI** | Science + industry | Add biochar **into** active composting so surfaces develop an **organic coating** and capture nutrients (esp. nitrate); product often outperforms simple post-compost blending ([Kammann 2015](https://doi.org/10.1038/srep11080); [Antonangelo et al. 2021](https://doi.org/10.1016/j.jenvman.2020.111443); [Pacific Biochar white paper](https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf)) |
 | **Physicochemical post-processing** | Gale 2021 and engineering literature | Leaching, grinding/sieving, aeration/heating, steam or chemical activation — **distinct** from biological inoculation; Gale’s meta **excluded** co-composting and inoculation ([DOI](https://doi.org/10.1007/s42773-021-00115-0)) |
 
@@ -50,12 +52,18 @@ Biochar’s high surface area and porous structure enable sorption of water and 
 
 ### 3.2 Nitrogen immobilization and labile C
 
+> Full N chemistry (NH₄⁺/NO₃⁻ metas, volatilization, FUE): [[Biochar Nutrients and Fertilizer Chemistry]].
+
+
 - **Bruun et al. (2012)** document how slow vs fast pyrolysis biochars alter soil C and N turnover dynamics, including immobilization pathways ([DOI](https://doi.org/10.1016/j.soilbio.2011.11.019)).
 - Fresh chars with residual **labile C** can stimulate microbial N demand (priming / immobilization narratives; Cross & Sohi 2011 priming potential: https://doi.org/10.1016/j.soilbio.2011.06.016).
 - Longer-term SOC metas often show **mean negative priming** (Wang et al. 2016 ~**−4%**; [DOI](https://doi.org/10.1111/gcbb.12266)), but **short-term** immobilization after fresh wood-char application remains a farm-relevant risk flagged by NRCS and USBI ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf); [USBI](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf)).
 - Charosphere work shows **localized** N immobilization and community shifts around particles ([e.g. DOI](https://doi.org/10.1007/s42773-023-00247-5); N-cycling traits along charosphere gradients [DOI](https://doi.org/10.1016/j.soilbio.2021.108420)).
 
 ### 3.3 Microbial habitat: promise and debate
+
+> Full biota chapter (inocula meta, AMF/PGPR, disease uncertainty): [[Biochar Microbes and Soil Biology]].
+
 
 **Habitat narrative (practice + many reviews):** pores provide refuge, moisture, and surfaces for biofilms; co-composting enhances microbial habitat and compost maturity ([Sanchez-Monedero et al. 2018](https://doi.org/10.1016/j.biortech.2017.09.193); Lehmann et al. 2011 biota review [DOI](https://doi.org/10.1016/j.soilbio.2011.04.022); Pacific Biochar white paper [PDF](https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf)).
 
@@ -95,7 +103,7 @@ Kammann et al. (2015) and Hagemann et al. (2017 *PLOS ONE*) document **nitrate c
 
 ### 4.5 Precipitation and engineered mineral enrichment
 
-Pre- and post-pyrolysis impregnation with Mg, P sources, struvite, clays, etc., can form **slow-release precipitates** (e.g. Mg–P) and composites — summarized across dozens of studies in Ndoung et al. (2021) ([DOI](https://doi.org/10.1016/j.heliyon.2021.e08501); [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8646155/)).
+Pre- and post-pyrolysis impregnation with Mg, P sources, struvite, clays, etc., can form **slow-release precipitates** (e.g. Mg–P) and composites — summarized across dozens of studies in Ndoung et al. (2021) ([DOI](https://doi.org/10.1016/j.heliyon.2021.e08473); [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8646155/)).
 
 ### 4.6 Biofilms and microbial carriers
 
@@ -113,7 +121,7 @@ Ndoung et al. (2021) classify BCF production as:
 2. **Pre-treatment** — impregnate biomass with minerals/fertilizers **before** pyrolysis.
 3. **Post-treatment** — treat finished biochar with fertilizers, clays, composts, wastewater, digestate, microbes, etc. (~**60%** of enrichment studies in their sample).
 
-Source: [DOI](https://doi.org/10.1016/j.heliyon.2021.e08501) · [PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC8646155/).
+Source: [DOI](https://doi.org/10.1016/j.heliyon.2021.e08473) · [PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC8646155/).
 
 Farm “inoculation” is mostly **post-treatment** (plus co-composting as a special post-route).
 
@@ -145,7 +153,7 @@ Farm “inoculation” is mostly **post-treatment** (plus co-composting as a spe
 
 **Digestate / slurry impregnation:** Oh et al. (2014) and Kizito et al. (2019) examples of digestate-enriched biochars appear in Ndoung’s post-treatment table ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8646155/)).
 
-**Mineral NPK / urea–clay composites:** numerous post-pyrolysis BCF designs (e.g. urea–bentonite–biochar granules with slower N release) surveyed in Ndoung 2021 ([DOI](https://doi.org/10.1016/j.heliyon.2021.e08501)).
+**Mineral NPK / urea–clay composites:** numerous post-pyrolysis BCF designs (e.g. urea–bentonite–biochar granules with slower N release) surveyed in Ndoung 2021 ([DOI](https://doi.org/10.1016/j.heliyon.2021.e08473)).
 
 ### 5.4 Microbial inoculation (without full composting)
 
@@ -168,7 +176,7 @@ Farm “inoculation” is mostly **post-treatment** (plus co-composting as a spe
 | Goal | Prefer |
 |---|---|
 | Maximize nitrate capture + organic coating | **Co-composting** ([Kammann 2015](https://doi.org/10.1038/srep11080); [Hagemann 2017](https://doi.org/10.1038/s41467-017-01123-0)) |
-| Engineered NPK analysis / pellets | **Post-pyrolysis mineral BCF** ([Ndoung 2021](https://doi.org/10.1016/j.heliyon.2021.e08501); Melo 2022 [DOI](https://doi.org/10.1007/s11104-021-05276-2)) |
+| Engineered NPK analysis / pellets | **Post-pyrolysis mineral BCF** ([Ndoung 2021](https://doi.org/10.1016/j.heliyon.2021.e08473); Melo 2022 [DOI](https://doi.org/10.1007/s11104-021-05276-2)) |
 | Low-dose root-zone boost in smallholder systems | **Urine / liquid enrichment** ([Schmidt 2015](https://doi.org/10.3390/agriculture5030723); [2017](https://doi.org/10.1002/ldr.2761)) |
 | Targeted microbiome | **Research-grade / local inocula** on char carrier; be skeptical of off-the-shelf products alone ([saj2.20792](https://doi.org/10.1002/saj2.20792)) |
 | NRCS cost-share simplicity | Documented **compost–biochar scenarios** or manure inoculant under NMP ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)) |
@@ -184,7 +192,7 @@ Kammann et al. (2015): co-composted vs pure biochar at **2% w/w** in sandy poor 
 ### 6.2 Biochar-based fertilizer metas
 
 - **Melo et al. (2022)** *Plant Soil*: BBF meta-analysis — productivity **+10%** vs fertilized controls and **+186%** vs non-fertilized controls (**148** comparisons) ([DOI](https://doi.org/10.1007/s11104-021-05276-2)).
-- **Ndoung et al. (2021):** scoping synthesis that BCFs frequently outperform exclusive pure biochar or other fertilizers for soil properties and yields; calls for more **long-term field** work ([DOI](https://doi.org/10.1016/j.heliyon.2021.e08501)).
+- **Ndoung et al. (2021):** scoping synthesis that BCFs frequently outperform exclusive pure biochar or other fertilizers for soil properties and yields; calls for more **long-term field** work ([DOI](https://doi.org/10.1016/j.heliyon.2021.e08473)).
 - **Ye et al. (2020):** biochar **+ inorganic fertilizer** ~**+15%** yield vs fertilizer alone in field meta; biochar alone often weak ([PDF](https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf)).
 - **Gale (2021):** physicochemical post-processing (not biological) average plant growth **+14%** vs unprocessed char ([DOI](https://doi.org/10.1007/s42773-021-00115-0)).
 
@@ -208,7 +216,7 @@ Full yield chapter: [[Crop Yield Effects]]. Real projects: [[Real World Soil Pro
 
 **Stronger:** co-composted vs raw contrasts; BBF metas showing advantage over unfertilized and modest advantage over fertilized controls; process GHG/N conservation during co-composting.
 
-**Weaker / contested:** automatic microbial habitat in raw field-aged char ([Quilliam 2013](https://doi.org/10.1016/j.soilbio.2013.06.004)); consistency of **commercial** microbial products ([saj2.20792](https://doi.org/10.1002/saj2.20792)); multi-year field BCF mechanisms ([Ndoung future perspectives](https://doi.org/10.1016/j.heliyon.2021.e08501)); temperate fertile soils without fertility co-management ([Jeffery 2017](https://doi.org/10.1088/1748-9326/aa67bd)).
+**Weaker / contested:** automatic microbial habitat in raw field-aged char ([Quilliam 2013](https://doi.org/10.1016/j.soilbio.2013.06.004)); consistency of **commercial** microbial products ([saj2.20792](https://doi.org/10.1002/saj2.20792)); multi-year field BCF mechanisms ([Ndoung future perspectives](https://doi.org/10.1016/j.heliyon.2021.e08473)); temperate fertile soils without fertility co-management ([Jeffery 2017](https://doi.org/10.1088/1748-9326/aa67bd)).
 
 ---
 
@@ -298,7 +306,7 @@ Need agronomic response this season?
 | Organic coating | Hagemann et al. 2017 Nat Commun | https://doi.org/10.1038/s41467-017-01123-0 |
 | Nitrate slow release | Hagemann et al. 2017 PLOS ONE | https://doi.org/10.1371/journal.pone.0171214 |
 | Composting microstructure | Joseph et al. 2018 | https://doi.org/10.1016/j.scitotenv.2017.09.200 |
-| BCF scoping review | Ndoung et al. 2021 | https://doi.org/10.1016/j.heliyon.2021.e08501 |
+| BCF scoping review | Ndoung et al. 2021 | https://doi.org/10.1016/j.heliyon.2021.e08473 |
 | BBF productivity meta | Melo et al. 2022 | https://doi.org/10.1007/s11104-021-05276-2 |
 | Microbial inocula meta | Soil Sci. Soc. Am. J. | https://doi.org/10.1002/saj2.20792 |
 | Urine-enhanced field | Schmidt et al. 2015 | https://doi.org/10.3390/agriculture5030723 |
@@ -353,7 +361,7 @@ Keep these distinct when designing a program or reading a paper:
 
 | Method | Examples in literature | Sourced notes |
 |---|---|---|
-| Post-pyrolysis NPK / urea solutions | Gwenzi et al. NPK-impregnated sawdust biochar; Dong et al. bentonite–humic–NPK coated rice-straw BCF; Shi et al. Bio-MUC urea–clay–biochar | Surveyed in Ndoung 2021 ([DOI](https://doi.org/10.1016/j.heliyon.2021.e08501)) |
+| Post-pyrolysis NPK / urea solutions | Gwenzi et al. NPK-impregnated sawdust biochar; Dong et al. bentonite–humic–NPK coated rice-straw BCF; Shi et al. Bio-MUC urea–clay–biochar | Surveyed in Ndoung 2021 ([DOI](https://doi.org/10.1016/j.heliyon.2021.e08473)) |
 | Urine / slurry impregnation | Schmidt 2015 1:1 urine:biochar ≥1 h; Schmidt 2017 multi-crop liquids; Oh/Kizito digestate impregnation | [DOI](https://doi.org/10.3390/agriculture5030723); [DOI](https://doi.org/10.1002/ldr.2761); Ndoung table [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8646155/) |
 | Pre-pyrolysis mineral impregnation | MgCl₂, TSP, rock P, urea–bentonite mixes pyrolyzed with biomass | Ndoung pre-treatment section ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8646155/)) |
 | Direct pyrolysis of nutrient-rich feedstocks | Poultry litter, swine manure, bone, algae residues | Same review — temperature tradeoffs (lower T favors N retention; higher T favors P/K concentration) |
@@ -520,12 +528,14 @@ Tripti et al. (2017) report biochar carrier maintaining high cfu with strain L2 
 
 ## 18. Open research gaps (as stated by reviews)
 
-Ndoung et al. (2021) and the 2025 Agronomy BCF review flag: scarce **long-term field** BCF trials; need multi-nutrient complexes rather than single-nutrient enrichment; optimization of biochar:enrichment ratios to avoid excess N/P or metals; stress-condition performance; cost/LCA of production ([DOI](https://doi.org/10.1016/j.heliyon.2021.e08501); [DOI](https://doi.org/10.3390/agronomy15051104)). Microbial inoculum meta calls for better on-farm activation methods given weak commercial-field results ([DOI](https://doi.org/10.1002/saj2.20792)).
+Ndoung et al. (2021) and the 2025 Agronomy BCF review flag: scarce **long-term field** BCF trials; need multi-nutrient complexes rather than single-nutrient enrichment; optimization of biochar:enrichment ratios to avoid excess N/P or metals; stress-condition performance; cost/LCA of production ([DOI](https://doi.org/10.1016/j.heliyon.2021.e08473); [DOI](https://doi.org/10.3390/agronomy15051104)). Microbial inoculum meta calls for better on-farm activation methods given weak commercial-field results ([DOI](https://doi.org/10.1002/saj2.20792)).
 
 
 ---
 
 ## Related notes
+
+- [[Biochar Nutrients and Fertilizer Chemistry]] · [[Biochar Microbes and Soil Biology]]
 
 - [[Biochar Compost and Manure Blends]] — facility co-composting, CPS 336 blend tables
 - [[Soil and Agriculture]] — mechanisms map linking here
