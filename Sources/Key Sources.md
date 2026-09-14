@@ -141,6 +141,35 @@ Vault market cluster: [[Market Hub]] · [[Market Volumes and Pricing]] · [[Buye
 - Roberts et al. (2010). *Environ. Sci. Technol.* [10.1021/es902266r](https://doi.org/10.1021/es902266r)
 - Gaunt & Lehmann (2008). *Environ. Sci. Technol.* [10.1021/es071361i](https://doi.org/10.1021/es071361i)
 
+## Applications — inoculation / biochar-based fertilizers
+
+- Kammann et al. (2015). Co-composted biochar nitrate capture. [10.1038/srep11080](https://doi.org/10.1038/srep11080)
+- Hagemann et al. (2017). Organic coating. *Nat. Commun.* [10.1038/s41467-017-01123-0](https://doi.org/10.1038/s41467-017-01123-0)
+- Hagemann et al. (2017). Nitrate capture & slow release. *PLOS ONE* [10.1371/journal.pone.0171214](https://doi.org/10.1371/journal.pone.0171214)
+- Joseph et al. (2018). Composting microstructure / nutrient retention. [10.1016/j.scitotenv.2017.09.200](https://doi.org/10.1016/j.scitotenv.2017.09.200)
+- Ndoung et al. (2021). BCF enrichment scoping review. [10.1016/j.heliyon.2021.e08501](https://doi.org/10.1016/j.heliyon.2021.e08501) · [PMC8646155](https://pmc.ncbi.nlm.nih.gov/articles/PMC8646155/)
+- Melo et al. (2022). BBF productivity meta-analysis. [10.1007/s11104-021-05276-2](https://doi.org/10.1007/s11104-021-05276-2)
+- Microbial inocula + biochar meta. *Soil Sci. Soc. Am. J.* [10.1002/saj2.20792](https://doi.org/10.1002/saj2.20792)
+- Schmidt et al. (2015). Urine-enhanced biochar pumpkin trial. [10.3390/agriculture5030723](https://doi.org/10.3390/agriculture5030723)
+- Schmidt et al. (2017). Liquid enrichment 21 trials / 13 crops. [10.1002/ldr.2761](https://doi.org/10.1002/ldr.2761)
+- Antonangelo et al. (2021). COMBI review. [10.1016/j.jenvman.2020.111443](https://doi.org/10.1016/j.jenvman.2020.111443)
+- Sanchez-Monedero et al. (2018). Biochar in composting. [10.1016/j.biortech.2017.09.193](https://doi.org/10.1016/j.biortech.2017.09.193)
+- Steiner et al. (2010). Poultry litter compost N loss. [10.2134/jeq2009.0337](https://doi.org/10.2134/jeq2009.0337)
+- Quilliam et al. (2013). Charosphere habitat skepticism. [10.1016/j.soilbio.2013.06.004](https://doi.org/10.1016/j.soilbio.2013.06.004)
+- Bruun et al. (2012). Pyrolysis biochar C/N turnover. [10.1016/j.soilbio.2011.11.019](https://doi.org/10.1016/j.soilbio.2011.11.019)
+- Hestrin et al. (2019). Ammonia covalent retention. [10.1038/s41467-019-08401-z](https://doi.org/10.1038/s41467-019-08401-z)
+- Zheng et al. (2017). Biochar compound fertilizer maize. [10.1016/j.agee.2017.02.034](https://doi.org/10.1016/j.agee.2017.02.034)
+- Puga et al. (2020). Biochar-based N fertilizers. [10.1016/j.scitotenv.2019.135375](https://doi.org/10.1016/j.scitotenv.2019.135375)
+- Gale (2021). Physicochemical post-processing meta. [10.1007/s42773-021-00115-0](https://doi.org/10.1007/s42773-021-00115-0)
+- Gao et al. (2022). Biochar-based N fertilizers review. [10.1007/s42773-022-00160-3](https://doi.org/10.1007/s42773-022-00160-3)
+- BCF advancements review (2025). *Agronomy* [10.3390/agronomy15051104](https://doi.org/10.3390/agronomy15051104)
+- USBI Ag Guidelines (Aller et al. 2023) — https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf
+- Pacific Biochar + Compost white paper (2023) — https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf
+- NRCS CPS 336 2022 — https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf
+- Carbon Gold Enriched Biochar — https://www.carbongold.com/biochar-soil-improver/
+- Wakefield CarbonBoost — https://wakefieldbiochar.com/products/wakefield-biochar-with-carbonboost-premium-soil-conditioner/
+
+
 ## Vault entry points
 
 - [[Biochar Home]] · [[Science Hub]] · [[Carbon Markets Hub]] · [[Market Hub]] · [[Industry Hub]]

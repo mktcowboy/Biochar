@@ -6,7 +6,7 @@ updated: 2026-09-14
 
 # Biochar Compost and Manure Blends
 
-Why nearly every serious agronomic guidance document says **do not apply raw biochar alone** when yield is the goal: compost and manure supply labile C, nutrients, and microbes; biochar supplies structure, sorption, and durable C. See also [[Application Rates and Methods]], [[Soil and Agriculture]], [[NRCS CPS 336 and US Ag]].
+Why nearly every serious agronomic guidance document says **do not apply raw biochar alone** when yield is the goal: compost and manure supply labile C, nutrients, and microbes; biochar supplies structure, sorption, and durable C. See also [[Biochar Inoculation for Fertilizer]] (full chapter on charging / BBF / COMBI), [[Application Rates and Methods]], [[Soil and Agriculture]], [[NRCS CPS 336 and US Ag]].
 
 ## Why blend?
 
@@ -74,7 +74,32 @@ New pyrolysis of urban woodchips with intent to **blend biochar into Napa Recycl
 5. Incorporate; avoid steep erodible surface-only spreads.
 6. If stacking voluntary CDR credits, lock ownership and no-double-claim language ([[Double Counting and Credit Ownership]]).
 
+## Inoculation / charging cross-link (read the full chapter)
+
+This note focuses on **blends and co-composting logistics**. The mechanisms, evidence tables, commercial BBFs, urine protocols, microbial-inocula metas, and credit/MRV notes live in **[[Biochar Inoculation for Fertilizer]]**.
+
+### Why co-composting is a special case of inoculation
+
+Co-composting (COMBI) simultaneously charges biochar **and** improves the composting process:
+
+| Effect | Sourced finding | URL |
+|---|---|---|
+| Plant growth vs raw char | Untreated BC can cut biomass (~60% of control); co-composted BC can raise it dramatically (up to ~305%) in Kammann quinoa trial | https://doi.org/10.1038/srep11080 |
+| Nitrate capture | ~3–5 g NO₃⁻-N kg⁻¹ in co-composted particles; slow release | https://doi.org/10.1371/journal.pone.0171214 · https://doi.org/10.1038/srep11080 |
+| Organic coating | Coating—not bulk oxidation—drives nutrient retention; aromatic C stability largely preserved | https://doi.org/10.1038/s41467-017-01123-0 |
+| COMBI vs post-blend | Co-composted product often outperforms blending after composting | https://doi.org/10.1016/j.jenvman.2020.111443 |
+| Practical loading | Wood biochar **5–10%** w/w early (Pacific); **10–15%** COMBI optimal band (Antonangelo); benefits from **3–5%** (Sanchez-Monedero) | https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf · https://doi.org/10.1016/j.jenvman.2020.111443 · https://doi.org/10.1016/j.biortech.2017.09.193 |
+
+### Charging without a compost facility
+
+If you cannot co-compost, USBI still recommends inoculating/charging with compost, manure, compost tea, fertilizer, urine, or microbes for **1–3 weeks** before soil application ([USBI Ag Guidelines](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf)). NRCS CPS 336 requires inoculation language in the practice standard ([2022 PDF](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf)). Liquid enrichment field protocols (urine 1:1 volume ≥1 h; multi-crop Nepal program): https://doi.org/10.3390/agriculture5030723 · https://doi.org/10.1002/ldr.2761.
+
+### Habitat caveat
+
+Do not assume raw buried char is densely colonized: Quilliam et al. (2013) found sparse microbes on 3-year field-aged wood biochar ([DOI](https://doi.org/10.1016/j.soilbio.2013.06.004)). Co-composting and intentional inoculation are the reliable ways to **pre-load** biology and nutrients — see [[Biochar Inoculation for Fertilizer]] §§3–5, 12–13.
+
+
 ## Related notes
 
-- [[Application Rates and Methods]] · [[Real World Soil Projects]] · [[Crop Yield Effects]]
+- [[Biochar Inoculation for Fertilizer]] · [[Application Rates and Methods]] · [[Real World Soil Projects]] · [[Crop Yield Effects]]
 - [[NRCS CPS 336 and US Ag]] · [[Product Standards EBC IBI]] · [[Applications Hub]]

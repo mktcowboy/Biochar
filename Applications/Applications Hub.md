@@ -27,6 +27,7 @@ Science and markets both care *where* char is placed:
 | [[GHG Fluxes]] | N₂O, CH₄, priming — agricultural framing |
 | [[Application Rates and Methods]] | t/ha & yd³/ac, incorporation, banding, NRCS scenarios |
 | [[Real World Soil Projects]] | Named farms, vineyards, composting, credit soil projects + URLs |
+| [[Biochar Inoculation for Fertilizer]] | **Charging / inoculation / BBFs / COMBI** — mechanisms, protocols, evidence, products |
 | [[Biochar Compost and Manure Blends]] | Co-composting, CPS 336 blend recipes, facility trials |
 | [[Agronomic Economics]] | Sourced cost/benefit (Oasis, Galinato, NRCS payments) |
 | [[Materials and Built Uses]] | Non-soil pathways; credit eligibility links |
@@ -58,4 +59,4 @@ Science and markets both care *where* char is placed:
 
 ## Research dump
 
-Working notes: `/workspace/biochar-research/soil-agriculture-applications.md` (box path; not necessarily in git).
+Working notes: `/workspace/biochar-research/soil-agriculture-applications.md` · `/workspace/biochar-research/biochar-inoculation.md` (box paths; not necessarily in git).

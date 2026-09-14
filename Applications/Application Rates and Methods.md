@@ -6,7 +6,7 @@ updated: 2026-09-14
 
 # Application Rates and Methods
 
-Practice-oriented guide to **how much** biochar to apply and **how** to place it. Pair with [[Soil and Agriculture]], [[Biochar Compost and Manure Blends]], [[NRCS CPS 336 and US Ag]], and [[Agronomic Economics]]. Every rate claim below is sourced.
+Practice-oriented guide to **how much** biochar to apply and **how** to place it. Pair with [[Soil and Agriculture]], [[Biochar Inoculation for Fertilizer]], [[Biochar Compost and Manure Blends]], [[NRCS CPS 336 and US Ag]], and [[Agronomic Economics]]. Every rate claim below is sourced.
 
 ## Principles
 
@@ -14,6 +14,21 @@ Practice-oriented guide to **how much** biochar to apply and **how** to place it
 2. **Charge / inoculate** fresh char with compost, manure, compost tea, or nutrients before or during application when agronomic response is a goal ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf); [CPS 336 2022 PDF](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf)).
 3. **Incorporate** when possible; surface-only applications risk wind/water loss, especially on slopes ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)).
 4. Separate **CDR mass** goals from **agronomic optimum**—high research rates are not always economic ([[Agronomic Economics]]).
+
+## Charging / inoculation before rate setting (critical)
+
+Bulk rate tables below assume you have already decided **how** the char is conditioned. For agronomic response, treat charging as part of the rate decision:
+
+| Practice | Sourced guidance | URL |
+|---|---|---|
+| USBI charge window | Inoculate/charge **1–3 weeks** with compost, manure, tea, fertilizer, urine, or microbes | https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf |
+| NRCS language | Inoculate with compost, compost tea, or manure | https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf |
+| Co-compost loading | Roughly **5–15%** biochar w/w early in composting (see ranges in inoculation chapter) | https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf · https://doi.org/10.1016/j.jenvman.2020.111443 |
+| Enriched fertilizer rates | Often **≪2 t ha⁻¹** when nutrient-loaded and root-zone placed | https://doi.org/10.1002/ldr.2761 · https://doi.org/10.3390/agriculture5030723 |
+| Immobilization risk if skipped | Fresh wood char can bind nutrients; Kammann untreated 2% w/w cut biomass to ~60% of control | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf · https://doi.org/10.1038/srep11080 |
+
+Full mechanisms, evidence tables, commercial BBFs, and safety: **[[Biochar Inoculation for Fertilizer]]**. Blend payment scenarios: [[Biochar Compost and Manure Blends]].
+
 
 ## Rate ranges by context
 

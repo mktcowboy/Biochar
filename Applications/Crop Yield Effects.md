@@ -6,7 +6,7 @@ updated: 2026-09-14
 
 # Crop Yield Effects
 
-Yield responses to biochar are **context-specific**—stronger in acid, coarse-textured, degraded, and **tropical** soils; weaker or null on average in many **temperate fertile** systems. Biochar is **not** a universal fertilizer substitute. Pair with [[Soil and Agriculture]], [[Application Rates and Methods]], [[Biochar Compost and Manure Blends]], and [[Agronomic Economics]].
+Yield responses to biochar are **context-specific**—stronger in acid, coarse-textured, degraded, and **tropical** soils; weaker or null on average in many **temperate fertile** systems. Biochar is **not** a universal fertilizer substitute. Pair with [[Soil and Agriculture]], [[Biochar Inoculation for Fertilizer]], [[Application Rates and Methods]], [[Biochar Compost and Manure Blends]], and [[Agronomic Economics]].
 
 ## Meta-analytic estimates
 
@@ -53,6 +53,20 @@ These support the [[Soil and Agriculture]] point that **charged / biochar-based 
 ### Brazil — degraded pastures
 
 Latawiec et al. (2019) evaluate biochar on degraded pasturelands with environmental and cost-benefit analysis ([DOI](https://doi.org/10.1038/s41598-019-47647-x); PDF: https://www.iis-rio.org/wp-content/uploads/2019/10/Latawiec_et_al-2019-Scientific_Reports.pdf).
+
+## Inoculated / enriched vs raw (pointer)
+
+Yield metas that mix raw and fertilized biochar understate the **charging** effect. Dedicated evidence:
+
+| Contrast | Result | URL |
+|---|---|---|
+| Co-composted vs untreated (Kammann 2015) | Up to **+305%** vs **~60%** of control | https://doi.org/10.1038/srep11080 |
+| BBF meta (Melo 2022) | **+10%** vs fertilized; **+186%** vs unfertilized | https://doi.org/10.1007/s11104-021-05276-2 |
+| Microbial inocula + biochar meta | ↑ productivity vs biochar alone (commercial inocula weak) | https://doi.org/10.1002/saj2.20792 |
+| Zheng BCF maize | Grain **+10.7%**; N-AE **+43.1%** vs ICF | https://doi.org/10.1016/j.agee.2017.02.034 |
+
+Full tables, protocols, products: [[Biochar Inoculation for Fertilizer]].
+
 
 ## Application rates in yield literature vs farm practice
 

@@ -23,6 +23,7 @@ Most historical agronomy and a large share of voluntary biochar CDR still assume
 | Rates, incorporation, banding, NRCS scenarios | [[Application Rates and Methods]] |
 | Named farms, vineyards, credit projects | [[Real World Soil Projects]] |
 | Compost / manure co-application | [[Biochar Compost and Manure Blends]] |
+| **Inoculation / charging / BBFs** | [[Biochar Inoculation for Fertilizer]] |
 | Cost / benefit (sourced only) | [[Agronomic Economics]] |
 | US EQIP/CSP practice | [[NRCS CPS 336 and US Ag]] |
 | Persistence of applied C | [[Permanence]] · [[Permanence Science for Credits]] |
@@ -50,6 +51,21 @@ USDA NRCS CPS 336 guidance (April 2026 FAQ) states biochar is **usually alkaline
 NRCS also flags **electrical conductivity (EC) / salts**: high-ash manure chars can raise salinity; wood chars are typically lower EC. Spec-sheet examples in the FAQ contrast high-C wood char (low EC) vs poultry-manure char (high EC, high P/K, high liming) ([same FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)).
 
 CEC and nutrient sorption are feedstock- and aging-dependent; Lehmann et al. (2021) summarize nutrient and liming co-benefits in the broader CDR/agronomy framing ([DOI](https://doi.org/10.1038/s41561-021-00852-8)). Fresh, uninoculated biochar can temporarily **immobilize nutrients**—NRCS explicitly warns that “fresh biochar … has a chance to reduce crop yields by binding and immobilizing nutrients” and recommends compost/manure charging ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf); national standard also: inoculate with compost, compost tea, or manure — [CPS 336 2022 PDF](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf)).
+
+### 1.2b Inoculation, charging, and biochar-based fertilizers
+
+Fresh biochar can temporarily **immobilize nutrients**; NRCS and USBI therefore treat **inoculation/charging** as standard practice before agronomic use ([NRCS FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf); [USBI Ag Guidelines](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf); CPS 336 inoculate clause: [2022 PDF](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf)).
+
+**Three modes** (full chapter [[Biochar Inoculation for Fertilizer]]):
+
+1. **Nutrient charging** — soak/impregnate with NPK solutions, urine, digestate, or manufacture BBFs (pre/post-pyrolysis). Melo et al. (2022) meta: BBFs **+10%** productivity vs fertilized controls ([DOI](https://doi.org/10.1007/s11104-021-05276-2)). Scoping review of enrichment methods: [Ndoung 2021](https://doi.org/10.1016/j.heliyon.2021.e08501).
+2. **Microbial inoculation** — compost tea, PGP/AMF/EM on char carriers; meta shows gains vs biochar alone but weak commercial-field consistency ([DOI](https://doi.org/10.1002/saj2.20792)). Habitat in raw field-aged char can be sparse ([Quilliam 2013](https://doi.org/10.1016/j.soilbio.2013.06.004)).
+3. **Co-composting (COMBI)** — organic coating + nitrate capture; Kammann et al. (2015) untreated BC ~**60%** of control biomass vs co-composted up to **~305%** ([DOI](https://doi.org/10.1038/srep11080)); coating chemistry ([Hagemann 2017](https://doi.org/10.1038/s41467-017-01123-0)); COMBI review ([Antonangelo 2021](https://doi.org/10.1016/j.jenvman.2020.111443)).
+
+**Practice ranges (sourced):** charge **1–3 weeks** ([USBI](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf)); co-compost roughly **5–15%** biochar w/w early ([Pacific white paper](https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf); [Antonangelo](https://doi.org/10.1016/j.jenvman.2020.111443)); enriched fertilizers can work at **≪2 t ha⁻¹** root-zone ([Schmidt 2017](https://doi.org/10.1002/ldr.2761); urine protocol [Schmidt 2015](https://doi.org/10.3390/agriculture5030723)).
+
+Credit/MRV: Puro soil amendment **pure/mixed** (AF1–AF2) remains eligible end-use; co-composting does not erase aromatic C stability for permanence chemistry ([Hagemann 2017](https://doi.org/10.1038/s41467-017-01123-0); [[Puro Biochar Methodology Edition 2025]]). Details: [[Biochar Inoculation for Fertilizer]] §9.
+
 
 ### 1.3 Microbial habitat and SOC interactions
 
