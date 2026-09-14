@@ -6,33 +6,52 @@ updated: 2026-09-14
 
 # Biochar
 
-Research vault for biochar science, carbon markets, and durable CDR. Notes synthesize primary literature and registry documents (see [[Key Sources]]). Report date context: 2026-09-14.
+Research vault for biochar science, production, applications, carbon markets, policy, and industry. Notes synthesize primary literature and registry documents (see [[Key Sources]]). Report date context: 2026-09-14.
 
-## Research hubs
+## Domain map
 
-- [[Science Hub]] — definition, production, permanence, yields, GHG fluxes, CDR potential
-- [[Carbon Markets Hub]] — methodologies, MRV, market volumes, buyers, risks
-- [[Key Sources]] — DOIs, registry URLs, and primary references
+| Domain | Hub | Scope |
+|---|---|---|
+| Science | [[Science Hub]] | Definition, permanence, literature, CDR/IPCC accounting, debates |
+| Production | [[Production Hub]] | Pyrolysis, properties, contaminants, feedstocks |
+| Applications | [[Applications Hub]] | Soil/ag, yields, GHG fluxes, materials & built uses |
+| Carbon markets | [[Carbon Markets Hub]] | Methodologies, MRV, market volumes, buyers, risks |
+| Policy & programs | [[Policy Hub]] | NRCS CPS 336, EBC/IBI product standards |
+| Industry | [[Industry Hub]] | Producers, offtakers, project landscape (links out) |
+| Sources | [[Key Sources]] | DOIs, registry URLs, primary references |
 
-## Science (quick links)
+## Science
 
 | Topic | Note |
 |---|---|
 | What biochar is | [[Overview and Definition]] |
-| How it is made | [[Production]] |
-| Material properties | [[Properties]] |
 | Persistence | [[Permanence]] |
 | Foundational literature | [[Foundational Papers]] |
 | Recent reviews (2021–2026) | [[Recent Research 2021-2026]] |
-| Crop yields | [[Crop Yield Effects]] |
-| N₂O / CH₄ / priming | [[GHG Fluxes]] |
 | IPCC & gigaton potential | [[CDR Potential and IPCC Accounting]] |
 | Numbers cheat-sheet | [[Quantitative Benchmarks]] |
-| PAHs & quality | [[Contaminants and Quality]] |
 | Consensus vs debates | [[Consensus vs Debates]] |
 | Historical analog | [[Terra Preta and Pyrogenic Carbon]] |
 
-## Carbon markets (quick links)
+## Production
+
+| Topic | Note |
+|---|---|
+| How it is made | [[Production]] |
+| Material properties | [[Properties]] |
+| PAHs & quality | [[Contaminants and Quality]] |
+| Feedstock research map | [[Feedstocks]] |
+
+## Applications
+
+| Topic | Note |
+|---|---|
+| Soil & agriculture map | [[Soil and Agriculture]] |
+| Crop yields | [[Crop Yield Effects]] |
+| N₂O / CH₄ / priming | [[GHG Fluxes]] |
+| Materials & built uses | [[Materials and Built Uses]] |
+
+## Carbon markets
 
 | Topic | Note |
 |---|---|
@@ -46,12 +65,20 @@ Research vault for biochar science, carbon markets, and durable CDR. Notes synth
 | Volumes & prices | [[Market Volumes and Pricing]] |
 | Buyers | [[Buyers and Offtakes]] |
 | Risks | [[Risks and Controversies]] |
-| US ag (NRCS CPS 336) | [[NRCS CPS 336 and US Ag]] |
 | Credit ownership | [[Double Counting and Credit Ownership]] |
+
+## Policy & industry
+
+| Topic | Note |
+|---|---|
+| US ag (NRCS CPS 336) | [[NRCS CPS 336 and US Ag]] |
+| Product standards | [[Product Standards EBC IBI]] |
+| Industry landscape | [[Industry Hub]] |
 
 ## How to use this vault
 
 - Prefer [[Quantitative Benchmarks]] as the single source of truth for cited numbers.
 - For Puro, prefer the **deep cluster** under [[Carbon Markets Hub]] — chapters, not stubs.
 - Cross-link permanence science ([[Permanence]], [[Permanence Science for Credits]]) when reading any methodology note.
+- New folders use **hub MOCs** for empty domains; expand with sources before inventing facts.
 - Do not invent papers, DOIs, or market figures beyond [[Key Sources]].
