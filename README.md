@@ -10,7 +10,8 @@ https://mktcowboy.github.io/Biochar/
 
 - `content/` — the vault notes (edit these in Obsidian or here)
 - `site/` — Quartz static-site generator and configuration
-- `.github/workflows/deploy.yml` — builds and deploys to GitHub Pages on every push to `main`
+- `docs/github-pages-deploy.yml` — Actions workflow template (add under `.github/workflows/deploy.yml` once the `workflow` OAuth scope is available)
+- Currently deployed by building Quartz and pushing the `gh-pages` branch
 
 ## Develop locally
 
@@ -24,7 +25,7 @@ Then open http://localhost:8080.
 
 ## Updating content
 
-Edit notes under `content/`, commit, and push to `main`. The GitHub Action rebuilds and redeploys automatically.
+Edit notes under `content/`, commit, and push to `main`. Until Actions is enabled, rebuild with `cd site && npm ci && npx quartz build --directory ../content --output ../public` and republish the `gh-pages` branch.
 
 ---
 
