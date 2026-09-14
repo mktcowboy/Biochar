@@ -6,7 +6,7 @@ updated: 2026-09-14
 
 # Carbon Markets Hub
 
-Landing page for biochar carbon removal (BCR) markets, methodologies, MRV, and risks. Synthesized from the carbon-credits research report and [[Puro CORC200+|Puro deep dive]] (2026-09-14). Primary sources only—see [[Key Sources]].
+Landing page for biochar carbon removal (BCR) markets, methodologies, MRV, and risks. Synthesized from the carbon-credits research report and the **Puro deep-dive cluster** (2026-09-14). Primary sources only—see [[Key Sources]].
 
 ## Concepts
 
@@ -15,12 +15,25 @@ Landing page for biochar carbon removal (BCR) markets, methodologies, MRV, and r
 - [[MRV Stack]] — feedstock → pyrolysis → characterization → application
 - [[Double Counting and Credit Ownership]]
 
+## Deep Puro cluster (preferred entry points)
+
+Puro notes were expanded into standalone chapters (not stubs). Start here:
+
+| Note | Role |
+|---|---|
+| [[Puro.earth Overview]] | What Puro is, CORCs, history, registry scale, ICVCM, **link map** |
+| [[Puro CORC200+]] | Durable-credit **concept** — CORC200+ permanence claim, labelling, transition |
+| [[Puro Biochar Methodology Edition 2025]] | Exhaustive Edition 2022→2025 method chapter |
+| [[Puro Project Cycle and MRV]] | Listing → audit → issuance → retirement; US producer path |
+| [[Puro Pricing and CORC Indexes]] | CORCCHAR / CORCX, fees, deals, buyers |
+| [[Puro vs Other Standards]] | Comparison vs Verra / Isometric / CSI + chooser |
+
 ## Methodologies & standards
 
 | Program | Note |
 |---|---|
 | Verra VM0044 v1.2 | [[Verra VM0044]] |
-| **Puro Biochar Edition 2025 / CORC200+** | [[Puro CORC200+]] · [[Puro.earth Overview]] · [[Puro Biochar Methodology Edition 2025]] · [[Puro Project Cycle and MRV]] · [[Puro Pricing and CORC Indexes]] · [[Puro vs Other Standards]] |
+| **Puro Biochar Edition 2025 / CORC200+** | See **Deep Puro cluster** above |
 | Isometric Protocol v1.3 | [[Isometric Biochar Protocol]] |
 | CSI Global Biochar C-Sink 3.3 | [[CSI Global Biochar C-Sink]] |
 
@@ -28,8 +41,8 @@ Also relevant: IPCC inventory appendix ([[CDR Potential and IPCC Accounting]]), 
 
 ## Market
 
-- [[Market Volumes and Pricing]] — CDR.fyi volumes; CORCCHAR index
-- [[Puro Pricing and CORC Indexes]] — CORCX / CORCCHAR + Puro fees
+- [[Market Volumes and Pricing]] — CDR.fyi volumes; CORCCHAR index context
+- [[Puro Pricing and CORC Indexes]] — CORCX / CORCCHAR + Puro fees (deep)
 - [[Buyers and Offtakes]]
 
 ## Risks & US ag
@@ -39,4 +52,8 @@ Also relevant: IPCC inventory appendix ([[CDR Potential and IPCC Accounting]]), 
 
 ## Cross-links to science
 
-- [[Permanence]] · [[Properties]] · [[Science Hub]] · [[Quantitative Benchmarks]]
+- [[Permanence]] · [[Properties]] · [[Production]] · [[Science Hub]] · [[Quantitative Benchmarks]]
+
+## Vault navigation
+
+- [[Biochar Home]] · [[Key Sources]] · [[Science Hub]]

@@ -1,6 +1,7 @@
 ---
 tags: [home, hub]
 aliases: [Home, Biochar Vault]
+updated: 2026-09-14
 ---
 
 # Biochar
@@ -39,12 +40,7 @@ Research vault for biochar science, carbon markets, and durable CDR. Notes synth
 | Permanence for credits | [[Permanence Science for Credits]] |
 | MRV | [[MRV Stack]] |
 | Verra VM0044 | [[Verra VM0044]] |
-| Puro CORC200+ | [[Puro CORC200+]] |
-| Puro.earth overview | [[Puro.earth Overview]] |
-| Puro Edition 2025 method | [[Puro Biochar Methodology Edition 2025]] |
-| Puro project cycle / MRV | [[Puro Project Cycle and MRV]] |
-| Puro pricing / indexes | [[Puro Pricing and CORC Indexes]] |
-| Puro vs other standards | [[Puro vs Other Standards]] |
+| **Puro deep cluster** | [[Puro.earth Overview]] · [[Puro CORC200+]] · [[Puro Biochar Methodology Edition 2025]] · [[Puro Project Cycle and MRV]] · [[Puro Pricing and CORC Indexes]] · [[Puro vs Other Standards]] |
 | Isometric | [[Isometric Biochar Protocol]] |
 | CSI C-Sink | [[CSI Global Biochar C-Sink]] |
 | Volumes & prices | [[Market Volumes and Pricing]] |
@@ -56,5 +52,6 @@ Research vault for biochar science, carbon markets, and durable CDR. Notes synth
 ## How to use this vault
 
 - Prefer [[Quantitative Benchmarks]] as the single source of truth for cited numbers.
+- For Puro, prefer the **deep cluster** under [[Carbon Markets Hub]] — chapters, not stubs.
 - Cross-link permanence science ([[Permanence]], [[Permanence Science for Credits]]) when reading any methodology note.
 - Do not invent papers, DOIs, or market figures beyond [[Key Sources]].
