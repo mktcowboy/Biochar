@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Biochar</title>
+      <link>https://mktcowboy.github.io/Biochar</link>
+      <description>Last 10 notes on Biochar</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Biochar as Durable CDR</title>
+    <link>https://mktcowboy.github.io/Biochar/Carbon-Markets/Biochar-as-Durable-CDR</link>
+    <guid>https://mktcowboy.github.io/Biochar/Carbon-Markets/Biochar-as-Durable-CDR</guid>
+    <description><![CDATA[ Biochar as Durable CDR Core pathway Photosynthetic capture — Biomass stores atmospheric CO₂ (~45–50% C dry matter, depending on feedstock). ]]></description>
+    <pubDate>Mon, 14 Sep 2026 22:31:09 GMT</pubDate>
+  </item><item>
+    <title>Double Counting and Credit Ownership</title>
+    <link>https://mktcowboy.github.io/Biochar/Carbon-Markets/Double-Counting-and-Credit-Ownership</link>
+    <guid>https://mktcowboy.github.io/Biochar/Carbon-Markets/Double-Counting-and-Credit-Ownership</guid>
+    <description><![CDATA[ Double Counting and Credit Ownership Problem patterns Same tonne, multiple claims — product “carbon footprint reduction,” voluntary credit, and compliance instrument simultaneously. ]]></description>
+    <pubDate>Mon, 14 Sep 2026 22:31:09 GMT</pubDate>
+  </item><item>
+    <title>MRV Stack</title>
+    <link>https://mktcowboy.github.io/Biochar/Carbon-Markets/MRV-Stack</link>
+    <guid>https://mktcowboy.github.io/Biochar/Carbon-Markets/MRV-Stack</guid>
+    <description><![CDATA[ MRV Stack What is measured DomainTypical measurementsLab vs fieldFeedstockWaste/residue status, sustainability, counterfactual fate, transport, cultivation emissionsDocumentary + activity dataPyrolysisTemperature, residence time, O₂ exclusion, mass balance, energy use, flue-gas CH₄/N₂O/COContinuous ... ]]></description>
+    <pubDate>Mon, 14 Sep 2026 22:31:09 GMT</pubDate>
+  </item><item>
+    <title>CSI Global Biochar C-Sink</title>
+    <link>https://mktcowboy.github.io/Biochar/Carbon-Markets/Methodologies/CSI-Global-Biochar-C-Sink</link>
+    <guid>https://mktcowboy.github.io/Biochar/Carbon-Markets/Methodologies/CSI-Global-Biochar-C-Sink</guid>
+    <description><![CDATA[ CSI Global Biochar C-Sink Operator: Carbon Standards International AG (CSI), with Ithaka Institute (formerly “EBC Biochar C-Sink”) Registry: Global C-Sink Registry Current version: Global Biochar C-Sink Standard 3.3 (valid since 9 June 2026); v3.2 from 15 November 2025 PDF: 4000039EN.pdf Prerequisit... ]]></description>
+    <pubDate>Mon, 14 Sep 2026 22:31:09 GMT</pubDate>
+  </item><item>
+    <title>Isometric Biochar Protocol</title>
+    <link>https://mktcowboy.github.io/Biochar/Carbon-Markets/Methodologies/Isometric-Biochar-Protocol</link>
+    <guid>https://mktcowboy.github.io/Biochar/Carbon-Markets/Methodologies/Isometric-Biochar-Protocol</guid>
+    <description><![CDATA[ Isometric Biochar Protocol Operator: Isometric (registry + Certify platform) Current version: Biochar Production and Storage v1.3 Protocol Soil storage module Modules also cover built environment &amp; low-oxygen burial; production modules for combustion co-product, distributed/small-scale, and mobi... ]]></description>
+    <pubDate>Mon, 14 Sep 2026 22:31:09 GMT</pubDate>
+  </item><item>
+    <title>Verra VM0044</title>
+    <link>https://mktcowboy.github.io/Biochar/Carbon-Markets/Methodologies/Verra-VM0044</link>
+    <guid>https://mktcowboy.github.io/Biochar/Carbon-Markets/Methodologies/Verra-VM0044</guid>
+    <description><![CDATA[ Verra VM0044 Full name: Biochar Utilization in Soil and Non-Soil Applications Operator: Verra (Verified Carbon Standard) Current version: v1.2, active since 27 June 2025 (methodology page) Methodology page Revision announcement What it credits CO₂ removals from converting waste biomass into biochar ... ]]></description>
+    <pubDate>Mon, 14 Sep 2026 22:31:09 GMT</pubDate>
+  </item><item>
+    <title>Permanence Science for Credits</title>
+    <link>https://mktcowboy.github.io/Biochar/Carbon-Markets/Permanence-Science-for-Credits</link>
+    <guid>https://mktcowboy.github.io/Biochar/Carbon-Markets/Permanence-Science-for-Credits</guid>
+    <description><![CDATA[ Permanence Science for Credits Same science, different program interpretations. Do not mix thresholds across registries. ]]></description>
+    <pubDate>Mon, 14 Sep 2026 22:31:09 GMT</pubDate>
+  </item><item>
+    <title>Risks and Controversies</title>
+    <link>https://mktcowboy.github.io/Biochar/Carbon-Markets/Risks-and-Controversies</link>
+    <guid>https://mktcowboy.github.io/Biochar/Carbon-Markets/Risks-and-Controversies</guid>
+    <description><![CDATA[ Risks and Controversies Permanence science divergence Decomposition-model camp (IPCC, Woolf 2021, Puro CORC200+, Isometric 200y) vs inertinite/Ro camp (Sanei et al.; Isometric 1000y; CSI upper class). ]]></description>
+    <pubDate>Mon, 14 Sep 2026 22:31:09 GMT</pubDate>
+  </item><item>
+    <title>Contaminants and Quality</title>
+    <link>https://mktcowboy.github.io/Biochar/Production/Contaminants-and-Quality</link>
+    <guid>https://mktcowboy.github.io/Biochar/Production/Contaminants-and-Quality</guid>
+    <description><![CDATA[ Contaminants and Quality PAH and process quality Reviews and empirical papers show PAH content depends on feedstock, temperature, vapor residence, and especially post-pyrolysis vapor condensation. ]]></description>
+    <pubDate>Mon, 14 Sep 2026 22:31:09 GMT</pubDate>
+  </item><item>
+    <title>Production</title>
+    <link>https://mktcowboy.github.io/Biochar/Production/Production</link>
+    <guid>https://mktcowboy.github.io/Biochar/Production/Production</guid>
+    <description><![CDATA[ Production Process Thermochemical decomposition of cellulose, hemicellulose, and lignin yields: Solid — biochar Liquids — bio-oil Gases — CO₂, CO, H₂, light hydrocarbons Typical ranges ModeTemperature / rateFavorsSlow pyrolysis~300–700 °C, low heating rate, minutes–hoursBiochar yieldFast / flash pyr... ]]></description>
+    <pubDate>Mon, 14 Sep 2026 22:31:09 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
