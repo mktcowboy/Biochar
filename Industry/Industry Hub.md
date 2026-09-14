@@ -22,25 +22,30 @@ Use this page to navigate commercial context; keep quantitative claims tied to [
 
 | Topic | Note (canonical location) |
 |---|---|
+| Market MOC | [[Market Hub]] |
 | Buyers & offtakes | [[Buyers and Offtakes]] — lives in `Carbon Markets/Market/` |
+| Historical deals | [[Historical Deals]] |
 | Volumes & pricing | [[Market Volumes and Pricing]] |
-| Puro commercial indexes / fees | [[Puro Pricing and CORC Indexes]] |
+| Supply landscape | [[Supply Landscape]] |
+| Price indexes | [[Price Indexes and Benchmarks]] · [[Puro Pricing and CORC Indexes]] |
+| Quality tiers | [[Durable CDR Quality Tiers]] |
 | Risks (concentration, delivery) | [[Risks and Controversies]] |
 | Method choice for projects | [[Puro vs Other Standards]] · [[Carbon Markets Hub]] |
 
-Do **not** duplicate [[Buyers and Offtakes]] into this folder—link only.
+Do **not** duplicate market notes into this folder—link only.
 
-## Project landscape (framing only)
+## Project landscape
 
-From existing buyer/supplier notes: BCR supply has been concentrated (e.g. historically large share from a few producers such as Exomad Green in CDR.fyi-derived notes); demand likewise concentrated among large corporates. Treat named actors as illustrative of sources already cited—verify before expanding company pages.
+See [[Supply Landscape]] for sourced supplier profiles (Exomad Green, Liferaft, Empacar, AMP, Varaha, Charm biochar path, Carba, and CDR.fyi-named deliverers). Demand concentration: [[Buyers and Offtakes]]. Deal timeline: [[Historical Deals]].
 
 ## Gaps / to research
 
 - Producer directory by region and technology (only with citable sources)
-- Typical project capex/opex and credit break-evens
-- Role of developers, aggregators, and MRV service firms
+- Typical project capex/opex and credit break-evens (almost never public)
+- Role of developers, aggregators, and MRV service firms (Carbonfuture, Bioflux, etc.)
 - Overlap between product sales (soil amendment) and credit stacking
 - US vs Global South delivery footprints and logistics constraints
+- Post–Q1 2026 delivery against megadeals
 
 ## See also
 

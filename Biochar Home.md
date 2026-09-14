@@ -62,8 +62,13 @@ Research vault for biochar science, production, applications, carbon markets, po
 | **Puro deep cluster** | [[Puro.earth Overview]] · [[Puro CORC200+]] · [[Puro Biochar Methodology Edition 2025]] · [[Puro Project Cycle and MRV]] · [[Puro Pricing and CORC Indexes]] · [[Puro vs Other Standards]] |
 | Isometric | [[Isometric Biochar Protocol]] |
 | CSI C-Sink | [[CSI Global Biochar C-Sink]] |
+| **Market MOC** | [[Market Hub]] |
 | Volumes & prices | [[Market Volumes and Pricing]] |
-| Buyers | [[Buyers and Offtakes]] |
+| Buyers & offtakes | [[Buyers and Offtakes]] |
+| Historical deals | [[Historical Deals]] |
+| Price indexes | [[Price Indexes and Benchmarks]] · [[Puro Pricing and CORC Indexes]] |
+| Supply landscape | [[Supply Landscape]] |
+| Quality tiers | [[Durable CDR Quality Tiers]] |
 | Risks | [[Risks and Controversies]] |
 | Credit ownership | [[Double Counting and Credit Ownership]] |
 

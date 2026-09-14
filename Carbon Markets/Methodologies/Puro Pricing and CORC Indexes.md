@@ -8,7 +8,7 @@ updated: 2026-09-14
 
 **Parent concept:** [[Puro CORC200+]]  
 **Operator / registry:** [[Puro.earth Overview]]  
-**Market context:** [[Market Volumes and Pricing]] · [[Buyers and Offtakes]]  
+**Market context:** [[Market Hub]] · [[Market Volumes and Pricing]] · [[Price Indexes and Benchmarks]] · [[Buyers and Offtakes]] · [[Historical Deals]]  
 **Ops / fee journey:** [[Puro Project Cycle and MRV]]
 
 Puro is unusual among biochar standards in publishing **public Nasdaq-methodology indexes** of reported CORC transactions. Those indexes are **not** universal quotes for Verra / Isometric / CSI tonnes — treat them as Puro-specific near-term transaction signals.
@@ -113,7 +113,9 @@ Marketing claims (Puro): **600+** buyers; **74%** share of delivered CDR — tre
 |---|---|
 | Puro biochar index levels | **This note** |
 | Cross-market BCR volumes / contracted vs delivered | [[Market Volumes and Pricing]] |
-| Named offtakers and deal anecdotes | [[Buyers and Offtakes]] |
+| Named offtakers and deal anecdotes | [[Buyers and Offtakes]] · [[Historical Deals]] |
+| How to read CORCCHAR vs bilateral | [[Price Indexes and Benchmarks]] |
+| Public supplier landscape | [[Supply Landscape]] |
 | Whether CCP labels affect buyer preference / price | [[Puro vs Other Standards]] · [[Verra VM0044]] · [[Risks and Controversies]] |
 | What the credit *claims* (200+ years) | [[Puro CORC200+]] · [[Permanence Science for Credits]] |
 
@@ -151,4 +153,4 @@ Also: [[Key Sources]]
 
 ## See also
 
-[[Puro CORC200+]] · [[Puro.earth Overview]] · [[Puro Biochar Methodology Edition 2025]] · [[Puro Project Cycle and MRV]] · [[Puro vs Other Standards]] · [[Market Volumes and Pricing]] · [[Buyers and Offtakes]] · [[Biochar as Durable CDR]] · [[Risks and Controversies]] · [[Verra VM0044]] · [[Isometric Biochar Protocol]] · [[CSI Global Biochar C-Sink]] · [[Carbon Markets Hub]] · [[Key Sources]]
+[[Puro CORC200+]] · [[Puro.earth Overview]] · [[Puro Biochar Methodology Edition 2025]] · [[Puro Project Cycle and MRV]] · [[Puro vs Other Standards]] · [[Market Volumes and Pricing]] · [[Buyers and Offtakes]] · [[Price Indexes and Benchmarks]] · [[Historical Deals]] · [[Durable CDR Quality Tiers]] · [[Biochar as Durable CDR]] · [[Risks and Controversies]] · [[Verra VM0044]] · [[Isometric Biochar Protocol]] · [[CSI Global Biochar C-Sink]] · [[Carbon Markets Hub]] · [[Key Sources]]

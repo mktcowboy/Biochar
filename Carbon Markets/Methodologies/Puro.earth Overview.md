@@ -14,7 +14,7 @@ This note is the map of the Puro cluster in the vault. Open child notes for dept
 
 Biochar carbon removal (BCR) has been one of Puro’s longest-running pathways. Under **[[Puro Biochar Methodology Edition 2025]]**, biochar CORCs are labelled **[[Puro CORC200+|CORC200+]]** (“several centuries,” ≥200 years), with public price discovery via Nasdaq × Puro **[[Puro Pricing and CORC Indexes|CORCCHAR / CORCX]]** indexes. For a US producer choosing among registries, start here, then read [[Puro vs Other Standards]] and [[Puro Project Cycle and MRV]].
 
-Related vault concepts: [[Biochar as Durable CDR]] · [[Permanence Science for Credits]] · [[MRV Stack]] · [[Market Volumes and Pricing]] · [[Buyers and Offtakes]] · [[Risks and Controversies]]
+Related vault concepts: [[Biochar as Durable CDR]] · [[Permanence Science for Credits]] · [[MRV Stack]] · [[Market Hub]] · [[Market Volumes and Pricing]] · [[Buyers and Offtakes]] · [[Historical Deals]] · [[Price Indexes and Benchmarks]] · [[Risks and Controversies]]
 
 ---
 
@@ -127,7 +127,7 @@ Open these as standalone chapters:
 ### Cross-links into the rest of the vault
 
 **Concepts:** [[Biochar as Durable CDR]] · [[Permanence Science for Credits]] · [[MRV Stack]] · [[Double Counting and Credit Ownership]]  
-**Market:** [[Market Volumes and Pricing]] · [[Buyers and Offtakes]] · [[Risks and Controversies]]  
+**Market:** [[Market Hub]] · [[Market Volumes and Pricing]] · [[Buyers and Offtakes]] · [[Historical Deals]] · [[Price Indexes and Benchmarks]] · [[Supply Landscape]] · [[Durable CDR Quality Tiers]] · [[Risks and Controversies]]  
 **US ag:** [[NRCS CPS 336 and US Ag]] (practice standard — not a credit methodology)  
 **Science:** [[Permanence]] · [[Properties]] · [[Production]] · [[Contaminants and Quality]] · [[CDR Potential and IPCC Accounting]] · [[Science Hub]]  
 **Hubs:** [[Carbon Markets Hub]] · [[Biochar Home]] · [[Key Sources]]
@@ -175,4 +175,4 @@ Full bibliography for this cluster: [[Key Sources]]
 
 ## See also
 
-[[Puro CORC200+]] · [[Puro Biochar Methodology Edition 2025]] · [[Puro Project Cycle and MRV]] · [[Puro Pricing and CORC Indexes]] · [[Puro vs Other Standards]] · [[Carbon Markets Hub]] · [[Biochar as Durable CDR]] · [[Permanence Science for Credits]] · [[MRV Stack]] · [[Verra VM0044]] · [[Isometric Biochar Protocol]] · [[CSI Global Biochar C-Sink]] · [[Market Volumes and Pricing]] · [[Buyers and Offtakes]] · [[Risks and Controversies]] · [[Permanence]] · [[Key Sources]]
+[[Puro CORC200+]] · [[Puro Biochar Methodology Edition 2025]] · [[Puro Project Cycle and MRV]] · [[Puro Pricing and CORC Indexes]] · [[Puro vs Other Standards]] · [[Carbon Markets Hub]] · [[Biochar as Durable CDR]] · [[Permanence Science for Credits]] · [[MRV Stack]] · [[Verra VM0044]] · [[Isometric Biochar Protocol]] · [[CSI Global Biochar C-Sink]] · [[Market Hub]] · [[Market Volumes and Pricing]] · [[Buyers and Offtakes]] · [[Historical Deals]] · [[Price Indexes and Benchmarks]] · [[Supply Landscape]] · [[Durable CDR Quality Tiers]] · [[Risks and Controversies]] · [[Permanence]] · [[Key Sources]]

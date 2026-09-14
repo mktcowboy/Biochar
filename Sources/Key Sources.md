@@ -75,13 +75,30 @@ Vault Puro cluster: [[Puro.earth Overview]] · [[Puro CORC200+]] · [[Puro Bioch
 7. EU Delegated Reg. 2026/285 — https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32026R0285
 8. NRCS CPS 336 FAQ — https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf (April 2026)
 
-## Market data
+## Market data — trackers & indexes
 
 - CDR.fyi Biochar Snapshot 2025 — https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025 (2025-09-09)
 - CDR.fyi 2024 Year in Review — https://www.cdr.fyi/blog/2024-year-in-review (2025-02-14)
 - CDR.fyi 2026 Q1 Durable CDR Update — https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof (2026-05-18)
+- CDR.fyi Carba–Microsoft deal alert — https://www.cdr.fyi/blog/cdr-deal-alert-2025-04-24-carba-microsoft (2025-04-24)
+- Puro CORC indexes (CORCX / CORCCHAR) — https://puro.earth/buy-carbon-credits/removal-certificate-corc/carbon-removal-indexes/
+
+## Market data — deal primary sources
+
+- Carbonfuture / Microsoft / Exomad (32 kt+) — https://www.carbonfuture.com/project-showcase/carbonfuture-announces-innovative-offtake-collaboration-with-exomad-green-and-microsoft-for-large-scale-biochar-carbon-removal (2023-12-13)
+- Exomad Green / Microsoft (1.24 Mt) — https://www.exomadgreen.com/post/exomad-green-announces-world-s-largest-biochar-carbon-removal-agreement-with-microsoft-tracked-by-c (2025-05-21)
+- Google / Varaha & Charm biochar — https://blog.google/feed/were-announcing-our-first-partnerships-to-scale-biochar-for-co2-removal/ (2025-01-16)
+- Carba / Microsoft (44 kt, Isometric) — https://carba.com/press/carba-announces-5-year-carbon-removal-credit-purchase-agreement-with-microsoft (2025-04-24)
+- Liferaft / Microsoft (1 Mt) — https://www.liferaft.cc/news/liferaft-microsoft-announcement (2026-03-24)
+- Supercritical / Liferaft–Microsoft — https://gosupercritical.com/resources/press/liferaft-microsoft-offtake
+- Altitude / Empacar (>305 kt CORCs) — https://www.altitudecarbon.com/news/altitude-partners-with-empacar (2026-03-23)
+- AMP / Google (200 kt) — https://ampsortation.com/articles/google-biochar-carbon-credits (2026-03-17)
+- Supercritical / Exomad (up to 500 kt) — https://gosupercritical.com/resources/press/exomad-green-supercritical-agreement (2026-04-16)
+
+Vault market cluster: [[Market Hub]] · [[Market Volumes and Pricing]] · [[Buyers and Offtakes]] · [[Historical Deals]] · [[Price Indexes and Benchmarks]] · [[Supply Landscape]] · [[Durable CDR Quality Tiers]]
 
 ## Vault entry points
 
-- [[Biochar Home]] · [[Science Hub]] · [[Carbon Markets Hub]]
+- [[Biochar Home]] · [[Science Hub]] · [[Carbon Markets Hub]] · [[Market Hub]] · [[Industry Hub]]
 - Puro cluster: [[Puro.earth Overview]] · [[Puro CORC200+]] · [[Puro Biochar Methodology Edition 2025]] · [[Puro Project Cycle and MRV]] · [[Puro Pricing and CORC Indexes]] · [[Puro vs Other Standards]]
+- Market cluster: [[Market Volumes and Pricing]] · [[Buyers and Offtakes]] · [[Historical Deals]] · [[Price Indexes and Benchmarks]] · [[Supply Landscape]] · [[Durable CDR Quality Tiers]]

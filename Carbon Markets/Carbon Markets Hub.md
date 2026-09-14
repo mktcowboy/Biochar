@@ -44,9 +44,17 @@ Also relevant: IPCC inventory appendix ([[CDR Potential and IPCC Accounting]]), 
 
 ## Market (`Market/`)
 
-- [[Market Volumes and Pricing]] — CDR.fyi volumes; CORCCHAR index context
-- [[Puro Pricing and CORC Indexes]] — CORCX / CORCCHAR + Puro fees (deep)
-- [[Buyers and Offtakes]] — also linked from [[Industry Hub]] (single file; do not duplicate)
+MOC: [[Market Hub]]
+
+| Note | Role |
+|---|---|
+| [[Market Volumes and Pricing]] | Contracted vs delivered vs retired; BCR share; price trends |
+| [[Buyers and Offtakes]] | Concentration, archetypes, notable offtakes (also [[Industry Hub]]) |
+| [[Historical Deals]] | Timeline table with primary-source links |
+| [[Price Indexes and Benchmarks]] | CORCCHAR / CORCX how-to-read; gaps |
+| [[Supply Landscape]] | Public suppliers/projects (Exomad, Liferaft, Empacar, AMP, …) |
+| [[Durable CDR Quality Tiers]] | Practical buyer quality framing |
+| [[Puro Pricing and CORC Indexes]] | Deep Puro fees + indexes (`Methodologies/`) |
 
 ## Policy (moved)
 

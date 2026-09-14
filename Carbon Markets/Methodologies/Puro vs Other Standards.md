@@ -12,7 +12,7 @@ Compare **[[Puro CORC200+]]** / [[Puro Biochar Methodology Edition 2025]] with:
 - [[Isometric Biochar Protocol]]
 - [[CSI Global Biochar C-Sink]]
 
-Operator context: [[Puro.earth Overview]] · market: [[Market Volumes and Pricing]] · integrity: [[Risks and Controversies]] · science: [[Permanence Science for Credits]] · [[Permanence]]
+Operator context: [[Puro.earth Overview]] · market: [[Market Hub]] · [[Market Volumes and Pricing]] · [[Durable CDR Quality Tiers]] · integrity: [[Risks and Controversies]] · science: [[Permanence Science for Credits]] · [[Permanence]]
 
 Facts below are from the Puro deep-dive research (2026-09-14). Do not invent CCP dates, horizons, or thresholds beyond what is sourced there or in the peer vault notes you verify.
 
@@ -110,7 +110,7 @@ Critics may prefer pooled buffers; defenders argue ex-ante eligibility is tighte
 | Registry / market infra | Nasdaq-powered Puro Registry | VCS / Isometric / CSI ecosystems |
 | Liquidity anecdote | Issuance→transfer/retirement **95 → 22 days** (2021 → mid-2025, CDR.fyi via Puro) | Deal-dependent |
 
-Detail: [[Puro Pricing and CORC Indexes]] · [[Market Volumes and Pricing]] · [[Buyers and Offtakes]]
+Detail: [[Puro Pricing and CORC Indexes]] · [[Price Indexes and Benchmarks]] · [[Market Volumes and Pricing]] · [[Buyers and Offtakes]] · [[Historical Deals]]
 
 ---
 

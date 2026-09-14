@@ -33,11 +33,14 @@ NGOs (e.g., Fern, Carbon Market Watch) criticize carbon-removal certification fr
 
 ## Buyer concentration
 
-Microsoft and a few others dominate BCR volume—see [[Buyers and Offtakes]].
+Microsoft and a few others dominate BCR volume—see [[Buyers and Offtakes]] · [[Market Volumes and Pricing]] · [[Historical Deals]]. Q1 2026 intermediaries facilitated **74%** of contracted tonnes ([CDR.fyi](https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof)).
 
 ## Related notes
 
 - [[MRV Stack]]
 - [[Permanence Science for Credits]]
 - [[Double Counting and Credit Ownership]]
+- [[Durable CDR Quality Tiers]]
+- [[Supply Landscape]]
+- [[Market Hub]]
 - [[Carbon Markets Hub]]
