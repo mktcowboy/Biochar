@@ -1,12 +1,12 @@
 ---
 tags: [carbon-markets, hub]
 aliases: [Markets Hub, Biochar Carbon Markets]
-updated: 2026-09-14
+updated: 2026-09-16
 ---
 
 # Carbon Markets Hub
 
-Landing page for biochar carbon removal (BCR) markets, methodologies, MRV, and risks. Synthesized from the carbon-credits research report and the **Puro deep-dive cluster** (2026-09-14). Primary sources only—see [[Key Sources]].
+Landing page for biochar carbon removal (BCR) markets, methodologies, MRV, and risks. Synthesized from the carbon-credits research report, the **Puro deep-dive cluster** (2026-09-14), and the **Verra VM0044 + Isometric** deep-dive clusters (2026-09-16). Primary sources only—see [[Key Sources]].
 
 Folder layout: concepts at the top level; registry methods under `Methodologies/`; volumes and buyers under `Market/`. US NRCS practice guidance now lives under [[Policy Hub]].
 
@@ -44,13 +44,36 @@ Puro notes were expanded into standalone chapters (not stubs). Start here:
 | [[Puro Pricing and CORC Indexes]] | CORCCHAR / CORCX, fees, deals, buyers |
 | [[Puro vs Other Standards]] | Comparison vs Verra / Isometric / CSI + chooser |
 
+## Deep Verra VM0044 cluster (2026-09-16)
+
+| Note | Role |
+|---|---|
+| [[Verra VM0044]] | Hub — version timeline, ICVCM CCP, link map |
+| [[Verra VM0044 Methodology and Eligibility]] | Waste feedstock, greenfield, high/low-tech, end uses |
+| [[Verra VM0044 Permanence and Quantification]] | 100y Table 3, H:Corg gate, equations |
+| [[Verra VM0044 Project Cycle and MRV]] | VCS cycle, fees, CCP labeling |
+| [[Verra Biochar Projects and Market]] | Reignite + market signals |
+
+## Deep Isometric cluster (2026-09-16)
+
+| Note | Role |
+|---|---|
+| [[Isometric Biochar Protocol]] | Hub — modular architecture, net CDR equation |
+| [[Isometric Permanence Pathways 200y and 1000y]] | Woolf 200y vs Ro 1000y |
+| [[Isometric Project Cycle and MRV]] | PDD → ex-post issuance, CoC |
+| [[Isometric Modules Soil Built Burial]] | Soil / burial / built modules |
+
+## Cross-standard comparison
+
+- [[Verra vs Isometric vs Puro]] — decision chooser (with [[Puro vs Other Standards]] for CSI)
+
 ## Methodologies & standards (`Methodologies/`)
 
 | Program | Note |
 |---|---|
-| Verra VM0044 v1.2 | [[Verra VM0044]] |
+| **Verra VM0044 v1.2** | See **Deep Verra cluster** above |
 | **Puro Biochar Edition 2025 / CORC200+** | See **Deep Puro cluster** above |
-| Isometric Protocol v1.3 | [[Isometric Biochar Protocol]] |
+| **Isometric Protocol v1.3** | See **Deep Isometric cluster** above |
 | CSI Global Biochar C-Sink 3.3 | [[CSI Global Biochar C-Sink]] |
 
 Also relevant: IPCC inventory appendix ([[CDR Potential and IPCC Accounting]]), EU CRCF (Delegated Reg. 2026/285), EBC/WBC product standards ([[Product Standards EBC IBI]], [[Contaminants and Quality]]).

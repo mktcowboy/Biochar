@@ -67,9 +67,10 @@ Research vault for biochar science, production, applications, carbon markets, po
 | Biochar as CDR | [[Biochar as Durable CDR]] |
 | Permanence for credits | [[Permanence Science for Credits]] |
 | MRV | [[MRV Stack]] |
-| Verra VM0044 | [[Verra VM0044]] |
+| **Verra VM0044 deep cluster** | [[Verra VM0044]] · [[Verra VM0044 Methodology and Eligibility]] · [[Verra VM0044 Permanence and Quantification]] · [[Verra VM0044 Project Cycle and MRV]] · [[Verra Biochar Projects and Market]] |
 | **Puro deep cluster** | [[Puro.earth Overview]] · [[Puro CORC200+]] · [[Puro Biochar Methodology Edition 2025]] · [[Puro Project Cycle and MRV]] · [[Puro Pricing and CORC Indexes]] · [[Puro vs Other Standards]] |
-| Isometric | [[Isometric Biochar Protocol]] |
+| **Isometric deep cluster** | [[Isometric Biochar Protocol]] · [[Isometric Permanence Pathways 200y and 1000y]] · [[Isometric Project Cycle and MRV]] · [[Isometric Modules Soil Built Burial]] |
+| Comparison | [[Verra vs Isometric vs Puro]] |
 | CSI C-Sink | [[CSI Global Biochar C-Sink]] |
 | **Market MOC** | [[Market Hub]] |
 | Volumes & prices | [[Market Volumes and Pricing]] |

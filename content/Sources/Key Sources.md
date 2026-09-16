@@ -245,3 +245,26 @@ Vault market cluster: [[Market Hub]] · [[Market Volumes and Pricing]] · [[Buye
 
 - [[Biochar Home]] · [[Science Hub]] · [[Applications Hub]] · [[Carbon Markets Hub]] · [[Market Hub]] · [[Industry Hub]] · [[US Biochar Initiative]] · [[Policy Hub]]
 - Numbers cheat sheet: [[Quantitative Benchmarks]]
+
+
+## Verra VM0044 & Isometric deep-dive (2026-09-16)
+
+Research dumps (box): `/workspace/biochar-research/verra-vm0044-deep-dive.md`, `/workspace/biochar-research/isometric-biochar-deep-dive.md`.
+
+| Source | URL |
+|---|---|
+| Verra VM0044 v1.2 methodology page | https://verra.org/methodologies/vm0044-biochar-utilization-in-soil-and-non-soil-applications-v1-2/ |
+| VM0044 v1.1 PDF | https://verra.org/wp-content/uploads/2023/07/VM0044-Methodology-for-Biochar-Utilization-in-Soil-and-Non-Soil-Applications-v1.1.pdf |
+| Verra v1.2 revision announcement | https://verra.org/verra-publishes-minor-revision-to-biochar-methodology/ |
+| Verra v2.0 consultation | https://verra.org/consultation-major-revision-to-biochar-methodology-vm0044/ |
+| ICVCM M43 CCP decision | https://icvcm.org/wp-content/uploads/2025/08/M43_VCS_VM0044_v1.2_2025.pdf |
+| Verra fee schedule | https://verra.org/wp-content/uploads/2024/10/Verra-Program-Fee-Schedule-v1.0.pdf |
+| Isometric Biochar Protocol v1.3 | https://registry.isometric.com/protocol/biochar/1.3 |
+| Isometric Soil module v1.3 | https://registry.isometric.com/module/biochar-storage-soil-environments/1.3 |
+| Isometric Burial module v1.1 | https://registry.isometric.com/module/biochar-storage-low-oxygen/1.1 |
+| Isometric Built module v1.0 | https://registry.isometric.com/module/biochar-storage-built-environment/1.0 |
+| Carba–Microsoft press | https://carba.com/press/carba-announces-5-year-carbon-removal-credit-purchase-agreement-with-microsoft |
+| Woolf et al. 2021 | https://doi.org/10.1021/acs.est.1c02425 |
+| Sanei et al. 2024 | https://doi.org/10.1016/j.coal.2023.104409 |
+
+Vault notes: [[Verra VM0044]] · [[Isometric Biochar Protocol]] · [[Verra vs Isometric vs Puro]]

@@ -1,16 +1,18 @@
 ---
 tags: [carbon-markets, comparison, puro, verra, isometric, csi, standards]
 aliases: [Puro vs Verra, Puro vs Isometric, standard comparison biochar, BCR standards comparison]
-updated: 2026-09-14
+updated: 2026-09-16
 ---
 
 # Puro vs Other Standards
 
 Compare **[[Puro CORC200+]]** / [[Puro Biochar Methodology Edition 2025]] with:
 
-- [[Verra VM0044]]
-- [[Isometric Biochar Protocol]]
+- [[Verra VM0044]] (see also deep cluster + **[[Verra vs Isometric vs Puro]]** decision note, 2026-09-16)
+- [[Isometric Biochar Protocol]] (deep cluster: permanence / MRV / modules)
 - [[CSI Global Biochar C-Sink]]
+
+For a producer-facing chooser among the three engineered-CDR paths, prefer **[[Verra vs Isometric vs Puro]]**; this note keeps the Puro-centric framing and CSI column.
 
 Operator context: [[Puro.earth Overview]] · market: [[Market Hub]] · [[Market Volumes and Pricing]] · [[Durable CDR Quality Tiers]] · integrity: [[Risks and Controversies]] · science: [[Permanence Science for Credits]] · [[Permanence]]
 
@@ -66,7 +68,7 @@ Concept note: [[Puro CORC200+]] · method math: [[Puro Biochar Methodology Editi
 |---|---|---|
 | **Puro** | **Yes** (General Rules v4.2+, 2025-12-11) | **No** (not yet, as of that announcement) |
 | **Verra VM0044 v1.2** | (VCS program context) | **Yes** (Board 2025-07-24) |
-| **Isometric** | **Yes** (program) | Confirm current category status in [[Isometric Biochar Protocol]] / ICVCM |
+| **Isometric** | **Yes** (program) | See [[Isometric Biochar Protocol]] · [[Verra vs Isometric vs Puro]]; confirm live ICVCM category beyond program claims |
 | **CSI** | Submitted / in process | Treat as **not** approved |
 
 **Practical buyer implication:** demand for **CCP-labelled methodology credits** may preferentially clear through [[Verra VM0044]] until Puro’s biochar category assessment completes — even if Puro’s program is already CCP-Eligible. Program eligibility ≠ CCP credit label. See [[Risks and Controversies]] · [[Puro.earth Overview]].

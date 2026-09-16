@@ -27,7 +27,7 @@ Industry sits at the intersection of:
 
 - **Production capacity** — reactors, feedstocks, quality certification ([[Production Hub]], [[Product Standards EBC IBI]])
 - **Application markets** — soil amendments and built uses ([[Applications Hub]])
-- **Credit sales** — registries, brokers, corporate offtakes ([[Carbon Markets Hub]])
+- **Credit sales** — registries, brokers, corporate offtakes ([[Carbon Markets Hub]] · [[Verra vs Isometric vs Puro]])
 
 Use this page to navigate commercial context; keep quantitative claims tied to [[Market Volumes and Pricing]], [[Buyers and Offtakes]], and [[Key Sources]].
 
@@ -43,7 +43,7 @@ Use this page to navigate commercial context; keep quantitative claims tied to [
 | Price indexes | [[Price Indexes and Benchmarks]] · [[Puro Pricing and CORC Indexes]] |
 | Quality tiers | [[Durable CDR Quality Tiers]] |
 | Risks (concentration, delivery) | [[Risks and Controversies]] |
-| Method choice for projects | [[Puro vs Other Standards]] · [[Carbon Markets Hub]] |
+| Method choice for projects | [[Puro vs Other Standards]] · [[Carbon Markets Hub]] · [[Verra vs Isometric vs Puro]] |
 
 Do **not** duplicate market notes into this folder—link only.
 
@@ -82,5 +82,5 @@ ABI home: https://biochar.org/ · About: https://biochar.org/about-abi/ · Docum
 ## See also
 
 - [[US Biochar Initiative]] · [[USBI Guidance vs Vault Notes]]
-- [[Carbon Markets Hub]] · [[Production Hub]] · [[Applications Hub]]
+- [[Carbon Markets Hub]] · [[Verra vs Isometric vs Puro]] · [[Production Hub]] · [[Applications Hub]]
 - [[Policy Hub]] · [[Science Hub]] · [[Biochar Home]] · [[Key Sources]]
