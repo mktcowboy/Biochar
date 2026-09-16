@@ -8,7 +8,7 @@ updated: 2026-09-16
 
 **Purpose:** Decision-oriented comparison of the three biochar credit paths most relevant to US / engineered-CDR producers.  
 **Deep clusters:** [[Verra VM0044]] · [[Isometric Biochar Protocol]] · [[Puro.earth Overview]]  
-**Also:** [[Puro vs Other Standards]] (includes CSI) · [[CSI Global Biochar C-Sink]] · [[Durable CDR Quality Tiers]]
+**Also:** [[Puro vs Other Standards]] (includes CSI) · [[CSI Global Biochar C-Sink]] cluster ([[CSI Overview]] · [[CSI GPC vs SPC Permanence Classes]] · [[CSI MRV and Emission Portfolio]]) · [[Durable CDR Quality Tiers]]
 
 Facts dated **2026-09-16** research unless noted. Every quantitative claim below is sourced in the linked chapter notes or primary URLs.
 
@@ -23,7 +23,7 @@ Facts dated **2026-09-16** research unless noted. Every quantitative claim below
 | You can live with **100-year** horizon framing | You can fund ISO labs + (for 1000y) petrography | You want **CORC200+** centuries claim without Ro yet |
 | VCS ecosystem / traditional VCU buyers | Microsoft-style high-durability offtakes (e.g. Carba) | Nasdaq × Puro market infrastructure matters |
 
-CSI / EBC-WBC track remains a fourth option when product certification + GPC/SPC C-sinks are the commercial goal — [[CSI Global Biochar C-Sink]] · [[Puro vs Other Standards]].
+CSI / EBC-WBC track remains a fourth option when product certification + GPC/SPC C-sinks (or Artisan / EU **CS-BCR**) are the commercial goal — [[CSI Global Biochar C-Sink]] · [[CSI Overview]] · [[Puro vs Other Standards]].
 
 ---
 
@@ -55,7 +55,7 @@ Sources: [[Verra VM0044]] cluster; [[Isometric Biochar Protocol]] cluster; [[Pur
 |---|---|---|
 | **Inventory / temperature / 100y** | Verra Table 3 ← IPCC App. 4 | Familiar IPCC language; shorter formal horizon |
 | **Decay model / centuries** | Puro CORC200+; Isometric 200y | EU CRCF-adjacent “permanent” centuries narrative |
-| **Inertinite / Ro millennial** | Isometric 1000y; CSI upper GPC | Petrographic proof; higher lab cost; premium durability story |
+| **Inertinite / Ro millennial** | Isometric 1000y (Ro≥**2%**); CSI upper GPC (Ro≥**3.8%** or HyPy≥**90%**) | Petrographic proof; higher lab cost; premium durability story — [[CSI GPC vs SPC Permanence Classes]] |
 
 Deep science: [[Permanence Science for Credits]] · [[Woolf et al. 2021]] ([DOI](https://doi.org/10.1021/acs.est.1c02425)) · [[Sanei et al. 2024]] ([DOI](https://doi.org/10.1016/j.coal.2023.104409)).
 
@@ -143,6 +143,7 @@ Market context: [[Market Volumes and Pricing]] · [[Buyers and Offtakes]] · [[H
 | Landfill partner for daily cover; Microsoft-style 1000y buyer | **Isometric burial** |
 | Concrete/asphalt customer; Ro lab access | **Isometric built** (or Verra non-soil if 100y + high-tech OK) |
 | Stacking NRCS CPS 336 practice payments | Policy track separate — [[NRCS CPS 336 and US Ag]]; never double-claim same tonne as credit without rules counsel |
+| Already **EBC/WBC**; EU CRCF / GPC–SPC buyer; or Artisan geography | **CSI** diligence — [[CSI Overview]] · [[Product Standards EBC IBI]] |
 
 ---
 
@@ -154,7 +155,7 @@ Market context: [[Market Volumes and Pricing]] · [[Buyers and Offtakes]] · [[H
 2. **Does the offtake require CCP methodology labels?**  
    - Yes → Verra VM0044 v1.2 currently strongest biochar method approval  
 3. **Does the offtake require ≥1000y / Ro / burial?**  
-   - Yes → Isometric (or CSI upper GPC)  
+   - Yes → Isometric (or CSI upper GPC — note Ro≥**3.8%** bar; [[CSI GPC vs SPC Permanence Classes]])  
 4. **Do you need public biochar price benchmarks for financing?**  
    - Yes → Puro indexes  
 5. **Still tied?** Compare feedstock evidence cost (Verra App. 2 vs Puro sourcing vs Isometric feedstock module) and lab budget (Ro or not).
@@ -169,8 +170,9 @@ Market context: [[Market Volumes and Pricing]] · [[Buyers and Offtakes]] · [[H
 - [Isometric Soil Module v1.3](https://registry.isometric.com/module/biochar-storage-soil-environments/1.3)
 - [Puro permanence explainer](https://puro.earth/insights/post/biochar-permanence/)
 - [Puro indexes](https://puro.earth/buy-carbon-credits/removal-certificate-corc/carbon-removal-indexes/)
+- [CSI C-Sink 3.3](https://www.carbon-standards.com/docs/transfer/4000039EN.pdf)
 
 ## Related notes
 
-- [[Verra VM0044]] · [[Isometric Biochar Protocol]] · [[Puro.earth Overview]] · [[Puro vs Other Standards]]
+- [[Verra VM0044]] · [[Isometric Biochar Protocol]] · [[Puro.earth Overview]] · [[Puro vs Other Standards]] · [[CSI Global Biochar C-Sink]]
 - [[Carbon Markets Hub]] · [[Market Hub]] · [[Durable CDR Quality Tiers]] · [[Risks and Controversies]] · [[Key Sources]]

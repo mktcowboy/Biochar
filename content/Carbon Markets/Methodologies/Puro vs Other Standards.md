@@ -10,7 +10,7 @@ Compare **[[Puro CORC200+]]** / [[Puro Biochar Methodology Edition 2025]] with:
 
 - [[Verra VM0044]] (see also deep cluster + **[[Verra vs Isometric vs Puro]]** decision note, 2026-09-16)
 - [[Isometric Biochar Protocol]] (deep cluster: permanence / MRV / modules)
-- [[CSI Global Biochar C-Sink]]
+- [[CSI Global Biochar C-Sink]] (cluster: [[CSI Overview]] · [[CSI GPC vs SPC Permanence Classes]] · [[CSI MRV and Emission Portfolio]] · [[Product Standards EBC IBI]])
 
 For a producer-facing chooser among the three engineered-CDR paths, prefer **[[Verra vs Isometric vs Puro]]**; this note keeps the Puro-centric framing and CSI column.
 
@@ -69,7 +69,7 @@ Concept note: [[Puro CORC200+]] · method math: [[Puro Biochar Methodology Editi
 | **Puro** | **Yes** (General Rules v4.2+, 2025-12-11) | **No** (not yet, as of that announcement) |
 | **Verra VM0044 v1.2** | (VCS program context) | **Yes** (Board 2025-07-24) |
 | **Isometric** | **Yes** (program) | See [[Isometric Biochar Protocol]] · [[Verra vs Isometric vs Puro]]; confirm live ICVCM category beyond program claims |
-| **CSI** | Submitted / in process | Treat as **not** approved |
+| **CSI** | Program application **in review** (submitted 1 Apr 2026; [PDF](https://icvcm.org/wp-content/uploads/2026/05/Global-C-Sink-Copy-of-application_2026_05_18.pdf)) | Treat as **not** CCP-Eligible / not method-approved |
 
 **Practical buyer implication:** demand for **CCP-labelled methodology credits** may preferentially clear through [[Verra VM0044]] until Puro’s biochar category assessment completes — even if Puro’s program is already CCP-Eligible. Program eligibility ≠ CCP credit label. See [[Risks and Controversies]] · [[Puro.earth Overview]].
 
@@ -120,9 +120,9 @@ Detail: [[Puro Pricing and CORC Indexes]] · [[Price Indexes and Benchmarks]] ·
 
 | Choose **Puro** when… | Choose **Verra VM0044** when… | Choose **Isometric** when… | Choose **CSI** when… |
 |---|---|---|---|
-| You want mature BCR buyer recognition + **CORCCHAR** price signal + Nasdaq registry infrastructure | You need a **CCP-labelled methodology today** + VCS buyer familiarity; project is clearly a **new** waste facility under Appendix 2 | Buyer demands **1000-year Ro path** or maximal soil MRV stringency; willing to pay for high-integrity niche pricing | You already hold **EBC/WBC** and want GPC/SPC + EU CRCF alignment path |
-| Mobile fleets / retrofit / charcoal-repurpose fit Puro baselines | Clean new + waste feedstock story | Strong lab/petrography capability for Ro | Artisan/small-scale Global Artisan C-Sink track |
-| You can deliver **eligible end-use evidence** (farm contracts preferred over diffuse retail) | Buyers require VCU plumbing | Offtake term sheet specifies Isometric | Product certification already in EBC/WBC stack |
+| You want mature BCR buyer recognition + **CORCCHAR** price signal + Nasdaq registry infrastructure | You need a **CCP-labelled methodology today** + VCS buyer familiarity; project is clearly a **new** waste facility under Appendix 2 | Buyer demands **1000-year Ro path** or maximal soil MRV stringency; willing to pay for high-integrity niche pricing | You already hold **EBC/WBC** and want GPC/SPC + EU **CS-BCR**/CRCF path ([[CSI Overview]]) |
+| Mobile fleets / retrofit / charcoal-repurpose fit Puro baselines | Clean new + waste feedstock story | Strong lab/petrography capability for Ro (≥**2%**) | Artisan/small-scale Global Artisan C-Sink track; or industrial upper class at Ro≥**3.8%** / HyPy≥**90%** ([[CSI GPC vs SPC Permanence Classes]]) |
+| You can deliver **eligible end-use evidence** (farm contracts preferred over diffuse retail) | Buyers require VCU plumbing | Offtake term sheet specifies Isometric | Product certification already in EBC/WBC stack ([[Product Standards EBC IBI]]) |
 
 **Many large buyers are registry-agnostic on BCR but diligence MRV**; dual pathways are uncommon for the same tonne (double-counting rules). See [[Buyers and Offtakes]] · [[Double Counting and Credit Ownership]].
 
@@ -147,7 +147,7 @@ Expanded: [[Risks and Controversies]] · [[Puro Biochar Methodology Edition 2025
 
 1. Does the offtake **require CCP methodology labels today?** → lean [[Verra VM0044]] until Puro biochar is CCP-Approved.  
 2. Does the offtake **require 1000-year Ro?** → lean [[Isometric Biochar Protocol]].  
-3. Already **EBC/WBC** with EU CRCF / GPC goals? → evaluate [[CSI Global Biochar C-Sink]].  
+3. Already **EBC/WBC** with EU CRCF / GPC goals? → evaluate [[CSI Global Biochar C-Sink]] · [[CSI Overview]].  
 4. Need **public price signal**, retrofit/mobile baselines, and mature BCR recognition with **200+** claim? → [[Puro CORC200+]] / Edition 2025.  
 5. Regardless: lock **end-use CoC** and **no double counting** before signing ([[Puro Project Cycle and MRV]] · [[Double Counting and Credit Ownership]]).
 
@@ -163,9 +163,11 @@ Expanded: [[Risks and Controversies]] · [[Puro Biochar Methodology Edition 2025
 6. Woolf et al. 2021 — https://doi.org/10.1021/acs.est.1c02425
 7. Sanei et al. 2024 — https://doi.org/10.1016/j.coal.2023.104409
 8. Peer vault notes: [[Verra VM0044]] · [[Isometric Biochar Protocol]] · [[CSI Global Biochar C-Sink]] · [[Key Sources]]
+9. [CSI C-Sink 3.3 PDF](https://www.carbon-standards.com/docs/transfer/4000039EN.pdf)
+10. [ICVCM CSI program application](https://icvcm.org/wp-content/uploads/2026/05/Global-C-Sink-Copy-of-application_2026_05_18.pdf)
 
 ---
 
 ## See also
 
-[[Puro CORC200+]] · [[Puro.earth Overview]] · [[Puro Biochar Methodology Edition 2025]] · [[Puro Project Cycle and MRV]] · [[Puro Pricing and CORC Indexes]] · [[Verra VM0044]] · [[Isometric Biochar Protocol]] · [[CSI Global Biochar C-Sink]] · [[Permanence Science for Credits]] · [[Permanence]] · [[MRV Stack]] · [[Biochar as Durable CDR]] · [[Market Volumes and Pricing]] · [[Buyers and Offtakes]] · [[Risks and Controversies]] · [[Double Counting and Credit Ownership]] · [[Carbon Markets Hub]] · [[Key Sources]]
+[[Puro CORC200+]] · [[Puro.earth Overview]] · [[Puro Biochar Methodology Edition 2025]] · [[Puro Project Cycle and MRV]] · [[Puro Pricing and CORC Indexes]] · [[Verra VM0044]] · [[Isometric Biochar Protocol]] · [[CSI Global Biochar C-Sink]] · [[CSI Overview]] · [[CSI GPC vs SPC Permanence Classes]] · [[CSI MRV and Emission Portfolio]] · [[Product Standards EBC IBI]] · [[Permanence Science for Credits]] · [[Permanence]] · [[MRV Stack]] · [[Biochar as Durable CDR]] · [[Market Volumes and Pricing]] · [[Buyers and Offtakes]] · [[Risks and Controversies]] · [[Double Counting and Credit Ownership]] · [[Carbon Markets Hub]] · [[Key Sources]]

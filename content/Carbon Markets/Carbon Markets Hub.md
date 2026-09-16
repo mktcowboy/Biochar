@@ -6,7 +6,7 @@ updated: 2026-09-16
 
 # Carbon Markets Hub
 
-Landing page for biochar carbon removal (BCR) markets, methodologies, MRV, and risks. Synthesized from the carbon-credits research report, the **Puro deep-dive cluster** (2026-09-14), and the **Verra VM0044 + Isometric** deep-dive clusters (2026-09-16). Primary sources only—see [[Key Sources]].
+Landing page for biochar carbon removal (BCR) markets, methodologies, MRV, and risks. Synthesized from the carbon-credits research report, the **Puro deep-dive cluster** (2026-09-14), the **Verra VM0044 + Isometric** deep-dive clusters (2026-09-16), and the **CSI Global Biochar C-Sink** cluster (2026-09-16). Primary sources only—see [[Key Sources]].
 
 Folder layout: concepts at the top level; registry methods under `Methodologies/`; volumes and buyers under `Market/`. US NRCS practice guidance now lives under [[Policy Hub]].
 
@@ -63,6 +63,16 @@ Puro notes were expanded into standalone chapters (not stubs). Start here:
 | [[Isometric Project Cycle and MRV]] | PDD → ex-post issuance, CoC |
 | [[Isometric Modules Soil Built Burial]] | Soil / burial / built modules |
 
+## Deep CSI / EBC C-Sink cluster (2026-09-16)
+
+| Note | Role |
+|---|---|
+| [[CSI Global Biochar C-Sink]] | Hub — v3.3, prerequisite EBC/WBC, link map |
+| [[CSI Overview]] | CSI org, registry, Artisan, CS-BCR, ICVCM |
+| [[CSI GPC vs SPC Permanence Classes]] | GPC/SPC splits, Ro≥3.8% / HyPy≥90%, CINK_H |
+| [[CSI MRV and Emission Portfolio]] | Emission portfolio, MoS, dMRV, applications |
+| [[Product Standards EBC IBI]] | EBC/WBC product prerequisite (Policy) |
+
 ## Cross-standard comparison
 
 - [[Verra vs Isometric vs Puro]] — decision chooser (with [[Puro vs Other Standards]] for CSI)
@@ -74,9 +84,9 @@ Puro notes were expanded into standalone chapters (not stubs). Start here:
 | **Verra VM0044 v1.2** | See **Deep Verra cluster** above |
 | **Puro Biochar Edition 2025 / CORC200+** | See **Deep Puro cluster** above |
 | **Isometric Protocol v1.3** | See **Deep Isometric cluster** above |
-| CSI Global Biochar C-Sink 3.3 | [[CSI Global Biochar C-Sink]] |
+| **CSI Global Biochar C-Sink 3.3** | See **Deep CSI cluster** above |
 
-Also relevant: IPCC inventory appendix ([[CDR Potential and IPCC Accounting]]), EU CRCF (Delegated Reg. 2026/285), EBC/WBC product standards ([[Product Standards EBC IBI]], [[Contaminants and Quality]]).
+Also relevant: IPCC inventory appendix ([[CDR Potential and IPCC Accounting]]), EU CRCF (Delegated Reg. 2026/285) · CSI **CS-BCR** draft, EBC/WBC product standards ([[Product Standards EBC IBI]], [[Contaminants and Quality]]).
 
 ## Market (`Market/`)
 
@@ -112,6 +122,8 @@ MOC: [[Market Hub]]
 - [Verra VM0044 v1.2](https://verra.org/methodologies/vm0044-biochar-utilization-in-soil-and-non-soil-applications-v1-2/)
 - [Isometric Biochar v1.3](https://registry.isometric.com/protocol/biochar/1.3)
 - [CSI C-Sink 3.3 PDF](https://www.carbon-standards.com/docs/transfer/4000039EN.pdf)
+- [CSI formulas & EFs](https://www.carbon-standards.com/docs/transfer/4000115EN.pdf)
+- [Global C-Sink Registry](https://global-c-registry.org/)
 - [ICVCM](https://www.icvcm.org/)
 - [[Key Sources]]
 

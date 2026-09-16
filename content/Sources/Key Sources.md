@@ -51,6 +51,10 @@ The most-cited papers and reports each have their own note in `Sources/`. Each n
 | Methodology | Isometric Biochar Protocol v1.3 | https://registry.isometric.com/protocol/biochar/1.3 |
 | Methodology | CSI Global Biochar C-Sink 3.3 PDF | https://www.carbon-standards.com/docs/transfer/4000039EN.pdf |
 | Methodology | CSI service page | https://www.carbon-standards.com/en/standards/service-501~global-biochar-c-sink.html |
+| Methodology | CSI formulas & EFs | https://www.carbon-standards.com/docs/transfer/4000115EN.pdf |
+| Registry | Global C-Sink Registry | https://global-c-registry.org/ |
+| Product standard | EBC Standard 10.5E PDF | https://www.carbon-standards.com/docs/transfer/4000093EN.pdf |
+| Integrity | ICVCM CSI program application | https://icvcm.org/wp-content/uploads/2026/05/Global-C-Sink-Copy-of-application_2026_05_18.pdf |
 | Integrity | ICVCM home | https://www.icvcm.org/ |
 | Integrity | ICVCM Puro CCP-Eligible | https://www.icvcm.org/integrity-council-confirms-carbon-crediting-program-puro-earth-as-ccp-eligible/ |
 | Integrity | ICVCM VM0044 CCP decision PDF | https://icvcm.org/wp-content/uploads/2025/08/M43_VCS_VM0044_v1.2_2025.pdf |
@@ -207,8 +211,16 @@ Vault Puro cluster: [[Puro.earth Overview]] · [[Puro CORC200+]] · [[Puro Bioch
 6. Isometric Soil Storage Module v1.3 — https://registry.isometric.com/module/biochar-storage-soil-environments/1.3
 7. CSI Global Biochar C-Sink 3.3 — https://www.carbon-standards.com/docs/transfer/4000039EN.pdf (2026-06-09)
 8. CSI formulas & emission factors PDF — https://www.carbon-standards.com/docs/transfer/4000115EN.pdf
-9. Global C-Sink Registry — https://global-c-registry.org/
-10. EU Delegated Reg. 2026/285 — https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32026R0285
+9. CSI matrix positive list — https://www.carbon-standards.com/docs/transfer/4000078EN.pdf
+10. CSI Global Biochar C-Sink service page — https://www.carbon-standards.com/en/standards/service-501~global-biochar-c-sink.html
+11. Global C-Sink Registry — https://global-c-registry.org/
+12. CSI Global Artisan C-Sink 2.1A — https://www.carbon-standards.com/docs/transfer/4000136EN.pdf
+13. CSI CS-BCR 0.7 (EU CRCF) — https://www.carbon-standards.com/docs/transfer/4000289EN.pdf
+14. ICVCM CSI Global C-Sink program application — https://icvcm.org/wp-content/uploads/2026/05/Global-C-Sink-Copy-of-application_2026_05_18.pdf
+15. EBC Standard 10.5E — https://www.carbon-standards.com/docs/transfer/4000093EN.pdf
+16. EU Delegated Reg. 2026/285 — https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32026R0285
+
+Vault CSI cluster: [[CSI Global Biochar C-Sink]] · [[CSI Overview]] · [[CSI GPC vs SPC Permanence Classes]] · [[CSI MRV and Emission Portfolio]] · [[Product Standards EBC IBI]]
 
 ## Market data — trackers and indexes
 
@@ -268,3 +280,22 @@ Research dumps (box): `/workspace/biochar-research/verra-vm0044-deep-dive.md`, `
 | Sanei et al. 2024 | https://doi.org/10.1016/j.coal.2023.104409 |
 
 Vault notes: [[Verra VM0044]] · [[Isometric Biochar Protocol]] · [[Verra vs Isometric vs Puro]]
+
+## CSI / EBC C-Sink deep-dive (2026-09-16)
+
+Research dump (box): `/workspace/biochar-research/csi-c-sink-deep-dive.md`. Local PDFs: `/workspace/biochar-research/csi-pdfs/`.
+
+| Source | URL |
+|---|---|
+| Global Biochar C-Sink 3.3 | https://www.carbon-standards.com/docs/transfer/4000039EN.pdf |
+| Formulas & EFs | https://www.carbon-standards.com/docs/transfer/4000115EN.pdf |
+| Matrix positive list | https://www.carbon-standards.com/docs/transfer/4000078EN.pdf |
+| Service page | https://www.carbon-standards.com/en/standards/service-501~global-biochar-c-sink.html |
+| Artisan 2.1A | https://www.carbon-standards.com/docs/transfer/4000136EN.pdf |
+| CS-BCR 0.7 | https://www.carbon-standards.com/docs/transfer/4000289EN.pdf |
+| EBC 10.5E | https://www.carbon-standards.com/docs/transfer/4000093EN.pdf |
+| Global C-Sink Registry | https://global-c-registry.org/ |
+| ICVCM CSI application | https://icvcm.org/wp-content/uploads/2026/05/Global-C-Sink-Copy-of-application_2026_05_18.pdf |
+| EU CRCF Delegated Reg. 2026/285 | https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32026R0285 |
+| Schmidt et al. 2025 | https://doi.org/10.1111/gcbb.70092 |
+| Sanei et al. 2024 | https://doi.org/10.1016/j.coal.2023.104409 |
