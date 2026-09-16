@@ -1,12 +1,12 @@
 ---
 tags: [production, hub]
 aliases: [Production MOC, Making biochar]
-updated: 2026-09-14
+updated: 2026-09-16
 ---
 
 # Production Hub
 
-Map of notes on how biochar is made, what feedstock and process choices control, and how material quality is judged before application or credit issuance. This domain sits between raw biomass and the science of permanence / agronomy / markets.
+Map of notes on how biochar is made, what feedstock and process choices control, and how material quality is judged before application or credit issuance. Sits between raw biomass and the science of permanence / agronomy / markets. Report context: **2026-09-16**.
 
 ## Domain purpose
 
@@ -22,18 +22,21 @@ Credit programs and product standards ([EBC](https://www.european-biochar.org/)/
 
 | Note | Role |
 |---|---|
-| [[Production]] | Pyrolysis / gasification modes; temperature–yield trade-offs; carbon fraction examples |
-| [[Properties]] | Aromatic C, H/C_org, O/C_org, porosity, pH, CEC; [EBC](https://www.european-biochar.org/)/[IBI](https://biochar-international.org/) thresholds |
-| [[Contaminants and Quality]] | PAHs, heavy metals, and quality framing |
-| [[Feedstocks]] | Brief hub — what feedstock research still needs; links Production/Properties |
+| [[Production]] | Spine: modes, FC examples, process→property summary |
+| [[Pyrolysis Systems and Temperatures]] | Reactors, T classes, residence, energy/emissions |
+| [[Feedstocks]] | Taxonomy, logistics, sustainability screens |
+| [[Woody vs Manure Ag Feedstocks]] | FC/ash/nutrient/eligibility contrast |
+| [[Biochar Quality from Process]] | Process levers → H/C, pH, SA, contaminants |
+| [[Gasification Residues]] | High-ash gasifier solids and accounting |
+| [[Properties]] | Aromatic C, H/C_org, O/C_org, porosity, pH, CEC; EBC/IBI thresholds |
+| [[Contaminants and Quality]] | Hub for PAH, metals, PFAS, testing standards |
+| [[PAHs]] · [[Heavy Metals and Ash]] · [[PFAS and Emerging Contaminants]] · [[Testing EBC IBI S668]] | Contaminant deep chapters |
 
-## Gaps / to research
+## Cross-links to science & markets
 
-- Reactor classes in commercial use (kilns, continuous augers, gasifiers) and typical scale
-- Energy balance / heat integration and co-product (syngas, bio-oil) economics
-- Moisture and ash constraints by feedstock class
-- How production logs map into registry MRV templates (Puro, Verra, Isometric, CSI)
-- Regional feedstock availability and competing uses (soil amendment vs energy vs materials)
+- Permanence science: [[Permanence]] cluster (H/C, Woolf/IPCC, Ro/HyPy, soil T, debates)
+- Credit permanence interpretations: [[Permanence Science for Credits]] (do not duplicate method text here)
+- Product standards: [[Product Standards EBC IBI]] · [[ANSI ASABE USBI S668]]
 
 ## Primary links
 
@@ -41,7 +44,8 @@ Credit programs and product standards ([EBC](https://www.european-biochar.org/)/
 - [Bilias et al. 2024 IUPAC](https://doi.org/10.1515/pac-2021-0106) · [[Bilias et al. 2024]]
 - [Keiluweit et al. 2010](https://doi.org/10.1021/es9031419)
 - [[Woolf et al. 2021]] ([DOI](https://doi.org/10.1021/acs.est.1c02425))
-- [EBC](https://www.european-biochar.org/) · [IBI](https://biochar-international.org/)
+- [EBC 10.5E PDF](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf) · [IBI](https://biochar-international.org/)
+- [ANSI S668 PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf)
 
 ## See also
 

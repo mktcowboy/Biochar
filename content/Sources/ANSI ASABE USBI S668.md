@@ -30,6 +30,6 @@ verified: 2026-09-16
 ## Use with care
 
 - Does not replace [[NRCS CPS 336 Standard 2022]] eligibility tables or registry MRV rules.
-- Pair with [[Product Standards EBC IBI]] (product classes) and [[Contaminants and Quality]].
+- Pair with [[Product Standards EBC IBI]] (product classes), [[Contaminants and Quality]], and practice chapter [[Testing EBC IBI S668]]. Permanence method section links [[H-Corg and O-Corg]] · [[Reflectance Ro and HyPy]].
 
-Related: [[US Biochar Initiative]] · [[USBI Guidance vs Vault Notes]] · [[Product Standards EBC IBI]] · [[Key Sources]]
+Related: [[US Biochar Initiative]] · [[USBI Guidance vs Vault Notes]] · [[Product Standards EBC IBI]] · [[Testing EBC IBI S668]] · [[Key Sources]]

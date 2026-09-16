@@ -34,4 +34,4 @@ verified: 2026-09-14
 - The half-life comes from a kinetic model for inertinite under stated conditions. It isn't a field measurement of biochar decay.
 - Crediting reflectance is a standards decision; see [[Permanence Science for Credits]] and [[Puro vs Other Standards]]. Critiques of the approach: [[Risks and Controversies]].
 
-Related: [[Permanence]] · [[Woolf et al. 2021]] · [[Key Sources]]
+Related: [[Permanence]] · [[Reflectance Ro and HyPy]] · [[Permanence Debates]] · [[Woolf et al. 2021]] · [[Key Sources]]

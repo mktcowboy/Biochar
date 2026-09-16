@@ -109,7 +109,7 @@ Chooser context: [[Puro vs Other Standards]] · [[Verra vs Isometric vs Puro]].
 
 ## Related notes
 
-- [[Contaminants and Quality]] · [[Properties]] · [[Production Hub]]
+- [[Contaminants and Quality]] · [[Testing EBC IBI S668]] · [[Properties]] · [[Production Hub]]
 - [[CSI Global Biochar C-Sink]] · [[CSI Overview]] · [[CSI GPC vs SPC Permanence Classes]] · [[CSI MRV and Emission Portfolio]]
 - [[Puro vs Other Standards]] · [[Verra vs Isometric vs Puro]]
 - [[US Biochar Initiative]] · [[USBI Guidance vs Vault Notes]]

@@ -36,4 +36,4 @@ verified: 2026-09-14
 - [[Woolf et al. 2021]] re-derived temperature-specific factors, and its values (0.63 / 0.71 / 0.82 at 14.9 °C) are lower than this table's. Don't mix the two tables in one calculation.
 - This is inventory guidance, not a crediting standard. See [[Permanence Science for Credits]] for how credit programs use or depart from it.
 
-Related: [[CDR Potential and IPCC Accounting]] · [[Permanence]] · [[Key Sources]]
+Related: [[CDR Potential and IPCC Accounting]] · [[Permanence]] · [[Woolf IPCC Fperm]] · [[Key Sources]]

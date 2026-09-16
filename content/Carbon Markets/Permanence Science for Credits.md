@@ -24,7 +24,7 @@ Same science, different program interpretations. Do not mix thresholds across re
 
 Puro explicitly chose **centuries not millennia** pending more integrated science ([Puro permanence post, 2025-07-03](https://puro.earth/insights/post/biochar-permanence/)).
 
-See also science-side [[Permanence]] and [[Consensus vs Debates]].
+See also science-side [[Permanence]] hub ([[H-Corg and O-Corg]], [[Woolf IPCC Fperm]], [[Reflectance Ro and HyPy]], [[Soil Temperature and Environment]], [[Permanence Debates]]) and [[Consensus vs Debates]]. Do not duplicate methodology thresholds into those science notes.
 
 ## Primary links
 

@@ -66,7 +66,7 @@ Cross-source cheat sheet. Each figure's checked home is its source note (index i
 
 ## Related notes
 
-- [[Permanence]]
+- [[Permanence]] · [[Woolf IPCC Fperm]] · [[H-Corg and O-Corg]]
 - [[Crop Yield Effects]]
 - [[GHG Fluxes]]
 - [[CDR Potential and IPCC Accounting]]

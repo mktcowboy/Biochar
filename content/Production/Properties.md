@@ -31,8 +31,8 @@ aliases: [H/C_org, O/C_org, Biochar properties]
 ## Related notes
 
 - [[Production]]
-- [[Permanence]]
-- [[Contaminants and Quality]]
+- [[Permanence]] · [[H-Corg and O-Corg]]
+- [[Contaminants and Quality]] · [[Testing EBC IBI S668]]
 - [[Quantitative Benchmarks]]
 - [[Permanence Science for Credits]]
 - [[Science Hub]]

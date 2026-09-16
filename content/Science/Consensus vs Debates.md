@@ -34,7 +34,7 @@ aliases: [Uncertainties, Open questions]
 
 ## Related notes
 
-- [[Permanence]]
+- [[Permanence]] · [[Permanence Debates]]
 - [[Permanence Science for Credits]]
 - [[CDR Potential and IPCC Accounting]]
 - [[GHG Fluxes]]

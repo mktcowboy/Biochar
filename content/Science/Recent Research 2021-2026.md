@@ -35,6 +35,10 @@ aliases: [Recent reviews, 2021-2026 research]
 
 13. **Blanco-Canqui et al. (2020).** Soil carbon increased by twice the amount of biochar carbon applied after 6 years… *GCB Bioenergy* 12:240–251.
 
+## Permanence cluster (expanded 2026-09-16)
+
+See [[Permanence]] hub and chapters [[H-Corg and O-Corg]], [[Woolf IPCC Fperm]], [[Reflectance Ro and HyPy]], [[Soil Temperature and Environment]], [[Permanence Debates]]. Schmidt policy commentary: [DOI](https://doi.org/10.1111/gcbb.70092). Sanei Ro benchmark: [[Sanei et al. 2024]] · [DOI](https://doi.org/10.1016/j.coal.2023.104409).
+
 ## Contaminants / process
 
 PAH content depends on feedstock, T, vapor residence, and especially post-pyrolysis vapor condensation. Clean process design + batch testing against EBC/IBI limits is the practical consensus. See [[Contaminants and Quality]]; product limits: [EBC](https://www.european-biochar.org/) / [IBI](https://biochar-international.org/).
@@ -49,5 +53,5 @@ DOIs above resolve via `https://doi.org/…`. IPCC appendix: [PDF](https://www.i
 - [[CDR Potential and IPCC Accounting]]
 - [[Crop Yield Effects]]
 - [[GHG Fluxes]]
-- [[Permanence]]
+- [[Permanence]] · [[Permanence Debates]]
 - [[Science Hub]]

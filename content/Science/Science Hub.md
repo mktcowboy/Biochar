@@ -1,15 +1,14 @@
 ---
 tags: [science, hub]
 aliases: [Science MOC, Biochar Science]
-updated: 2026-09-14
+updated: 2026-09-16
 ---
 
 # Science Hub
 
 Landing page for biochar scientific research notes—definition, permanence, literature, CDR accounting, and debates. Production, agronomic effects, and materials uses now have their own hubs ([[Production Hub]], [[Applications Hub]]); this page stays focused on the science core.
 
-Synthesized from the science research report (2026-09-14); citations only from that report and primary sources listed in [[Key Sources]].
-
+Synthesized from the science research report (2026-09-14) plus permanence expansion (2026-09-16); citations from that report, primary sources in [[Key Sources]], and checked PDFs (Woolf open copy, IPCC App. 4, EBC 10.5E, S668).
 
 ## Primary links / Primary science links
 
@@ -22,13 +21,20 @@ Synthesized from the science research report (2026-09-14); citations only from t
 | [[Bilias et al. 2024]] IUPAC glossary | https://doi.org/10.1515/pac-2021-0106 |
 | Weng & Cowie 2025 | https://doi.org/10.1038/s43247-025-02228-x |
 | State of CDR Ch. 10 ([[Fuss & Lunstrum 2026]]) | https://doi.org/10.17605/OSF.IO/FBZ4X |
+| Schmidt et al. 2025 permanence commentary | https://doi.org/10.1111/gcbb.70092 |
+| [[Sanei et al. 2024]] inertinite / Ro | https://doi.org/10.1016/j.coal.2023.104409 |
 | EBC | https://www.european-biochar.org/ |
 | IBI | https://biochar-international.org/ |
 
 ## Core concepts
 
 - [[Overview and Definition]] — IUPAC / IPCC definitions; what biochar is not
-- [[Permanence]] — persistence science and policy proxies
+- [[Permanence]] — **hub** for persistence science
+  - [[H-Corg and O-Corg]] — elemental-ratio proxies
+  - [[Woolf IPCC Fperm]] — inventory permanence factors
+  - [[Reflectance Ro and HyPy]] — petrography & HyPy-resistant C
+  - [[Soil Temperature and Environment]] — Q10 and environmental controls
+  - [[Permanence Debates]] — model vs inertinite camps; horizon choice
 - [[Quantitative Benchmarks]] — numbers cheat-sheet
 
 ## Literature
@@ -46,14 +52,14 @@ Synthesized from the science research report (2026-09-14); citations only from t
 
 | Domain | Hub / notes |
 |---|---|
-| How char is made | [[Production Hub]] → [[Production]], [[Properties]], [[Contaminants and Quality]], [[Feedstocks]] |
+| How char is made | [[Production Hub]] → [[Production]], [[Pyrolysis Systems and Temperatures]], [[Feedstocks]], [[Woody vs Manure Ag Feedstocks]], [[Biochar Quality from Process]], [[Gasification Residues]], [[Properties]], [[Contaminants and Quality]] (+ PAH/metals/PFAS/testing chapters) |
 | Field & built uses | [[Applications Hub]] → [[Crop Yield Effects]], [[GHG Fluxes]], [[Soil and Agriculture]], [[Materials and Built Uses]] |
 
 ## Cross-links to markets & policy
 
 Science underpins credit design: [[Permanence Science for Credits]], [[MRV Stack]], [[Carbon Markets Hub]].
 
-Product and practice layers: [[Product Standards EBC IBI]], [[NRCS CPS 336 and US Ag]], [[Policy Hub]].
+Product and practice layers: [[Product Standards EBC IBI]], [[Testing EBC IBI S668]], [[NRCS CPS 336 and US Ag]], [[Policy Hub]].
 
 ## Vault navigation
 

@@ -43,4 +43,4 @@ verified: 2026-09-14
 - F_perm drops quickly in warmer soils and over longer horizons, so always state the temperature and time horizon with a permanence number.
 - The N₂O term is small and conditional. Don't apply it at typical farm rates below 10 Mg C ha⁻¹.
 
-Related: [[Permanence]] · [[IPCC 2019 Biochar Appendix]] · [[GHG Fluxes]] · [[Permanence Science for Credits]] · [[Key Sources]]
+Related: [[Permanence]] · [[Woolf IPCC Fperm]] · [[H-Corg and O-Corg]] · [[Soil Temperature and Environment]] · [[IPCC 2019 Biochar Appendix]] · [[GHG Fluxes]] · [[Permanence Science for Credits]] · [[Key Sources]]

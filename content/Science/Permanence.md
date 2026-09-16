@@ -1,48 +1,99 @@
 ---
-tags: [science, permanence]
-aliases: [Persistence, Biochar permanence]
+tags: [science, permanence, hub]
+aliases: [Persistence, Biochar permanence, Permanence hub]
+updated: 2026-09-16
 ---
 
 # Permanence
 
-Biochar C mineralizes **1–2 orders of magnitude more slowly** than unpyrolysed biomass because of fused aromatic structure ([[Lehmann et al. 2021|Lehmann et al., 2021]] · [DOI](https://doi.org/10.1038/s41561-021-00852-8)). Persistence depends on **material chemistry** (aromatic condensation) **and** environment (soil temperature, moisture, minerals, microbes). It is probabilistic / centennial–millennial for well-made chars—not literal forever ([Schmidt et al., 2025](https://doi.org/10.1111/gcbb.70092); [[Woolf et al. 2021|Woolf et al., 2021]] · [DOI](https://doi.org/10.1021/acs.est.1c02425)).
+Hub for **persistence / permanence science**: how long biochar organic carbon remains in soil after application, which material and environmental factors control that longevity, and which laboratory proxies inventories and markets use. Credit-program thresholds and issuance rules live in [[Permanence Science for Credits]] — this cluster stays on the **science**. Report context: **2026-09-16**.
 
-## Policy / accounting proxies
+> **Companion chapters (2026-09-16):** [[H-Corg and O-Corg]] · [[Woolf IPCC Fperm]] · [[Reflectance Ro and HyPy]] · [[Soil Temperature and Environment]] · [[Permanence Debates]]. This note is the **spine**—definitions, mechanism snapshot, chapter map, and practice takeaway—without duplicating registry methodology text.
 
-- H/C_org (preferred when measured)
-- Pyrolysis temperature class
-- Hydropyrolysis-resistant C (BC_HyPy)
-- Solid electric conductivity
-- Reflectance (Ro)
+**Related notes:** [[Properties]] · [[Quantitative Benchmarks]] · [[CDR Potential and IPCC Accounting]] · [[Consensus vs Debates]] · [[Permanence Science for Credits]] · [[Production]] · [[Biochar Quality from Process]] · [[Science Hub]] · [[Key Sources]]
 
-(Woolf et al., 2021; Hagemann/Sanei lines of work cited in Schmidt 2025.)
+---
 
-## Key quantitative findings
+## 1. What “permanence” means here
 
-| Source | Finding |
+Biochar carbon mineralizes **1–2 orders of magnitude more slowly** than unpyrolysed biomass because pyrolysis builds **fused aromatic** structures that microbes oxidize poorly ([[Lehmann et al. 2021|Lehmann et al., 2021]] · [DOI](https://doi.org/10.1038/s41561-021-00852-8); [[Woolf et al. 2021|Woolf et al., 2021]] · [DOI](https://doi.org/10.1021/acs.est.1c02425)). Persistence is **not** literal forever: it is probabilistic over **centennial–millennial** horizons for well-made chars, and it depends on **material chemistry** (aromatic condensation) **and** environment (soil temperature, moisture, minerals, microbes) ([Schmidt et al., 2025](https://doi.org/10.1111/gcbb.70092); [Woolf 2021](https://doi.org/10.1021/acs.est.1c02425)).
+
+Policy and inventory practice usually compress that dynamics into a single **permanence factor** \(F_\mathrm{perm}\) = fraction of biochar organic C still unmineralized after a chosen horizon—commonly **100 years** for IPCC-style accounting ([[IPCC 2019 Biochar Appendix]] · [PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)). Always state **horizon + soil temperature** with any \(F_\mathrm{perm}\) number ([[Woolf IPCC Fperm]], [[Soil Temperature and Environment]]).
+
+---
+
+## 2. Mechanism in one paragraph
+
+During pyrolysis, cellulose/hemicellulose/lignin rearrange into **condensed aromatic** domains; H and O are lost relative to C, so **H/C_org** and **O/C_org** fall as condensation rises ([[Keiluweit et al.|Keiluweit et al., 2010]] · [DOI](https://doi.org/10.1021/es9031419); [[H-Corg and O-Corg]]). Labile aliphatic / incompletely carbonized fractions mineralize in months–years; the recalcitrant aromatic pool decays much more slowly, so multi-pool (at least two-pool exponential) models are the inventory workhorse ([IPCC App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf); [Woolf 2021](https://doi.org/10.1021/acs.est.1c02425)). Aging in soil also includes **stabilization** pathways (organo-mineral associations, aggregation)—decomposition and stabilization run in parallel ([Schmidt 2025](https://doi.org/10.1111/gcbb.70092)).
+
+---
+
+## 3. Proxy map (science side)
+
+| Proxy | What it tracks | Typical use | Deep chapter |
+|---|---|---|---|
+| **H/C_org** | Aromatic condensation (H lost as fused rings grow) | Preferred inventory input when measured; EBC/IBI quality gate | [[H-Corg and O-Corg]] |
+| **O/C_org** | Oxygenation / condensation (Spokas half-life classes) | Historical rule-of-thumb; standards often ≤0.4 | [[H-Corg and O-Corg]] |
+| **Pyrolysis T class** | Process intensity when elemental analysis unavailable | IPCC / Woolf temperature bins → \(F_\mathrm{perm}\) | [[Woolf IPCC Fperm]] · [[Pyrolysis Systems and Temperatures]] |
+| **BC_HyPy** | Hydropyrolysis-resistant C | CSI / advanced MRV “inert” fraction | [[Reflectance Ro and HyPy]] |
+| **Random reflectance Ro** | Optical rank / inertinite-like condensation | Isometric 1000y / CSI upper class / Sanei benchmark | [[Reflectance Ro and HyPy]] |
+| **Solid EC** | Batch homogeneity / condensation correlate (EBC) | Process QC, not a standalone \(F_\mathrm{perm}\) | [[Properties]] · EBC Guidelines ([PDF](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)) |
+| **Soil temperature** | Environmental decay rate (Q10) | Adjust \(F_\mathrm{perm}\) to site climate | [[Soil Temperature and Environment]] |
+
+Test-method recipes (how to measure H:C_org, O:C_org, Ro): [[ANSI ASABE USBI S668]] · [PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) §10. Pass/fail credit thresholds: [[Permanence Science for Credits]].
+
+---
+
+## 4. Headline numbers (checked vault sources)
+
+| Source | Finding | Link |
+|---|---|---|
+| **[IPCC 2019 App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)** · [[IPCC 2019 Biochar Appendix]] | 100-yr \(F_\mathrm{perm}\): **0.65** (350–450 °C), **0.80** (450–600 °C), **0.89** (>600 °C); ±~11–15%; ~20 °C basis | Full text ✓ |
+| **[[Woolf et al. 2021]]** ([DOI](https://doi.org/10.1021/acs.est.1c02425); [open PDF](https://open-science.canada.ca/server/api/core/bitstreams/112fc297-0352-4683-ae0e-dd1271f59d77/content)) | At **14.9 °C** (global cropland mean): 100-yr ≈ **0.63 / 0.71 / 0.82**; 1000-yr high-T ~**0.25** | Full text ✓ |
+| **[[Lehmann et al. 2021]]** ([DOI](https://doi.org/10.1038/s41561-021-00852-8)) | Of chars with **H/C_org < 0.5**, 95% showed >50% C remaining after 100 yr (mean **~82%** in that subset) | Full-text figure **not re-checked** (paywalled)—use with care |
+| **[Spokas 2010](https://doi.org/10.4155/cmt.10.32)** | O/C half-life classes (approximate; not inventory-grade alone) | See [[H-Corg and O-Corg]] |
+| **[[Sanei et al. 2024]]** ([DOI](https://doi.org/10.1016/j.coal.2023.104409)) | Inertinite benchmark **Ro = 2%** (IBRo2%); 76% of studied commercial chars entirely above 2% | Abstract ✓ |
+| **[Schmidt et al. 2025](https://doi.org/10.1111/gcbb.70092)** | Policy: estimate persistence on **centuries**, not millennia; refuse 100% permanence claims | Abstract ✓ |
+
+Cross-sheet: [[Quantitative Benchmarks]].
+
+---
+
+## 5. Practice takeaway (science → project)
+
+1. Prefer **measured H/C_org + site soil temperature** for \(F_\mathrm{perm}\) when elemental analysis is available ([Woolf 2021](https://doi.org/10.1021/acs.est.1c02425)).
+2. Fall back to **IPCC / Woolf temperature class** when only production logs exist ([IPCC PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)).
+3. Do **not** claim “permanent” without a **time horizon** (usually 100 years in inventory policy; credit programs may use 200y / 1000y / “several centuries”—see [[Permanence Science for Credits]]).
+4. Treat **Ro / HyPy** as complementary high-condensation indicators, not drop-in replacements for Woolf-style decay factors, unless a specific protocol says otherwise ([[Reflectance Ro and HyPy]], [[Permanence Debates]]).
+5. Warmer soils **lower** \(F_\mathrm{perm}\) for the same char ([[Soil Temperature and Environment]]).
+
+---
+
+## 6. Chapter index
+
+| Chapter | Role |
 |---|---|
-| **[IPCC 2019 App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC 2019 Biochar Appendix]]** | F_perm (100 yr): **0.65** (350–450 °C), **0.80** (450–600 °C), **0.89** (>600 °C / high-T gasification); ±~11–15% |
-| **[Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425)** | At **14.9 °C** (global cropland mean), 100-yr F_perm ≈ **0.63 / 0.71 / 0.82** (low/med/high T). At 1000 yr much lower (e.g. high-T ~0.25 at 14.9 °C) |
-| **[Lehmann et al. 2021](https://doi.org/10.1038/s41561-021-00852-8)** | Of biochars with **H/C_org < 0.5**, 95% showed >50% C remaining after 100 yr (mean **~82%** in that subset) |
-| **[Spokas 2010](https://doi.org/10.4155/cmt.10.32)** | O/C-based half-life classes (approximate rule-of-thumb; not inventory-grade alone) |
+| [[H-Corg and O-Corg]] | Elemental-ratio proxies, Spokas classes, EBC/IBI gates, Woolf H/C regression |
+| [[Woolf IPCC Fperm]] | Temperature bins, Table 3 values, how IPCC and Woolf relate (do not mix tables) |
+| [[Reflectance Ro and HyPy]] | Petrographic Ro, hydropyrolysis-resistant C, inertinite debate pointer |
+| [[Soil Temperature and Environment]] | Q10, cropland means, moisture/minerals/aging |
+| [[Permanence Debates]] | Two-pool overestimation, Ro vs decay-model camps, policy commentary |
 
-**Practice takeaway:** Prefer **H/C_org + soil temperature** for project accounting; use IPCC T-class when only production data exist; do not claim “permanent” without a time horizon (usually **100 years** in policy).
+---
 
-## Active frontier
+## 7. Primary links
 
-Ongoing debate (2024–2026) on whether two-pool incubations **overestimate** long-term decay of the recalcitrant pool—treat as active research, not settled. See [[Consensus vs Debates]] and [[Permanence Science for Credits]].
+- [IPCC 2019 App. 4 PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC 2019 Biochar Appendix]]
+- [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) · [open PDF](https://open-science.canada.ca/server/api/core/bitstreams/112fc297-0352-4683-ae0e-dd1271f59d77/content) · [[Woolf et al. 2021]]
+- [Lehmann et al. 2021](https://doi.org/10.1038/s41561-021-00852-8) · [[Lehmann et al. 2021]]
+- [Schmidt et al. 2025](https://doi.org/10.1111/gcbb.70092)
+- [Sanei et al. 2024](https://doi.org/10.1016/j.coal.2023.104409) · [[Sanei et al. 2024]]
+- [Spokas 2010](https://doi.org/10.4155/cmt.10.32)
+- [Keiluweit et al. 2010](https://doi.org/10.1021/es9031419)
+- [EBC Guidelines 10.5E PDF](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)
+- [ANSI S668 PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[ANSI ASABE USBI S668]]
+- Credit interpretation (no method duplication): [[Permanence Science for Credits]]
 
-## Key citations
+## Related hubs
 
-- Lehmann et al. (2021). *Nature Geoscience*. DOI: [10.1038/s41561-021-00852-8](https://doi.org/10.1038/s41561-021-00852-8)
-- Woolf et al. (2021). *Environ. Sci. Technol.* DOI: [10.1021/acs.est.1c02425](https://doi.org/10.1021/acs.est.1c02425)
-- Schmidt et al. (2025). *GCB Bioenergy*. DOI: [10.1111/gcbb.70092](https://doi.org/10.1111/gcbb.70092)
-- IPCC (2019) Appendix 4 — [PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)
-
-## Related notes
-
-- [[Properties]]
-- [[CDR Potential and IPCC Accounting]]
-- [[Quantitative Benchmarks]]
-- [[Permanence Science for Credits]]
-- [[Science Hub]]
+- [[Science Hub]] · [[Production Hub]] · [[Carbon Markets Hub]] · [[Biochar Home]] · [[Key Sources]]
