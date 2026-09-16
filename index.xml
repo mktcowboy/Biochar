@@ -6,12 +6,6 @@
       <description>Last 10 notes on Biochar</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Greenhouse Gas Inventory Model for Biochar Additions to Soil</title>
-    <link>https://mktcowboy.github.io/Biochar/Sources/Biochar-Soil-GHG-Inventory-Model</link>
-    <guid>https://mktcowboy.github.io/Biochar/Sources/Biochar-Soil-GHG-Inventory-Model</guid>
-    <description><![CDATA[ Biochar Soil GHG Inventory Model Citation: Woolf D, Lehmann J, Ogle S, Kishimoto-Mo AW, McConkey B, Baldock J (2021). ]]></description>
-    <pubDate>Wed, 16 Sep 2026 15:14:39 GMT</pubDate>
-  </item><item>
     <title>Biochar in climate change mitigation</title>
     <link>https://mktcowboy.github.io/Biochar/Sources/Biochar-in-Climate-Change-Mitigation</link>
     <guid>https://mktcowboy.github.io/Biochar/Sources/Biochar-in-Climate-Change-Mitigation</guid>
@@ -64,6 +58,12 @@
     <link>https://mktcowboy.github.io/Biochar/Sources/Global-GHG-and-Yield-Patterns</link>
     <guid>https://mktcowboy.github.io/Biochar/Sources/Global-GHG-and-Yield-Patterns</guid>
     <description><![CDATA[ Global GHG and Yield Patterns Citation: Jia X, Yan W, Yang J, Chen W, Ma H, Chen X, Liu J, Zhong Y, Shangguan Z (2023). ]]></description>
+    <pubDate>Wed, 16 Sep 2026 15:14:39 GMT</pubDate>
+  </item><item>
+    <title>Glossary of terms used in biochar research (IUPAC Technical Report)</title>
+    <link>https://mktcowboy.github.io/Biochar/Sources/IUPAC-Biochar-Terminology</link>
+    <guid>https://mktcowboy.github.io/Biochar/Sources/IUPAC-Biochar-Terminology</guid>
+    <description><![CDATA[ IUPAC Biochar Terminology Citation: Bilias F, Sewu DD, Woo SH, Anastopoulos I, Verheijen F, Lehmann J, Teixeira WG, Gasparatos D, Draper K, Kalderis D (2024). ]]></description>
     <pubDate>Wed, 16 Sep 2026 15:14:39 GMT</pubDate>
   </item>
     </channel>
