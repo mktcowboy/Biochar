@@ -55,7 +55,7 @@ FC sensitivity to T is **weak for high-ash feedstocks** because ash concentratio
 | **Dioxins/PCBs** | Same vapor-condensation pathway as PAHs; test if Σ8 EFSA PAH high | Cl-rich / contaminated feeds |
 | **PFAS** | High T + residence can remove from solid; may transfer to liquids/gas | Biosolids / contaminated wastes |
 
-Deep chapters: [[PAHs]] · [[Heavy Metals and Ash]] · [[PFAS and Emerging Contaminants]]. EBC PAH narrative: [EBC 10.5E §7.11](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf).
+Deep chapters: [[PAHs]] · [[Heavy Metals and Ash]] · [[PFAS]]. EBC PAH narrative: [EBC 10.5E §7.11](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf).
 
 ---
 

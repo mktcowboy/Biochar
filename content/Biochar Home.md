@@ -6,7 +6,7 @@ updated: 2026-09-16
 
 # Biochar
 
-Research vault for biochar science, production, applications, carbon markets, policy, and industry. Notes synthesize primary literature and registry documents (see [[Key Sources]]). Report date context: 2026-09-14. **User rule:** every data claim should carry an outbound `https://…` or `https://doi.org/…` in the note body—not only `[[wikilinks]]`.
+Research vault for biochar science, production, applications, carbon markets, policy, and industry. Notes synthesize primary literature and registry documents (see [[Key Sources]]). Report date context: 2026-09-16. **User rule:** every data claim should carry an outbound `https://…` or `https://doi.org/…` in the note body—not only `[[wikilinks]]`.
 
 ## Domain map
 
@@ -42,7 +42,7 @@ Research vault for biochar science, production, applications, carbon markets, po
 | Feedstocks | [[Feedstocks]] · [[Woody vs Manure Ag Feedstocks]] |
 | Process → quality | [[Biochar Quality from Process]] · [[Gasification Residues]] |
 | Material properties | [[Properties]] |
-| Contaminants (**hub + chapters**) | [[Contaminants and Quality]] · [[PAHs]] · [[Heavy Metals and Ash]] · [[PFAS and Emerging Contaminants]] · [[Testing EBC IBI S668]] |
+| Contaminants (**hub + chapters**) | [[Contaminants and Quality]] · [[PAHs]] · [[Heavy Metals and Ash]] · [[PFAS|PFAS and Biochar]] · [[Testing EBC IBI S668]] |
 
 ## Applications
 

@@ -63,7 +63,7 @@ EBC notes nutrient contents can reach ~**one-third** of biochar mass; first-year
 |---|---|---|---|
 | EBC soil classes | Positive-list biomass; forest wood needs FSC/PEFC/etc. | Allowed except Feed; **H/C_org < 0.4** required | Generally **EBC-Basic** only; metals often too high for Agro/Urban |
 | Heavy metals | Usually low if clean biomass | Watch Cu/Zn; concentration effect | Often limiting |
-| PFAS | Low unless contaminated | Variable | Elevated risk → test ([[PFAS and Emerging Contaminants]]) |
+| PFAS | Low unless contaminated | Variable | Elevated risk → test ([[PFAS]]) |
 | Feed grade | Possible (FeedPlus plant biomass) | Not for FeedPlus | No |
 
 ([EBC 10.5E](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf) §4.7–4.9). Credit methodologies add their own feedstock eligibility—see [[MRV Stack]] / methodology notes, not duplicated here.

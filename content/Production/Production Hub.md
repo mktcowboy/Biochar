@@ -30,7 +30,7 @@ Credit programs and product standards ([EBC](https://www.european-biochar.org/)/
 | [[Gasification Residues]] | High-ash gasifier solids and accounting |
 | [[Properties]] | Aromatic C, H/C_org, O/C_org, porosity, pH, CEC; EBC/IBI thresholds |
 | [[Contaminants and Quality]] | Hub for PAH, metals, PFAS, testing standards |
-| [[PAHs]] · [[Heavy Metals and Ash]] · [[PFAS and Emerging Contaminants]] · [[Testing EBC IBI S668]] | Contaminant deep chapters |
+| [[PAHs]] · [[Heavy Metals and Ash]] · [[PFAS]] · [[Testing EBC IBI S668]] | Contaminant deep chapters; PFAS covers feedstocks, process mass balance, soils, testing, and regulation |
 
 ## Cross-links to science & markets
 

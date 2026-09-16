@@ -6,9 +6,9 @@ updated: 2026-09-16
 
 # Contaminants and Quality
 
-Hub for **environmental contaminants and product-quality framing** of biochar: PAHs, heavy metals/ash, PFAS and emerging organics, and the testing stack (EBC / IBI / ANSI S668). Not a carbon-credit methodology. Report context: **2026-09-16**.
+Hub for **environmental contaminants and product-quality framing** of biochar: PAHs, heavy metals/ash, PFAS—including whole-process transfer/destruction and soil immobilization—and the testing stack (EBC / IBI / ANSI S668). Not a carbon-credit methodology. Report context: **2026-09-16**.
 
-> **Companion chapters (2026-09-16):** [[PAHs]] · [[Heavy Metals and Ash]] · [[PFAS and Emerging Contaminants]] · [[Testing EBC IBI S668]]. This note is the **spine**—risk map, standards roles, and practice takeaway.
+> **Companion chapters (2026-09-16):** [[PAHs]] · [[Heavy Metals and Ash]] · [[PFAS]] · [[Testing EBC IBI S668]]. This note is the **spine**—risk map, standards roles, and practice takeaway.
 
 **Related notes:** [[Properties]] · [[Production]] · [[Biochar Quality from Process]] · [[Product Standards EBC IBI]] · [[ANSI ASABE USBI S668]] · [[MRV Stack]] · [[Risks and Controversies]] · [[Production Hub]] · [[Key Sources]]
 
@@ -27,7 +27,7 @@ Biochar’s climate and soil value collapses if products introduce **PAHs**, **h
 | **PAHs** | Vapor condensation / process design (feedstock secondary) | [[PAHs]] |
 | **Heavy metals & ash** | Feedstock load + mass-loss concentration; Hg volatilizes | [[Heavy Metals and Ash]] |
 | **PCBs / PCDD/F** | Contaminated feeds + vapor pathway; EBC triggers on high PAH | [[PAHs]] · [[Testing EBC IBI S668]] |
-| **PFAS & emerging** | Biosolids/waste feeds; pyrolysis may remove from solid but transfer to liquids/gas | [[PFAS and Emerging Contaminants]] |
+| **PFAS** | Biosolids, coated paper/compost, and impacted wastes; distinguish char removal, phase transfer, and destruction | [[PFAS]] |
 | **Salts / EC** | Manure/ash-rich chars | [[Heavy Metals and Ash]] · [[Properties]] |
 
 ---
@@ -73,7 +73,7 @@ Full discussion: [[PAHs]] · [[Heavy Metals and Ash]] · [[Testing EBC IBI S668]
 
 1. Design reactors for **vapor–char separation before cooling**; then test every batch.
 2. Match **certification class** to end use (feed ≠ materials ≠ basic industrial).
-3. For biosolids/manure routes, budget **metals + PFAS** analytics up front.
+3. For biosolids, coated-paper/compost, or impacted-waste routes, budget **metals + PFAS** analytics and whole-train sampling up front ([[PFAS]]).
 4. Use S668/EPA methods in North America; EBC-endorsed labs for EBC PAH methods (matrix matters).
 
 ---
@@ -87,5 +87,5 @@ Full discussion: [[PAHs]] · [[Heavy Metals and Ash]] · [[Testing EBC IBI S668]
 
 ## Related notes
 
-- [[PAHs]] · [[Heavy Metals and Ash]] · [[PFAS and Emerging Contaminants]] · [[Testing EBC IBI S668]]
+- [[PAHs]] · [[Heavy Metals and Ash]] · [[PFAS]] · [[Testing EBC IBI S668]]
 - [[Properties]] · [[Production]] · [[MRV Stack]] · [[Risks and Controversies]] · [[Production Hub]]

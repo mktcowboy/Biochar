@@ -8,7 +8,7 @@ updated: 2026-09-16
 
 Chapter on **how biochar is tested and certified**: European Biochar Certificate (EBC), IBI Biochar Standards, and ANSI/ASABE/USBI S668 test methods. Clarifies pass/fail product standards vs methods-only standards vs carbon methodologies. Report context: **2026-09-16**.
 
-**Related notes:** [[Contaminants and Quality]] · [[Product Standards EBC IBI]] · [[ANSI ASABE USBI S668]] · [[PAHs]] · [[Heavy Metals and Ash]] · [[PFAS and Emerging Contaminants]] · [[H-Corg and O-Corg]] · [[Properties]] · [[Key Sources]]
+**Related notes:** [[Contaminants and Quality]] · [[Product Standards EBC IBI]] · [[ANSI ASABE USBI S668]] · [[PAHs]] · [[Heavy Metals and Ash]] · [[PFAS]] · [[H-Corg and O-Corg]] · [[Properties]] · [[Key Sources]]
 
 ---
 
@@ -16,7 +16,7 @@ Chapter on **how biochar is tested and certified**: European Biochar Certificate
 
 | Layer | Instrument | Sets pass/fail limits? | Vault home |
 |---|---|---|---|
-| Product certification | **EBC** / **IBI** (and WBC-related EBC framing) | **Yes** — H/C_org, PAH, metals, use classes | [[Product Standards EBC IBI]] |
+| Product certification | **EBC**; legacy **IBI** (retired April 2024) | **Yes** — H/C_org, PAH, metals, use classes | [[Product Standards EBC IBI]] |
 | Test methods | **ANSI/ASABE/USBI S668** (Nov 2025) | **No** — recommended methods only | [[ANSI ASABE USBI S668]] |
 | Carbon crediting | Verra / Puro / Isometric / CSI | Eligibility + MRV (may require EBC/IBI) | [[MRV Stack]] · methodology notes |
 
@@ -48,7 +48,7 @@ Key numeric gates duplicated in contaminant chapters: [[PAHs]], [[Heavy Metals a
 
 Portal: [biochar-international.org/biochar-standards](https://biochar-international.org/biochar-standards/) · org home [biochar-international.org](https://biochar-international.org/).
 
-IBI standards define biochar material criteria (including H/C_org ≤ 0.7 classically, O/C thresholds, and contaminant declaration/limits by grade) used widely in North American commerce and lab report interpretation. ABI’s interpreting-lab-reports guidance points practitioners to IBI method packages ([ABI lab report PDF](https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Lab-Report-2026.pdf) · [[US Biochar Initiative]]). Exact grade tables should be read from the current IBI document before diligence—vault does not invent versioned limit tables beyond EBC full-text extracts and the ≤0.7 / ≤0.4 ratios already in [[Properties]].
+The IBI Biochar Standard was retired in **April 2024** and will not be updated ([IBI process/history](https://biochar-international.org/wp-content/uploads/2024/07/IBI_Biochar_Standards_Process_History-1.pdf)). Its legacy material criteria (including H/C_org ≤ 0.7 classically, O/C thresholds, and contaminant declaration/limits by grade) still appear in commerce and lab-report interpretation. ABI’s interpreting-lab-reports guidance points practitioners to IBI method packages ([ABI lab report PDF](https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Lab-Report-2026.pdf) · [[US Biochar Initiative]]). Exact grade tables should be read from the current IBI document before diligence—vault does not invent versioned limit tables beyond EBC full-text extracts and the ≤0.7 / ≤0.4 ratios already in [[Properties]].
 
 ---
 
@@ -64,7 +64,7 @@ Source note: [[ANSI ASABE USBI S668]] · [PDF](https://biochar.org/wp-content/up
 | Organic C | §9 — C_org = total C − inorganic C |
 | Physical | §11 — bulk density ISO 17828; PSD sieves; BET ISO 9277 guidance |
 | PAHs / PCBs / PCDD/F | §12.1 — EPA extraction/analysis methods |
-| **PFAS** | §12.1.4 — **EPA 1633A**; no pass/fail |
+| **PFAS** | §12.1.4 — **EPA 1633A** (40 targets in solids/liquids); no pass/fail; see [[PFAS]] |
 | Trace metals | §12.2 — EPA methods for U.S. use |
 | Ag parameters | Nutrients, pH, liming, salinity |
 
@@ -87,7 +87,7 @@ Front matter: ASABE standards are informational/advisory/voluntary. S668 **does 
 
 1. Never treat a **methods standard** (S668) as a **certificate**.
 2. Match **class** to end use before comparing PAH/metal numbers.
-3. For PFAS, report method + jurisdiction—there is no universal biochar PFAS limit in S668.
+3. For PFAS, report target list, matrix, reporting limits, method, sampled process phases, and jurisdiction—S668 has no universal biochar PFAS limit ([[PFAS]]).
 
 ---
 
@@ -102,4 +102,4 @@ Front matter: ASABE standards are informational/advisory/voluntary. S668 **does 
 
 ## Related notes
 
-- [[Contaminants and Quality]] · [[Product Standards EBC IBI]] · [[PAHs]] · [[Heavy Metals and Ash]] · [[PFAS and Emerging Contaminants]] · [[Production Hub]]
+- [[Contaminants and Quality]] · [[Product Standards EBC IBI]] · [[PAHs]] · [[Heavy Metals and Ash]] · [[PFAS]] · [[Production Hub]]

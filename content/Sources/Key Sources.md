@@ -19,6 +19,7 @@ The most-cited papers and reports each have their own note in `Sources/`. Each n
 - **Company reports with their own note:** [[Exomad Green Corn and Bean Field Study]] · [[Oasis Vineyard Trial 2023]] · [[Earth Foundries Co-Composting Report 2023]] · [[Pacific Biochar Compost White Paper 2023]]
 - **Applications chapter clusters (2026-09-16):** compost ([[Biochar Compost and Manure Blends]] · [[Co-composting Science]] · [[Farm Co-composting Practice]] · [[Compost Blend Safety]] · [[Matrix Pathways for Credits]]); rates ([[Application Rates and Methods]] · [[Field Rates by System]] · [[Incorporation Topdress Banding]] · [[Equipment and Timing]] · [[On-farm Trial Design]]); economics ([[Agronomic Economics]] · [[Cost Components]] · [[Fertilizer Displacement]]); GHG ([[GHG Fluxes]] · [[Nitrous Oxide Fluxes]] · [[Methane Fluxes]] · [[Priming and SOC Interactions]])
 - **Industry org / standards / survey notes:** [[US Biochar Initiative]] · [[USBI Guidance vs Vault Notes]] · [[USBI Ag Guidelines 2023]] · [[ANSI ASABE USBI S668]] · [[ABI 2025 US Biochar Market Report]]
+- **PFAS chapter and research dump (2026-09-16):** [[PFAS]] · `/workspace/biochar-research/pfas-biochar.md`
 
 ### Corrections made while building the source notes (2026-09-14)
 
@@ -109,8 +110,15 @@ Each entry appears once. Author names, years, and journals match Crossref as of 
 - Hansen et al. (2015). Gasification biochar as co-product. *Biomass Bioenergy*. [10.1016/j.biombioe.2014.11.010](https://doi.org/10.1016/j.biombioe.2014.11.010)
 - Longendyke et al. (2022). PFAS thermal destruction review. *Environ. Sci.: Processes Impacts*. [10.1039/D1EM00465D](https://doi.org/10.1039/D1EM00465D)
 - McNamara et al. (2023). PFAS transfer to py-liquid. *Environ. Sci.: Water Res. Technol.* [10.1039/D2EW00677D](https://doi.org/10.1039/D2EW00677D)
-- Thomsen et al. PFAS through pyrolysis + thermal oxidation. *Water Environ. Res.* [10.1002/wer.11149](https://doi.org/10.1002/wer.11149)
+- Winchell et al. (2024). PFAS through pyrolysis + thermal oxidation. *Water Environ. Res.* [10.1002/wer.11149](https://doi.org/10.1002/wer.11149)
 - Rathnayake et al. (2025). PFAS fate in biosolids pyrolysis/co-pyrolysis. *J. Anal. Appl. Pyrolysis*. [10.1016/j.jaap.2025.106970](https://doi.org/10.1016/j.jaap.2025.106970)
+- Sørmo et al. (2023). PFAS decomposition and emission factors across contaminated organic wastes. *J. Hazard. Mater.* [10.1016/j.jhazmat.2023.131447](https://doi.org/10.1016/j.jhazmat.2023.131447)
+- Hušek et al. (2024). Target PFAS and organic-fluorine removal from sludge and sand by pyrolysis. *Biochar*. [10.1007/s42773-024-00322-5](https://doi.org/10.1007/s42773-024-00322-5)
+- McNamara et al. (2026). Initial concentration and pyrolysis efficiency control solid PFAS removal. *Water Environ. Res.* [10.1002/wer.70352](https://doi.org/10.1002/wer.70352)
+- Edirisinghe et al. (2026). Complementary analysis of fluorinated organics in biosolids-pyrolysis byproducts. *Environ. Sci. Technol.* [10.1021/acs.est.5c17517](https://doi.org/10.1021/acs.est.5c17517)
+- Sørmo et al. (2021). Activated-biochar stabilization of PFAS-contaminated soil. *Sci. Total Environ.* [10.1016/j.scitotenv.2020.144034](https://doi.org/10.1016/j.scitotenv.2020.144034)
+- Holly et al. (2024). PFAS leaching from biosolids and mitigation with biochar in undisturbed columns. *ACS ES&T Water*. [10.1021/acsestwater.3c00414](https://doi.org/10.1021/acsestwater.3c00414)
+- EPA Method 1633A (2024), 40 PFAS in aqueous, solid, biosolids, and tissue matrices. [PDF](https://www.epa.gov/system/files/documents/2024-12/method-1633a-december-5-2024-508-compliant.pdf)
 - EBC Guidelines 10.5E (2025-08-14). [PDF](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)
 - ANSI/ASABE/USBI S668 NOV2025ED. [PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[ANSI ASABE USBI S668]]
 - Phyllis2 biomass database. [https://phyllis.nl/](https://phyllis.nl/)

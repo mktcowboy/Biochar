@@ -8,7 +8,7 @@ updated: 2026-09-16
 
 Chapter on **ash** and **trace metals** in biochar: concentration during pyrolysis, feedstock drivers, EBC class limits, and agronomic salinity/micronutrient issues. Report context: **2026-09-16**.
 
-**Related notes:** [[Contaminants and Quality]] · [[Woody vs Manure Ag Feedstocks]] · [[Gasification Residues]] · [[Properties]] · [[PFAS and Emerging Contaminants]] · [[Testing EBC IBI S668]] · [[Key Sources]]
+**Related notes:** [[Contaminants and Quality]] · [[Woody vs Manure Ag Feedstocks]] · [[Gasification Residues]] · [[Properties]] · [[PFAS]] · [[Testing EBC IBI S668]] · [[Key Sources]]
 
 ---
 
