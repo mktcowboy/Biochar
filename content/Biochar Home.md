@@ -12,9 +12,9 @@ Research vault for biochar science, production, applications, carbon markets, po
 
 | Domain | Hub | Scope |
 |---|---|---|
-| Science | [[Science Hub]] | Definition, permanence, literature, CDR/IPCC accounting, debates |
-| Production | [[Production Hub]] | Pyrolysis, properties, contaminants, feedstocks |
-| Applications | [[Applications Hub]] | Soil/ag chapter set, yields, GHG, rates, real-world projects, materials |
+| Science | [[Science Hub]] | Definition, permanence chapter set, literature, CDR/IPCC accounting, debates |
+| Production | [[Production Hub]] | Pyrolysis systems, feedstocks, quality-from-process, gasification residues, contaminants/testing |
+| Applications | [[Applications Hub]] | Soil/ag chapter set, compost/rates/economics/GHG clusters, yields, real-world projects, materials |
 | Carbon markets | [[Carbon Markets Hub]] | Methodologies, MRV, market volumes, buyers, risks |
 | Policy & programs | [[Policy Hub]] | NRCS CPS 336, EBC/IBI product standards |
 | Industry | [[Industry Hub]] | Producers, offtakers, project landscape; [[US Biochar Initiative]] (ABI) |
@@ -25,7 +25,7 @@ Research vault for biochar science, production, applications, carbon markets, po
 | Topic | Note |
 |---|---|
 | What biochar is | [[Overview and Definition]] |
-| Persistence | [[Permanence]] |
+| Persistence (**hub + chapters**) | [[Permanence]] · [[H-Corg and O-Corg]] · [[Woolf IPCC Fperm]] · [[Reflectance Ro and HyPy]] · [[Soil Temperature and Environment]] · [[Permanence Debates]] |
 | Foundational literature | [[Foundational Papers]] |
 | Recent reviews (2021–2026) | [[Recent Research 2021-2026]] |
 | IPCC & gigaton potential | [[CDR Potential and IPCC Accounting]] |
@@ -37,10 +37,12 @@ Research vault for biochar science, production, applications, carbon markets, po
 
 | Topic | Note |
 |---|---|
-| How it is made | [[Production]] |
+| Production MOC | [[Production Hub]] |
+| How it is made | [[Production]] · [[Pyrolysis Systems and Temperatures]] |
+| Feedstocks | [[Feedstocks]] · [[Woody vs Manure Ag Feedstocks]] |
+| Process → quality | [[Biochar Quality from Process]] · [[Gasification Residues]] |
 | Material properties | [[Properties]] |
-| PAHs & quality | [[Contaminants and Quality]] |
-| Feedstock research map | [[Feedstocks]] |
+| Contaminants (**hub + chapters**) | [[Contaminants and Quality]] · [[PAHs]] · [[Heavy Metals and Ash]] · [[PFAS and Emerging Contaminants]] · [[Testing EBC IBI S668]] |
 
 ## Applications
 
@@ -49,15 +51,15 @@ Research vault for biochar science, production, applications, carbon markets, po
 | Applications MOC | [[Applications Hub]] |
 | **Soil & agriculture (primary chapter)** | [[Soil and Agriculture]] |
 | Crop yields | [[Crop Yield Effects]] |
-| N₂O / CH₄ / priming (ag) | [[GHG Fluxes]] |
-| Rates & methods / NRCS scenarios | [[Application Rates and Methods]] |
+| **GHG cluster** (N₂O / CH₄ / priming) | [[GHG Fluxes]] · [[Nitrous Oxide Fluxes]] · [[Methane Fluxes]] · [[Priming and SOC Interactions]] |
+| **Rates & methods cluster** | [[Application Rates and Methods]] · [[Field Rates by System]] · [[Incorporation Topdress Banding]] · [[Equipment and Timing]] · [[On-farm Trial Design]] |
 | Real-world soil projects | [[Real World Soil Projects]] |
 | Field study — Exomad/CIAT corn & beans (Bolivia) | [[Exomad Green Corn and Bean Field Study]] |
 | **Inoculation / charging / BBFs** | [[Biochar Inoculation for Fertilizer]] |
 | **Nutrients & fertilizer chemistry** | [[Biochar Nutrients and Fertilizer Chemistry]] |
 | **Microbes & soil biology** | [[Biochar Microbes and Soil Biology]] |
-| Compost & manure blends | [[Biochar Compost and Manure Blends]] |
-| Agronomic economics | [[Agronomic Economics]] |
+| **Compost / COMBI cluster** | [[Biochar Compost and Manure Blends]] · [[Co-composting Science]] · [[Farm Co-composting Practice]] · [[Compost Blend Safety]] · [[Matrix Pathways for Credits]] |
+| **Agronomic economics cluster** | [[Agronomic Economics]] · [[Cost Components]] · [[Fertilizer Displacement]] |
 | Materials & built uses | [[Materials and Built Uses]] |
 
 ## Carbon markets

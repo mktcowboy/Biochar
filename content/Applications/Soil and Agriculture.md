@@ -8,7 +8,7 @@ updated: 2026-09-16
 
 Chapter-length map of **biochar in farm and soil systems**: how it changes soil, what yield and GHG metas say, how to apply it, named real-world deployments, products/practices, constraints, and links to [[Permanence]], [[NRCS CPS 336 and US Ag]], and carbon-market soil pathways.
 
-Report context: **2026-09-14**.
+Report context: **2026-09-16**.
 
 ## Purpose and scope
 
@@ -19,14 +19,14 @@ Most historical agronomy and a large share of voluntary biochar CDR still assume
 | Topic | Note |
 |---|---|
 | Yield metas & field evidence | [[Crop Yield Effects]] |
-| N₂O / CH₄ / priming (ag framing) | [[GHG Fluxes]] |
-| Rates, incorporation, banding, NRCS scenarios | [[Application Rates and Methods]] |
+| N₂O / CH₄ / priming (ag framing) | [[GHG Fluxes]] · [[Nitrous Oxide Fluxes]] · [[Methane Fluxes]] · [[Priming and SOC Interactions]] |
+| Rates, incorporation, banding, NRCS scenarios | [[Application Rates and Methods]] · [[Field Rates by System]] · [[Incorporation Topdress Banding]] · [[Equipment and Timing]] · [[On-farm Trial Design]] |
 | Named farms, vineyards, credit projects | [[Real World Soil Projects]] |
-| Compost / manure co-application | [[Biochar Compost and Manure Blends]] |
+| Compost / manure / COMBI cluster | [[Biochar Compost and Manure Blends]] · [[Co-composting Science]] · [[Farm Co-composting Practice]] · [[Compost Blend Safety]] · [[Matrix Pathways for Credits]] |
 | **Inoculation / charging / BBFs** | [[Biochar Inoculation for Fertilizer]] |
 | **Nutrients & fertilizer chemistry** | [[Biochar Nutrients and Fertilizer Chemistry]] |
 | **Microbes & soil biology** | [[Biochar Microbes and Soil Biology]] |
-| Cost / benefit (sourced only) | [[Agronomic Economics]] |
+| Cost / benefit (sourced only) | [[Agronomic Economics]] · [[Cost Components]] · [[Fertilizer Displacement]] |
 | US EQIP/CSP practice | [[NRCS CPS 336 and US Ag]] |
 | Persistence of applied C | [[Permanence]] · [[Permanence Science for Credits]] |
 | Contaminants / specs | [[Contaminants and Quality]] · [[Properties]] · [[Product Standards EBC IBI]] |
@@ -102,7 +102,7 @@ Full tables live in [[Crop Yield Effects]]. Headline metas:
 
 ## 3. GHG fluxes from agricultural soils
 
-Deep dive: [[GHG Fluxes]]. For farm planning:
+Deep dive: [[GHG Fluxes]] · [[Nitrous Oxide Fluxes]] · [[Methane Fluxes]] · [[Priming and SOC Interactions]]. For farm planning:
 
 - **N₂O:** [[Cayuela et al. 2014|Cayuela et al. (2014)]] classic meta ~**−54%** across lab and field studies ([DOI](https://doi.org/10.1016/j.agee.2013.10.009)); Jia et al. (2023) ~**−26.8%** across incubation, pot and field studies ([DOI](https://doi.org/10.1002/ldr.4868)). H:C_org of the char is a key moderator ([Cayuela 2015](https://doi.org/10.1016/j.agee.2014.12.015)).
 - **CH₄:** Mixed; Jia 2023 global mean **−13.0%**; paddies and flooded systems need site-specific reading ([DOI](https://doi.org/10.1002/ldr.4868)). Woolf et al. (2021) inventory method assumes **no net CH₄ change** for simplicity ([DOI](https://doi.org/10.1021/acs.est.1c02425)).
@@ -112,7 +112,7 @@ CDR credit tonnage is dominated by **stable biochar C**, not annual N₂O co-ben
 
 ## 4. Application methods (pointer)
 
-Full practice note: [[Application Rates and Methods]]; blends: [[Biochar Compost and Manure Blends]].
+Full practice notes: [[Application Rates and Methods]] · [[Field Rates by System]] · [[Incorporation Topdress Banding]] · [[Equipment and Timing]] · [[On-farm Trial Design]]; blends: [[Biochar Compost and Manure Blends]] · [[Co-composting Science]] · [[Farm Co-composting Practice]].
 
 - **Research rates:** often **5–50+ t ha⁻¹** (extremes to 100 t ha⁻¹ in Jeffery 2011) — **not** default farm advice ([DOI](https://doi.org/10.1016/j.agee.2011.08.015)).
 - **Enriched fertilizers:** agronomic doses can be **<2 t ha⁻¹** when nutrient-loaded (Schmidt/Pandit line; [DOI](https://doi.org/10.1002/ldr.2761)).

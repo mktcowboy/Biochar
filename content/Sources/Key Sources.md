@@ -17,6 +17,7 @@ The most-cited papers and reports each have their own note in `Sources/`. Each n
 - **In Obsidian**, the embed above is a live table with three views: *All sources*, *By type*, and *Not checked against full text*. On the published site, open the Sources folder page instead (Quartz ignores `.base` files).
 - **Adding a source note:** create it from `content/templates/Source Note.md` (point Obsidian's Templates setting at `content/templates`), fill in the properties, and link to it from the topic notes that cite it.
 - **Company reports with their own note:** [[Exomad Green Corn and Bean Field Study]] · [[Oasis Vineyard Trial 2023]] · [[Earth Foundries Co-Composting Report 2023]] · [[Pacific Biochar Compost White Paper 2023]]
+- **Applications chapter clusters (2026-09-16):** compost ([[Biochar Compost and Manure Blends]] · [[Co-composting Science]] · [[Farm Co-composting Practice]] · [[Compost Blend Safety]] · [[Matrix Pathways for Credits]]); rates ([[Application Rates and Methods]] · [[Field Rates by System]] · [[Incorporation Topdress Banding]] · [[Equipment and Timing]] · [[On-farm Trial Design]]); economics ([[Agronomic Economics]] · [[Cost Components]] · [[Fertilizer Displacement]]); GHG ([[GHG Fluxes]] · [[Nitrous Oxide Fluxes]] · [[Methane Fluxes]] · [[Priming and SOC Interactions]])
 - **Industry org / standards / survey notes:** [[US Biochar Initiative]] · [[USBI Guidance vs Vault Notes]] · [[USBI Ag Guidelines 2023]] · [[ANSI ASABE USBI S668]] · [[ABI 2025 US Biochar Market Report]]
 
 ### Corrections made while building the source notes (2026-09-14)
@@ -60,6 +61,7 @@ The most-cited papers and reports each have their own note in `Sources/`. Each n
 | Integrity | ICVCM VM0044 CCP decision PDF | https://icvcm.org/wp-content/uploads/2025/08/M43_VCS_VM0044_v1.2_2025.pdf |
 | Science | IPCC 2019 biochar appendix PDF | https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf · [[IPCC 2019 Biochar Appendix]] |
 | Product standard | EBC | https://www.european-biochar.org/ |
+| Product standard | EBC Guidelines 10.5E PDF | https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf |
 | Product standard | IBI | https://biochar-international.org/ |
 | Policy | NRCS CPS 336 FAQ (April 2026) | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf · [[NRCS CPS 336 FAQ 2026]] |
 | Policy | NRCS CPS 336 standard (November 2022) | https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf · [[NRCS CPS 336 Standard 2022]] |
@@ -98,6 +100,21 @@ Each entry appears once. Author names, years, and journals match Crossref as of 
 - Weng & Cowie (2025). Gigaton-scale mitigation potential of biochar. *Commun. Earth Environ.* [10.1038/s43247-025-02228-x](https://doi.org/10.1038/s43247-025-02228-x)
 - Schmidt et al. (2025). Biochar permanence — a policy commentary. *GCB Bioenergy*. [10.1111/gcbb.70092](https://doi.org/10.1111/gcbb.70092)
 
+
+### Production, contaminants, and testing (expanded 2026-09-16)
+
+- Keiluweit et al. (2010). Dynamic molecular structure of biochar. *Environ. Sci. Technol.* [10.1021/es9031419](https://doi.org/10.1021/es9031419)
+- Spokas (2010). O:C molar ratios and biochar stability. *Carbon Management*. [10.4155/cmt.10.32](https://doi.org/10.4155/cmt.10.32)
+- Cornelissen et al. (2016). Kon-Tiki kiln emissions and char quality. *PLOS ONE*. [10.1371/journal.pone.0154617](https://doi.org/10.1371/journal.pone.0154617)
+- Hansen et al. (2015). Gasification biochar as co-product. *Biomass Bioenergy*. [10.1016/j.biombioe.2014.11.010](https://doi.org/10.1016/j.biombioe.2014.11.010)
+- Longendyke et al. (2022). PFAS thermal destruction review. *Environ. Sci.: Processes Impacts*. [10.1039/D1EM00465D](https://doi.org/10.1039/D1EM00465D)
+- McNamara et al. (2023). PFAS transfer to py-liquid. *Environ. Sci.: Water Res. Technol.* [10.1039/D2EW00677D](https://doi.org/10.1039/D2EW00677D)
+- Thomsen et al. PFAS through pyrolysis + thermal oxidation. *Water Environ. Res.* [10.1002/wer.11149](https://doi.org/10.1002/wer.11149)
+- Rathnayake et al. (2025). PFAS fate in biosolids pyrolysis/co-pyrolysis. *J. Anal. Appl. Pyrolysis*. [10.1016/j.jaap.2025.106970](https://doi.org/10.1016/j.jaap.2025.106970)
+- EBC Guidelines 10.5E (2025-08-14). [PDF](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)
+- ANSI/ASABE/USBI S668 NOV2025ED. [PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[ANSI ASABE USBI S668]]
+- Phyllis2 biomass database. [https://phyllis.nl/](https://phyllis.nl/)
+
 ### Soil, yields, water and economics
 
 - Galinato et al. (2011). Economic value of biochar in crop production and carbon sequestration. *Energy Policy*. [10.1016/j.enpol.2011.07.035](https://doi.org/10.1016/j.enpol.2011.07.035)
@@ -113,6 +130,8 @@ Each entry appears once. Author names, years, and journals match Crossref as of 
 
 - Cayuela et al. (2013). Biochar and denitrification in soils. *Sci. Rep.* [10.1038/srep01732](https://doi.org/10.1038/srep01732)
 - Cayuela et al. (2015). Molar H:C_org ratio as a key factor in N₂O mitigation. *Agric. Ecosyst. Environ.* [10.1016/j.agee.2014.12.015](https://doi.org/10.1016/j.agee.2014.12.015)
+
+- Jeffery et al. (2016). Biochar effects on methane emissions from soils: a meta-analysis. *Soil Biol. Biochem.* [10.1016/j.soilbio.2016.07.021](https://doi.org/10.1016/j.soilbio.2016.07.021)
 
 ### Nutrients and biochar-based fertilizers
 
@@ -154,6 +173,9 @@ Each entry appears once. Author names, years, and journals match Crossref as of 
 - Sanchez-Monedero et al. (2018). Biochar as an additive in organic waste composting. *Bioresour. Technol.* [10.1016/j.biortech.2017.09.193](https://doi.org/10.1016/j.biortech.2017.09.193)
 - Sánchez-Monedero et al. (2019). Biochar, compost and biochar-blended compost across cropping systems. *Agronomy*. [10.3390/agronomy9050225](https://doi.org/10.3390/agronomy9050225)
 - Yin et al. (2021). Biochar and GHG emissions during composting review. *Sci. Total Environ.* [10.1016/j.scitotenv.2021.149294](https://doi.org/10.1016/j.scitotenv.2021.149294)
+
+- Li et al. (2025). Biochar amendments mitigate trace gas emissions in organic waste composting: a meta-analysis. *Nitrogen Cycling*. [10.48130/nc-0025-0003](https://doi.org/10.48130/nc-0025-0003)
+- Holistic compost maturation meta (2025). Biochar amendment effects on compost maturation. *Biochar*. [10.48130/bchax-0025-0005](https://doi.org/10.48130/bchax-0025-0005)
 
 ### Microbes and soil biology
 

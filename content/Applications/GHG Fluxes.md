@@ -1,77 +1,83 @@
 ---
-tags: [applications, science, GHG, N2O, CH4, agriculture]
-aliases: [N2O, methane, priming, Soil GHG]
-updated: 2026-09-14
+tags: [applications, science, GHG, N2O, CH4, agriculture, hub]
+aliases: [N2O, methane, priming, Soil GHG, GHG fluxes hub]
+updated: 2026-09-16
 ---
 
 # GHG Fluxes
 
-Agricultural framing of how soil-applied biochar changes **nitrous oxide (N₂O)**, **methane (CH₄)**, and **soil organic carbon priming / CO₂** fluxes. CDR credit math is still dominated by **stable biochar carbon** ([[Permanence]], [[Biochar as Durable CDR]]); flux co-benefits are secondary and highly variable.
+**Cluster hub** for agricultural framing of how soil-applied biochar changes **nitrous oxide (N₂O)**, **methane (CH₄)**, and **soil organic carbon priming / CO₂** fluxes. CDR credit math is still dominated by **stable biochar carbon** ([[Permanence]], [[Biochar as Durable CDR]]); flux co-benefits are secondary and highly variable.
 
-Sibling notes: [[Soil and Agriculture]] · [[Crop Yield Effects]] · [[Application Rates and Methods]].
+Report context: **2026-09-16**.
+
+## Cluster map
+
+| Note | Role |
+|---|---|
+| **This note** | Hub — summary table, interactions, project claim hygiene |
+| [[Nitrous Oxide Fluxes]] | Cayuela / Jia / Woolf N₂O deep dive |
+| [[Methane Fluxes]] | Jeffery 2016 flooded vs upland; Jia CH₄; composting-boundary CH₄ |
+| [[Priming and SOC Interactions]] | Wang 2016 priming meta; Weng 2017; inventory treatment |
+
+Sibling practice notes: [[Soil and Agriculture]] · [[Crop Yield Effects]] · [[Application Rates and Methods]] · [[Biochar Compost and Manure Blends]] · [[Matrix Pathways for Credits]].
+
+---
 
 ## Summary table
 
 | Gas / process | Typical cited ranges | Caveats | Primary URL |
 |---|---|---|---|
-| **N₂O** | Classic meta ~**−54%** ([[Cayuela et al. 2014\|Cayuela 2014]]); [[Jia et al. 2023\|Jia 2023]] **−26.8%** (incubation, pot and field pooled); Woolf inventory illustrative **−23%** year 1 only | Effect fades / uncertain beyond year 1; H:C_org matters | https://doi.org/10.1016/j.agee.2013.10.009 · https://doi.org/10.1002/ldr.4868 · https://doi.org/10.1021/acs.est.1c02425 · [[Woolf et al. 2021]] |
-| **CH₄** | Jia 2023 global **−13.0%**; paddies sometimes stronger ↓; other metas often ns overall | System-dependent (upland vs flooded) | https://doi.org/10.1002/ldr.4868 |
-| **CO₂ / priming** | Direction varies: [[Wang et al. 2016\|Wang 2016]] found a non-significant mean of **−3.8%**, significant negative priming in studies under six months, and positive priming in sandy soils (**+20.8%**); Weng 2017 shows decade-scale SOC accrual | Do **not** apply Woolf 2021 N₂O inventory method to organic/forest soils | https://doi.org/10.1111/gcbb.12266 · https://doi.org/10.1038/nclimate3276 · https://doi.org/10.1021/acs.est.1c02425 |
-| **GWP (Jia 2023)** | Combined GWP **−7.7%** in that global analysis | Bundled metric; read paper for boundaries | https://doi.org/10.1002/ldr.4868 |
+| **N₂O** | Classic meta ~**−54%** ([[Cayuela et al. 2014]]); [[Jia et al. 2023]] **−26.8%**; Woolf inventory optional **−23%** year 1 only if **>10 Mg C ha⁻¹** | Effect fades / uncertain beyond year 1; H:C_org matters; lab-heavy vs field | https://doi.org/10.1016/j.agee.2013.10.009 · https://doi.org/10.1002/ldr.4868 · https://doi.org/10.1021/acs.est.1c02425 · [[Woolf et al. 2021]] |
+| **CH₄** | Jia 2023 global **−13.0%**; Jeffery 2016 flooded *d*=**−0.87**, non-flooded *d*=**+0.65** | System-dependent (paddy vs upland); Woolf default **no net change** | https://doi.org/10.1002/ldr.4868 · https://doi.org/10.1016/j.soilbio.2016.07.021 · https://doi.org/10.1021/acs.est.1c02425 |
+| **CO₂ / priming** | Wang 2016 mean SOC mineralization **−3.8%** (ns); significant negative priming <6 mo (**−8.6%**); positive priming in sandy soils (**+20.8%**); Weng 2017 decade-scale negative priming | Do **not** apply Woolf N₂O method to organic/forest soils; priming not credited in Woolf inventory | https://doi.org/10.1111/gcbb.12266 · https://doi.org/10.1038/nclimate3276 · https://doi.org/10.1021/acs.est.1c02425 |
+| **GWP (Jia 2023)** | Combined GWP **−7.7%**; GHGI **−14.3%** | Bundled metric; pools lab/pot/field | https://doi.org/10.1002/ldr.4868 |
 
-## N₂O — mechanisms and metas
+Deep chapters: [[Nitrous Oxide Fluxes]] · [[Methane Fluxes]] · [[Priming and SOC Interactions]].
 
-### Classic and follow-on metas
+---
 
-Cayuela et al. (2014) reviewed and meta-analyzed soil N₂O responses and reported a large mean reduction (~**54%** in that analysis) ([DOI](https://doi.org/10.1016/j.agee.2013.10.009); author PDF mirror: https://digital.csic.es/bitstream/10261/273052/4/Cayuela2014AgricEcosysEnv.pdf).
+## N₂O — one-paragraph pointer
 
-Cayuela et al. (2015) show the **molar H:C_org** ratio is a key factor: more aromatic / lower H:C_org chars tend to mitigate N₂O more strongly ([DOI](https://doi.org/10.1016/j.agee.2014.12.015)). This is one scientific reason NRCS and EBC/IBI stress **H:C_org < 0.7** (and producers chase lower still) — see [[NRCS CPS 336 and US Ag]], [[Product Standards EBC IBI]], [[Properties]].
+Cayuela et al. (2014) classic meta ~**−54%** ([DOI](https://doi.org/10.1016/j.agee.2013.10.009)); Cayuela 2015 H:C_org moderator ([DOI](https://doi.org/10.1016/j.agee.2014.12.015)); Jia 2023 **−26.8%** ([DOI](https://doi.org/10.1002/ldr.4868)); Woolf optional **−23%** year 1 only above **10 Mg C ha⁻¹** ([DOI](https://doi.org/10.1021/acs.est.1c02425)). Full mechanisms and rate reality check: [[Nitrous Oxide Fluxes]].
 
-Mechanistic denitrification work (electron shuttling / buffering): Cayuela et al. (2013) *Scientific Reports* ([DOI](https://doi.org/10.1038/srep01732)).
+---
 
-### Field-oriented update
+## CH₄ — one-paragraph pointer
 
-Jia et al. (2023) report global mean **N₂O −26.8%** under biochar application alongside yield and other GHG metrics ([DOI](https://doi.org/10.1002/ldr.4868)). It pools incubation, pot and field studies, and field responses were weaker; treat it as more conservative than the 2014 laboratory-heavy mean.
+Jeffery et al. (2016): mitigation in flooded/acidic systems; possible sink weakening in non-flooded neutral–alkaline soils ([DOI](https://doi.org/10.1016/j.soilbio.2016.07.021)). Jia 2023 mean **−13.0%** ([DOI](https://doi.org/10.1002/ldr.4868)). Woolf default: **no net CH₄ change** ([DOI](https://doi.org/10.1021/acs.est.1c02425)). Composting-process CH₄ cuts are a **different boundary**: [[Methane Fluxes]], [[Co-composting Science]].
 
-### Inventory / MRV conservatism (Woolf 2021)
+---
 
-Woolf et al. (2021) greenhouse-gas inventory method for biochar soil additions allows an **optional** N₂O adjustment of **−23%** for the **first year only**, and only when application exceeds **10 Mg C ha⁻¹**; they assume **no net CH₄ change** for inventory simplicity ([DOI](https://doi.org/10.1021/acs.est.1c02425)). Organic and forest soils are **out of scope** for that optional credit.
+## Priming — one-paragraph pointer
 
-**Farm takeaway:** do not budget large multi-year N₂O offsets into agronomic NPV unless measured on-site. Credit programs primarily remunerate **durable C**, not flux co-benefits ([[MRV Stack]]).
+Wang et al. (2016) overall **−3.8%** (CI includes zero); short-term negative priming; sandy soils positive **+20.8%** ([DOI](https://doi.org/10.1111/gcbb.12266) · [[Wang et al. 2016]]). Weng et al. (2017) decade-scale negative priming ([DOI](https://doi.org/10.1038/nclimate3276)). Detail: [[Priming and SOC Interactions]].
 
-## CH₄ — upland vs flooded systems
+NRCS FAQ contrasts biochar’s multi-century C persistence framing (**~60–80%** remaining at 100 years in their cited range) with compost (**~2–14%**) ([FAQ PDF](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[NRCS CPS 336 FAQ 2026]]). Cross-check F_perm in [[Permanence]] / [[Quantitative Benchmarks]] ([IPCC 2019 appendix](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC 2019 Biochar Appendix]]).
 
-- Jia et al. (2023): mean **CH₄ −13.0%** ([DOI](https://doi.org/10.1002/ldr.4868)).
-- Rice paddies and other anaerobic systems can show reductions in some East Asian metas cited in secondary literature, but responses remain **mixed** (increases or non-significant results appear in the wider corpus). Site hydrology, labile C, and iron redox chemistry matter.
-- Woolf 2021 default: **no net CH₄ change** for national inventory–style accounting ([DOI](https://doi.org/10.1021/acs.est.1c02425)).
-
-## Priming and SOC stocks
-
-| Source | Finding | URL |
-|---|---|---|
-| Wang et al. 2016 | Decomposition + priming meta; mean SOC mineralization **−3.8%** (not significant); negative in short studies, positive in sandy soils | https://doi.org/10.1111/gcbb.12266 |
-| Weng et al. 2017 | Field evidence of **decade-scale negative priming** / SOC accrual | https://doi.org/10.1038/nclimate3276 |
-| Jia et al. 2023 | Broader GHG + productivity synthesis including soil C interactions | https://doi.org/10.1002/ldr.4868 |
-
-NRCS FAQ contrasts biochar’s multi-century C persistence framing (**~60–80%** remaining at 100 years in their cited range) with compost (**~2–14%**), while noting compost’s superior short-term nutrient/microbial pulse ([FAQ PDF](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[NRCS CPS 336 FAQ 2026]]). Cross-check F_perm tables in [[Permanence]] / [[Quantitative Benchmarks]] ([IPCC 2019 appendix](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC 2019 Biochar Appendix]]).
+---
 
 ## Interactions with rate, blends, and management
 
 - **Rate:** Woolf’s optional N₂O inventory term only at **>10 Mg C ha⁻¹** year 1 — far above many CPS 336 planning rates (~4 yd³/ac baseline) ([Woolf](https://doi.org/10.1021/acs.est.1c02425); [NRCS FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)).
-- **Compost / manure blends:** can change labile C, moisture, and N availability that drive N₂O — see [[Biochar Compost and Manure Blends]]; Earth Foundries Napa trial reported process GHG co-benefit as **VOC −33%** during composting with 10% (by volume) biochar ([PDF](https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf) · [[Earth Foundries Co-Composting Report 2023]]) — a **facility** emission metric, not soil N₂O.
-- **Fertilizer N:** [[Ye et al. 2020|Ye et al. (2020)]] yield meta emphasizes fertilizer interactions ([PDF](https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf)); N rate also modulates N₂O baselines.
+- **Compost / manure blends:** change labile C, moisture, and N — [[Biochar Compost and Manure Blends]]; facility VOC −33% at 10% v/v biochar ([Earth Foundries PDF](https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf)) is **not** soil N₂O.
+- **Fertilizer N:** [[Ye et al. 2020]] ([PDF](https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf)); [[Fertilizer Displacement]].
+
+---
 
 ## Real-world projects noting GHG / CDR co-benefits
 
 These claim climate benefits primarily via **soil C storage**; flux claims should be read as supplementary:
 
-- Exomad Green — Puro CORC soil end-use + stated N₂O co-benefit language on facility page: https://puro.earth/cdr-credit-suppliers/facilities/exomad-green-concepcion/
+- Exomad Green — Puro CORC soil end-use + stated N₂O co-benefit language: https://puro.earth/cdr-credit-suppliers/facilities/exomad-green-concepcion/
 - Charm Range & Plains — Isometric soil land application: https://registry.isometric.com/project/prj_1JN6XNWDQ1S0BSN7
-- Oasis Vineyard — cites Woolf 2021 persistence (>80% projected 100-yr for high-T wood char used): https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf · [[Oasis Vineyard Trial 2023]]
+- Oasis Vineyard — cites Woolf 2021 persistence: https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf · [[Oasis Vineyard Trial 2023]]
 
-Full project list: [[Real World Soil Projects]].
+Full project list: [[Real World Soil Projects]]. Credit matrix: [[Matrix Pathways for Credits]].
+
+---
 
 ## Related notes
 
+- [[Nitrous Oxide Fluxes]] · [[Methane Fluxes]] · [[Priming and SOC Interactions]]
 - [[Crop Yield Effects]] · [[Soil and Agriculture]] · [[Permanence]] · [[Consensus vs Debates]]
 - [[Quantitative Benchmarks]] · [[Science Hub]] · [[Applications Hub]]

@@ -8,7 +8,7 @@ updated: 2026-09-16
 
 Where biochar goes after production: **soil and agriculture** (primary chapter set), greenhouse-gas flux effects, and materials / built-environment uses. Application pathway shapes agronomic outcomes and how carbon credits treat storage (soil vs concrete/asphalt/composites).
 
-Report context: **2026-09-16** (USBI/ABI comparison added).
+Report context: **2026-09-16** (Applications chapter clusters: compost, rates, economics, GHG).
 
 ## Domain purpose
 
@@ -24,15 +24,28 @@ Science and markets both care *where* char is placed:
 |---|---|
 | [[Soil and Agriculture]] | **Primary chapter** — mechanisms, yields, GHG, rates, projects, products, constraints |
 | [[Crop Yield Effects]] | Meta-analyses + field/deployment yield evidence |
-| [[GHG Fluxes]] | N₂O, CH₄, priming — agricultural framing |
-| [[Application Rates and Methods]] | t/ha & yd³/ac, incorporation, banding, NRCS scenarios |
+| [[GHG Fluxes]] | **GHG hub** — N₂O, CH₄, priming (ag framing) |
+| [[Nitrous Oxide Fluxes]] | N₂O metas, H:C_org, Woolf inventory term |
+| [[Methane Fluxes]] | Jeffery 2016 flooded vs upland; Jia CH₄ |
+| [[Priming and SOC Interactions]] | Wang 2016 priming meta; Weng 2017; inventory treatment |
+| [[Application Rates and Methods]] | **Rates hub** — master table, principles, quality gates |
+| [[Field Rates by System]] | Rates by NRCS, research, vineyard, BBF, pasture |
+| [[Incorporation Topdress Banding]] | Broadcast, band, deep, no-till, pasture, co-batch |
+| [[Equipment and Timing]] | Spreaders, drills, calendar, contracting lifespan |
+| [[On-farm Trial Design]] | Replication, treatments, measurement templates |
 | [[Real World Soil Projects]] | Named farms, vineyards, composting, credit soil projects + URLs |
-| [[Exomad Green Corn and Bean Field Study]] | **Case study** — Exomad/CIAT 4 t/ha corn & bean trial (Bolivia): results, statistics, caveats |
-| [[Biochar Inoculation for Fertilizer]] | **Charging / inoculation / BBFs / COMBI** — mechanisms, protocols, evidence, products |
-| [[Biochar Nutrients and Fertilizer Chemistry]] | **N/P/K/CEC/liming chemistry** — sorption, BBF formulations, FUE, safety |
-| [[Biochar Microbes and Soil Biology]] | **Habitat, inocula, AMF/PGPR, priming, disease** — biology spine for inoculation |
-| [[Biochar Compost and Manure Blends]] | Co-composting, CPS 336 blend recipes, facility trials |
-| [[Agronomic Economics]] | Sourced cost/benefit (Oasis, Galinato, NRCS payments) |
+| [[Exomad Green Corn and Bean Field Study]] | **Case study** — Exomad/CIAT 4 t/ha corn & bean trial (Bolivia) |
+| [[Biochar Inoculation for Fertilizer]] | **Charging / inoculation / BBFs / COMBI** — practice spine |
+| [[Biochar Nutrients and Fertilizer Chemistry]] | **N/P/K/CEC/liming chemistry** |
+| [[Biochar Microbes and Soil Biology]] | **Habitat, inocula, AMF/PGPR, priming, disease** |
+| [[Biochar Compost and Manure Blends]] | **Compost hub** — blends, NRCS scenarios, checklist |
+| [[Co-composting Science]] | COMBI mechanisms, coating, nitrate capture, process GHG |
+| [[Farm Co-composting Practice]] | Loadings, pile ops, facility examples |
+| [[Compost Blend Safety]] | Pathogens, maturity, EC/salts, P-index |
+| [[Matrix Pathways for Credits]] | Soil end-use vs CPS 336 vs CDR (cross-link) |
+| [[Agronomic Economics]] | **Economics chapter** — Oasis, Galinato, NRCS, decision framework |
+| [[Cost Components]] | Delivered $, logistics, scenario construction |
+| [[Fertilizer Displacement]] | Yield×fertilizer interactions; when savings are real |
 | [[Materials and Built Uses]] | Non-soil pathways; credit eligibility links |
 
 ## Quick links — nutrients & microbes (inoculation spine)
@@ -68,6 +81,14 @@ Science and markets both care *where* char is placed:
 - [[Carbon Markets Hub]] — soil pathways in MRV / methodologies ([[Verra VM0044]] · [[Puro.earth Overview]] · [[Isometric Biochar Protocol]] · [[CSI Global Biochar C-Sink]])
 - [[Industry Hub]] · [[US Biochar Initiative]] · [[Key Sources]] · [[Biochar Home]]
 
+
+## Quick links — compost / rates / economics / GHG clusters (2026-09-16)
+
+- Compost: [[Biochar Compost and Manure Blends]] · [[Co-composting Science]] · [[Farm Co-composting Practice]] · [[Compost Blend Safety]] · [[Matrix Pathways for Credits]]
+- Rates: [[Application Rates and Methods]] · [[Field Rates by System]] · [[Incorporation Topdress Banding]] · [[Equipment and Timing]] · [[On-farm Trial Design]]
+- Economics: [[Agronomic Economics]] · [[Cost Components]] · [[Fertilizer Displacement]]
+- GHG: [[GHG Fluxes]] · [[Nitrous Oxide Fluxes]] · [[Methane Fluxes]] · [[Priming and SOC Interactions]] — [Cayuela 2014](https://doi.org/10.1016/j.agee.2013.10.009) · [Jeffery CH₄ 2016](https://doi.org/10.1016/j.soilbio.2016.07.021) · [Jia 2023](https://doi.org/10.1002/ldr.4868) · [Woolf 2021](https://doi.org/10.1021/acs.est.1c02425)
+
 ## Research dump
 
-Working notes: `/workspace/biochar-research/soil-agriculture-applications.md` · `/workspace/biochar-research/biochar-inoculation.md` · `/workspace/biochar-research/biochar-nutrients.md` · `/workspace/biochar-research/biochar-microbes.md` · `/workspace/biochar-research/usbi.md` (box paths; not necessarily in git).
+Working notes: `/workspace/biochar-research/applications-chapter-clusters-2026-09-16.md` · `/workspace/biochar-research/soil-agriculture-applications.md` · `/workspace/biochar-research/biochar-inoculation.md` · `/workspace/biochar-research/biochar-nutrients.md` · `/workspace/biochar-research/biochar-microbes.md` · `/workspace/biochar-research/usbi.md` (box paths; not necessarily in git).
