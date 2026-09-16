@@ -1,6 +1,6 @@
 ---
 tags: [source, science]
-aliases: ["Bilias 2024", "Bilias et al. (2024)", "IUPAC biochar glossary"]
+aliases: [Bilias 2024, Bilias et al. (2024), IUPAC biochar glossary, Bilias et al. 2024]
 source_type: glossary
 peer_reviewed: true
 authors: ["Bilias, Fotis", "Sewu, Divine Damertey", "Woo, Seung Han", "Anastopoulos, Ioannis", "Verheijen, Frank", "Lehmann, Johannes", "Teixeira, Wenceslau Geraldes", "Gasparatos, Dionisios", "Draper, Kathleen", "Kalderis, Dimitrios"]
@@ -13,7 +13,7 @@ checked_against: full text
 verified: 2026-09-14
 ---
 
-# Bilias et al. 2024
+# IUPAC Biochar Terminology
 
 **Citation:** Bilias F, Sewu DD, Woo SH, Anastopoulos I, Verheijen F, Lehmann J, Teixeira WG, Gasparatos D, Draper K, Kalderis D (2024). Glossary of terms used in biochar research (IUPAC Technical Report). *Pure and Applied Chemistry* 96(11): 1541–1572. https://doi.org/10.1515/pac-2021-0106 · open copy: [Embrapa repository PDF](http://www.alice.cnptia.embrapa.br/alice/bitstream/doc/1165276/1/Glossary-of-terms-used-in-biochar-research-2024.pdf)
 

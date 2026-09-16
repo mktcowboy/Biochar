@@ -1,6 +1,6 @@
 ---
 tags: [source, applications, GHG]
-aliases: ["Jeffery 2016", "Jeffery et al. (2016)", "Jeffery CH4 meta"]
+aliases: [Jeffery 2016, Jeffery et al. (2016), Jeffery CH4 meta, Jeffery et al. 2016]
 source_type: meta-analysis
 peer_reviewed: true
 authors: ["Jeffery, Simon", "Verheijen, Frank G. A.", "Kammann, Claudia", "Abalos, Diego"]
@@ -13,7 +13,7 @@ checked_against: full text
 verified: 2026-09-16
 ---
 
-# Jeffery et al. 2016
+# Soil Methane Meta-analysis
 
 **Citation:** Jeffery S, Verheijen FGA, Kammann C, Abalos D (2016). Biochar effects on methane emissions from soils: A meta-analysis. *Soil Biology and Biochemistry* 101: 251–258. https://doi.org/10.1016/j.soilbio.2016.07.021 · author manuscript: https://hau.repository.guildhe.ac.uk/id/eprint/15223/1/Simon%20Jeffery%20biochar%20effects%20on%20methane%20emissions%2023%20July%2016%20upload.pdf
 

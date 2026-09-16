@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: ["Jeffery 2017", "Jeffery et al. (2017)"]
+aliases: [Jeffery 2017, Jeffery et al. (2017), Jeffery et al. 2017]
 source_type: meta-analysis
 peer_reviewed: true
 authors: ["Jeffery, Simon", "Abalos, Diego", "Prodana, Marija", "Bastos, Ana Catarina", "van Groenigen, Jan Willem", "Hungate, Bruce A.", "Verheijen, Frank"]
@@ -13,7 +13,7 @@ checked_against: full text
 verified: 2026-09-14
 ---
 
-# Jeffery et al. 2017
+# Tropical vs Temperate Yields
 
 **Citation:** Jeffery S, Abalos D, Prodana M, Bastos AC, van Groenigen JW, Hungate BA, Verheijen F (2017). Biochar boosts tropical but not temperate crop yields. *Environmental Research Letters* 12(5): 053001. https://doi.org/10.1088/1748-9326/aa67bd (open access)
 

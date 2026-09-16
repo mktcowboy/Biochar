@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: ["Quilliam 2013", "Quilliam et al. (2013)"]
+aliases: [Quilliam 2013, Quilliam et al. (2013), Quilliam et al. 2013]
 source_type: field study
 peer_reviewed: true
 authors: ["Quilliam, Richard S.", "Glanville, Helen C.", "Wade, Stephen C.", "Jones, Davey L."]
@@ -13,7 +13,7 @@ checked_against: abstract
 verified: 2026-09-14
 ---
 
-# Quilliam et al. 2013
+# Charosphere Microbial Habitat
 
 **Citation:** Quilliam RS, Glanville HC, Wade SC, Jones DL (2013). Life in the 'charosphere' – Does biochar in agricultural soil provide a significant habitat for microorganisms? *Soil Biology and Biochemistry* 65: 287–293. https://doi.org/10.1016/j.soilbio.2013.06.004
 

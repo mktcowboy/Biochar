@@ -1,6 +1,6 @@
 ---
 tags: [source, science]
-aliases: ["Lehmann 2021", "Lehmann et al. (2021)"]
+aliases: [Lehmann 2021, Lehmann et al. (2021), Lehmann et al. 2021]
 source_type: review
 peer_reviewed: true
 authors: ["Lehmann, Johannes", "Cowie, Annette", "Masiello, Caroline A.", "Kammann, Claudia", "Woolf, Dominic", "Amonette, James E.", "Cayuela, Maria L.", "Camps-Arbestain, Marta", "Whitman, Thea"]
@@ -13,7 +13,7 @@ checked_against: abstract
 verified: 2026-09-14
 ---
 
-# Lehmann et al. 2021
+# Biochar in Climate Change Mitigation
 
 **Citation:** Lehmann J, Cowie A, Masiello CA, Kammann C, Woolf D, Amonette JE, Cayuela ML, Camps-Arbestain M, Whitman T (2021). Biochar in climate change mitigation. *Nature Geoscience* 14(12): 883–892. https://doi.org/10.1038/s41561-021-00852-8
 

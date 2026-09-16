@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: ["Cayuela 2014", "Cayuela et al. (2014)"]
+aliases: [Cayuela 2014, Cayuela et al. (2014), Cayuela et al. 2014]
 source_type: meta-analysis
 peer_reviewed: true
 authors: ["Cayuela, M. L.", "van Zwieten, L.", "Singh, B. P.", "Jeffery, S.", "Roig, A.", "Sánchez-Monedero, M. A."]
@@ -13,7 +13,7 @@ checked_against: abstract
 verified: 2026-09-14
 ---
 
-# Cayuela et al. 2014
+# Nitrous Oxide Mitigation Meta-analysis
 
 **Citation:** Cayuela ML, van Zwieten L, Singh BP, Jeffery S, Roig A, Sánchez-Monedero MA (2014). Biochar's role in mitigating soil nitrous oxide emissions: A review and meta-analysis. *Agriculture, Ecosystems & Environment* 191: 5–16. https://doi.org/10.1016/j.agee.2013.10.009
 

@@ -1,6 +1,6 @@
 ---
 tags: [source, science]
-aliases: ["Fuss et al. 2026", "Fuss 2026", "State of CDR 2026 Chapter 10"]
+aliases: [Fuss et al. 2026, Fuss 2026, State of CDR 2026 Chapter 10, Fuss & Lunstrum 2026]
 source_type: book chapter
 peer_reviewed: false
 authors: ["Fuss, Sabine", "Lunstrum, Abby"]
@@ -13,7 +13,7 @@ checked_against: full text
 verified: 2026-09-14
 ---
 
-# Fuss & Lunstrum 2026
+# CDR Costs and Potentials
 
 **Citation:** Fuss S, Lunstrum A (2026). Chapter 10: Costs and potentials. In *The State of Carbon Dioxide Removal*, 3rd edition. https://doi.org/10.17605/OSF.IO/FBZ4X · [chapter PDF on OSF](https://osf.io/download/ngcsy/)
 

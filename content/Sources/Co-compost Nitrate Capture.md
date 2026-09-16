@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: ["Kammann 2015", "Kammann et al. (2015)"]
+aliases: [Kammann 2015, Kammann et al. (2015), Kammann et al. 2015]
 source_type: pot trial
 peer_reviewed: true
 authors: ["Kammann, Claudia I.", "Schmidt, Hans-Peter", "Messerschmidt, Nicole", "Linsel, Sebastian", "Steffens, Diedrich", "Müller, Christoph", "Koyro, Hans-Werner", "Conte, Pellegrino", "Joseph, Stephen"]
@@ -13,7 +13,7 @@ checked_against: full text
 verified: 2026-09-14
 ---
 
-# Kammann et al. 2015
+# Co-compost Nitrate Capture
 
 **Citation:** Kammann CI, Schmidt H-P, Messerschmidt N, Linsel S, Steffens D, Müller C, Koyro H-W, Conte P, Joseph S (2015). Plant growth improvement mediated by nitrate capture in co-composted biochar. *Scientific Reports* 5: 11080. https://doi.org/10.1038/srep11080 (open access)
 

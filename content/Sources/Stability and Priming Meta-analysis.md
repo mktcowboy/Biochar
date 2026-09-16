@@ -1,6 +1,6 @@
 ---
 tags: [source, science]
-aliases: ["Wang 2016", "Wang et al. (2016)"]
+aliases: [Wang 2016, Wang et al. (2016), Wang et al. 2016]
 source_type: meta-analysis
 peer_reviewed: true
 authors: ["Wang, Jinyang", "Xiong, Zhengqin", "Kuzyakov, Yakov"]
@@ -13,7 +13,7 @@ checked_against: abstract
 verified: 2026-09-14
 ---
 
-# Wang et al. 2016
+# Stability and Priming Meta-analysis
 
 **Citation:** Wang J, Xiong Z, Kuzyakov Y (2016). Biochar stability in soil: meta-analysis of decomposition and priming effects. *GCB Bioenergy* 8(3): 512–523 (online 2015). https://doi.org/10.1111/gcbb.12266 (open access)
 

@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: ["Jia 2023", "Jia et al. (2023)"]
+aliases: [Jia 2023, Jia et al. (2023), Jia et al. 2023]
 source_type: meta-analysis
 peer_reviewed: true
 authors: ["Jia, Xiaoyu", "Yan, Weiming", "Yang, Jingyi", "Chen, Weiguang", "Ma, Hongze", "Chen, Xi", "Liu, Jin", "Zhong, Yangquanwei", "Shangguan, Zhouping"]
@@ -13,7 +13,7 @@ checked_against: abstract
 verified: 2026-09-14
 ---
 
-# Jia et al. 2023
+# Global GHG and Yield Patterns
 
 **Citation:** Jia X, Yan W, Yang J, Chen W, Ma H, Chen X, Liu J, Zhong Y, Shangguan Z (2023). Global patterns and controls of soil greenhouse gas fluxes and crop yield under biochar application. *Land Degradation & Development* 34(17): 5622–5634. https://doi.org/10.1002/ldr.4868 (open access)
 

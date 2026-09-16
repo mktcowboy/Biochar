@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: ["Melo 2022", "Melo et al. (2022)"]
+aliases: [Melo 2022, Melo et al. (2022), Melo et al. 2022]
 source_type: meta-analysis
 peer_reviewed: true
 authors: ["Melo, Leônidas Carrijo Azevedo", "Lehmann, Johannes", "Carneiro, Jefferson Santana da Silva", "Camps-Arbestain, Marta"]
@@ -13,7 +13,7 @@ checked_against: not accessible
 verified:
 ---
 
-# Melo et al. 2022
+# Biochar-Based Fertilizer Meta-analysis
 
 **Citation:** Melo LCA, Lehmann J, Carneiro JSS, Camps-Arbestain M (2022). Biochar-based fertilizer effects on crop productivity: a meta-analysis. *Plant and Soil* 472(1–2): 45–58. https://doi.org/10.1007/s11104-021-05276-2
 

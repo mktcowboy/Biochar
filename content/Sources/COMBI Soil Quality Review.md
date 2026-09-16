@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: ["Antonangelo 2021", "Antonangelo et al. (2021)", "COMBI review"]
+aliases: [Antonangelo 2021, Antonangelo et al. (2021), COMBI review, Antonangelo et al. 2021]
 source_type: review
 peer_reviewed: true
 authors: ["Antonangelo, João A.", "Sun, Xiao", "Zhang, Hailin"]
@@ -13,7 +13,7 @@ checked_against: abstract
 verified: 2026-09-14
 ---
 
-# Antonangelo et al. 2021
+# COMBI Soil Quality Review
 
 **Citation:** Antonangelo JA, Sun X, Zhang H (2021). The roles of co-composted biochar (COMBI) in improving soil quality, crop productivity, and toxic metal amelioration. *Journal of Environmental Management* 277: 111443. https://doi.org/10.1016/j.jenvman.2020.111443
 

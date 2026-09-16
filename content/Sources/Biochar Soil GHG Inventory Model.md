@@ -1,6 +1,6 @@
 ---
 tags: [source, science, carbon-markets]
-aliases: ["Woolf 2021", "Woolf et al. (2021)"]
+aliases: [Woolf 2021, Woolf et al. (2021), Woolf et al. 2021]
 source_type: model
 peer_reviewed: true
 authors: ["Woolf, Dominic", "Lehmann, Johannes", "Ogle, Stephen", "Kishimoto-Mo, Ayaka W.", "McConkey, Brian", "Baldock, Jeffrey"]
@@ -13,7 +13,7 @@ checked_against: full text
 verified: 2026-09-14
 ---
 
-# Woolf et al. 2021
+# Biochar Soil GHG Inventory Model
 
 **Citation:** Woolf D, Lehmann J, Ogle S, Kishimoto-Mo AW, McConkey B, Baldock J (2021). Greenhouse gas inventory model for biochar additions to soil. *Environmental Science & Technology* 55(21): 14795–14805. https://doi.org/10.1021/acs.est.1c02425 · open copy: [Canada federal science repository PDF](https://open-science.canada.ca/server/api/core/bitstreams/112fc297-0352-4683-ae0e-dd1271f59d77/content)
 

@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: ["Tapp Ross & Emery 2025", "Ross and Emery 2025", "Ross & Emery (2025)"]
+aliases: [Tapp Ross & Emery 2025, Ross and Emery 2025, Ross & Emery (2025), Ross & Emery 2025]
 source_type: meta-analysis
 peer_reviewed: true
 authors: ["Ross, Aysha Tapp", "Emery, Sarah M."]
@@ -13,7 +13,7 @@ checked_against: abstract
 verified: 2026-09-14
 ---
 
-# Ross & Emery 2025
+# Microbial Inocula Meta-analysis
 
 **Citation:** Ross AT, Emery SM (2025). Microbial inocula enhance effects of biochar amendments on crop productivity, soil health, and microbial communities: A meta-analysis. *Soil Science Society of America Journal* 89(1): e20792 (online 5 Dec 2024). https://doi.org/10.1002/saj2.20792
 

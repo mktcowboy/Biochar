@@ -1,6 +1,6 @@
 ---
 tags: [source, science, carbon-markets]
-aliases: ["Sanei 2024", "Sanei et al. (2024)", "Inertinite benchmark"]
+aliases: [Sanei 2024, Sanei et al. (2024), Inertinite benchmark, Sanei et al. 2024]
 source_type: method
 peer_reviewed: true
 authors: ["Sanei, Hamed", "Rudra, Arka", "Przyswitt, Zia Møller Moltesen", "Kousted, Sofie", "Sindlev, Marco Benkhettab", "Zheng, Xiaowei", "Nielsen, Søren Bom", "Petersen, Henrik Ingermann"]
@@ -13,7 +13,7 @@ checked_against: abstract
 verified: 2026-09-14
 ---
 
-# Sanei et al. 2024
+# Inertinite Permanence Benchmark
 
 **Citation:** Sanei H, Rudra A, Przyswitt ZMM, Kousted S, Sindlev MB, Zheng X, Nielsen SB, Petersen HI (2024). Assessing biochar's permanence: An inertinite benchmark. *International Journal of Coal Geology* 281: 104409. https://doi.org/10.1016/j.coal.2023.104409 (open access)
 

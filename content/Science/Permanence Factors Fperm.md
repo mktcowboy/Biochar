@@ -1,10 +1,10 @@
 ---
 tags: [science, permanence, accounting, IPCC]
-aliases: [F_perm, Woolf Fperm, IPCC permanence factors, Permanence factors]
+aliases: [F_perm, Woolf Fperm, IPCC permanence factors, Permanence factors, Woolf IPCC Fperm]
 updated: 2026-09-16
 ---
 
-# Woolf / IPCC F_perm
+# Permanence Factors (F_perm)
 
 Chapter on **inventory permanence factors**: how [[IPCC 2019 Biochar Appendix]] and [[Woolf et al. 2021]] turn production temperature (or H/C_org) into the fraction of biochar organic carbon remaining after a chosen time. Credit methodologies that cite these tables are mapped in [[Permanence Science for Credits]]—this note stays on the **science/model**. Report context: **2026-09-16**.
 

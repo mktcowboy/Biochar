@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: ["Jeffery 2011", "Jeffery et al. (2011)"]
+aliases: [Jeffery 2011, Jeffery et al. (2011), Jeffery et al. 2011]
 source_type: meta-analysis
 peer_reviewed: true
 authors: ["Jeffery, S.", "Verheijen, F. G. A.", "van der Velde, M.", "Bastos, A. C."]
@@ -13,7 +13,7 @@ checked_against: abstract
 verified: 2026-09-14
 ---
 
-# Jeffery et al. 2011
+# Crop Productivity Meta-analysis
 
 **Citation:** Jeffery S, Verheijen FGA, van der Velde M, Bastos AC (2011). A quantitative review of the effects of biochar application to soils on crop productivity using meta-analysis. *Agriculture, Ecosystems & Environment* 144(1): 175–187. https://doi.org/10.1016/j.agee.2011.08.015
 

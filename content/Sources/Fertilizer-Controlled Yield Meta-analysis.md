@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: ["Ye 2020", "Ye et al. (2020)"]
+aliases: [Ye 2020, Ye et al. (2020), Ye et al. 2020]
 source_type: meta-analysis
 peer_reviewed: true
 authors: ["Ye, Lili", "Camps-Arbestain, Marta", "Shen, Qinhua", "Lehmann, Johannes", "Singh, Balwant", "Sabir, Muhammad"]
@@ -13,7 +13,7 @@ checked_against: full text
 verified: 2026-09-14
 ---
 
-# Ye et al. 2020
+# Fertilizer-Controlled Yield Meta-analysis
 
 **Citation:** Ye L, Camps-Arbestain M, Shen Q, Lehmann J, Singh B, Sabir M (2020). Biochar effects on crop yields with and without fertilizer: A meta-analysis of field studies using separate controls. *Soil Use and Management* 36(1): 2–18 (online December 2019). https://doi.org/10.1111/sum.12546 · [author-hosted PDF](https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf)
 

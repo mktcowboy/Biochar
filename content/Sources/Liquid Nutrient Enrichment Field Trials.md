@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: ["Schmidt 2017", "Schmidt et al. (2017)"]
+aliases: [Schmidt 2017, Schmidt et al. (2017), Schmidt et al. 2017]
 source_type: field trial
 peer_reviewed: true
 authors: ["Schmidt, Hans-Peter", "Pandit, Bishnu Hari", "Cornelissen, Gerard", "Kammann, Claudia I."]
@@ -13,7 +13,7 @@ checked_against: abstract
 verified: 2026-09-14
 ---
 
-# Schmidt et al. 2017
+# Liquid Nutrient Enrichment Field Trials
 
 **Citation:** Schmidt H-P, Pandit BH, Cornelissen G, Kammann CI (2017). Biochar-based fertilization with liquid nutrient enrichment: 21 field trials covering 13 crop species in Nepal. *Land Degradation & Development* 28(8): 2324–2342. https://doi.org/10.1002/ldr.2761
 

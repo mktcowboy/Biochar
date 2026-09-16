@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: ["Schmidt 2015", "Schmidt et al. (2015)"]
+aliases: [Schmidt 2015, Schmidt et al. (2015), Schmidt et al. 2015]
 source_type: field trial
 peer_reviewed: true
 authors: ["Schmidt, Hans-Peter", "Pandit, Bishnu Hari", "Martinsen, Vegard", "Cornelissen, Gerard", "Conte, Pellegrino", "Kammann, Claudia I."]
@@ -13,7 +13,7 @@ checked_against: abstract
 verified: 2026-09-14
 ---
 
-# Schmidt et al. 2015
+# Urine-Enhanced Biochar Field Trial
 
 **Citation:** Schmidt H-P, Pandit BH, Martinsen V, Cornelissen G, Conte P, Kammann CI (2015). Fourfold increase in pumpkin yield in response to low-dosage root zone application of urine-enhanced biochar to a fertile tropical soil. *Agriculture* 5(3): 723–741. https://doi.org/10.3390/agriculture5030723 (open access)
 
