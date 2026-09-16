@@ -1,7 +1,7 @@
 ---
 tags: [applications, soil, agriculture, hub]
 aliases: [Soil applications, Ag biochar, Farm biochar]
-updated: 2026-09-14
+updated: 2026-09-16
 ---
 
 # Soil and Agriculture

@@ -1,7 +1,7 @@
 ---
 tags: [applications, inoculation, fertilizer, charging, co-composting, soil]
 aliases: [Biochar inoculation, Charged biochar fertilizer, Biochar-based fertilizer, Biochar activation, Enriching biochar]
-updated: 2026-09-14
+updated: 2026-09-16
 ---
  
 # Biochar Inoculation for Fertilizer
@@ -10,7 +10,7 @@ Chapter on **inoculating / charging / activating / enriching** biochar before us
 
 > **Companion deep chapters (2026-09-14):** [[Biochar Nutrients and Fertilizer Chemistry]] (N/P/K, CEC, BBF chemistry, FUE) · [[Biochar Microbes and Soil Biology]] (habitat, inocula meta, AMF/PGPR, priming, disease). This note stays the **practice/protocol** spine—charge methods, COMBI, products, decision trees—without duplicating those chemistry/biology chapters.
 
-**Related notes:** [[Biochar Nutrients and Fertilizer Chemistry]] · [[Biochar Microbes and Soil Biology]] · [[Biochar Compost and Manure Blends]] · [[Soil and Agriculture]] · [[Application Rates and Methods]] · [[Crop Yield Effects]] · [[Agronomic Economics]] · [[Contaminants and Quality]] · [[Product Standards EBC IBI]] · [[NRCS CPS 336 and US Ag]] · [[MRV Stack]] · [[Applications Hub]] · [[Key Sources]]
+**Related notes:** [[US Biochar Initiative]] · [[USBI Guidance vs Vault Notes]] · [[Biochar Nutrients and Fertilizer Chemistry]] · [[Biochar Microbes and Soil Biology]] · [[Biochar Compost and Manure Blends]] · [[Soil and Agriculture]] · [[Application Rates and Methods]] · [[Crop Yield Effects]] · [[Agronomic Economics]] · [[Contaminants and Quality]] · [[Product Standards EBC IBI]] · [[NRCS CPS 336 and US Ag]] · [[MRV Stack]] · [[Applications Hub]] · [[Key Sources]]
 
 ---
 

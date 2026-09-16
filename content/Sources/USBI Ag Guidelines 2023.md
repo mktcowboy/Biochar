@@ -9,7 +9,7 @@ title: "Biochar Guidelines for Agricultural Applications: Practical insights for
 venue: "United States Biochar Initiative, in partnership with the Nebraska Forest Service"
 url: "https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf"
 checked_against: full text
-verified: 2026-09-14
+verified: 2026-09-16
 ---
 
 # USBI Ag Guidelines 2023
@@ -34,5 +34,9 @@ verified: 2026-09-14
 
 - Practitioner guidance, not peer reviewed. The 1–3 week window is a recommendation, not a tested optimum.
 - The prilled-fertilizer ranges come from Gao et al. 2022 (https://doi.org/10.1007/s42773-022-00160-3); cite that review for them.
+
+## 2026 ABI republication
+
+ABI hosts an updated **Biochar Guidelines for Agriculture Applications** PDF (Nebraska Forest Service partnership) that retains the same charging / rate framing: https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-for-Agriculture-Applications-2026.pdf · org note [[US Biochar Initiative]] · comparison [[USBI Guidance vs Vault Notes]].
 
 Related: [[Biochar Inoculation for Fertilizer]] · [[NRCS CPS 336 FAQ 2026]] · [[Key Sources]]

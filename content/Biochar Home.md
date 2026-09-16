@@ -1,7 +1,7 @@
 ---
 tags: [home, hub]
 aliases: [Home, Biochar Vault]
-updated: 2026-09-14
+updated: 2026-09-16
 ---
 
 # Biochar
@@ -17,7 +17,7 @@ Research vault for biochar science, production, applications, carbon markets, po
 | Applications | [[Applications Hub]] | Soil/ag chapter set, yields, GHG, rates, real-world projects, materials |
 | Carbon markets | [[Carbon Markets Hub]] | Methodologies, MRV, market volumes, buyers, risks |
 | Policy & programs | [[Policy Hub]] | NRCS CPS 336, EBC/IBI product standards |
-| Industry | [[Industry Hub]] | Producers, offtakers, project landscape (links out) |
+| Industry | [[Industry Hub]] | Producers, offtakers, project landscape; [[US Biochar Initiative]] (ABI) |
 | Sources | [[Key Sources]] | Source notes with checked figures (Bases index), bibliography, registry URLs |
 
 ## Science
@@ -86,8 +86,9 @@ Research vault for biochar science, production, applications, carbon markets, po
 | Topic | Note |
 |---|---|
 | US ag (NRCS CPS 336) | [[NRCS CPS 336 and US Ag]] |
-| Product standards | [[Product Standards EBC IBI]] |
-| Industry landscape | [[Industry Hub]] |
+| Product standards | [[Product Standards EBC IBI]] · [[ANSI ASABE USBI S668]] |
+| USBI / American Biochar Institute | [[US Biochar Initiative]] · [[USBI Guidance vs Vault Notes]] |
+| Industry landscape | [[Industry Hub]] · [[ABI 2025 US Biochar Market Report]] |
 
 
 ## Primary links / Primary live links (outbound)
@@ -102,6 +103,7 @@ Research vault for biochar science, production, applications, carbon markets, po
 | CSI / Carbon Standards docs | https://www.carbon-standards.com/ |
 | European Biochar Certificate | https://www.european-biochar.org/ |
 | IBI Biochar Standards | https://biochar-international.org/ |
+| American Biochar Institute (ex-USBI) | https://biochar.org/about-abi/ · [[US Biochar Initiative]] |
 | ICVCM | https://www.icvcm.org/ |
 | IPCC 2019 biochar appendix (PDF) | https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf · [[IPCC 2019 Biochar Appendix]] |
 

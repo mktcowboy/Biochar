@@ -1,7 +1,7 @@
 ---
 tags: [industry, hub]
 aliases: [Industry MOC, Biochar industry]
-updated: 2026-09-14
+updated: 2026-09-16
 ---
 
 # Industry Hub
@@ -51,9 +51,20 @@ Do **not** duplicate market notes into this folder—link only.
 
 See [[Supply Landscape]] for sourced supplier profiles (Exomad Green, Liferaft, Empacar, AMP, Varaha, Charm biochar path, Carba, and CDR.fyi-named deliverers). Demand concentration: [[Buyers and Offtakes]]. Deal timeline: [[Historical Deals]].
 
+## Organizations & industry intelligence
+
+| Note | Role |
+|---|---|
+| [[US Biochar Initiative]] | USBI → **American Biochar Institute (ABI)** — education, standards, fact sheets, conference |
+| [[USBI Guidance vs Vault Notes]] | Where ABI/USBI agrees with Applications/Policy/Markets notes — and where the vault is deeper |
+| [[ABI 2025 US Biochar Market Report]] | Survey benchmarks for U.S. physical production & revenue (2023–2025) |
+| [[ANSI ASABE USBI S668]] | ANSI testing-methods standard for biochar |
+
+ABI home: https://biochar.org/ · About: https://biochar.org/about-abi/ · Document library: https://biochar.org/document-library/
+
 ## Gaps / to research
 
-- Producer directory by region and technology (only with citable sources)
+- Producer directory by region and technology (only with citable sources) — start from ABI/USBI directory UX on https://biochar.org/ / https://usbi.biochar-us.org/
 - Typical project capex/opex and credit break-evens (almost never public)
 - Role of developers, aggregators, and MRV service firms (Carbonfuture, Bioflux, etc.)
 - Overlap between product sales (soil amendment) and credit stacking
@@ -70,5 +81,6 @@ See [[Supply Landscape]] for sourced supplier profiles (Exomad Green, Liferaft, 
 
 ## See also
 
+- [[US Biochar Initiative]] · [[USBI Guidance vs Vault Notes]]
 - [[Carbon Markets Hub]] · [[Production Hub]] · [[Applications Hub]]
 - [[Policy Hub]] · [[Science Hub]] · [[Biochar Home]] · [[Key Sources]]

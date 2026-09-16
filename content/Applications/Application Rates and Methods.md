@@ -1,7 +1,7 @@
 ---
 tags: [applications, agronomy, rates, NRCS, methods]
 aliases: [Application rates, How to apply biochar, CPS 336 rates]
-updated: 2026-09-14
+updated: 2026-09-16
 ---
 
 # Application Rates and Methods
@@ -93,7 +93,8 @@ From CPS 336 Table 3 / FAQ reading guide ([2022 PDF](https://www.nrcs.usda.gov/s
 - Prefer recent batch tests; IBI seal alone is **not** sufficient without spec sheet
 - **No biosolids** feedstocks under CPS 336 (PFAS)
 
-USBI application fact sheet: https://biochar-us.org/sites/default/files/learning/files/USBI_FACT_SHEET_DFB_Application_Guide_01.pdf  
+USBI/ABI application guidelines (2026): https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-for-Agriculture-Applications-2026.pdf · comparison: [[USBI Guidance vs Vault Notes]] · org: [[US Biochar Initiative]]  
+USBI 2023 mirror (Aller et al.): https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf · [[USBI Ag Guidelines 2023]]  
 NRCS calculator / tools landing: https://www.nrcs.usda.gov/conservation-basics/natural-resource-concerns/soil/soil-health/soil-carbon-amendments
 
 ## Contracting lifespan (US)

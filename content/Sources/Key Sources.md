@@ -1,7 +1,7 @@
 ---
 tags: [sources, bibliography, hub]
 aliases: [Bibliography, Sources, References, Source index]
-updated: 2026-09-14
+updated: 2026-09-16
 ---
 
 # Key Sources
@@ -17,6 +17,7 @@ The most-cited papers and reports each have their own note in `Sources/`. Each n
 - **In Obsidian**, the embed above is a live table with three views: *All sources*, *By type*, and *Not checked against full text*. On the published site, open the Sources folder page instead (Quartz ignores `.base` files).
 - **Adding a source note:** create it from `content/templates/Source Note.md` (point Obsidian's Templates setting at `content/templates`), fill in the properties, and link to it from the topic notes that cite it.
 - **Company reports with their own note:** [[Exomad Green Corn and Bean Field Study]] · [[Oasis Vineyard Trial 2023]] · [[Earth Foundries Co-Composting Report 2023]] · [[Pacific Biochar Compost White Paper 2023]]
+- **Industry org / standards / survey notes:** [[US Biochar Initiative]] · [[USBI Guidance vs Vault Notes]] · [[USBI Ag Guidelines 2023]] · [[ANSI ASABE USBI S668]] · [[ABI 2025 US Biochar Market Report]]
 
 ### Corrections made while building the source notes (2026-09-14)
 
@@ -58,6 +59,13 @@ The most-cited papers and reports each have their own note in `Sources/`. Each n
 | Product standard | IBI | https://biochar-international.org/ |
 | Policy | NRCS CPS 336 FAQ (April 2026) | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf · [[NRCS CPS 336 FAQ 2026]] |
 | Policy | NRCS CPS 336 standard (November 2022) | https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf · [[NRCS CPS 336 Standard 2022]] |
+| Policy | ABI NRCS funding quick guide (2026) | https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Funding-2026-final.pdf |
+| Industry org | American Biochar Institute (ex-USBI) | https://biochar.org/about-abi/ · [[US Biochar Initiative]] |
+| Industry org | USBI → ABI welcome | https://biochar.org/usbi/ |
+| Standard | ANSI/ASABE/USBI S668 | https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf · [[ANSI ASABE USBI S668]] |
+| Market report | ABI 2025 U.S. Biochar Market Report | https://biochar.org/wp-content/uploads/2026/07/2025-United-States-Biochar-Market-Report.pdf · [[ABI 2025 US Biochar Market Report]] |
+| Guidance | ABI Ag Guidelines 2026 | https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-for-Agriculture-Applications-2026.pdf |
+| Guidance | USBI Ag Guidelines 2023 (Farmland Info) | https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf · [[USBI Ag Guidelines 2023]] |
 | Policy | EU CRCF Delegated Reg. 2026/285 | https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32026R0285 |
 
 Prefer these live pages for markets, pricing, registries, and standards.
@@ -204,6 +212,7 @@ Vault Puro cluster: [[Puro.earth Overview]] · [[Puro CORC200+]] · [[Puro Bioch
 
 ## Market data — trackers and indexes
 
+- ABI 2025 United States Biochar Market Report — https://biochar.org/wp-content/uploads/2026/07/2025-United-States-Biochar-Market-Report.pdf · [[ABI 2025 US Biochar Market Report]] (physical production / revenue survey; not CDR.fyi deliveries)
 - CDR.fyi Biochar Snapshot 2025 — https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025 (2025-09-09)
 - CDR.fyi 2024 Year in Review — https://www.cdr.fyi/blog/2024-year-in-review (2025-02-14)
 - CDR.fyi 2026 Q1 Durable CDR Update — https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof (2026-05-18)
@@ -234,5 +243,5 @@ Vault market cluster: [[Market Hub]] · [[Market Volumes and Pricing]] · [[Buye
 
 ## Vault entry points
 
-- [[Biochar Home]] · [[Science Hub]] · [[Applications Hub]] · [[Carbon Markets Hub]] · [[Market Hub]] · [[Industry Hub]] · [[Policy Hub]]
+- [[Biochar Home]] · [[Science Hub]] · [[Applications Hub]] · [[Carbon Markets Hub]] · [[Market Hub]] · [[Industry Hub]] · [[US Biochar Initiative]] · [[Policy Hub]]
 - Numbers cheat sheet: [[Quantitative Benchmarks]]

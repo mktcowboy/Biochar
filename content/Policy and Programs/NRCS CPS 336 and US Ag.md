@@ -1,7 +1,7 @@
 ---
 tags: [policy, US, agriculture, NRCS, applications]
 aliases: [CPS 336, NRCS, Soil Carbon Amendment]
-updated: 2026-09-14
+updated: 2026-09-16
 ---
 
 # NRCS CPS 336 and US Ag
@@ -70,8 +70,10 @@ Full methods note: [[Application Rates and Methods]].
 
 | Resource | URL | Notes |
 |---|---|---|
-| U.S. Biochar Initiative (USBI) | https://biochar-us.org/ | Producer directory, labs, fact sheets |
-| USBI ag application guide PDF | https://biochar-us.org/sites/default/files/learning/files/USBI_FACT_SHEET_DFB_Application_Guide_01.pdf | Rates / charging practice |
+| American Biochar Institute (ex-USBI) | https://biochar.org/about-abi/ · [[US Biochar Initiative]] | Education, standards, NRCS funding guide |
+| ABI / USBI ag application guide (2026) | https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-for-Agriculture-Applications-2026.pdf | Rates / charging practice |
+| Aller et al. USBI guide (2023 mirror) | https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf · [[USBI Ag Guidelines 2023]] | Same charging lineage |
+| USBI vs vault comparison | [[USBI Guidance vs Vault Notes]] | Rates, charging, NRCS packaging |
 | IBI standards | https://biochar-international.org/ | Characterization norms |
 | EBC | https://www.european-biochar.org/ | EU product classes often referenced by buyers |
 | Wakefield NRCS overview (supplier) | https://wakefieldbiochar.com/learning-center/nrcs-program-and-biochar-overview/ | Example commercial CPS 336 channel |

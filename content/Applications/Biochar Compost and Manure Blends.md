@@ -1,7 +1,7 @@
 ---
 tags: [applications, compost, manure, blends, soil]
 aliases: [Biochar compost, Charged biochar, Co-composting]
-updated: 2026-09-14
+updated: 2026-09-16
 ---
 
 # Biochar Compost and Manure Blends
@@ -69,7 +69,7 @@ New pyrolysis of urban woodchips with intent to **blend biochar into Napa Recycl
 
 1. Test soil (pH, OM, P, EC) and char/compost lab sheets ([[Contaminants and Quality]]).
 2. Prefer mature compost; avoid immature pathogen risk (NRCS FAQ).
-3. Pre-charge char **1–3 weeks** where practical (USBI guide framing: https://biochar-us.org/sites/default/files/learning/files/USBI_FACT_SHEET_DFB_Application_Guide_01.pdf).
+3. Pre-charge char **1–3 weeks** where practical (USBI guide framing: https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-for-Agriculture-Applications-2026.pdf).
 4. Match NRCS scenario quantities if seeking EQIP/CSP cost-share.
 5. Incorporate; avoid steep erodible surface-only spreads.
 6. If stacking voluntary CDR credits, lock ownership and no-double-claim language ([[Double Counting and Credit Ownership]]).
@@ -100,6 +100,8 @@ Do not assume raw buried char is densely colonized: [[Quilliam et al. 2013|Quill
 
 
 ## Related notes
+
+- [[US Biochar Initiative]] · [[USBI Guidance vs Vault Notes]] · [ABI Compost 2026 Draft](https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Compost-2026-Draft-V1.pdf)
 
 - [[Biochar Inoculation for Fertilizer]] · [[Application Rates and Methods]] · [[Real World Soil Projects]] · [[Crop Yield Effects]]
 - [[NRCS CPS 336 and US Ag]] · [[Product Standards EBC IBI]] · [[Applications Hub]]

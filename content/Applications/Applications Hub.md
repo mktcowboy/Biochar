@@ -1,14 +1,14 @@
 ---
 tags: [applications, hub]
 aliases: [Applications MOC, Biochar uses]
-updated: 2026-09-14
+updated: 2026-09-16
 ---
 
 # Applications Hub
 
 Where biochar goes after production: **soil and agriculture** (primary chapter set), greenhouse-gas flux effects, and materials / built-environment uses. Application pathway shapes agronomic outcomes and how carbon credits treat storage (soil vs concrete/asphalt/composites).
 
-Report context: **2026-09-14**.
+Report context: **2026-09-16** (USBI/ABI comparison added).
 
 ## Domain purpose
 
@@ -40,6 +40,7 @@ Science and markets both care *where* char is placed:
 - Nutrients chapter: [[Biochar Nutrients and Fertilizer Chemistry]] — [Nguyen 2017 SIN meta](https://doi.org/10.1016/j.geoderma.2016.11.004) · [Melo 2022 BBF](https://doi.org/10.1007/s11104-021-05276-2) · [[Melo et al. 2022]] · [Ndoung 2021](https://doi.org/10.1016/j.heliyon.2021.e08473)
 - Microbes chapter: [[Biochar Microbes and Soil Biology]] — [Lehmann 2011](https://doi.org/10.1016/j.soilbio.2011.04.022) · [[Quilliam et al. 2013|Quilliam 2013]] ([DOI](https://doi.org/10.1016/j.soilbio.2013.06.004)) · [Inocula meta](https://doi.org/10.1002/saj2.20792) · [[Ross & Emery 2025]]
 - Practice bridge: [[Biochar Inoculation for Fertilizer]]
+- USBI/ABI charging & rates: [[US Biochar Initiative]] · [[USBI Guidance vs Vault Notes]] · [Ag Guidelines 2026 PDF](https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-for-Agriculture-Applications-2026.pdf) · [[USBI Ag Guidelines 2023]]
 
 ## Quick links — soil mechanisms
 
@@ -65,8 +66,8 @@ Science and markets both care *where* char is placed:
 - [[Science Hub]] — permanence and CDR accounting · [[Quantitative Benchmarks]]
 - [[Policy Hub]] — NRCS and product standards
 - [[Carbon Markets Hub]] — soil pathways in MRV / methodologies ([[Verra VM0044]] · [[Puro.earth Overview]] · [[Isometric Biochar Protocol]] · [[CSI Global Biochar C-Sink]])
-- [[Industry Hub]] · [[Key Sources]] · [[Biochar Home]]
+- [[Industry Hub]] · [[US Biochar Initiative]] · [[Key Sources]] · [[Biochar Home]]
 
 ## Research dump
 
-Working notes: `/workspace/biochar-research/soil-agriculture-applications.md` · `/workspace/biochar-research/biochar-inoculation.md` · `/workspace/biochar-research/biochar-nutrients.md` · `/workspace/biochar-research/biochar-microbes.md` (box paths; not necessarily in git).
+Working notes: `/workspace/biochar-research/soil-agriculture-applications.md` · `/workspace/biochar-research/biochar-inoculation.md` · `/workspace/biochar-research/biochar-nutrients.md` · `/workspace/biochar-research/biochar-microbes.md` · `/workspace/biochar-research/usbi.md` (box paths; not necessarily in git).
