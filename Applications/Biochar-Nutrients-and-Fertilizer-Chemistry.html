@@ -1,0 +1,917 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head><title>Biochar Nutrients and Fertilizer Chemistry</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Biochar"/><meta property="og:title" content="Biochar Nutrients and Fertilizer Chemistry"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Biochar Nutrients and Fertilizer Chemistry"/><meta name="twitter:description" content="Biochar Nutrients and Fertilizer Chemistry Chapter-length note on how biochar interacts with plant nutrients—N (NH₄⁺ / NO₃⁻ / immobilization / volatilization), P, K, Ca/Mg, micronutrients, liming/pH—and how that chemistry drives inoculation, charging, and biochar-based fertilizers (BBF/BCF)."/><meta property="og:description" content="Biochar Nutrients and Fertilizer Chemistry Chapter-length note on how biochar interacts with plant nutrients—N (NH₄⁺ / NO₃⁻ / immobilization / volatilization), P, K, Ca/Mg, micronutrients, liming/pH—and how that chemistry drives inoculation, charging, and biochar-based fertilizers (BBF/BCF)."/><meta property="og:image:alt" content="Biochar Nutrients and Fertilizer Chemistry Chapter-length note on how biochar interacts with plant nutrients—N (NH₄⁺ / NO₃⁻ / immobilization / volatilization), P, K, Ca/Mg, micronutrients, liming/pH—and how that chemistry drives inoculation, charging, and biochar-based fertilizers (BBF/BCF)."/><meta property="twitter:domain" content="mktcowboy.github.io/Biochar"/><meta property="og:url" content="https://mktcowboy.github.io/Biochar/Applications/Biochar-Nutrients-and-Fertilizer-Chemistry"/><meta property="twitter:url" content="https://mktcowboy.github.io/Biochar/Applications/Biochar-Nutrients-and-Fertilizer-Chemistry"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Biochar Nutrients and Fertilizer Chemistry Chapter-length note on how biochar interacts with plant nutrients—N (NH₄⁺ / NO₃⁻ / immobilization / volatilization), P, K, Ca/Mg, micronutrients, liming/pH—and how that chemistry drives inoculation, charging, and biochar-based fertilizers (BBF/BCF)."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" spa-preserve/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  padding: 2rem;
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiL3dvcmtzcGFjZS9CaW9jaGFyL3NpdGUvcXVhcnR6L2NvbXBvbmVudHMvc3R5bGVzIiwic291cmNlcyI6WyJtZXJtYWlkLmlubGluZS5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTtFQUNBOztBQUdGO0VBQ0U7RUFDQTs7QUFHRjtFQUNFOzs7QUFLRjtFQUNFO0VBQ0E7OztBQUlKO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFOztBQUdGO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTtFQUNBOztBQUlKO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFOztBQUlGO0VBQ0U7RUFDQTtFQUNBIiwic291cmNlc0NvbnRlbnQiOlsiLmV4cGFuZC1idXR0b24ge1xuICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsb2F0OiByaWdodDtcbiAgcGFkZGluZzogMC40cmVtO1xuICBtYXJnaW46IDAuM3JlbTtcbiAgcmlnaHQ6IDA7IC8vIE5PVEU6IHJpZ2h0IHdpbGwgYmUgc2V0IGluIG1lcm1haWQuaW5saW5lLnRzXG4gIGNvbG9yOiB2YXIoLS1ncmF5KTtcbiAgYm9yZGVyLWNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICBib3JkZXI6IDFweCBzb2xpZDtcbiAgYm9yZGVyLXJhZGl1czogNXB4O1xuICBvcGFjaXR5OiAwO1xuICB0cmFuc2l0aW9uOiAwLjJzO1xuXG4gICYgPiBzdmcge1xuICAgIGZpbGw6IHZhcigtLWxpZ2h0KTtcbiAgICBmaWx0ZXI6IGNvbnRyYXN0KDAuMyk7XG4gIH1cblxuICAmOmhvdmVyIHtcbiAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgYm9yZGVyLWNvbG9yOiB2YXIoLS1zZWNvbmRhcnkpO1xuICB9XG5cbiAgJjpmb2N1cyB7XG4gICAgb3V0bGluZTogMDtcbiAgfVxufVxuXG5wcmUge1xuICAmOmhvdmVyID4gLmV4cGFuZC1idXR0b24ge1xuICAgIG9wYWNpdHk6IDE7XG4gICAgdHJhbnNpdGlvbjogMC4ycztcbiAgfVxufVxuXG4jbWVybWFpZC1jb250YWluZXIge1xuICBwb3NpdGlvbjogZml4ZWQ7XG4gIGNvbnRhaW46IGxheW91dDtcbiAgei1pbmRleDogOTk5O1xuICBsZWZ0OiAwO1xuICB0b3A6IDA7XG4gIHdpZHRoOiAxMDB2dztcbiAgaGVpZ2h0OiAxMDB2aDtcbiAgb3ZlcmZsb3c6IGhpZGRlbjtcbiAgZGlzcGxheTogbm9uZTtcbiAgYmFja2Ryb3AtZmlsdGVyOiBibHVyKDRweCk7XG4gIGJhY2tncm91bmQ6IHJnYmEoMCwgMCwgMCwgMC41KTtcblxuICAmLmFjdGl2ZSB7XG4gICAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xuICB9XG5cbiAgJiA+ICNtZXJtYWlkLXNwYWNlIHtcbiAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgIGJhY2tncm91bmQtY29sb3I6IHZhcigtLWxpZ2h0KTtcbiAgICBib3JkZXItcmFkaXVzOiA1cHg7XG4gICAgcG9zaXRpb246IGZpeGVkO1xuICAgIHRvcDogNTAlO1xuICAgIGxlZnQ6IDUwJTtcbiAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKTtcbiAgICBoZWlnaHQ6IDgwdmg7XG4gICAgd2lkdGg6IDgwdnc7XG4gICAgb3ZlcmZsb3c6IGhpZGRlbjtcblxuICAgICYgPiAubWVybWFpZC1jb250ZW50IHtcbiAgICAgIHBhZGRpbmc6IDJyZW07XG4gICAgICBwb3NpdGlvbjogcmVsYXRpdmU7XG4gICAgICB0cmFuc2Zvcm0tb3JpZ2luOiAwIDA7XG4gICAgICB0cmFuc2l0aW9uOiB0cmFuc2Zvcm0gMC4xcyBlYXNlO1xuICAgICAgb3ZlcmZsb3c6IHZpc2libGU7XG4gICAgICBtaW4taGVpZ2h0OiAyMDBweDtcbiAgICAgIG1pbi13aWR0aDogMjAwcHg7XG5cbiAgICAgIHByZSB7XG4gICAgICAgIG1hcmdpbjogMDtcbiAgICAgICAgYm9yZGVyOiBub25lO1xuICAgICAgfVxuXG4gICAgICBzdmcge1xuICAgICAgICBtYXgtd2lkdGg6IG5vbmU7XG4gICAgICAgIGhlaWdodDogYXV0bztcbiAgICAgIH1cbiAgICB9XG5cbiAgICAmID4gLm1lcm1haWQtY29udHJvbHMge1xuICAgICAgcG9zaXRpb246IGFic29sdXRlO1xuICAgICAgYm90dG9tOiAyMHB4O1xuICAgICAgcmlnaHQ6IDIwcHg7XG4gICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgZ2FwOiA4cHg7XG4gICAgICBwYWRkaW5nOiA4cHg7XG4gICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodCk7XG4gICAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgYm9yZGVyLXJhZGl1czogNnB4O1xuICAgICAgYm94LXNoYWRvdzogMCAycHggNHB4IHJnYmEoMCwgMCwgMCwgMC4xKTtcbiAgICAgIHotaW5kZXg6IDI7XG5cbiAgICAgIC5tZXJtYWlkLWNvbnRyb2wtYnV0dG9uIHtcbiAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gICAgICAgIHdpZHRoOiAzMnB4O1xuICAgICAgICBoZWlnaHQ6IDMycHg7XG4gICAgICAgIHBhZGRpbmc6IDA7XG4gICAgICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgICAgIGJhY2tncm91bmQ6IHZhcigtLWxpZ2h0KTtcbiAgICAgICAgY29sb3I6IHZhcigtLWRhcmspO1xuICAgICAgICBib3JkZXItcmFkaXVzOiA0cHg7XG4gICAgICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICAgICAgZm9udC1zaXplOiAxNnB4O1xuICAgICAgICBmb250LWZhbWlseTogdmFyKC0tYm9keUZvbnQpO1xuICAgICAgICB0cmFuc2l0aW9uOiBhbGwgMC4ycyBlYXNlO1xuXG4gICAgICAgICY6aG92ZXIge1xuICAgICAgICAgIGJhY2tncm91bmQ6IHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgICAgIH1cblxuICAgICAgICAmOmFjdGl2ZSB7XG4gICAgICAgICAgdHJhbnNmb3JtOiB0cmFuc2xhdGVZKDFweCk7XG4gICAgICAgIH1cblxuICAgICAgICAvLyBTdHlsZSB0aGUgcmVzZXQgYnV0dG9uIGRpZmZlcmVudGx5XG4gICAgICAgICY6bnRoLWNoaWxkKDIpIHtcbiAgICAgICAgICB3aWR0aDogYXV0bztcbiAgICAgICAgICBwYWRkaW5nOiAwIDEycHg7XG4gICAgICAgICAgZm9udC1zaXplOiAxNHB4O1xuICAgICAgICB9XG4gICAgICB9XG4gICAgfVxuICB9XG59XG4iXX0= */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><script src="../prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://mktcowboy.github.io/Biochar/index.xml"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://mktcowboy.github.io/Biochar/Applications/Biochar-Nutrients-and-Fertilizer-Chemistry-og-image.webp"/><meta property="og:image:url" content="https://mktcowboy.github.io/Biochar/Applications/Biochar-Nutrients-and-Fertilizer-Chemistry-og-image.webp"/><meta name="twitter:image" content="https://mktcowboy.github.io/Biochar/Applications/Biochar-Nutrients-and-Fertilizer-Chemistry-og-image.webp"/><meta property="og:image:type" content="image/.webp"/></head><body data-slug="Applications/Biochar-Nutrients-and-Fertilizer-Chemistry"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Biochar</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Search</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Reader mode"><title>Reader mode</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-20"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-20" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../Applications/">Applications</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Biochar Nutrients and Fertilizer Chemistry</a></div></nav><h1 class="article-title">Biochar Nutrients and Fertilizer Chemistry</h1><p show-comma="true" class="content-meta"><time datetime="2026-09-14T00:00:00.000Z">Sep 14, 2026</time><span>20 min read</span></p><ul class="tags"><li><a href="../tags/applications" class="internal tag-link">applications</a></li><li><a href="../tags/nutrients" class="internal tag-link">nutrients</a></li><li><a href="../tags/fertilizer" class="internal tag-link">fertilizer</a></li><li><a href="../tags/chemistry" class="internal tag-link">chemistry</a></li><li><a href="../tags/NPK" class="internal tag-link">NPK</a></li><li><a href="../tags/CEC" class="internal tag-link">CEC</a></li><li><a href="../tags/BBF" class="internal tag-link">BBF</a></li><li><a href="../tags/soil" class="internal tag-link">soil</a></li></ul></div></div><article class="popover-hint"><h1 id="biochar-nutrients-and-fertilizer-chemistry">Biochar Nutrients and Fertilizer Chemistry<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#biochar-nutrients-and-fertilizer-chemistry" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>Chapter-length note on <strong>how biochar interacts with plant nutrients</strong>—N (NH₄⁺ / NO₃⁻ / immobilization / volatilization), P, K, Ca/Mg, micronutrients, liming/pH—and how that chemistry drives <strong>inoculation, charging, and biochar-based fertilizers (BBF/BCF)</strong>. Report context: <strong>2026-09-14</strong>.</p>
+<p>Practice/protocol depth for charging lives in <a href="../Applications/Biochar-Inoculation-for-Fertilizer" class="internal alias" data-slug="Applications/Biochar-Inoculation-for-Fertilizer">Biochar Inoculation for Fertilizer</a> — this chapter is the <strong>nutrient-chemistry spine</strong>; cross-link heavily, do not duplicate that entire chapter.</p>
+<p><strong>Related notes:</strong> <a href="../Applications/Biochar-Inoculation-for-Fertilizer" class="internal alias" data-slug="Applications/Biochar-Inoculation-for-Fertilizer">Biochar Inoculation for Fertilizer</a> · <a href="../Applications/Biochar-Microbes-and-Soil-Biology" class="internal alias" data-slug="Applications/Biochar-Microbes-and-Soil-Biology">Biochar Microbes and Soil Biology</a> · <a href="../Applications/Biochar-Compost-and-Manure-Blends" class="internal alias" data-slug="Applications/Biochar-Compost-and-Manure-Blends">Biochar Compost and Manure Blends</a> · <a href="../Applications/Soil-and-Agriculture" class="internal alias" data-slug="Applications/Soil-and-Agriculture">Soil and Agriculture</a> · <a href="../Applications/Crop-Yield-Effects" class="internal alias" data-slug="Applications/Crop-Yield-Effects">Crop Yield Effects</a> · <a href="../Applications/GHG-Fluxes" class="internal alias" data-slug="Applications/GHG-Fluxes">GHG Fluxes</a> · <a href="../Applications/Application-Rates-and-Methods" class="internal alias" data-slug="Applications/Application-Rates-and-Methods">Application Rates and Methods</a> · <a href="../Applications/Agronomic-Economics" class="internal alias" data-slug="Applications/Agronomic-Economics">Agronomic Economics</a> · <a href="../Production/Properties" class="internal" data-slug="Production/Properties">Properties</a> · <a href="../Production/Contaminants-and-Quality" class="internal alias" data-slug="Production/Contaminants-and-Quality">Contaminants and Quality</a> · <a href="../Policy-and-Programs/Product-Standards-EBC-IBI" class="internal alias" data-slug="Policy-and-Programs/Product-Standards-EBC-IBI">Product Standards EBC IBI</a> · <a href="../Policy-and-Programs/NRCS-CPS-336-and-US-Ag" class="internal alias" data-slug="Policy-and-Programs/NRCS-CPS-336-and-US-Ag">NRCS CPS 336 and US Ag</a> · <a href="../Applications/Applications-Hub" class="internal alias" data-slug="Applications/Applications-Hub">Applications Hub</a> · <a href="../Sources/Key-Sources" class="internal alias" data-slug="Sources/Key-Sources">Key Sources</a></p>
+<hr/>
+<h2 id="1-purpose-and-problem-statement">1. Purpose and problem statement<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#1-purpose-and-problem-statement" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Woody biochars used for durable carbon are typically <strong>nutrient-poor</strong>, porous, and surface-reactive. Applied raw, they can <strong>sorb plant-available nutrients</strong> from soil solution and, especially in the first weeks to months, contribute to <strong>temporary inorganic-N decline</strong> and yield drag. Nguyen et al. (2017) meta-analyzed 56 studies (1080 cases) and found mean reductions of roughly <strong>−11 ± 2% NH₄⁺-N</strong> and <strong>−10 ± 1.6% NO₃⁻-N</strong>, with 95% of observations within one year of application (<a href="https://doi.org/10.1016/j.geoderma.2016.11.004" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>). USDA NRCS states that fresh biochar “has a chance to reduce crop yields by binding and immobilizing nutrients” and recommends charging with compost or manure (<a href="https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf" class="external">CPS 336 FAQ, Apr 2026<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> · <a href="../Sources/NRCS-CPS-336-FAQ-2026" class="internal alias" data-slug="Sources/NRCS-CPS-336-FAQ-2026">NRCS CPS 336 FAQ 2026</a>); CPS 336 requires inoculating biochar with compost, compost tea, or manure (<a href="https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf" class="external">2022 PDF<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> · <a href="../Sources/NRCS-CPS-336-Standard-2022" class="internal alias" data-slug="Sources/NRCS-CPS-336-Standard-2022">NRCS CPS 336 Standard 2022</a>).</p>
+<p>USBI (American Biochar Institute) agricultural guidelines treat charging / inoculating / activating as post-processing that fills surface functional groups with nutrients and microbes, calling inoculation <strong>critical</strong> to minimize first-year immobilization (<a href="https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf" class="external">USBI Ag Guidelines<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> · <a href="../Sources/USBI-Ag-Guidelines-2023" class="internal alias" data-slug="Sources/USBI-Ag-Guidelines-2023">USBI Ag Guidelines 2023</a>).</p>
+<p>The controlled contrast that frames this chemistry for practitioners: <a href="../Sources/Kammann-et-al.-2015" class="internal alias" data-slug="Sources/Kammann-et-al.-2015">Kammann et al. (2015)</a> showed <strong>2% (w/w) untreated</strong> high-temperature wood biochar reduced quinoa aboveground biomass to <strong>~60% of control</strong>, while the <strong>same rate of co-composted</strong> biochar raised biomass to up to <strong>~305% of control</strong>, with captured <strong>nitrate and phosphate</strong> as central mechanisms (<a href="https://doi.org/10.1038/srep11080" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>; <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4460888/" class="external">PMC4460888<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</p>
+<p>This chapter answers: <em>what does biochar do to each nutrient pool, how does aging/enrichment change that, and how do BBF formulations and fertilizer co-management convert chemistry into fertilizer-use efficiency?</em></p>
+<hr/>
+<h2 id="2-conceptual-map--ash-nutrients-vs-organic-c-matrix">2. Conceptual map — ash nutrients vs organic C matrix<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2-conceptual-map--ash-nutrients-vs-organic-c-matrix" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Component</th><th>What it delivers</th><th>What it does to nutrients</th><th>Primary sources</th></tr></thead><tbody><tr><td><strong>Ash / mineral fraction</strong></td><td>K, Ca, Mg, Na, P (feedstock-dependent); liming bases (carbonates, oxides)</td><td>Immediate base cation supply; raises pH/EC; can precipitate P with Ca/Mg/Fe/Al</td><td>Ippolito et al. 2020 meta (<a href="https://doi.org/10.1007/s42773-020-00067-x" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>); NRCS FAQ wood vs manure contrast (<a href="https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf" class="external">PDF<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>); NPK cycle review (<a href="https://doi.org/10.1186/s40538-020-00182-8" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>)</td></tr><tr><td><strong>Organic C matrix</strong></td><td>Condensed aromatic C; labile residual C (esp. low-T); surface functional groups</td><td>Sorption / desorption; CEC evolution with aging; habitat &amp; priming</td><td>Keiluweit-type chemistry lineage via <a href="../Production/Properties" class="internal" data-slug="Production/Properties">Properties</a>; Nguyen 2017 (<a href="https://doi.org/10.1016/j.geoderma.2016.11.004" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>); Cheng et al. 2008 oxidation (<a href="https://doi.org/10.1016/j.gca.2008.01.010" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>)</td></tr><tr><td><strong>Organic coating (co-compost / field aging)</strong></td><td>DOC, nitrate, phosphate, Ca/K hotspots on patchy surfaces</td><td>Non-conventional anion retention; slow release; fertility stimulation without bulk aromatic change</td><td>Hagemann et al. 2017 <em>Nat. Commun.</em> (<a href="https://doi.org/10.1038/s41467-017-01123-0" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>); Archanjo et al. 2017 (<a href="https://doi.org/10.1016/j.geoderma.2017.01.037" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>); Joseph et al. 2018 (<a href="https://doi.org/10.1016/j.scitotenv.2017.09.200" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>)</td></tr><tr><td><strong>Engineered enrichment (BBF)</strong></td><td>Added NPK, clays, Mg, struvite, urine, digestate, microbes</td><td>Designed slow-release; lower agronomic rates</td><td>Ndoung et al. 2021 (<a href="https://doi.org/10.1016/j.heliyon.2021.e08473" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>); <a href="../Sources/Melo-et-al.-2022" class="internal alias" data-slug="Sources/Melo-et-al.-2022">Melo et al. 2022</a> (<a href="https://doi.org/10.1007/s11104-021-05276-2" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>)</td></tr></tbody></table></div>
+<p><strong>Practice takeaway:</strong> high-C wood chars are mostly a <strong>C matrix + sponge</strong>; manure/bone chars are partly <strong>ash fertilizers</strong>. Enrichment / co-composting adds the <strong>coating + nutrient payload</strong> that turns sponge into slow-release carrier (<a href="../Applications/Biochar-Inoculation-for-Fertilizer" class="internal alias" data-slug="Applications/Biochar-Inoculation-for-Fertilizer">Biochar Inoculation for Fertilizer</a>).</p>
+<hr/>
+<h2 id="3-nitrogen-chemistry-in-detail">3. Nitrogen chemistry in detail<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#3-nitrogen-chemistry-in-detail" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="31-forms-and-pathways">3.1 Forms and pathways<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#31-forms-and-pathways" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Clough et al. (2013) review biochar–soil N dynamics across sorption, immobilization, nitrification, denitrification, fixation, and plant uptake (<a href="https://doi.org/10.3390/agronomy3020275" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>). Nguyen et al. (2017) organize abiotic vs biotic pathways that jointly determine soil inorganic N (SIN) after amendment (<a href="https://doi.org/10.1016/j.geoderma.2016.11.004" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Pathway</th><th>Direction for plant-available N</th><th>Mechanism sketch</th><th>Sources</th></tr></thead><tbody><tr><td><strong>NH₄⁺ electrostatic sorption (CEC)</strong></td><td>Temporary ↓ in solution; later desorption possible</td><td>Carboxyl/phenolic acid groups; increases with aging/oxidation</td><td>Nguyen 2017; Cheng 2008 (<a href="https://doi.org/10.1016/j.gca.2008.01.010" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>)</td></tr><tr><td><strong>NH₃ chemisorption / covalent retention</strong></td><td>Stored N; can remain plant-bioavailable</td><td>Fire-derived OM covalent ammonia bonding; urine-NH₃ capture</td><td>Hestrin et al. 2019 (<a href="https://doi.org/10.1038/s41467-019-08401-z" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>); Taghizadeh-Toosi et al. 2012 (<a href="https://doi.org/10.1007/s11104-011-0870-3" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>); urine NH₃ capture (<a href="https://doi.org/10.1007/s11104-011-1010-9" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>)</td></tr><tr><td><strong>NO₃⁻ unconventional retention</strong></td><td>↓ leaching; partial plant availability; under-detected by standard extracts</td><td>H-bonding / micropore ion–water interactions; organic coatings</td><td>Kammann 2015 (<a href="https://doi.org/10.1038/srep11080" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>); Hagemann 2017 PLOS (<a href="https://doi.org/10.1371/journal.pone.0171214" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>); Conte/H-bonding discussion in Kammann paper</td></tr><tr><td><strong>Microbial immobilization</strong></td><td>Short-term ↓ SIN</td><td>Labile C fuels microbes that compete for NH₄⁺/NO₃⁻</td><td>Bruun et al. 2012 (<a href="https://doi.org/10.1016/j.soilbio.2011.11.019" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>); Cross &amp; Sohi 2011 (<a href="https://doi.org/10.1016/j.soilbio.2011.06.016" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>)</td></tr><tr><td><strong>Nitrification / denitrification shifts</strong></td><td>Form conversion; N₂O implications</td><td>Liming, aeration, nosZ; H:C_org moderates N₂O</td><td>Clough 2013; Cayuela N₂O metas in <a href="../Applications/GHG-Fluxes" class="internal alias" data-slug="Applications/GHG-Fluxes">GHG Fluxes</a></td></tr><tr><td><strong>NH₃ volatilization</strong></td><td>Loss risk when pH rises</td><td>Alkaline ash liming + NH₄⁺ sources</td><td>Clough 2013; Nguyen discussion of coarse acidic soils</td></tr></tbody></table></div>
+<h3 id="32-meta-analytic-magnitude-do-not-universalize">3.2 Meta-analytic magnitude (do not universalize)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#32-meta-analytic-magnitude-do-not-universalize" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Finding</th><th>Figure</th><th>Source</th></tr></thead><tbody><tr><td>Mean NH₄⁺-N change</td><td><strong>−11 ± 2%</strong></td><td><a href="https://doi.org/10.1016/j.geoderma.2016.11.004" class="external">https://doi.org/10.1016/j.geoderma.2016.11.004<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr><tr><td>Mean NO₃⁻-N change</td><td><strong>−10 ± 1.6%</strong></td><td>same</td></tr><tr><td>Hydrochar NH₄⁺-N</td><td><strong>−46 ± 7%</strong></td><td>same</td></tr><tr><td>Strongest NH₄⁺ drop timing</td><td>Within ~<strong>1 month</strong> after application</td><td>same — authors suggest apply ≥1 month before planting</td></tr><tr><td>Long-term (>1 y) evidence</td><td>Sparse in that meta (few cases)</td><td>same</td></tr></tbody></table></div>
+<p>Woody biochars reduced SIN <strong>less</strong> than carbohydrate/herbaceous chars in that meta—consistent with lower labile C and often lower CEC—while still capable of physisorption at high BET (<a href="https://doi.org/10.1016/j.geoderma.2016.11.004" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</p>
+<h3 id="33-fertilizer-type-interactions-nguyen-2017">3.3 Fertilizer-type interactions (Nguyen 2017)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#33-fertilizer-type-interactions-nguyen-2017" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li>Biochar <strong>+ NH₄-based</strong> fertilizers: NH₄⁺-N decreased vs biochar with no fertilizer.</li>
+<li>Biochar <strong>+ organic fertilizer</strong>: SIN increased vs biochar alone (organic N mineralization offsets immobilization).</li>
+<li>Biochar <strong>+ urea</strong>: NO₃⁻-N often increased (nitrification of urea-N).</li>
+<li>Biochar <strong>alone (unfertilized)</strong>: significant NO₃⁻-N reduction (sorption + immobilization).</li>
+</ul>
+<p>This is the chemical rationale for NRCS/USBI <strong>charge-with-organics</strong> guidance (<a href="https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf" class="external">FAQ<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>; <a href="https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf" class="external">USBI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</p>
+<h3 id="34-nitrate-capture-in-co-composted-particles-quantitative">3.4 Nitrate capture in co-composted particles (quantitative)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#34-nitrate-capture-in-co-composted-particles-quantitative" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Kammann et al. (2015) and Hagemann et al. (2017 <em>PLOS ONE</em>) document nitrate enrichment of co-composted particles on the order of <strong>~2.1 g (standard extraction) to ~5.2 g (sequential washing) NO₃⁻-N kg⁻¹</strong> (sequential washing recovered more than EUF: Kammann washing mean ~<strong>5214 mg nitrate-N kg⁻¹</strong> across particle sizes vs EUF ~<strong>2.1 g kg⁻¹</strong>), largely protected from leaching, partly plant-available, without stimulating N₂O in those experiments (<a href="https://doi.org/10.1038/srep11080" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>; <a href="https://doi.org/10.1371/journal.pone.0171214" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>). Standard 1–2 h KCl extracts can <strong>underestimate</strong> captured nitrate—farm soil tests may miss char-bound N.</p>
+<p>Hagemann et al. (2017 <em>Nat. Commun.</em>) show an <strong>organic coating</strong>—not bulk oxidation of aromatic C—explains enhanced nutrient retention; bulk aromatic speciation/stability was <strong>not substantially altered</strong> by composting (<a href="https://doi.org/10.1038/s41467-017-01123-0" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>). Permanence implication: co-composting does not erase durable C chemistry for credit MRV (<a href="../Science/Permanence" class="internal" data-slug="Science/Permanence">Permanence</a>, <a href="../Carbon-Markets/MRV-Stack" class="internal alias" data-slug="Carbon-Markets/MRV-Stack">MRV Stack</a>).</p>
+<h3 id="35-volatilization-and-ammonia-bioavailability">3.5 Volatilization and ammonia bioavailability<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#35-volatilization-and-ammonia-bioavailability" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Taghizadeh-Toosi et al. demonstrate that NH₃ adsorbed on biochar can remain <strong>plant-bioavailable</strong> (<a href="https://doi.org/10.1007/s11104-011-0870-3" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>), including capture from ruminant urine-N (<a href="https://doi.org/10.1007/s11104-011-1010-9" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>). Hestrin et al. (2019) add a covalent-bonding pathway distinct from simple electrostatic NH₄⁺ sorption (<a href="https://doi.org/10.1038/s41467-019-08401-z" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>). Composting literature shows biochar can cut NH₃ losses (e.g. Steiner et al. 2010 poultry litter: NH₃ − up to <strong>64%</strong>, N loss − up to <strong>52%</strong> at up to 20% DW biochar — <a href="https://doi.org/10.2134/jeq2009.0337" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</p>
+<hr/>
+<h2 id="4-phosphorus-chemistry">4. Phosphorus chemistry<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#4-phosphorus-chemistry" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="41-direct-p-delivery-vs-soil-p-dynamics">4.1 Direct P delivery vs soil P dynamics<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#41-direct-p-delivery-vs-soil-p-dynamics" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Biochar affects P by (i) <strong>inherent ash P</strong> (bones, manures, sludge), (ii) altering <strong>sorption/desorption</strong> on soil minerals, (iii) <strong>precipitation</strong> (Ca–P, Mg–P, Fe/Al–P), and (iv) microbial/mycorrhizal mediation. Reviews: NPK cycles (<a href="https://doi.org/10.1186/s40538-020-00182-8" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>); P fate in soil/water (<a href="https://doi.org/10.1016/j.chemosphere.2021.131176" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</p>
+<p>Ippolito et al. (2020) meta-data analysis (~5400 papers) concludes <strong>feedstock choice</strong> dominates nutrient contents and that plant-available fractions of N, P, K, Ca, Mg, Fe, Cu can be predicted from feedstock and totals (<a href="https://doi.org/10.1007/s42773-020-00067-x" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</p>
+<h3 id="42-enrichment-and-slow-release-p-sourced-examples-via-ndoung">4.2 Enrichment and slow-release P (sourced examples via Ndoung)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#42-enrichment-and-slow-release-p-sourced-examples-via-ndoung" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Ndoung et al. (2021) compile P-enrichment routes (<a href="https://doi.org/10.1016/j.heliyon.2021.e08473" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>; <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8646155/" class="external">PMC<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>):</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Approach</th><th>Example finding (as reported in review/primary)</th><th>URL</th></tr></thead><tbody><tr><td>Bone waste pyrolysis</td><td>Total P ~<strong>12.7%</strong> (350 °C) to <strong>15.3%</strong> (750 °C) (Zwetsloot et al. cited)</td><td><a href="https://doi.org/10.1016/j.heliyon.2021.e08473" class="external">https://doi.org/10.1016/j.heliyon.2021.e08473<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr><tr><td>Dairy carcass biochar</td><td>~<strong>10%</strong> total P (Ma &amp; Matsunaka cited)</td><td>same</td></tr><tr><td>Pre-pyrolysis Mg / TSP impregnation</td><td>Slower P release vs TSP; plant P uptake gains (Carneiro, Lustosa Filho lines)</td><td><a href="https://doi.org/10.1016/j.scitotenv.2020.143955" class="external">https://doi.org/10.1016/j.scitotenv.2020.143955<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> · <a href="https://doi.org/10.1016/j.scitotenv.2019.136028" class="external">https://doi.org/10.1016/j.scitotenv.2019.136028<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr><tr><td>Mg–P precipitates on Mg-enriched char</td><td>Low-solubility Mg–P + “P-trap” reprecipitation (Luo et al. 2021)</td><td><a href="https://doi.org/10.1016/j.scitotenv.2020.144454" class="external">https://doi.org/10.1016/j.scitotenv.2020.144454<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr><tr><td>Co-composted wood char</td><td>Phosphate enrichment alongside nitrate (Kammann EUF curves)</td><td><a href="https://doi.org/10.1038/srep11080" class="external">https://doi.org/10.1038/srep11080<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr></tbody></table></div>
+<p><strong>Antagonism note:</strong> Gunes et al. (2015) (cited in Ndoung) found P-enriched poultry-manure biochar increased N/P/K uptake in lettuce but <strong>decreased</strong> leaf Fe, Zn, Cu, Mn—dilution and/or immobilization pathways (<a href="https://doi.org/10.1016/j.heliyon.2021.e08473" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> table entry; primary Soil Use Manage lineage).</p>
+<h3 id="43-desorption-and-plant-availability">4.3 Desorption and plant availability<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#43-desorption-and-plant-availability" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Silber et al. (2010) show <strong>pH-dependent</strong> mineral release and surface charge evolution for cornstraw biochar—agronomic implication: liming and rhizosphere acidification change what desorbs (<a href="https://doi.org/10.1021/es101283d" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>). Negatively charged fresh surfaces can <strong>repel</strong> phosphate; Ca/Mg/Fe/Al bridges and coatings reverse that (P-fate review <a href="https://doi.org/10.1016/j.chemosphere.2021.131176" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</p>
+<hr/>
+<h2 id="5-potassium-calcium-magnesium-micronutrients">5. Potassium, calcium, magnesium, micronutrients<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#5-potassium-calcium-magnesium-micronutrients" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="51-k--often-the-most-plant-available-ash-cation">5.1 K — often the most plant-available ash cation<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#51-k--often-the-most-plant-available-ash-cation" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>High extractable K in many ash-rich chars contributes directly to soil K supply and liming couples (NPK review <a href="https://doi.org/10.1186/s40538-020-00182-8" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>). Kammann EUF showed K enrichment of co-composted particles (~1.6-fold vs untreated) with more release in the readily available EUF fraction 1 (<a href="https://doi.org/10.1038/srep11080" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>). Karim et al. banana-peduncle plasma processing (cited in Ndoung) raised available K dramatically vs feedstock—example of feedstock-specific K concentration (<a href="https://doi.org/10.1016/j.heliyon.2021.e08473" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</p>
+<h3 id="52-ca--mg-and-liming-couples">5.2 Ca / Mg and liming couples<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#52-ca--mg-and-liming-couples" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Ash Ca/Mg carbonates and oxides drive liming. <a href="../Sources/Jeffery-et-al.-2011" class="internal alias" data-slug="Sources/Jeffery-et-al.-2011">Jeffery et al. (2011)</a> linked stronger yield responses in <strong>acidic</strong> soils (+14% subgroup) to liming + water-holding mechanisms (<a href="https://doi.org/10.1016/j.agee.2011.08.015" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>). NRCS FAQ: biochar is usually alkaline; on soils already <strong>pH > 7</strong>, check liming equivalency and add cautiously; worked example—1 ton biochar/acre at <strong>9% CaCO₃</strong> liming equivalency offsets ~<strong>9%</strong> of a 1 ton lime/acre recommendation (<a href="https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf" class="external">FAQ<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</p>
+<p>Kammann composting raised Ca on particles (BCpure ~3735 → BCcomp ~6077 mg kg⁻¹ in EUF totals reported) while Mg was low and slightly reduced (<a href="https://doi.org/10.1038/srep11080" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</p>
+<h3 id="53-micronutrients-fe-zn-cu-mn-b-mo">5.3 Micronutrients (Fe, Zn, Cu, Mn, B, Mo)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#53-micronutrients-fe-zn-cu-mn-b-mo" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li>Manure/sludge chars can elevate micronutrients <strong>and</strong> potentially toxic elements—test to EBC/IBI/NRCS limits (<a href="../Production/Contaminants-and-Quality" class="internal alias" data-slug="Production/Contaminants-and-Quality">Contaminants and Quality</a>; <a href="https://www.european-biochar.org/" class="external">EBC<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>; <a href="https://biochar-international.org/" class="external">IBI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</li>
+<li>Fe-enriched chars used for <strong>Cd immobilization</strong> while releasing N slowly (Chen 2018; Dad 2021 via Ndoung <a href="https://doi.org/10.1016/j.heliyon.2021.e08473" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</li>
+<li>Biological N fixation literature links biochar to B/Mo availability affecting nodulation (Rondon et al. 2007 lineage summarized in Clough 2013 <a href="https://doi.org/10.3390/agronomy3020275" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>)—see also <a href="../Applications/Biochar-Microbes-and-Soil-Biology" class="internal alias" data-slug="Applications/Biochar-Microbes-and-Soil-Biology">Biochar Microbes and Soil Biology</a>.</li>
+</ul>
+<hr/>
+<h2 id="6-cec-aec-sorption-vs-desorption">6. CEC, AEC, sorption vs desorption<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#6-cec-aec-sorption-vs-desorption" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="61-cation-exchange-capacity">6.1 Cation exchange capacity<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#61-cation-exchange-capacity" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Fresh high-temperature wood chars often have <strong>modest CEC</strong> until oxidized or coated. Aging forms carboxyl/hydroxyl groups that increase NH₄⁺ retention (Nguyen synthesis; Cheng 2008 <a href="https://doi.org/10.1016/j.gca.2008.01.010" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>). High HTT (>600 °C) can <strong>destroy</strong> oxygenated acid groups even as BET surface area rises—tradeoff between physisorption and chemisorption (<a href="https://doi.org/10.1016/j.geoderma.2016.11.004" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</p>
+<p>Crop-/grass-based biochars often show higher CEC than wood in Ippolito meta framing (<a href="https://doi.org/10.1007/s42773-020-00067-x" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>). Co-compost coatings and organo-mineral complexes (Fe, Al, Si, Ca, Mg, P, K) add exchange and precipitation sites (Archanjo 2017 <a href="https://doi.org/10.1016/j.geoderma.2017.01.037" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>; Hagemann 2017 <a href="https://doi.org/10.1038/s41467-017-01123-0" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</p>
+<h3 id="62-anion-exchange-capacity-and-non-conventional-nitrate-retention">6.2 Anion exchange capacity and non-conventional nitrate retention<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#62-anion-exchange-capacity-and-non-conventional-nitrate-retention" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Conventional AEC of biochars is typically <strong>orders of magnitude lower</strong> than CEC (Silber/Graber framing cited in Kammann discussion <a href="https://doi.org/10.1038/srep11080" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>). Yet co-composted chars retain large nitrate loads—<strong>AEC alone does not explain</strong> the phenomenon; micropore H-bonding and organic coatings are the leading hypotheses (<a href="https://doi.org/10.1371/journal.pone.0171214" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>; <a href="https://doi.org/10.1038/s41467-017-01123-0" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</p>
+<h3 id="63-sorption--desorption--plant-uptake">6.3 Sorption ↔ desorption ↔ plant uptake<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#63-sorption--desorption--plant-uptake" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Desorption depends on N loading, soil hydraulic regime, plant demand, and method (Nguyen/Clough). Taghizadeh-Toosi bioavailability work shows adsorbed NH₃ is not a dead end (<a href="https://doi.org/10.1007/s11104-011-0870-3" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>). Rasse et al. (2022) caution that <strong>sorption capacity of unmodified biochar is often too low</strong> to make high-analysis slow-release N fertilizers from sorption alone—<strong>coating / composites</strong> are usually required for true controlled-release N products (<a href="https://doi.org/10.1007/s11104-022-05365-w" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</p>
+<hr/>
+<h2 id="7-fresh-vs-aged-vs-inoculated--enriched--nutrient-behavior">7. Fresh vs aged vs inoculated / enriched — nutrient behavior<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#7-fresh-vs-aged-vs-inoculated--enriched--nutrient-behavior" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>State</th><th>Typical nutrient behavior</th><th>Agronomic implication</th><th>Sources</th></tr></thead><tbody><tr><td><strong>Fresh high-C wood, uncharged</strong></td><td>SIN ↓ (~10%); hungry sponge; possible yield drag</td><td>Charge or co-apply fertilizer; or apply ≥1 month pre-plant</td><td>Nguyen 2017; NRCS FAQ; Kammann untreated</td></tr><tr><td><strong>Fresh manure/bone char</strong></td><td>Intrinsic N/P/K/ash; high EC risk</td><td>Soil-test P/EC; may still blend for biology</td><td>Ndoung direct-treatment; NRCS FAQ</td></tr><tr><td><strong>Field-aged / oxidized</strong></td><td>↑ oxygenated groups, organo-mineral phases</td><td>Better CEC; still may need fertility program</td><td>Cheng 2008; Joseph 2010 lineage</td></tr><tr><td><strong>Co-composted (COMBI)</strong></td><td>Organic coating; NO₃⁻/PO₄ capture; growth ↑↑</td><td>Prefer over raw for agronomy</td><td>Kammann 2015; Hagemann 2017; <a href="../Sources/Antonangelo-et-al.-2021" class="internal alias" data-slug="Sources/Antonangelo-et-al.-2021">Antonangelo 2021</a> (<a href="https://doi.org/10.1016/j.jenvman.2020.111443" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>)</td></tr><tr><td><strong>Post-pyrolysis BBF (NPK/urine/digestate)</strong></td><td>Designed payload; slow release; low dose</td><td>Band/root-zone; NUE gains</td><td>Melo 2022; <a href="../Sources/Schmidt-et-al.-2015" class="internal alias" data-slug="Sources/Schmidt-et-al.-2015">Schmidt 2015</a>/2017; Puga 2020</td></tr><tr><td><strong>Physicochemical post-process only</strong></td><td>Particle size / heating / leaching; <strong>not</strong> biological charge</td><td>Thomas meta +14% plant growth vs raw; excluded co-compost</td><td>Thomas 2021 (<a href="https://doi.org/10.1007/s42773-021-00115-0" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>)</td></tr></tbody></table></div>
+<hr/>
+<h2 id="8-biochar-based-fertilizers-bbf--bcf--formulations-and-evidence">8. Biochar-based fertilizers (BBF / BCF) — formulations and evidence<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#8-biochar-based-fertilizers-bbf--bcf--formulations-and-evidence" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="81-production-typology-ndoung-2021">8.1 Production typology (Ndoung 2021)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#81-production-typology-ndoung-2021" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><strong>Correct DOI:</strong> <a href="https://doi.org/10.1016/j.heliyon.2021.e08473" class="external">https://doi.org/10.1016/j.heliyon.2021.e08473<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8646155/" class="external">PMC8646155<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</p>
+<ol>
+<li><strong>Direct treatment</strong> — pyrolyze inherently nutrient-rich feedstocks (manures, sludge, algae, bones). Low T (~300–400 °C) favors <strong>N retention</strong>; higher T (~700 °C) favors <strong>P/K concentration</strong> (Biederman &amp; Harpole 2013 cited therein; <a href="https://doi.org/10.1111/gcbb.12037" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</li>
+<li><strong>Pre-treatment</strong> — impregnate biomass with minerals/fertilizers <strong>before</strong> pyrolysis (MgCl₂, TSP, phosphate rock, urea+clays, etc.).</li>
+<li><strong>Post-treatment</strong> — treat finished biochar with fertilizers, clays, composts, wastewater, digestate, microbes (~<strong>60%</strong> of enrichment studies in their sample). May include granulation, starch/bentonite/PVA coatings, re-pyrolysis.</li>
+</ol>
+<h3 id="82-coating-and-impregnation--what-the-evidence-supports">8.2 Coating and impregnation — what the evidence supports<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#82-coating-and-impregnation--what-the-evidence-supports" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Design</th><th>Evidence highlight</th><th>DOI / URL</th></tr></thead><tbody><tr><td>Urea–bentonite–biochar granules / Bio-MUC</td><td>Slower N release; maize growth gains (Shi et al. via Ndoung)</td><td><a href="https://doi.org/10.1016/j.scitotenv.2019.134424" class="external">https://doi.org/10.1016/j.scitotenv.2019.134424<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr><tr><td>Biochar-coated urea</td><td>Controlled N loss; ↑ NUE (Jia et al. 2021)</td><td><a href="https://doi.org/10.1186/s40538-020-00205-4" class="external">https://doi.org/10.1186/s40538-020-00205-4<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr><tr><td>Eucalyptus biochar + urea (field)</td><td>NUE <strong>+12%</strong> vs urea; maize yield <strong>+26%</strong>; GHG intensity −14% (Puga et al. 2020)</td><td><a href="https://doi.org/10.1016/j.scitotenv.2019.135375" class="external">https://doi.org/10.1016/j.scitotenv.2019.135375<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr><tr><td>Urine 1:1 vol + compost, root-zone</td><td>Pumpkin <strong>82.6 t ha⁻¹</strong>; >300% vs urine-only (Schmidt 2015); biochar DM <strong>0.75 t ha⁻¹</strong></td><td><a href="https://doi.org/10.3390/agriculture5030723" class="external">https://doi.org/10.3390/agriculture5030723<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr><tr><td>Liquid enrichment 21 trials / 13 crops</td><td>Framework for biochar-based fertilization (<a href="../Sources/Schmidt-et-al.-2017" class="internal alias" data-slug="Sources/Schmidt-et-al.-2017">Schmidt 2017</a>)</td><td><a href="https://doi.org/10.1002/ldr.2761" class="external">https://doi.org/10.1002/ldr.2761<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr><tr><td>Digestate impregnation</td><td>↑ SOM/macronutrients vs unenriched char (Kizito 2019 via Ndoung)</td><td><a href="https://doi.org/10.1016/j.heliyon.2021.e08473" class="external">https://doi.org/10.1016/j.heliyon.2021.e08473<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr><tr><td>Struvite–biochar composites</td><td>Longer N/P release cycle (Hu et al. via Ndoung)</td><td>same</td></tr><tr><td>Rasse 2022 review</td><td>Sorption alone often insufficient for high-N BCF; coatings needed</td><td><a href="https://doi.org/10.1007/s11104-022-05365-w" class="external">https://doi.org/10.1007/s11104-022-05365-w<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr></tbody></table></div>
+<h3 id="83-melo-et-al-2022-productivity-meta-headline-numbers">8.3 Melo et al. 2022 productivity meta (headline numbers)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#83-melo-et-al-2022-productivity-meta-headline-numbers" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>148 pairwise comparisons; BBFs applied at very low mean rate <strong>0.9 t ha⁻¹</strong> (<a href="https://doi.org/10.1007/s11104-021-05276-2" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>):</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Contrast</th><th>Mean productivity change</th></tr></thead><tbody><tr><td>BBF vs fertilized control</td><td><strong>+10%</strong></td></tr><tr><td>BBF vs unfertilized control</td><td><strong>+186%</strong></td></tr><tr><td>HHT >400 °C vs ≤400 °C</td><td><strong>+12%</strong> vs no increase</td></tr><tr><td>Final mixture C >30% vs ≤30%</td><td><strong>+17%</strong> vs no effect</td></tr><tr><td>Cluster: soils unresponsive to conventional fertilizer</td><td>potential <strong>+15%</strong></td></tr></tbody></table></div>
+<p>Authors interpret biochar as a <strong>matrix that raises fertilizer-use efficiency</strong> beyond fertilizer alone—comparable mean productivity lift to much higher bulk-conditioner rates (15–30 t ha⁻¹ class) in prior metas.</p>
+<h3 id="84-2025-review-pointer">8.4 2025 review pointer<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#84-2025-review-pointer" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Agronomy BCF advancements review (2025): <a href="https://doi.org/10.3390/agronomy15051104" class="external">https://doi.org/10.3390/agronomy15051104<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — use for formulation taxonomy; prefer Melo/Ndoung/Puga/Schmidt for farm numbers.</p>
+<hr/>
+<h2 id="9-synergy-and-antagonism-with-mineral-fertilizers">9. Synergy and antagonism with mineral fertilizers<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#9-synergy-and-antagonism-with-mineral-fertilizers" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="91-synergy-fue--yield">9.1 Synergy (FUE / yield)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#91-synergy-fue--yield" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Source</th><th>Finding</th><th>URL</th></tr></thead><tbody><tr><td><a href="../Sources/Ye-et-al.-2020" class="internal alias" data-slug="Sources/Ye-et-al.-2020">Ye et al. 2020</a> field meta</td><td>Biochar <strong>+ inorganic fertilizer</strong> ~<strong>+15%</strong> yield vs fertilizer alone</td><td><a href="https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf" class="external">https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr><tr><td>Melo 2022</td><td>BBF +10% vs fertilized controls at ~0.9 t ha⁻¹</td><td><a href="https://doi.org/10.1007/s11104-021-05276-2" class="external">https://doi.org/10.1007/s11104-021-05276-2<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr><tr><td>Puga 2020</td><td>NUE +12%; yield +26% vs urea</td><td><a href="https://doi.org/10.1016/j.scitotenv.2019.135375" class="external">https://doi.org/10.1016/j.scitotenv.2019.135375<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr><tr><td>Liao et al. 2020 (via Ndoung)</td><td>Controlled-release biochar-N: rape NUE ~<strong>+58.8%</strong>, yield ~<strong>+16.6%</strong> vs urea framing in review table</td><td><a href="https://doi.org/10.1016/j.heliyon.2021.e08473" class="external">https://doi.org/10.1016/j.heliyon.2021.e08473<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr><tr><td><a href="../Sources/Jeffery-et-al.-2017" class="internal alias" data-slug="Sources/Jeffery-et-al.-2017">Jeffery 2017</a></td><td>Temperate mean raw-char benefit weak — fertilizer/compost co-management matter more</td><td><a href="https://doi.org/10.1088/1748-9326/aa67bd" class="external">https://doi.org/10.1088/1748-9326/aa67bd<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr></tbody></table></div>
+<h3 id="92-antagonism--risks">9.2 Antagonism / risks<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#92-antagonism--risks" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li>Fresh wood char + inadequate N → immobilization / yield drag (Kammann untreated; NRCS FAQ).</li>
+<li>High liming char on alkaline soils → micronutrient / P availability issues (NRCS FAQ).</li>
+<li>High-P manure chars on high-P soils → water-quality risk (NRCS P-index discussion in FAQ).</li>
+<li>Micronutrient depression with some P-enriched products (Gunes via Ndoung).</li>
+<li>Excess BCF N/P or metals if enrichment ratios poorly optimized (Ndoung future perspectives).</li>
+</ul>
+<hr/>
+<h2 id="10-application-implications--rates-banding-blends">10. Application implications — rates, banding, blends<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#10-application-implications--rates-banding-blends" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Deep practice detail: <a href="../Applications/Application-Rates-and-Methods" class="internal alias" data-slug="Applications/Application-Rates-and-Methods">Application Rates and Methods</a>, <a href="../Applications/Biochar-Inoculation-for-Fertilizer" class="internal alias" data-slug="Applications/Biochar-Inoculation-for-Fertilizer">Biochar Inoculation for Fertilizer</a>, <a href="../Applications/Biochar-Compost-and-Manure-Blends" class="internal alias" data-slug="Applications/Biochar-Compost-and-Manure-Blends">Biochar Compost and Manure Blends</a>.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Goal</th><th>Sourced guidance</th><th>URL</th></tr></thead><tbody><tr><td>Bulk soil conditioner (CDR + structure)</td><td>NRCS start <strong>4–10 yd³/ac</strong>; FY2024 100% biochar scenario <strong>4 yd³/ac</strong></td><td><a href="https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf" class="external">https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr><tr><td>Agronomic BBF / enriched fertilizer</td><td>Often <strong>≪2 t ha⁻¹</strong>; Melo mean <strong>0.9 t ha⁻¹</strong>; Schmidt urine protocol <strong>0.75 t ha⁻¹</strong> DM</td><td>Melo DOI; Schmidt 2015 DOI</td></tr><tr><td>Co-compost loading</td><td>Roughly <strong>5–15%</strong> biochar w/w early (Pacific 5–10%; Antonangelo 10–15%)</td><td>Pacific PDF; Antonangelo DOI</td></tr><tr><td>Charge time</td><td><strong>1–3 weeks</strong> moist activation</td><td>USBI PDF</td></tr><tr><td>Timing if raw</td><td>≥<strong>1 month</strong> before planting (Nguyen recommendation)</td><td>Nguyen DOI</td></tr><tr><td>Placement</td><td>Root-zone pits / banding for low-dose enriched; broadcast+incorporate for bulk</td><td>Schmidt protocols; NRCS FAQ</td></tr></tbody></table></div>
+<p>Oasis vineyard evidence that <strong>compost+biochar</strong> beat either alone (+36% five-harvest mean vs control): <a href="https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf" class="external">Oasis PDF<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> · <a href="../Sources/Oasis-Vineyard-Trial-2023" class="internal alias" data-slug="Sources/Oasis-Vineyard-Trial-2023">Oasis Vineyard Trial 2023</a>.</p>
+<hr/>
+<h2 id="11-master-quantitative-table-nutrients">11. Master quantitative table (nutrients)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#11-master-quantitative-table-nutrients" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Claim</th><th>Number</th><th>Source URL</th></tr></thead><tbody><tr><td>SIN NH₄⁺ mean change</td><td>−11 ± 2%</td><td><a href="https://doi.org/10.1016/j.geoderma.2016.11.004" class="external">https://doi.org/10.1016/j.geoderma.2016.11.004<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr><tr><td>SIN NO₃⁻ mean change</td><td>−10 ± 1.6%</td><td>same</td></tr><tr><td>Puga NUE vs urea</td><td>+12%</td><td><a href="https://doi.org/10.1016/j.scitotenv.2019.135375" class="external">https://doi.org/10.1016/j.scitotenv.2019.135375<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr><tr><td>Puga maize yield vs urea</td><td>+26%</td><td>same</td></tr><tr><td>Steiner compost NH₃ reduction</td><td>up to −64%</td><td><a href="https://doi.org/10.2134/jeq2009.0337" class="external">https://doi.org/10.2134/jeq2009.0337<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr></tbody></table></div>
+<p>Figures from <a href="../Sources/Kammann-et-al.-2015" class="internal alias" data-slug="Sources/Kammann-et-al.-2015">Kammann et al. 2015</a>, <a href="../Sources/Melo-et-al.-2022" class="internal alias" data-slug="Sources/Melo-et-al.-2022">Melo et al. 2022</a>, <a href="../Sources/Ye-et-al.-2020" class="internal alias" data-slug="Sources/Ye-et-al.-2020">Ye et al. 2020</a>, <a href="../Sources/Jeffery-et-al.-2011" class="internal alias" data-slug="Sources/Jeffery-et-al.-2011">Jeffery et al. 2011</a> and <a href="../Sources/Jeffery-et-al.-2017" class="internal alias" data-slug="Sources/Jeffery-et-al.-2017">Jeffery et al. 2017</a> are kept in their source notes, with a check status for each number.</p>
+<hr/>
+<h2 id="12-safety--salts-ec-heavy-metals-from-ash-rich-feedstocks">12. Safety — salts, EC, heavy metals from ash-rich feedstocks<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#12-safety--salts-ec-heavy-metals-from-ash-rich-feedstocks" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Risk</th><th>Guidance / evidence</th><th>URL</th></tr></thead><tbody><tr><td>High EC / salinity</td><td>Manure chars can be high-EC; wood chars typically lower; match to soil EC</td><td>NRCS FAQ <a href="https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf" class="external">https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr><tr><td>Alkaline over-liming</td><td>Check liming equivalency if soil pH >7</td><td>same FAQ</td></tr><tr><td>Biosolids / PFAS</td><td><strong>Excluded</strong> from CPS 336 cost-share</td><td>same FAQ</td></tr><tr><td>PTE / PAHs</td><td>Meet EBC/IBI/NRCS Table 3; see <a href="../Production/Contaminants-and-Quality" class="internal alias" data-slug="Production/Contaminants-and-Quality">Contaminants and Quality</a></td><td><a href="https://www.european-biochar.org/" class="external">https://www.european-biochar.org/<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> · <a href="https://biochar-international.org/" class="external">https://biochar-international.org/<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr><tr><td>Yield harm from contaminated feedstocks</td><td>Jeffery 2011 biosolids subgroup <strong>−28%</strong></td><td><a href="https://doi.org/10.1016/j.agee.2011.08.015" class="external">https://doi.org/10.1016/j.agee.2011.08.015<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr><tr><td>Excess N/P from poorly designed BCF</td><td>Optimize biochar:enrichment ratios (Ndoung gaps)</td><td><a href="https://doi.org/10.1016/j.heliyon.2021.e08473" class="external">https://doi.org/10.1016/j.heliyon.2021.e08473<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr><tr><td>Heavy-metal immobilization upside</td><td>Fe/P-enriched chars can reduce labile Cd (Chen/Dad/Zhao lines in Ndoung)</td><td>same — still require feedstock testing</td></tr></tbody></table></div>
+<hr/>
+<h2 id="13-link-to-inoculation--fertilizer-use-bridge">13. Link to inoculation / fertilizer use (bridge)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#13-link-to-inoculation--fertilizer-use-bridge" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Nutrient chemistry explains <strong>why</strong> the three enrichment modes in <a href="../Applications/Biochar-Inoculation-for-Fertilizer" class="internal alias" data-slug="Applications/Biochar-Inoculation-for-Fertilizer">Biochar Inoculation for Fertilizer</a> work:</p>
+<ol>
+<li><strong>Nutrient charging</strong> fills CEC/pores and builds coatings so desorption matches crop demand.</li>
+<li><strong>Microbial inoculation</strong> couples biology to nutrient transformations (immobilization ↔ mineralization; P solubilization)—see <a href="../Applications/Biochar-Microbes-and-Soil-Biology" class="internal alias" data-slug="Applications/Biochar-Microbes-and-Soil-Biology">Biochar Microbes and Soil Biology</a>.</li>
+<li><strong>Co-composting</strong> simultaneously conserves N (Steiner), builds organic coating (Hagemann), and captures nitrate/phosphate (Kammann).</li>
+</ol>
+<p>Without that bridge, high-C CDR char remains a sponge; with it, the same carbon becomes a <strong>fertilizer-efficiency technology</strong> at lower mass rates (Melo 2022).</p>
+<hr/>
+<h2 id="14-open-gaps-as-stated-by-reviews--do-not-invent-answers">14. Open gaps (as stated by reviews — do not invent answers)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#14-open-gaps-as-stated-by-reviews--do-not-invent-answers" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li>Long-term (>1–5 y) field SIN after biochar (Nguyen: limited >1 y cases).</li>
+<li>Multi-nutrient BCF complexes vs single-nutrient enrichment (Ndoung).</li>
+<li>True controlled-release N without polymer coatings at fertilizer-grade analysis (Rasse 2022).</li>
+<li>Standardized desorption assays that recover micropore-captured nitrate (Kammann method discussion).</li>
+<li>Head-to-head FUE at CPS 336–realistic bulk rates vs BBF banding rates.</li>
+</ul>
+<hr/>
+<h2 id="15-decision-rules-evidence-based">15. Decision rules (evidence-based)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#15-decision-rules-evidence-based" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ol>
+<li><strong>Soil-test first</strong> — pH, EC, P, K, OM (NRCS FAQ logic).</li>
+<li><strong>If high-C wood char for agronomy</strong> — charge 1–3 weeks or co-compost; do not expect fertilizer substitution (USBI; Kammann).</li>
+<li><strong>If BBF/enriched product</strong> — treat as fertilizer placement problem (band/root-zone); rates often &lt;2 t ha⁻¹ (Melo; Schmidt).</li>
+<li><strong>If manure/bone char</strong> — credit ash nutrients; manage EC/P index (NRCS).</li>
+<li><strong>If alkaline soil</strong> — verify liming equivalency before high rates (NRCS).</li>
+<li><strong>If selling CDR</strong> — document eligible soil use; coating does not erase aromatic stability (Hagemann 2017; <a href="../Carbon-Markets/MRV-Stack" class="internal alias" data-slug="Carbon-Markets/MRV-Stack">MRV Stack</a>).</li>
+</ol>
+<hr/>
+<h2 id="primary-outbound-links">Primary outbound links<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#primary-outbound-links" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Source notes (checked figures and full citations): <a href="../Sources/Kammann-et-al.-2015" class="internal alias" data-slug="Sources/Kammann-et-al.-2015">Kammann et al. 2015</a> · <a href="../Sources/Melo-et-al.-2022" class="internal alias" data-slug="Sources/Melo-et-al.-2022">Melo et al. 2022</a> · <a href="../Sources/Ye-et-al.-2020" class="internal alias" data-slug="Sources/Ye-et-al.-2020">Ye et al. 2020</a> · <a href="../Sources/Jeffery-et-al.-2011" class="internal alias" data-slug="Sources/Jeffery-et-al.-2011">Jeffery et al. 2011</a> · <a href="../Sources/Jeffery-et-al.-2017" class="internal alias" data-slug="Sources/Jeffery-et-al.-2017">Jeffery et al. 2017</a> · <a href="../Sources/Schmidt-et-al.-2015" class="internal alias" data-slug="Sources/Schmidt-et-al.-2015">Schmidt et al. 2015</a> · <a href="../Sources/Schmidt-et-al.-2017" class="internal alias" data-slug="Sources/Schmidt-et-al.-2017">Schmidt et al. 2017</a> · <a href="../Sources/Lehmann-et-al.-2021" class="internal alias" data-slug="Sources/Lehmann-et-al.-2021">Lehmann et al. 2021</a> · <a href="../Sources/Antonangelo-et-al.-2021" class="internal alias" data-slug="Sources/Antonangelo-et-al.-2021">Antonangelo et al. 2021</a> · <a href="../Sources/NRCS-CPS-336-FAQ-2026" class="internal alias" data-slug="Sources/NRCS-CPS-336-FAQ-2026">NRCS CPS 336 FAQ 2026</a> · <a href="../Sources/NRCS-CPS-336-Standard-2022" class="internal alias" data-slug="Sources/NRCS-CPS-336-Standard-2022">NRCS CPS 336 Standard 2022</a> · <a href="../Sources/USBI-Ag-Guidelines-2023" class="internal alias" data-slug="Sources/USBI-Ag-Guidelines-2023">USBI Ag Guidelines 2023</a> · <a href="../Sources/Oasis-Vineyard-Trial-2023" class="internal alias" data-slug="Sources/Oasis-Vineyard-Trial-2023">Oasis Vineyard Trial 2023</a> · <a href="../Sources/Pacific-Biochar-Compost-White-Paper-2023" class="internal alias" data-slug="Sources/Pacific-Biochar-Compost-White-Paper-2023">Pacific Biochar Compost White Paper 2023</a>. Other references:</p>
+<ul>
+<li>Nguyen 2017 SIN meta — <a href="https://doi.org/10.1016/j.geoderma.2016.11.004" class="external">https://doi.org/10.1016/j.geoderma.2016.11.004<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>Clough 2013 N dynamics — <a href="https://doi.org/10.3390/agronomy3020275" class="external">https://doi.org/10.3390/agronomy3020275<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>Hagemann 2017 Nat Commun — <a href="https://doi.org/10.1038/s41467-017-01123-0" class="external">https://doi.org/10.1038/s41467-017-01123-0<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>Hagemann 2017 PLOS — <a href="https://doi.org/10.1371/journal.pone.0171214" class="external">https://doi.org/10.1371/journal.pone.0171214<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>Ndoung 2021 (e08473) — <a href="https://doi.org/10.1016/j.heliyon.2021.e08473" class="external">https://doi.org/10.1016/j.heliyon.2021.e08473<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>Rasse 2022 — <a href="https://doi.org/10.1007/s11104-022-05365-w" class="external">https://doi.org/10.1007/s11104-022-05365-w<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>Puga 2020 — <a href="https://doi.org/10.1016/j.scitotenv.2019.135375" class="external">https://doi.org/10.1016/j.scitotenv.2019.135375<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>Taghizadeh-Toosi 2012 — <a href="https://doi.org/10.1007/s11104-011-0870-3" class="external">https://doi.org/10.1007/s11104-011-0870-3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>Hestrin 2019 — <a href="https://doi.org/10.1038/s41467-019-08401-z" class="external">https://doi.org/10.1038/s41467-019-08401-z<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>Ippolito 2020 — <a href="https://doi.org/10.1007/s42773-020-00067-x" class="external">https://doi.org/10.1007/s42773-020-00067-x<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>NPK cycles review — <a href="https://doi.org/10.1186/s40538-020-00182-8" class="external">https://doi.org/10.1186/s40538-020-00182-8<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>P fate review — <a href="https://doi.org/10.1016/j.chemosphere.2021.131176" class="external">https://doi.org/10.1016/j.chemosphere.2021.131176<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>Steiner 2010 — <a href="https://doi.org/10.2134/jeq2009.0337" class="external">https://doi.org/10.2134/jeq2009.0337<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>Bruun 2012 — <a href="https://doi.org/10.1016/j.soilbio.2011.11.019" class="external">https://doi.org/10.1016/j.soilbio.2011.11.019<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>Cross &amp; Sohi 2011 — <a href="https://doi.org/10.1016/j.soilbio.2011.06.016" class="external">https://doi.org/10.1016/j.soilbio.2011.06.016<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>Joseph 2018 — <a href="https://doi.org/10.1016/j.scitotenv.2017.09.200" class="external">https://doi.org/10.1016/j.scitotenv.2017.09.200<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>Archanjo 2017 — <a href="https://doi.org/10.1016/j.geoderma.2017.01.037" class="external">https://doi.org/10.1016/j.geoderma.2017.01.037<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>Thomas 2021 — <a href="https://doi.org/10.1007/s42773-021-00115-0" class="external">https://doi.org/10.1007/s42773-021-00115-0<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>Silber 2010 — <a href="https://doi.org/10.1021/es101283d" class="external">https://doi.org/10.1021/es101283d<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>Cheng 2008 — <a href="https://doi.org/10.1016/j.gca.2008.01.010" class="external">https://doi.org/10.1016/j.gca.2008.01.010<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>EBC — <a href="https://www.european-biochar.org/" class="external">https://www.european-biochar.org/<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>IBI — <a href="https://biochar-international.org/" class="external">https://biochar-international.org/<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>2025 BCF review — <a href="https://doi.org/10.3390/agronomy15051104" class="external">https://doi.org/10.3390/agronomy15051104<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>Jia coated urea — <a href="https://doi.org/10.1186/s40538-020-00205-4" class="external">https://doi.org/10.1186/s40538-020-00205-4<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>Luo Mg-P — <a href="https://doi.org/10.1016/j.scitotenv.2020.144454" class="external">https://doi.org/10.1016/j.scitotenv.2020.144454<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>Biederman &amp; Harpole 2013 — <a href="https://doi.org/10.1111/gcbb.12037" class="external">https://doi.org/10.1111/gcbb.12037<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+</ul>
+<hr/>
+<h2 id="see-also">See also<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#see-also" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><a href="../Applications/Biochar-Inoculation-for-Fertilizer" class="internal alias" data-slug="Applications/Biochar-Inoculation-for-Fertilizer">Biochar Inoculation for Fertilizer</a> — protocols, commercial products, decision trees</li>
+<li><a href="../Applications/Biochar-Microbes-and-Soil-Biology" class="internal alias" data-slug="Applications/Biochar-Microbes-and-Soil-Biology">Biochar Microbes and Soil Biology</a> — habitat, inocula, priming, disease</li>
+<li><a href="../Applications/Biochar-Compost-and-Manure-Blends" class="internal alias" data-slug="Applications/Biochar-Compost-and-Manure-Blends">Biochar Compost and Manure Blends</a> · <a href="../Applications/Crop-Yield-Effects" class="internal alias" data-slug="Applications/Crop-Yield-Effects">Crop Yield Effects</a> · <a href="../Applications/GHG-Fluxes" class="internal alias" data-slug="Applications/GHG-Fluxes">GHG Fluxes</a></li>
+<li><a href="../Applications/Soil-and-Agriculture" class="internal alias" data-slug="Applications/Soil-and-Agriculture">Soil and Agriculture</a> · <a href="../Applications/Applications-Hub" class="internal alias" data-slug="Applications/Applications-Hub">Applications Hub</a> · <a href="../Sources/Key-Sources" class="internal alias" data-slug="Sources/Key-Sources">Key Sources</a> · <a href="../Biochar-Home" class="internal alias" data-slug="Biochar-Home">Biochar Home</a></li>
+</ul>
+<hr/>
+<h2 id="16-deep-dive--mechanisms-of-n-retention-abiotic">16. Deep dive — mechanisms of N retention (abiotic)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#16-deep-dive--mechanisms-of-n-retention-abiotic" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="161-acid-functional-groups-and-nh">16.1 Acid functional groups and NH₄⁺<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#161-acid-functional-groups-and-nh" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Nguyen et al. (2017) summarize that carboxylic, hydroxyl, lactone, and lactol groups create negative surface charge that electrostatically attracts NH₄⁺ (<a href="https://doi.org/10.1016/j.geoderma.2016.11.004" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>). Grassy feedstocks can develop higher carboxyl density than woody feedstocks at comparable pyrolysis temperatures (Harvey et al. lineage summarized therein), helping explain why woody chars reduced SIN less in that meta.</p>
+<h3 id="162-physisorption-and-bet">16.2 Physisorption and BET<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#162-physisorption-and-bet" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Inner-surface physisorption scales with BET and pore volume. High-temperature and slow-pyrolysis chars generally increase BET until a deformation threshold destroys micropores (pine ~750 °C, wheat ~700 °C examples in Nguyen synthesis). Bruun et al. (2012) report BET of wheat-straw biochars <strong>0.6 vs 1.6 m² g⁻¹</strong> for fast vs slow pyrolysis (<a href="https://doi.org/10.1016/j.soilbio.2011.11.019" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>)—physical sorption capacity is process-dependent even at fixed feedstock.</p>
+<h3 id="163-base-groups-and-weak-conventional-no-sorption">16.3 Base groups and weak conventional NO₃⁻ sorption<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#163-base-groups-and-weak-conventional-no-sorption" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Chromenes, ketones, and pyrones can facilitate limited NO₃⁻ adsorption, but conventional anion capacity remains weak relative to cation capacity (<a href="https://doi.org/10.1016/j.geoderma.2016.11.004" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>; Kammann discussion <a href="https://doi.org/10.1038/srep11080" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>). The large nitrate inventories in co-composted particles therefore require the <strong>non-conventional</strong> mechanisms in §3.4.</p>
+<h3 id="164-temperature-window-during-composting">16.4 Temperature window during composting<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#164-temperature-window-during-composting" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Kammann et al. note thermophilic composting (60–70 °C) may strengthen nutrient capture relative to cooler model composting (~35 °C in Prost et al. comparisons discussed in their paper), consistent with Conte et al. NMR work on temperature-dependent water–biochar bonding cited therein (<a href="https://doi.org/10.1038/srep11080" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>). Practical implication: <strong>aerobic quality windrow composting</strong> of char is not equivalent to cold mixing for nitrate capture.</p>
+<hr/>
+<h2 id="17-deep-dive--biotic-n-pathways-that-change-fertilizer-chemistry">17. Deep dive — biotic N pathways that change fertilizer chemistry<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#17-deep-dive--biotic-n-pathways-that-change-fertilizer-chemistry" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Process</th><th>Short-term SIN effect</th><th>Longer-term / management note</th><th>Sources</th></tr></thead><tbody><tr><td>Mineralization / positive priming</td><td>Can ↑ SIN briefly</td><td>Stronger with low-T / manure chars</td><td>Zimmerman 2011 (<a href="https://doi.org/10.1016/j.soilbio.2011.02.005" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>); Luo et al. cited in Nguyen</td></tr><tr><td>Immobilization</td><td>↓ SIN</td><td>C:N threshold ~20–32; labile C matters more than bulk C:N of wood</td><td>Chan &amp; Xu / Kuzyakov framing in Nguyen; Bruun 2012</td></tr><tr><td>Nitrification</td><td>NH₄⁺ → NO₃⁻</td><td>Liming of acid soils; AOA/AOB increases may take >1 year</td><td>Prommer / Bai lineage in Nguyen; Clough 2013</td></tr><tr><td>Denitrification / N₂O</td><td>↓ NO₃⁻; GHG co-benefit</td><td>Cayuela metas; H:C_org moderator</td><td><a href="../Applications/GHG-Fluxes" class="internal alias" data-slug="Applications/GHG-Fluxes">GHG Fluxes</a>; <a href="https://doi.org/10.1016/j.agee.2013.10.009" class="external">https://doi.org/10.1016/j.agee.2013.10.009<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> · <a href="../Sources/Cayuela-et-al.-2014" class="internal alias" data-slug="Sources/Cayuela-et-al.-2014">Cayuela et al. 2014</a></td></tr><tr><td>Biological N₂ fixation</td><td>Can offset SIN decline in legumes</td><td>Nodulation responses mixed; clover caveat from Quilliam, DeLuca &amp; Jones (2013)</td><td>Clough 2013; <a href="https://doi.org/10.1007/s11104-012-1411-4" class="external">https://doi.org/10.1007/s11104-012-1411-4<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></td></tr></tbody></table></div>
+<p>Fertilizer chemistry takeaway: <strong>organic co-amendments</strong> change the biotic balance toward mineralization (Nguyen), which is why compost charging simultaneously addresses abiotic sorption and biotic immobilization (<a href="../Applications/Biochar-Compost-and-Manure-Blends" class="internal alias" data-slug="Applications/Biochar-Compost-and-Manure-Blends">Biochar Compost and Manure Blends</a>).</p>
+<hr/>
+<h2 id="18-feedstock--pyrolysis-temperature--nutrient-design-space">18. Feedstock × pyrolysis temperature — nutrient design space<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#18-feedstock--pyrolysis-temperature--nutrient-design-space" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Synthesized from Ippolito et al. 2020 (<a href="https://doi.org/10.1007/s42773-020-00067-x" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>), Ndoung 2021 (<a href="https://doi.org/10.1016/j.heliyon.2021.e08473" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>), and Nguyen 2017 (<a href="https://doi.org/10.1016/j.geoderma.2016.11.004" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>):</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Design goal</th><th>Lean toward</th><th>Watch-outs</th></tr></thead><tbody><tr><td>Maximum durable C + structure</td><td>High-T wood (>500–600 °C); high SSA</td><td>Low nutrients; charge required; micropores may be poorly colonized (<a href="../Applications/Biochar-Microbes-and-Soil-Biology" class="internal alias" data-slug="Applications/Biochar-Microbes-and-Soil-Biology">Biochar Microbes and Soil Biology</a>)</td></tr><tr><td>Intrinsic fertilizer value</td><td>Manure, bone, algae; moderate–high T for P/K</td><td>EC, metals, PFAS policy (biosolids)</td></tr><tr><td>N retention in char</td><td>Lower T (300–400 °C) on N-rich feedstocks</td><td>More labile C → immobilization risk if uncharged</td></tr><tr><td>P/K concentration</td><td>Higher T on ash-rich feedstocks</td><td>Plant-available fraction ≠ total; test Olsen/Mehlich etc.</td></tr><tr><td>Slow-release engineered P</td><td>Pre-pyrolysis Mg/TSP impregnation</td><td>Rate as fertilizer, not as bulk conditioner</td></tr><tr><td>Nitrate capture product</td><td>Co-compost high-T wood in N-rich windrows</td><td>Process control (moisture, turning, maturity)</td></tr></tbody></table></div>
+<p>NRCS FAQ spec-sheet contrast (high-C wood vs poultry-manure char) is the extension-facing version of this design space (<a href="https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf" class="external">FAQ<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</p>
+<hr/>
+<h2 id="19-analytical-blind-spots-for-farm-labs">19. Analytical blind spots for farm labs<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#19-analytical-blind-spots-for-farm-labs" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ol>
+<li><strong>Standard KCl / water extracts underestimate</strong> micropore-captured nitrate (Kammann sequential washing >> EUF >> quick extract) (<a href="https://doi.org/10.1038/srep11080" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</li>
+<li><strong>Total ash P ≠ plant-available P</strong> — use agronomic soil tests after application, not only char totals (Ippolito availability framing <a href="https://doi.org/10.1007/s42773-020-00067-x" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</li>
+<li><strong>Liming equivalency</strong> must be measured, not assumed from pH alone (NRCS FAQ arithmetic).</li>
+<li><strong>EC</strong> on manure chars can dominate first-year risk even when NPK looks attractive (NRCS FAQ).</li>
+<li><strong>H:C_org and C_org</strong> remain the permanence/quality gates for CPS 336 and credits even when nutrients are the farm goal (<a href="../Production/Properties" class="internal" data-slug="Production/Properties">Properties</a>; <a href="https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf" class="external">CPS 336 PDF<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</li>
+</ol>
+<hr/>
+<h2 id="20-worked-planning-scenarios-sourced-numbers-only">20. Worked planning scenarios (sourced numbers only)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#20-worked-planning-scenarios-sourced-numbers-only" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="scenario-a--temperate-fertile-row-crop-wood-char-yield-goal">Scenario A — Temperate fertile row crop, wood char, yield goal<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#scenario-a--temperate-fertile-row-crop-wood-char-yield-goal" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Expect weak mean raw-char yield response (<a href="https://doi.org/10.1088/1748-9326/aa67bd" class="external">Jeffery 2017<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>). Charge 1–3 weeks with compost (<a href="https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf" class="external">USBI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>) or use CPS 336 blend scenarios (<a href="https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf" class="external">FAQ<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>). Co-apply fertilizer; Ye 2020 supports biochar+IF synergy (<a href="https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf" class="external">PDF<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</p>
+<h3 id="scenario-b--acid-tropical-sandy-soil">Scenario B — Acid tropical sandy soil<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#scenario-b--acid-tropical-sandy-soil" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Liming + WHC mechanisms more likely to reward even less-enriched char (<a href="https://doi.org/10.1016/j.agee.2011.08.015" class="external">Jeffery 2011<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>; <a href="https://doi.org/10.1088/1748-9326/aa67bd" class="external">Jeffery 2017<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>), but nutrient charging still improves FUE (Melo; Schmidt).</p>
+<h3 id="scenario-c--low-dose-bbf-program">Scenario C — Low-dose BBF program<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#scenario-c--low-dose-bbf-program" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Target Melo-class rates (~1 t ha⁻¹) with documented enrichment (urine/NPK/compost) and root-zone placement (<a href="https://doi.org/10.3390/agriculture5030723" class="external">Schmidt 2015<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>; <a href="https://doi.org/10.1007/s11104-021-05276-2" class="external">Melo 2022<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</p>
+<h3 id="scenario-d--cdr-primary-with-secondary-agronomy">Scenario D — CDR-primary with secondary agronomy<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#scenario-d--cdr-primary-with-secondary-agronomy" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Meet H:C_org / eligible-use MRV; still inoculate for farm relations and to avoid year-1 drag (NRCS/USBI); Hagemann shows composting coating does not erase aromatic stability (<a href="https://doi.org/10.1038/s41467-017-01123-0" class="external">DOI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>).</p>
+<hr/>
+<h2 id="21-glossary-nutrient-chemistry">21. Glossary (nutrient chemistry)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#21-glossary-nutrient-chemistry" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><strong>AEC</strong> — anion exchange capacity (usually low on biochar vs CEC).</li>
+<li><strong>BBF / BCF</strong> — biochar-based fertilizer / biochar-based compound fertilizer.</li>
+<li><strong>CEC</strong> — cation exchange capacity.</li>
+<li><strong>COMBI</strong> — co-composted biochar–compost product (Antonangelo framing).</li>
+<li><strong>EUF</strong> — electro-ultrafiltration nutrient extraction (Kammann method).</li>
+<li><strong>FUE / NUE / PUE</strong> — fertilizer / nitrogen / phosphorus use efficiency.</li>
+<li><strong>SIN</strong> — soil inorganic nitrogen (NH₄⁺ + NO₃⁻).</li>
+<li><strong>Liming equivalency</strong> — % CaCO₃ neutralizing value of the amendment.</li>
+</ul>
+<hr/>
+<h2 id="22-related-notes-navigation">22. Related notes (navigation)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#22-related-notes-navigation" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Need</th><th>Go to</th></tr></thead><tbody><tr><td>How to charge / inoculate / protocols</td><td><a href="../Applications/Biochar-Inoculation-for-Fertilizer" class="internal alias" data-slug="Applications/Biochar-Inoculation-for-Fertilizer">Biochar Inoculation for Fertilizer</a></td></tr><tr><td>Microbes, AMF, disease, priming biology</td><td><a href="../Applications/Biochar-Microbes-and-Soil-Biology" class="internal alias" data-slug="Applications/Biochar-Microbes-and-Soil-Biology">Biochar Microbes and Soil Biology</a></td></tr><tr><td>Compost ratios &amp; facility trials</td><td><a href="../Applications/Biochar-Compost-and-Manure-Blends" class="internal alias" data-slug="Applications/Biochar-Compost-and-Manure-Blends">Biochar Compost and Manure Blends</a></td></tr><tr><td>Yield metas</td><td><a href="../Applications/Crop-Yield-Effects" class="internal alias" data-slug="Applications/Crop-Yield-Effects">Crop Yield Effects</a></td></tr><tr><td>N₂O / priming fluxes</td><td><a href="../Applications/GHG-Fluxes" class="internal alias" data-slug="Applications/GHG-Fluxes">GHG Fluxes</a></td></tr><tr><td>yd³/ac &amp; banding</td><td><a href="../Applications/Application-Rates-and-Methods" class="internal alias" data-slug="Applications/Application-Rates-and-Methods">Application Rates and Methods</a></td></tr><tr><td>Contaminants</td><td><a href="../Production/Contaminants-and-Quality" class="internal alias" data-slug="Production/Contaminants-and-Quality">Contaminants and Quality</a></td></tr><tr><td>Soil chapter hub</td><td><a href="../Applications/Soil-and-Agriculture" class="internal alias" data-slug="Applications/Soil-and-Agriculture">Soil and Agriculture</a></td></tr></tbody></table></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-6" aria-expanded="true"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#biochar-nutrients-and-fertilizer-chemistry" data-for="biochar-nutrients-and-fertilizer-chemistry">Biochar Nutrients and Fertilizer Chemistry</a></li><li class="depth-1"><a href="#1-purpose-and-problem-statement" data-for="1-purpose-and-problem-statement">1. Purpose and problem statement</a></li><li class="depth-1"><a href="#2-conceptual-map--ash-nutrients-vs-organic-c-matrix" data-for="2-conceptual-map--ash-nutrients-vs-organic-c-matrix">2. Conceptual map — ash nutrients vs organic C matrix</a></li><li class="depth-1"><a href="#3-nitrogen-chemistry-in-detail" data-for="3-nitrogen-chemistry-in-detail">3. Nitrogen chemistry in detail</a></li><li class="depth-2"><a href="#31-forms-and-pathways" data-for="31-forms-and-pathways">3.1 Forms and pathways</a></li><li class="depth-2"><a href="#32-meta-analytic-magnitude-do-not-universalize" data-for="32-meta-analytic-magnitude-do-not-universalize">3.2 Meta-analytic magnitude (do not universalize)</a></li><li class="depth-2"><a href="#33-fertilizer-type-interactions-nguyen-2017" data-for="33-fertilizer-type-interactions-nguyen-2017">3.3 Fertilizer-type interactions (Nguyen 2017)</a></li><li class="depth-2"><a href="#34-nitrate-capture-in-co-composted-particles-quantitative" data-for="34-nitrate-capture-in-co-composted-particles-quantitative">3.4 Nitrate capture in co-composted particles (quantitative)</a></li><li class="depth-2"><a href="#35-volatilization-and-ammonia-bioavailability" data-for="35-volatilization-and-ammonia-bioavailability">3.5 Volatilization and ammonia bioavailability</a></li><li class="depth-1"><a href="#4-phosphorus-chemistry" data-for="4-phosphorus-chemistry">4. Phosphorus chemistry</a></li><li class="depth-2"><a href="#41-direct-p-delivery-vs-soil-p-dynamics" data-for="41-direct-p-delivery-vs-soil-p-dynamics">4.1 Direct P delivery vs soil P dynamics</a></li><li class="depth-2"><a href="#42-enrichment-and-slow-release-p-sourced-examples-via-ndoung" data-for="42-enrichment-and-slow-release-p-sourced-examples-via-ndoung">4.2 Enrichment and slow-release P (sourced examples via Ndoung)</a></li><li class="depth-2"><a href="#43-desorption-and-plant-availability" data-for="43-desorption-and-plant-availability">4.3 Desorption and plant availability</a></li><li class="depth-1"><a href="#5-potassium-calcium-magnesium-micronutrients" data-for="5-potassium-calcium-magnesium-micronutrients">5. Potassium, calcium, magnesium, micronutrients</a></li><li class="depth-2"><a href="#51-k--often-the-most-plant-available-ash-cation" data-for="51-k--often-the-most-plant-available-ash-cation">5.1 K — often the most plant-available ash cation</a></li><li class="depth-2"><a href="#52-ca--mg-and-liming-couples" data-for="52-ca--mg-and-liming-couples">5.2 Ca / Mg and liming couples</a></li><li class="depth-2"><a href="#53-micronutrients-fe-zn-cu-mn-b-mo" data-for="53-micronutrients-fe-zn-cu-mn-b-mo">5.3 Micronutrients (Fe, Zn, Cu, Mn, B, Mo)</a></li><li class="depth-1"><a href="#6-cec-aec-sorption-vs-desorption" data-for="6-cec-aec-sorption-vs-desorption">6. CEC, AEC, sorption vs desorption</a></li><li class="depth-2"><a href="#61-cation-exchange-capacity" data-for="61-cation-exchange-capacity">6.1 Cation exchange capacity</a></li><li class="depth-2"><a href="#62-anion-exchange-capacity-and-non-conventional-nitrate-retention" data-for="62-anion-exchange-capacity-and-non-conventional-nitrate-retention">6.2 Anion exchange capacity and non-conventional nitrate retention</a></li><li class="depth-2"><a href="#63-sorption--desorption--plant-uptake" data-for="63-sorption--desorption--plant-uptake">6.3 Sorption ↔ desorption ↔ plant uptake</a></li><li class="depth-1"><a href="#7-fresh-vs-aged-vs-inoculated--enriched--nutrient-behavior" data-for="7-fresh-vs-aged-vs-inoculated--enriched--nutrient-behavior">7. Fresh vs aged vs inoculated / enriched — nutrient behavior</a></li><li class="depth-1"><a href="#8-biochar-based-fertilizers-bbf--bcf--formulations-and-evidence" data-for="8-biochar-based-fertilizers-bbf--bcf--formulations-and-evidence">8. Biochar-based fertilizers (BBF / BCF) — formulations and evidence</a></li><li class="depth-2"><a href="#81-production-typology-ndoung-2021" data-for="81-production-typology-ndoung-2021">8.1 Production typology (Ndoung 2021)</a></li><li class="depth-2"><a href="#82-coating-and-impregnation--what-the-evidence-supports" data-for="82-coating-and-impregnation--what-the-evidence-supports">8.2 Coating and impregnation — what the evidence supports</a></li><li class="depth-2"><a href="#83-melo-et-al-2022-productivity-meta-headline-numbers" data-for="83-melo-et-al-2022-productivity-meta-headline-numbers">8.3 Melo et al. 2022 productivity meta (headline numbers)</a></li><li class="depth-2"><a href="#84-2025-review-pointer" data-for="84-2025-review-pointer">8.4 2025 review pointer</a></li><li class="depth-1"><a href="#9-synergy-and-antagonism-with-mineral-fertilizers" data-for="9-synergy-and-antagonism-with-mineral-fertilizers">9. Synergy and antagonism with mineral fertilizers</a></li><li class="depth-2"><a href="#91-synergy-fue--yield" data-for="91-synergy-fue--yield">9.1 Synergy (FUE / yield)</a></li><li class="depth-2"><a href="#92-antagonism--risks" data-for="92-antagonism--risks">9.2 Antagonism / risks</a></li><li class="depth-1"><a href="#10-application-implications--rates-banding-blends" data-for="10-application-implications--rates-banding-blends">10. Application implications — rates, banding, blends</a></li><li class="depth-1"><a href="#11-master-quantitative-table-nutrients" data-for="11-master-quantitative-table-nutrients">11. Master quantitative table (nutrients)</a></li><li class="depth-1"><a href="#12-safety--salts-ec-heavy-metals-from-ash-rich-feedstocks" data-for="12-safety--salts-ec-heavy-metals-from-ash-rich-feedstocks">12. Safety — salts, EC, heavy metals from ash-rich feedstocks</a></li><li class="depth-1"><a href="#13-link-to-inoculation--fertilizer-use-bridge" data-for="13-link-to-inoculation--fertilizer-use-bridge">13. Link to inoculation / fertilizer use (bridge)</a></li><li class="depth-1"><a href="#14-open-gaps-as-stated-by-reviews--do-not-invent-answers" data-for="14-open-gaps-as-stated-by-reviews--do-not-invent-answers">14. Open gaps (as stated by reviews — do not invent answers)</a></li><li class="depth-1"><a href="#15-decision-rules-evidence-based" data-for="15-decision-rules-evidence-based">15. Decision rules (evidence-based)</a></li><li class="depth-1"><a href="#primary-outbound-links" data-for="primary-outbound-links">Primary outbound links</a></li><li class="depth-1"><a href="#see-also" data-for="see-also">See also</a></li><li class="depth-1"><a href="#16-deep-dive--mechanisms-of-n-retention-abiotic" data-for="16-deep-dive--mechanisms-of-n-retention-abiotic">16. Deep dive — mechanisms of N retention (abiotic)</a></li><li class="depth-2"><a href="#161-acid-functional-groups-and-nh" data-for="161-acid-functional-groups-and-nh">16.1 Acid functional groups and NH₄⁺</a></li><li class="depth-2"><a href="#162-physisorption-and-bet" data-for="162-physisorption-and-bet">16.2 Physisorption and BET</a></li><li class="depth-2"><a href="#163-base-groups-and-weak-conventional-no-sorption" data-for="163-base-groups-and-weak-conventional-no-sorption">16.3 Base groups and weak conventional NO₃⁻ sorption</a></li><li class="depth-2"><a href="#164-temperature-window-during-composting" data-for="164-temperature-window-during-composting">16.4 Temperature window during composting</a></li><li class="depth-1"><a href="#17-deep-dive--biotic-n-pathways-that-change-fertilizer-chemistry" data-for="17-deep-dive--biotic-n-pathways-that-change-fertilizer-chemistry">17. Deep dive — biotic N pathways that change fertilizer chemistry</a></li><li class="depth-1"><a href="#18-feedstock--pyrolysis-temperature--nutrient-design-space" data-for="18-feedstock--pyrolysis-temperature--nutrient-design-space">18. Feedstock × pyrolysis temperature — nutrient design space</a></li><li class="depth-1"><a href="#19-analytical-blind-spots-for-farm-labs" data-for="19-analytical-blind-spots-for-farm-labs">19. Analytical blind spots for farm labs</a></li><li class="depth-1"><a href="#20-worked-planning-scenarios-sourced-numbers-only" data-for="20-worked-planning-scenarios-sourced-numbers-only">20. Worked planning scenarios (sourced numbers only)</a></li><li class="depth-2"><a href="#scenario-a--temperate-fertile-row-crop-wood-char-yield-goal" data-for="scenario-a--temperate-fertile-row-crop-wood-char-yield-goal">Scenario A — Temperate fertile row crop, wood char, yield goal</a></li><li class="depth-2"><a href="#scenario-b--acid-tropical-sandy-soil" data-for="scenario-b--acid-tropical-sandy-soil">Scenario B — Acid tropical sandy soil</a></li><li class="depth-2"><a href="#scenario-c--low-dose-bbf-program" data-for="scenario-c--low-dose-bbf-program">Scenario C — Low-dose BBF program</a></li><li class="depth-2"><a href="#scenario-d--cdr-primary-with-secondary-agronomy" data-for="scenario-d--cdr-primary-with-secondary-agronomy">Scenario D — CDR-primary with secondary agronomy</a></li><li class="depth-1"><a href="#21-glossary-nutrient-chemistry" data-for="21-glossary-nutrient-chemistry">21. Glossary (nutrient chemistry)</a></li><li class="depth-1"><a href="#22-related-notes-navigation" data-for="22-related-notes-navigation">22. Related notes (navigation)</a></li><li class="overflow-end"></li></ul></div><div class="backlinks"><h3>Backlinks</h3><ul id="list-2" class="overflow"><li><a href="../Applications/Applications-Hub" class="internal">Applications Hub</a></li><li><a href="../Applications/Biochar-Compost-and-Manure-Blends" class="internal">Biochar Compost and Manure Blends</a></li><li><a href="../Applications/Biochar-Inoculation-for-Fertilizer" class="internal">Biochar Inoculation for Fertilizer</a></li><li><a href="../Applications/Biochar-Microbes-and-Soil-Biology" class="internal">Biochar Microbes and Soil Biology</a></li><li><a href="../Applications/Co-composting-Science" class="internal">Co-composting Science</a></li><li><a href="../Applications/Exomad-Green-Corn-and-Bean-Field-Study" class="internal">Biochar Field Study: Corn and Beans in Controlled Plots</a></li><li><a href="../Applications/Fertilizer-Displacement" class="internal">Fertilizer Displacement</a></li><li><a href="../Applications/Nitrous-Oxide-Fluxes" class="internal">Nitrous Oxide Fluxes</a></li><li><a href="../Applications/Soil-and-Agriculture" class="internal">Soil and Agriculture</a></li><li><a href="../Biochar-Home" class="internal">Biochar Home</a></li><li><a href="../Industry/US-Biochar-Initiative" class="internal">US Biochar Initiative</a></li><li><a href="../Industry/USBI-Guidance-vs-Vault-Notes" class="internal">USBI Guidance vs Vault Notes</a></li><li><a href="../Production/Woody-vs-Manure-Ag-Feedstocks" class="internal">Woody vs Manure Ag Feedstocks</a></li><li><a href="../Sources/Kammann-et-al.-2015" class="internal">Plant growth improvement mediated by nitrate capture in co-composted biochar</a></li><li><a href="../Sources/Melo-et-al.-2022" class="internal">Biochar-based fertilizer effects on crop productivity: a meta-analysis</a></li><li><a href="../Sources/Quilliam-et-al.-2013" class="internal">Life in the 'charosphere' – Does biochar in agricultural soil provide a significant habitat for microorganisms?</a></li><li><a href="../Sources/Schmidt-et-al.-2015" class="internal">Fourfold Increase in Pumpkin Yield in Response to Low-Dosage Root Zone Application of Urine-Enhanced Biochar to a Fertile Tropical Soil</a></li><li><a href="../" class="internal">Biochar</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2026</p><ul><li><a href="https://github.com/mktcowboy/Biochar">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module">function f(i,e){if(!i)return;function r(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function t(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}i?.addEventListener("click",r),window.addCleanup(()=>i?.removeEventListener("click",r)),document.addEventListener("keydown",t),window.addCleanup(()=>document.removeEventListener("keydown",t))}function y(i){for(;i.firstChild;)i.removeChild(i.firstChild)}var h=class{constructor(e,r){this.container=e;this.content=r;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),r=this.onMouseMove.bind(this),t=this.onMouseUp.bind(this),o=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",r),document.addEventListener("mouseup",t),window.addEventListener("resize",o),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",r),()=>document.removeEventListener("mouseup",t),()=>window.removeEventListener("resize",o))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let r=this.createButton("+",()=>this.zoom(.1)),t=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(t),e.appendChild(o),e.appendChild(r),this.container.appendChild(e)}createButton(e,r){let t=document.createElement("button");return t.textContent=e,t.className="mermaid-control-button",t.addEventListener("click",r),window.addCleanup(()=>t.removeEventListener("click",r)),t}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}zoom(e){let r=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),t=this.content.getBoundingClientRect(),o=t.width/2,n=t.height/2,c=r-this.scale;this.currentPan.x-=o*c,this.currentPan.y-=n*c,this.scale=r,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){this.scale=1;let e=this.content.querySelector("svg");this.currentPan={x:e.getBoundingClientRect().width/2,y:e.getBoundingClientRect().height/2},this.updateTransform()}},C=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],E;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;E||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let r=E.default,t=new WeakMap;for(let n of e)t.set(n,n.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let a=t.get(s);a&&(s.innerHTML=a)}let n=C.reduce((s,a)=>(s[a]=window.getComputedStyle(document.documentElement).getPropertyValue(a),s),{}),c=document.documentElement.getAttribute("saved-theme")==="dark";r.initialize({startOnLoad:!1,securityLevel:"loose",theme:c?"dark":"base",themeVariables:{fontFamily:n["--codeFont"],primaryColor:n["--light"],primaryTextColor:n["--darkgray"],primaryBorderColor:n["--tertiary"],lineColor:n["--darkgray"],secondaryColor:n["--secondary"],tertiaryColor:n["--tertiary"],clusterBkg:n["--light"],edgeLabelBackground:n["--highlight"]}}),await r.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let n=0;n<e.length;n++){let v=function(){let g=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let w=c.querySelector("svg").cloneNode(!0);m.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new h(g,m)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},c=e[n],s=c.parentElement,a=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(a),L=a.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),f(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript"></script><script src="../postscript.js" type="module"></script></html>
