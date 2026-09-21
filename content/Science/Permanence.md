@@ -18,7 +18,7 @@ Hub for **persistence / permanence science**: how long biochar organic carbon re
 
 Biochar carbon mineralizes **1–2 orders of magnitude more slowly** than unpyrolysed biomass because pyrolysis builds **fused aromatic** structures that microbes oxidize poorly ([[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]] · [DOI](https://doi.org/10.1038/s41561-021-00852-8); [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] · [DOI](https://doi.org/10.1021/acs.est.1c02425)). Persistence is **not** literal forever: it is probabilistic over **centennial–millennial** horizons for well-made chars, and it depends on **material chemistry** (aromatic condensation) **and** environment (soil temperature, moisture, minerals, microbes) ([Schmidt et al., 2025](https://doi.org/10.1111/gcbb.70092); [Woolf 2021](https://doi.org/10.1021/acs.est.1c02425)).
 
-Policy and inventory practice usually compress that dynamics into a single **permanence factor** \(F_\mathrm{perm}\) = fraction of biochar organic C still unmineralized after a chosen horizon—commonly **100 years** for IPCC-style accounting ([[IPCC 2019 Biochar Appendix]] · [PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)). Always state **horizon + soil temperature** with any \(F_\mathrm{perm}\) number ([[Woolf IPCC Fperm]], [[Soil Temperature and Environment]]).
+Policy and inventory practice usually compress that dynamics into a single **permanence factor** \(F_\mathrm{perm}\) = fraction of biochar organic C still unmineralized after a chosen horizon—commonly **100 years** for IPCC-style accounting ([[IPCC Biochar Soil Carbon Method|estimates soil C stock change from biochar]] · [PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)). Always state **horizon + soil temperature** with any \(F_\mathrm{perm}\) number ([[Woolf IPCC Fperm]], [[Soil Temperature and Environment]]).
 
 ---
 
@@ -40,7 +40,7 @@ During pyrolysis, cellulose/hemicellulose/lignin rearrange into **condensed arom
 | **Solid EC** | Batch homogeneity / condensation correlate (EBC) | Process QC, not a standalone \(F_\mathrm{perm}\) | [[Properties]] · EBC Guidelines ([PDF](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)) |
 | **Soil temperature** | Environmental decay rate (Q10) | Adjust \(F_\mathrm{perm}\) to site climate | [[Soil Temperature and Environment]] |
 
-Test-method recipes (how to measure H:C_org, O:C_org, Ro): [[ANSI ASABE USBI S668]] · [PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) §10. Pass/fail credit thresholds: [[Permanence Science for Credits]].
+Test-method recipes (how to measure H:C_org, O:C_org, Ro): [[Biochar Lab Measurement Standard|standardizes biochar lab testing]] · [PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) §10. Pass/fail credit thresholds: [[Permanence Science for Credits]].
 
 ---
 
@@ -48,7 +48,7 @@ Test-method recipes (how to measure H:C_org, O:C_org, Ro): [[ANSI ASABE USBI S66
 
 | Source | Finding | Link |
 |---|---|---|
-| **[IPCC 2019 App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)** · [[IPCC 2019 Biochar Appendix]] | 100-yr \(F_\mathrm{perm}\): **0.65** (350–450 °C), **0.80** (450–600 °C), **0.89** (>600 °C); ±~11–15%; ~20 °C basis | Full text ✓ |
+| **[IPCC 2019 App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)** · [[IPCC Biochar Soil Carbon Method|estimates soil C stock change from biochar]] | 100-yr \(F_\mathrm{perm}\): **0.65** (350–450 °C), **0.80** (450–600 °C), **0.89** (>600 °C); ±~11–15%; ~20 °C basis | Full text ✓ |
 | **[[Biochar Soil GHG Inventory Model|models soil GHG from biochar]]** ([DOI](https://doi.org/10.1021/acs.est.1c02425); [open PDF](https://open-science.canada.ca/server/api/core/bitstreams/112fc297-0352-4683-ae0e-dd1271f59d77/content)) | At **14.9 °C** (global cropland mean): 100-yr ≈ **0.63 / 0.71 / 0.82**; 1000-yr high-T ~**0.25** | Full text ✓ |
 | **[[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]]** ([DOI](https://doi.org/10.1038/s41561-021-00852-8)) | Of chars with **H/C_org < 0.5**, 95% showed >50% C remaining after 100 yr (mean **~82%** in that subset) | Full-text figure **not re-checked** (paywalled)—use with care |
 | **[Spokas 2010](https://doi.org/10.4155/cmt.10.32)** | O/C half-life classes (approximate; not inventory-grade alone) | See [[H-Corg and O-Corg]] |
@@ -83,7 +83,7 @@ Cross-sheet: [[Quantitative Benchmarks]].
 
 ## 7. Primary links
 
-- [IPCC 2019 App. 4 PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC 2019 Biochar Appendix]]
+- [IPCC 2019 App. 4 PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC Biochar Soil Carbon Method|estimates soil C stock change from biochar]]
 - [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) · [open PDF](https://open-science.canada.ca/server/api/core/bitstreams/112fc297-0352-4683-ae0e-dd1271f59d77/content) · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]]
 - [Lehmann et al. 2021](https://doi.org/10.1038/s41561-021-00852-8) · [[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]]
 - [Schmidt et al. 2025](https://doi.org/10.1111/gcbb.70092)
@@ -91,7 +91,7 @@ Cross-sheet: [[Quantitative Benchmarks]].
 - [Spokas 2010](https://doi.org/10.4155/cmt.10.32)
 - [Keiluweit et al. 2010](https://doi.org/10.1021/es9031419)
 - [EBC Guidelines 10.5E PDF](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)
-- [ANSI S668 PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[ANSI ASABE USBI S668]]
+- [ANSI S668 PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]]
 - Credit interpretation (no method duplication): [[Permanence Science for Credits]]
 
 ## Related hubs

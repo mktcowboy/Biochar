@@ -10,7 +10,7 @@ North America’s long-running nonprofit hub for **biochar education, technical 
 
 **Primary URLs:** [biochar.org/usbi](https://biochar.org/usbi/) · [About ABI](https://biochar.org/about-abi/) · [biochar.org home](https://biochar.org/) · legacy [usbi.biochar-us.org](https://usbi.biochar-us.org/)
 
-**Related vault notes:** [[USBI Guidance vs Vault Notes]] · [[USBI Ag Guidelines 2023]] · [[Industry Hub]] · [[Application Rates and Methods]] · [[Biochar Inoculation for Fertilizer]] · [[Biochar Compost and Manure Blends]] · [[NRCS CPS 336 and US Ag]] · [[Product Standards EBC IBI]] · [[Policy Hub]] · [[Market Volumes and Pricing]] · [[Key Sources]]
+**Related vault notes:** [[USBI Guidance vs Vault Notes]] · [[Farm Biochar Application Guidelines|guides farm biochar application]] · [[Industry Hub]] · [[Application Rates and Methods]] · [[Biochar Inoculation for Fertilizer]] · [[Biochar Compost and Manure Blends]] · [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] · [[Product Standards EBC IBI]] · [[Policy Hub]] · [[Market Volumes and Pricing]] · [[Key Sources]]
 
 ---
 
@@ -78,7 +78,7 @@ Central index: [Document Library](https://biochar.org/document-library/) · “N
 | Resource | Role | PDF / page |
 |---|---|---|
 | **Biochar Guidelines for Agriculture Applications** (2026; Nebraska Forest Service partnership) | Field rates, charging/inoculation, timing, case studies | https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-for-Agriculture-Applications-2026.pdf · [doc page](https://biochar.org/document/biochar-guidelines-for-agriculture-applications/) |
-| Same lineage — **Aller et al. 2023** mirror | Vault’s long-cited charging source | https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf · [[USBI Ag Guidelines 2023]] |
+| Same lineage — **Aller et al. 2023** mirror | Vault’s long-cited charging source | https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf · [[Farm Biochar Application Guidelines|guides farm biochar application]] |
 | **Beyond Application** (2026) | Companion: fertilizer/liming potential, persistence, adoption barriers, case studies | https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Beyond-Application-2026.pdf · [doc page](https://biochar.org/document/beyond-application-learning-more-about-biochar/) |
 | **Biochar in Compost** (2026 Draft V1) | Co-compost loading guidance | https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Compost-2026-Draft-V1.pdf |
 | **Plant Survival Guide** (2026) | Case studies on survival / yields | https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Plant-Survival-2026.pdf |
@@ -89,14 +89,14 @@ Central index: [Document Library](https://biochar.org/document-library/) · “N
 | Resource | Role | URL |
 |---|---|---|
 | **NRCS Biochar Funding: Quick Guide for U.S. Producers** (ABI + American Farmland Trust) | EQIP/RCPP + CPS 336 how-to | https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Funding-2026-final.pdf · [doc page](https://biochar.org/document/nrcs-biochar-funding-quick-guide-for-u-s-producers/) |
-| Earlier Farmland Info quick guide | Same lineage used in [[NRCS CPS 336 and US Ag]] | https://farmlandinfo.org/wp-content/uploads/sites/2/2023/12/biochar_funding_for_US_producers_quick_guide_.pdf |
+| Earlier Farmland Info quick guide | Same lineage used in [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] | https://farmlandinfo.org/wp-content/uploads/sites/2/2023/12/biochar_funding_for_US_producers_quick_guide_.pdf |
 
 ### 4.3 Standards & market intelligence
 
 | Resource | Role | URL |
 |---|---|---|
-| **ANSI/ASABE/USBI S668 NOV2025ED** | Recommended biochar **testing methodologies** (proximate/ultimate, permanence, contaminants incl. PFAS, ag parameters) | https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf · [doc page](https://biochar.org/document/ansi-s668/) · [[ANSI ASABE USBI S668]] |
-| **2025 United States Biochar Market Report** | First U.S.-focused ABI industry benchmark (survey w/ IBI + State of CDR) | https://biochar.org/wp-content/uploads/2026/07/2025-United-States-Biochar-Market-Report.pdf · [doc page](https://biochar.org/document/2025-united-states-biochar-market-report/) · [[ABI 2025 US Biochar Market Report]] |
+| **ANSI/ASABE/USBI S668 NOV2025ED** | Recommended biochar **testing methodologies** (proximate/ultimate, permanence, contaminants incl. PFAS, ag parameters) | https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf · [doc page](https://biochar.org/document/ansi-s668/) · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]] |
+| **2025 United States Biochar Market Report** | First U.S.-focused ABI industry benchmark (survey w/ IBI + State of CDR) | https://biochar.org/wp-content/uploads/2026/07/2025-United-States-Biochar-Market-Report.pdf · [doc page](https://biochar.org/document/2025-united-states-biochar-market-report/) · [[US Biochar Market Report 2025|surveys the US biochar market]] |
 | **2023 Global Biochar Market Report** | IBI + USBI global survey | https://biochar.org/wp-content/uploads/2026/07/2023-United-States-Biochar-Market-Report.pdf |
 
 ### 4.4 Other end-use packs (library)
@@ -117,7 +117,7 @@ From https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-for-Agric
 - Containers / planting holes: **5–25% by volume**.
 - Economics: higher rates of “ideal” char often better agronomically but not cost-effective; points farmers to USDA / NRCS assistance.
 
-Cross-walk: [[Application Rates and Methods]] · [[NRCS CPS 336 and US Ag]] · [[USBI Guidance vs Vault Notes]].
+Cross-walk: [[Application Rates and Methods]] · [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] · [[USBI Guidance vs Vault Notes]].
 
 ### 5.2 Charging / inoculation (Ag Guidelines 2026)
 
@@ -129,7 +129,7 @@ Same PDF:
 - Time: **1–3 weeks** “has been recommended” (varies).
 - Links practice to **biochar-based fertilizers (BBFs)** via pre-/post-pyrolysis nutrient loading.
 
-Cross-walk: [[Biochar Inoculation for Fertilizer]] · [[USBI Ag Guidelines 2023]] · [[Biochar Nutrients and Fertilizer Chemistry]].
+Cross-walk: [[Biochar Inoculation for Fertilizer]] · [[Farm Biochar Application Guidelines|guides farm biochar application]] · [[Biochar Nutrients and Fertilizer Chemistry]].
 
 ### 5.3 Compost co-processing (Compost 2026 Draft V1)
 
@@ -139,7 +139,7 @@ From https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Compost-2
 - Sheet claims include ~**20%** faster composting (aeration / microbial activity), odor capture, and higher nutrient retention (N).
 - Caution: **>20% or 30%** by volume not recommended — can interfere with biodegradation.
 
-Cross-walk: [[Biochar Compost and Manure Blends]] · [[Earth Foundries Co-Composting Report 2023]].
+Cross-walk: [[Biochar Compost and Manure Blends]] · [[Napa Co-composting CASP Report|reports Napa CASP co-composting]].
 
 ### 5.4 Lab interpretation & standards pointers
 
@@ -160,7 +160,7 @@ From https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Funding-2
 - Example scenario language includes **60% biochar / 40% compost or manure** blends and ~**$160** payment construction (FY2023 scenario framing in guide — state rates vary).
 - Points to Web Soil Survey “Dynamic Soil Properties Response to Biochar” and **PNW Biochar Atlas** (http://www.pnwbiochar.org/).
 
-Cross-walk: [[NRCS CPS 336 and US Ag]] · [[NRCS CPS 336 FAQ 2026]] · [[NRCS CPS 336 Standard 2022]].
+Cross-walk: [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] · [[Soil Carbon Amendment FAQ|answers CPS 336 planning questions]] · [[Soil Carbon Amendment Standard|defines NRCS practice 336]].
 
 ---
 
@@ -172,7 +172,7 @@ Cross-walk: [[NRCS CPS 336 and US Ag]] · [[NRCS CPS 336 FAQ 2026]] · [[NRCS CP
 | Practitioner awareness | Lab-report + Beyond Application point to Learning Center / credit existence | Thin vs [[Puro.earth Overview]] · [[Verra VM0044]] · [[Isometric Biochar Protocol]] · [[CSI Global Biochar C-Sink]] |
 | MRV / methodology rules | Not ABI’s core product | Vault methodologies cluster |
 
-**2025 U.S. report headline figures** (survey-based; see [[ABI 2025 US Biochar Market Report]]):
+**2025 U.S. report headline figures** (survey-based; see [[US Biochar Market Report 2025|surveys the US biochar market]]):
 
 - Production **86,893 mt (2023)** → **151,329 mt (2025)** (**32% CAGR**); producer projections **>819,000 mt/yr by 2027** — https://biochar.org/wp-content/uploads/2026/07/2025-United-States-Biochar-Market-Report.pdf
 - Economic value **$53.6M (2023)** → **~$157M (2025)** (**71% CAGR**) — same PDF
@@ -191,9 +191,9 @@ ABI About emphasizes free / independent science-based resources rather than a du
 ## 8. How to cite in this vault
 
 - Org / programs → this note + https://biochar.org/about-abi/
-- Charging & field rates → [[USBI Ag Guidelines 2023]] and/or 2026 Ag Guidelines PDF above
+- Charging & field rates → [[Farm Biochar Application Guidelines|guides farm biochar application]] and/or 2026 Ag Guidelines PDF above
 - Comparison to prior vault science/policy → [[USBI Guidance vs Vault Notes]]
-- Testing standard → [[ANSI ASABE USBI S668]]
-- U.S. industry survey numbers → [[ABI 2025 US Biochar Market Report]]
+- Testing standard → [[Biochar Lab Measurement Standard|standardizes biochar lab testing]]
+- U.S. industry survey numbers → [[US Biochar Market Report 2025|surveys the US biochar market]]
 
 Research dump (box): `/workspace/biochar-research/usbi.md`

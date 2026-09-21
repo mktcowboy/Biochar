@@ -14,9 +14,9 @@ Report context: **2026-09-16**.
 
 ## 1. Timing (NRCS + USBI)
 
-NRCS FAQ: apply when ground is **not frozen**; common timing is **early spring** or **post-harvest with cover crop** so char equilibrates and erosion/nutrient loss is reduced; combining with other organic amendments or planned tillage improves efficiency ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[NRCS CPS 336 FAQ 2026]]).
+NRCS FAQ: apply when ground is **not frozen**; common timing is **early spring** or **post-harvest with cover crop** so char equilibrates and erosion/nutrient loss is reduced; combining with other organic amendments or planned tillage improves efficiency ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[Soil Carbon Amendment FAQ|answers CPS 336 planning questions]]).
 
-USBI: right timing as part of 4R-style framing; allow equilibration in soil; charge **1–3 weeks** before use when inoculating ([Ag Guidelines](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf) · [[USBI Ag Guidelines 2023]]; ABI 2026 https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-for-Agriculture-Applications-2026.pdf).
+USBI: right timing as part of 4R-style framing; allow equilibration in soil; charge **1–3 weeks** before use when inoculating ([Ag Guidelines](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf) · [[Farm Biochar Application Guidelines|guides farm biochar application]]; ABI 2026 https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-for-Agriculture-Applications-2026.pdf).
 
 Exomad/CIAT trial: apply **30 days pre-plant** at **4 t ha⁻¹** ([PDF](https://www.exomadgreen.com/_files/ugd/8b0a69_153ad8a2b8244bfc8a136176be56a408.pdf) · [[Exomad Green Corn and Bean Field Study]]).
 
@@ -60,7 +60,7 @@ NRCS tools landing: https://www.nrcs.usda.gov/conservation-basics/natural-resour
 
 ## 4. Contracting calendar (US)
 
-CPS 336 lifespan **1 year**; up to **5** contracts over a contract life; ranking improves when stacked with cover crops, no-till, rotations ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)). Funding quick guides: https://farmlandinfo.org/wp-content/uploads/sites/2/2023/12/biochar_funding_for_US_producers_quick_guide_.pdf · ABI 2026 funding PDF https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Funding-2026-final.pdf · [[NRCS CPS 336 and US Ag]].
+CPS 336 lifespan **1 year**; up to **5** contracts over a contract life; ranking improves when stacked with cover crops, no-till, rotations ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)). Funding quick guides: https://farmlandinfo.org/wp-content/uploads/sites/2/2023/12/biochar_funding_for_US_producers_quick_guide_.pdf · ABI 2026 funding PDF https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Funding-2026-final.pdf · [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]].
 
 ---
 

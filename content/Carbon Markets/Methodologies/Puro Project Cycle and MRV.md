@@ -133,7 +133,7 @@ Permanence equations and worked PF examples: [[Puro Biochar Methodology Edition 
 - Intermediary agreements preventing diversion / double claiming ([[Double Counting and Credit Ownership]])
 - Retail **R3**: last-intermediary contracts + country-level **RDF** + product particle size/moisture + labelling
 
-US ag practice context (not a credit methodology): [[NRCS CPS 336 and US Ag]]
+US ag practice context (not a credit methodology): [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]]
 
 ---
 
@@ -263,4 +263,4 @@ Also: [[Key Sources]]
 
 ## See also
 
-[[Puro CORC200+]] · [[Puro.earth Overview]] · [[Puro Biochar Methodology Edition 2025]] · [[Puro Pricing and CORC Indexes]] · [[Puro vs Other Standards]] · [[MRV Stack]] · [[Double Counting and Credit Ownership]] · [[NRCS CPS 336 and US Ag]] · [[Biochar as Durable CDR]] · [[Permanence Science for Credits]] · [[Permanence]] · [[Production]] · [[Properties]] · [[Contaminants and Quality]] · [[Buyers and Offtakes]] · [[Market Volumes and Pricing]] · [[Risks and Controversies]] · [[Verra VM0044]] · [[Isometric Biochar Protocol]] · [[CSI Global Biochar C-Sink]] · [[Carbon Markets Hub]] · [[Key Sources]]
+[[Puro CORC200+]] · [[Puro.earth Overview]] · [[Puro Biochar Methodology Edition 2025]] · [[Puro Pricing and CORC Indexes]] · [[Puro vs Other Standards]] · [[MRV Stack]] · [[Double Counting and Credit Ownership]] · [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] · [[Biochar as Durable CDR]] · [[Permanence Science for Credits]] · [[Permanence]] · [[Production]] · [[Properties]] · [[Contaminants and Quality]] · [[Buyers and Offtakes]] · [[Market Volumes and Pricing]] · [[Risks and Controversies]] · [[Verra VM0044]] · [[Isometric Biochar Protocol]] · [[CSI Global Biochar C-Sink]] · [[Carbon Markets Hub]] · [[Key Sources]]

@@ -16,7 +16,7 @@ Report context: **2026-09-16**. **Out of scope here:** CSI deep rewrite (other s
 
 | Stream | What it pays for | Biochar–compost relevance | Primary URL |
 |---|---|---|---|
-| **NRCS CPS 336** (EQIP/CSP etc.) | Practice cost-share for soil carbon amendment | Blend **scenarios** (biochar ± compost quantities); inoculate language; **not** a carbon credit | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf · [[NRCS CPS 336 FAQ 2026]] |
+| **NRCS CPS 336** (EQIP/CSP etc.) | Practice cost-share for soil carbon amendment | Blend **scenarios** (biochar ± compost quantities); inoculate language; **not** a carbon credit | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf · [[Soil Carbon Amendment FAQ|answers CPS 336 planning questions]] |
 | **Voluntary CDR** (Puro / Verra / Isometric / …) | Eligible durable biochar C after eligible end-use | Soil amendment **pure or mixed** often eligible; quantification follows methodology persistence rules on **biochar C**, not compost C | Registry/methodology links below |
 
 A text search framing in vault notes: CPS 336 FAQ does **not** discuss carbon credits as part of the practice ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)). Stacking requires explicit **ownership / no-double-claim** language ([[Double Counting and Credit Ownership]]).

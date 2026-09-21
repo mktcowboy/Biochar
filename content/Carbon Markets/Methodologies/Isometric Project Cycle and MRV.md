@@ -163,7 +163,7 @@ Confirm live project pages for actual buffer pool contributions (e.g., Charm reg
 6. Allocate credit ownership contractually across feedstock, pyrolyzer, applicator  
 7. Budget VVB site visits to both plant and fields/landfill  
 
-Ag adjacency: [[Soil and Agriculture]] · [[Application Rates and Methods]] · [[NRCS CPS 336 and US Ag]] (policy, not Isometric MRV).
+Ag adjacency: [[Soil and Agriculture]] · [[Application Rates and Methods]] · [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] (policy, not Isometric MRV).
 
 ---
 

@@ -21,7 +21,7 @@ Report context: **2026-09-16**. This note does **not** invent $/ac fertilizer sa
 | Nutrient **carrier** replacing some soluble fertilizer mass | BBF / urine-char / co-compost products | Still a nutrient input—track total NPK |
 | Reduced **losses** (leaching, NH₃) improving effective fertilizer | Process and soil studies | May not show on fertilizer invoice |
 
-Oasis Vineyard explicitly held irrigation and fertilizer **constant** across treatments—so its revenue gains are **not** fertilizer-displacement dollars ([Oasis PDF](https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf) · [[Oasis Vineyard Trial 2023]]).
+Oasis Vineyard explicitly held irrigation and fertilizer **constant** across treatments—so its revenue gains are **not** fertilizer-displacement dollars ([Oasis PDF](https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf) · [[Oasis Vineyard Biochar Trial|vineyard biochar field trial]]).
 
 ---
 

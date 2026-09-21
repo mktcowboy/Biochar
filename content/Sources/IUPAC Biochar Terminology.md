@@ -33,6 +33,6 @@ verified: 2026-09-14
 ## Use with care
 
 - The *biochar* entry (350–1000 °C) and the *pyrolysis* entry (350–800 °C) give different upper temperatures. Quote the biochar entry when defining biochar.
-- These are research definitions. Product and practice limits come from EBC/IBI and NRCS: [[Product Standards EBC IBI]], [[NRCS CPS 336 Standard 2022]].
+- These are research definitions. Product and practice limits come from EBC/IBI and NRCS: [[Product Standards EBC IBI]], [[Soil Carbon Amendment Standard|defines NRCS practice 336]].
 
 Related: [[Overview and Definition]] · [[Properties]] · [[Key Sources]]

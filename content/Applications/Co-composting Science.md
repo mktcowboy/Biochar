@@ -33,7 +33,7 @@ Antonangelo et al. (2021) define COMBI as biochar added at the **beginning** of 
 
 ### 2.2 Before vs after composting
 
-Vandecasteele et al. (2016) compare biochar added **before** vs **after** composting and document process and product differences that motivate treating co-composting as a distinct pathway ([DOI](https://doi.org/10.1016/j.jenvman.2015.11.045)). Pacific Biochar’s practitioner synthesis likewise prefers **early** addition of wood biochar at roughly **5–10% by weight** ([white paper PDF](https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf) · [[Pacific Biochar Compost White Paper 2023]]).
+Vandecasteele et al. (2016) compare biochar added **before** vs **after** composting and document process and product differences that motivate treating co-composting as a distinct pathway ([DOI](https://doi.org/10.1016/j.jenvman.2015.11.045)). Pacific Biochar’s practitioner synthesis likewise prefers **early** addition of wood biochar at roughly **5–10% by weight** ([white paper PDF](https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf) · [[Biochar Compost White Paper|explains biochar plus compost practice]]).
 
 ### 2.3 Coating chemistry (permanence-relevant)
 
@@ -48,9 +48,9 @@ Hagemann et al. (2017) *Nature Communications*: an **organic coating**—not bul
 | NO₃⁻-N in co-composted particles | ~**2.1 g kg⁻¹** (standard extraction) to ~**5.2 g kg⁻¹** (sequential washing) in cited Kammann/Hagemann experiments | https://doi.org/10.1038/srep11080 · https://doi.org/10.1371/journal.pone.0171214 |
 | Plant availability | Captured nitrate partly plant-available; largely protected from leaching in those experiments; did not stimulate N₂O in the reported setups | https://doi.org/10.1371/journal.pone.0171214 |
 | N loss during poultry-litter composting | NH₃ emission concentrations down up to **64%**; total N losses down up to **52%** at **20%** pine-chip biochar vs 0% | https://doi.org/10.2134/jeq2009.0337 |
-| Practitioner synthesis (N losses) | Cited studies >**50%** lower N losses with shift toward nitrate | https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf · [[Pacific Biochar Compost White Paper 2023]] |
+| Practitioner synthesis (N losses) | Cited studies >**50%** lower N losses with shift toward nitrate | https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf · [[Biochar Compost White Paper|explains biochar plus compost practice]] |
 
-Full N chemistry spine: [[Biochar Nutrients and Fertilizer Chemistry]]. Immobilization risk of **raw** wood char: [[Biochar Inoculation for Fertilizer]] · NRCS FAQ ([PDF](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[NRCS CPS 336 FAQ 2026]]).
+Full N chemistry spine: [[Biochar Nutrients and Fertilizer Chemistry]]. Immobilization risk of **raw** wood char: [[Biochar Inoculation for Fertilizer]] · NRCS FAQ ([PDF](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[Soil Carbon Amendment FAQ|answers CPS 336 planning questions]]).
 
 ---
 
@@ -65,7 +65,7 @@ These are **composting-process** emissions—not the same as soil N₂O/CH₄ af
 | Li et al. 2025 meta (123 studies) | CH₄ / N₂O / NH₃ / CO₂ | Mean **CH₄ −53.7%**, **N₂O −49.8%**, **NH₃ −35.9%**; CO₂ **not significant**; dose key; recommend **10–20%** w/w dry under stated compost parameters | https://doi.org/10.48130/nc-0025-0003 |
 | Maturation meta 2025 | CH₄ / N₂O / NH₃ + maturity | CH₄ **−51.31%**, N₂O **−43.49%**, NH₃ **−47.59%**; GI **+25.57%**; NO₃⁻-N **+32.54%**; NH₄⁺-N **−34.96%**; C/N **−5.44%** | https://doi.org/10.48130/bchax-0025-0005 |
 | Pacific white paper (cited studies) | CH₄ / N₂O / NH₃ | Some studies CH₄ **>80%** ↓, N₂O **>50%** ↓, NH₃ up to **60%** ↓ — best cases, not averages | https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf |
-| Earth Foundries × Napa Recycling 2023 | Non-methane VOC | **−33%** at **10% by volume** biochar in green/food CASP composting; curing maturity ~1 week sooner; NPK **+11%**; Ca/Mg salts more than halved | https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf · [[Earth Foundries Co-Composting Report 2023]] |
+| Earth Foundries × Napa Recycling 2023 | Non-methane VOC | **−33%** at **10% by volume** biochar in green/food CASP composting; curing maturity ~1 week sooner; NPK **+11%**; Ca/Mg salts more than halved | https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf · [[Napa Co-composting CASP Report|reports Napa CASP co-composting]] |
 
 Yin et al. (2021) note crop-residue and woody biochars tend to mitigate CH₄/N₂O/NH₃ more strongly; high pyrolysis temperature (**500–900 °C**) favors CH₄/N₂O mitigation while low-T (**200–500 °C**) favors NH₃ mitigation; granular vs powdered forms trade off CH₄ vs NH₃ ([DOI](https://doi.org/10.1016/j.scitotenv.2021.149294)).
 
@@ -99,7 +99,7 @@ Pathogens, salts, immature compost: [[Compost Blend Safety]].
 
 ## 7. Agronomic implications (pointer)
 
-COMBI products often outperform raw char and sometimes outperform post-blends for plant growth in controlled and field contexts ([[COMBI Soil Quality Review|reviews co-composted biochar soil effects]]; Oasis compost+biochar five-harvest mean **+36%** vs control — [Oasis PDF](https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf) · [[Oasis Vineyard Trial 2023]]). Field rates and economics: [[Field Rates by System]], [[Agronomic Economics]], [[Crop Yield Effects]].
+COMBI products often outperform raw char and sometimes outperform post-blends for plant growth in controlled and field contexts ([[COMBI Soil Quality Review|reviews co-composted biochar soil effects]]; Oasis compost+biochar five-harvest mean **+36%** vs control — [Oasis PDF](https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf) · [[Oasis Vineyard Biochar Trial|vineyard biochar field trial]]). Field rates and economics: [[Field Rates by System]], [[Agronomic Economics]], [[Crop Yield Effects]].
 
 ---
 
@@ -114,8 +114,8 @@ COMBI products often outperform raw char and sometimes outperform post-blends fo
 | Organic coating / aromatic stability preserved | **High** | Nature Communications full paper ([DOI](https://doi.org/10.1038/s41467-017-01123-0)) |
 | COMBI “often beats post-blend” | **Medium** | Narrative review ([[COMBI Soil Quality Review|reviews co-composted biochar soil effects]]); limited primary trials |
 | Composting-gas meta means (CH₄/N₂O/NH₃) | **Medium–high** | Large metas ([DOI](https://doi.org/10.48130/nc-0025-0003); [DOI](https://doi.org/10.48130/bchax-0025-0005)) but composting ≠ soil |
-| Earth Foundries VOC −33% | **Demonstration** | One pile, one cycle ([[Earth Foundries Co-Composting Report 2023]]) |
-| Pacific white paper best-case % cuts | **Practitioner synthesis** | Cite primary papers for diligence ([[Pacific Biochar Compost White Paper 2023]]) |
+| Earth Foundries VOC −33% | **Demonstration** | One pile, one cycle ([[Napa Co-composting CASP Report|reports Napa CASP co-composting]]) |
+| Pacific white paper best-case % cuts | **Practitioner synthesis** | Cite primary papers for diligence ([[Biochar Compost White Paper|explains biochar plus compost practice]]) |
 | Antonangelo 10–15% / 400–700 °C bands | **Needs full-text** | Source note flags abstract-only for those rows | [[COMBI Soil Quality Review|reviews co-composted biochar soil effects]] |
 
 ---

@@ -17,9 +17,9 @@ Hub on **product quality standards** for biochar — material definition, contam
 | Layer | Examples in vault | What it does |
 |---|---|---|
 | **Product standards** | EBC / WBC / IBI (this note) | Material definition, H/C_org & contaminant limits, use classes, sustainable production rules |
-| **Test methods (U.S.)** | [[ANSI ASABE USBI S668]] — [PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) | Recommended laboratory/measurement methods (not eligibility thresholds by themselves) |
+| **Test methods (U.S.)** | [[Biochar Lab Measurement Standard|standardizes biochar lab testing]] — [PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) | Recommended laboratory/measurement methods (not eligibility thresholds by themselves) |
 | **Carbon methodologies** | [[Verra VM0044]], [[Puro Biochar Methodology Edition 2025]], [[Isometric Biochar Protocol]], [[CSI Global Biochar C-Sink]] | Project eligibility, baselines, MRV, issuance / C-sink registration |
-| **Practice standards** | [[NRCS CPS 336 and US Ag]] | Farm conservation practice, not tradable credits |
+| **Practice standards** | [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] | Farm conservation practice, not tradable credits |
 
 ---
 
@@ -59,7 +59,7 @@ Guidelines index on the legacy EBC site points to CSI-hosted docs: [EBC/WBC guid
 | URL | https://biochar-international.org/ |
 | Lab practice | ABI *Interpreting Lab Reports* points to IBI v2.1 — [PDF](https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Lab-Report-2026.pdf) · [[US Biochar Initiative]] |
 
-IBI is **not** a CSI prerequisite. US producers often combine IBI-style lab packages with ANSI/ASABE/USBI S668 methods ([[ANSI ASABE USBI S668]]) even when targeting Puro/Verra/Isometric rather than EBC.
+IBI is **not** a CSI prerequisite. US producers often combine IBI-style lab packages with ANSI/ASABE/USBI S668 methods ([[Biochar Lab Measurement Standard|standardizes biochar lab testing]]) even when targeting Puro/Verra/Isometric rather than EBC.
 
 ---
 
@@ -102,7 +102,7 @@ Chooser context: [[Puro vs Other Standards]] · [[Verra vs Isometric vs Puro]].
 - [EBC service page](https://www.carbon-standards.com/en/standards/service-492~production-of-biochar.html)
 - [WBC service page](https://www.carbon-standards.com/en/standards/service-514~production-of-biochar.html)
 - [IBI Biochar Standards](https://biochar-international.org/)
-- [ANSI/ASABE/USBI S668 PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[ANSI ASABE USBI S668]]
+- [ANSI/ASABE/USBI S668 PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]]
 - [ABI Interpreting Lab Reports](https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Lab-Report-2026.pdf)
 - [Bilias et al. 2024 IUPAC glossary](https://doi.org/10.1515/pac-2021-0106) · [[IUPAC Biochar Terminology|IUPAC biochar terminology]]
 - [CSI Global Biochar C-Sink 3.3](https://www.carbon-standards.com/docs/transfer/4000039EN.pdf)

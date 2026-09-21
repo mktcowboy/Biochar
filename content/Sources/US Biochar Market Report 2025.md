@@ -1,6 +1,6 @@
 ---
 tags: [source, industry, market, report]
-aliases: ["2025 US Biochar Market Report", "ABI market report 2025", "USBI 2025 market report"]
+aliases: ["ABI market report 2025", "USBI 2025 market report", "2025 US Biochar Market Report", "ABI 2025 US Biochar Market Report"]
 source_type: report
 peer_reviewed: false
 authors: ["American Biochar Institute"]
@@ -12,7 +12,7 @@ checked_against: full text
 verified: 2026-09-16
 ---
 
-# ABI 2025 US Biochar Market Report
+# US Biochar Market Report 2025
 
 **Citation:** American Biochar Institute (2025). *2025 United States Biochar Market Report*. https://biochar.org/wp-content/uploads/2026/07/2025-United-States-Biochar-Market-Report.pdf · landing page: https://biochar.org/document/2025-united-states-biochar-market-report/
 

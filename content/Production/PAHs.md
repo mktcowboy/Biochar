@@ -61,7 +61,7 @@ Hilber and co-workers (cited extensively in EBC) show soil-applied low-PAH bioch
 ## 5. Testing notes
 
 - Standard soil PAH methods often **under-extract** biochar—use EBC-endorsed methods/labs ([EBC §7.11](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)).
-- North American method pointers: [[ANSI ASABE USBI S668]] §12.1.1 · [PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) (EPA extraction/analysis pathways).
+- North American method pointers: [[Biochar Lab Measurement Standard|standardizes biochar lab testing]] §12.1.1 · [PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) (EPA extraction/analysis pathways).
 - IBI standards similarly require PAH declaration/limits by grade—see [IBI standards portal](https://biochar-international.org/biochar-standards/) · [[Product Standards EBC IBI]].
 
 ---
@@ -78,7 +78,7 @@ Hilber and co-workers (cited extensively in EBC) show soil-applied low-PAH bioch
 
 - [EBC 10.5E PDF](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)
 - [Cornelissen et al. 2016](https://doi.org/10.1371/journal.pone.0154617)
-- [ANSI S668 PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[ANSI ASABE USBI S668]]
+- [ANSI S668 PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]]
 - [IBI standards](https://biochar-international.org/biochar-standards/)
 - EU fertiliser regulation context via EBC citations: [EU 2019/1009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1009)
 

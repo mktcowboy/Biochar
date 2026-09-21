@@ -162,7 +162,7 @@ Projects / market: [[Verra Biochar Projects and Market]].
 7. Design application CoC (farm GIS / mixing / concrete batch tickets)  
 8. If CCP matters to buyer: bake checklist into verification SOW  
 
-Prairie / NRCS adjacency is **policy**, not VCS MRV: [[NRCS CPS 336 and US Ag]] · [[Policy Hub]].
+Prairie / NRCS adjacency is **policy**, not VCS MRV: [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] · [[Policy Hub]].
 
 ---
 

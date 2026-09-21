@@ -8,7 +8,7 @@ updated: 2026-09-16
 
 Chapter on **molar hydrogen-to-organic-carbon** and **oxygen-to-organic-carbon** ratios as the primary chemical proxies for biochar aromatic condensation and soil persistence. Companion to [[Permanence]] · [[Woolf IPCC Fperm]] · [[Properties]]. Report context: **2026-09-16**.
 
-**Related notes:** [[Reflectance Ro and HyPy]] · [[Biochar Quality from Process]] · [[Product Standards EBC IBI]] · [[Testing EBC IBI S668]] · [[Permanence Science for Credits]] · [[ANSI ASABE USBI S668]] · [[Science Hub]] · [[Key Sources]]
+**Related notes:** [[Reflectance Ro and HyPy]] · [[Biochar Quality from Process]] · [[Product Standards EBC IBI]] · [[Testing EBC IBI S668]] · [[Permanence Science for Credits]] · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]] · [[Science Hub]] · [[Key Sources]]
 
 ---
 
@@ -24,7 +24,7 @@ IUPAC’s biochar glossary frames biochar as a pyrolysis solid with molar **H/C_
 
 | Symbol | Meaning | Notes |
 |---|---|---|
-| **C_org** | Organic carbon mass fraction (dry basis) | Total C minus inorganic C (carbonates); see [[ANSI ASABE USBI S668]] §9 · [PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) |
+| **C_org** | Organic carbon mass fraction (dry basis) | Total C minus inorganic C (carbonates); see [[Biochar Lab Measurement Standard|standardizes biochar lab testing]] §9 · [PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) |
 | **H/C_org** (also H:C_org) | Moles H / moles C_org | Preferred condensation proxy in Woolf inventory model ([DOI](https://doi.org/10.1021/acs.est.1c02425)) |
 | **O/C_org** (also O:C_org) | Moles O / moles C_org | Classic Spokas predictor ([DOI](https://doi.org/10.4155/cmt.10.32)); O often calculated by difference |
 
@@ -83,7 +83,7 @@ Woolf argues **H/C_org is preferred over O/C_org** for high-ash materials becaus
 | **EBC-FeedPlus** | < **0.4** (proxy for ≥500 °C / ≥10 min) | — | Same PDF §10.4 |
 | **EBC manure chars** | < **0.4** required | — | Same PDF §4.8 |
 | **IBI Biochar Standards** | ≤ **0.7** classically required for “biochar” | often ≤ **0.4** | [IBI standards](https://biochar-international.org/biochar-standards/) · [[Product Standards EBC IBI]] |
-| **NRCS CPS 336** | H:C_org **max 0.7** (practice eligibility) | — | [[NRCS CPS 336 Standard 2022]] · [PDF](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf) |
+| **NRCS CPS 336** | H:C_org **max 0.7** (practice eligibility) | — | [[Soil Carbon Amendment Standard|defines NRCS practice 336]] · [PDF](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf) |
 
 Credit programs map these ratios into **different** permanence tables and horizons—do not copy thresholds here; see [[Permanence Science for Credits]].
 
@@ -121,7 +121,7 @@ Credit programs map these ratios into **different** permanence tables and horizo
 - [Bilias et al. 2024](https://doi.org/10.1515/pac-2021-0106) · [[IUPAC Biochar Terminology|IUPAC biochar terminology]]
 - [EBC 10.5E PDF](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)
 - [IBI Biochar Standards](https://biochar-international.org/biochar-standards/)
-- [ANSI S668 PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[ANSI ASABE USBI S668]]
+- [ANSI S668 PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]]
 - [Lehmann et al. 2021](https://doi.org/10.1038/s41561-021-00852-8) · [[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]]
 
 ## Related notes

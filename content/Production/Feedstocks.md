@@ -8,7 +8,7 @@ updated: 2026-09-16
 
 Hub for **biomass inputs** to biochar: taxonomy, property consequences, logistics, and sustainability screens. Deep contrast chapter: [[Woody vs Manure Ag Feedstocks]]. Process coupling: [[Production]] · [[Biochar Quality from Process]] · [[Gasification Residues]]. Report context: **2026-09-16**.
 
-**Related notes:** [[Contaminants and Quality]] · [[MRV Stack]] · [[Product Standards EBC IBI]] · [[NRCS CPS 336 and US Ag]] · [[Production Hub]] · [[Key Sources]]
+**Related notes:** [[Contaminants and Quality]] · [[MRV Stack]] · [[Product Standards EBC IBI]] · [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] · [[Production Hub]] · [[Key Sources]]
 
 ---
 
@@ -70,7 +70,7 @@ Registry feedstock rules: point to [[Puro Biochar Methodology Edition 2025]], [[
 - **Moisture:** drying is often the largest energy sink before pyrolysis; EBC energy-efficiency calculus includes drying energy ([EBC §8.5](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)).
 - **Particle size:** chipping/grinding for reactor feed; FeedPlus may recommend grinding char <3 mm to reduce stone/glass injury risk ([EBC §10.3](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)).
 - **Seasonality & density:** herbaceous residues bulky/seasonal; woody more storable if dry.
-- **US farm context:** [[NRCS CPS 336 and US Ag]] · [[USBI Ag Guidelines 2023]].
+- **US farm context:** [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] · [[Farm Biochar Application Guidelines|guides farm biochar application]].
 
 ---
 
@@ -86,7 +86,7 @@ Registry feedstock rules: point to [[Puro Biochar Methodology Edition 2025]], [[
 
 - [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]]
 - [Lehmann et al. 2021](https://doi.org/10.1038/s41561-021-00852-8) · [[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]]
-- [IPCC 2019 App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC 2019 Biochar Appendix]]
+- [IPCC 2019 App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC Biochar Soil Carbon Method|estimates soil C stock change from biochar]]
 - [EBC 10.5E](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)
 - [Phyllis2](https://phyllis.nl/)
 

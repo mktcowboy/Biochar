@@ -8,7 +8,7 @@ updated: 2026-09-16
 
 **Parent hub:** [[Verra VM0044]]  
 **Eligibility rules:** [[Verra VM0044 Methodology and Eligibility]]  
-**Science context:** [[Permanence Science for Credits]] · [[Permanence]] · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] · [[IPCC 2019 Biochar Appendix]]  
+**Science context:** [[Permanence Science for Credits]] · [[Permanence]] · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] · [[IPCC Biochar Soil Carbon Method|estimates soil C stock change from biochar]]  
 **Compare:** [[Isometric Permanence Pathways 200y and 1000y]] · [[Puro CORC200+]] · [[Verra vs Isometric vs Puro]]
 
 This chapter covers **how much carbon is credited** and over what horizon under VM0044. Numbers below are taken from the public [VM0044 v1.1 PDF](https://verra.org/wp-content/uploads/2023/07/VM0044-Methodology-for-Biochar-Utilization-in-Soil-and-Non-Soil-Applications-v1.1.pdf) unless labeled otherwise. Active program version is **v1.2** ([methodology page](https://verra.org/methodologies/vm0044-biochar-utilization-in-soil-and-non-soil-applications-v1-2/)) — confirm Table 3 / equations unchanged in the live v1.2 PDF before locking a project model.
@@ -150,7 +150,7 @@ Then subtract project emissions, leakage, and apply any VCS buffer rules. **Do n
 
 ## Science anchors
 
-- [[IPCC 2019 Biochar Appendix]] — temperature-class \(F_{perm}\) inventory guidance  
+- [[IPCC Biochar Soil Carbon Method|estimates soil C stock change from biochar]] — temperature-class \(F_{perm}\) inventory guidance  
 - [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] — [DOI](https://doi.org/10.1021/acs.est.1c02425)  
 - [[Inertinite Permanence Benchmark|inertinite permanence benchmark]] — [DOI](https://doi.org/10.1016/j.coal.2023.104409) (used by Isometric/CSI, **not** VM0044 Table 3)  
 - [[Permanence Science for Credits]] · [[Permanence]] · [[Consensus vs Debates]]

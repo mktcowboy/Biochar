@@ -1,6 +1,6 @@
 ---
 tags: [source, policy]
-aliases: ["CPS 336 2022", "NRCS CPS 336 national standard", "Conservation Practice Standard 336"]
+aliases: ["NRCS CPS 336", "CPS 336 2022", "Conservation Practice Standard 336", "NRCS CPS 336 national standard"]
 source_type: standard
 peer_reviewed: false
 authors: ["USDA Natural Resources Conservation Service"]
@@ -12,11 +12,11 @@ checked_against: full text
 verified: 2026-09-14
 ---
 
-# NRCS CPS 336 Standard 2022
+# Soil Carbon Amendment Standard
 
 **Citation:** USDA Natural Resources Conservation Service (2022). *Conservation Practice Standard: Soil Carbon Amendment, Code 336*. November 2022. https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf · mirror: [NRCS Azure copy](https://nrcs-prod.azureedge.us/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf)
 
-**What it is:** The national practice standard behind US cost-share payments for biochar and compost. It sets the product requirements; planning details are in [[NRCS CPS 336 FAQ 2026]].
+**What it is:** The national practice standard behind US cost-share payments for biochar and compost. It sets the product requirements; planning details are in [[Soil Carbon Amendment FAQ|answers CPS 336 planning questions]].
 
 ## Key figures
 
@@ -36,7 +36,7 @@ verified: 2026-09-14
 ## Use with care
 
 - Standards are revised periodically. Check the NRCS Field Office Technical Guide for the current version before quoting thresholds.
-- In the 2022 text, a search for biosolids only turned up a pointer to Nutrient Management (590). The exclusion of biosolids-derived biochar and compost is stated in [[NRCS CPS 336 FAQ 2026]].
+- In the 2022 text, a search for biosolids only turned up a pointer to Nutrient Management (590). The exclusion of biosolids-derived biochar and compost is stated in [[Soil Carbon Amendment FAQ|answers CPS 336 planning questions]].
 - The nrcs.usda.gov link failed to download during this check; the Azure mirror above served the same document.
 
-Related: [[NRCS CPS 336 and US Ag]] · [[Product Standards EBC IBI]] · [[Key Sources]]
+Related: [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] · [[Product Standards EBC IBI]] · [[Key Sources]]

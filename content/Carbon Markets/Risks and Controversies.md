@@ -13,7 +13,7 @@ Decomposition-model camp (IPCC, [[Biochar Soil GHG Inventory Model|models soil G
 
 - Market leakage if biomass is diverted from higher-carbon uses (timber, mulch, animal feed)
 - Harvesting that depletes ecosystem carbon stocks (non–waste biomass) undermines net removal
-- Residue removal can harm soil protection (also flagged in [[NRCS CPS 336 and US Ag]])
+- Residue removal can harm soil protection (also flagged in [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]])
 
 ## Contamination & agronomic harm
 

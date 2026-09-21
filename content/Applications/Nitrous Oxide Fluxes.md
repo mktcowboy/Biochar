@@ -33,7 +33,7 @@ Cayuela et al. (2013) *Scientific Reports* examine biochar’s role in soil deni
 
 ### 2.2 H:C_org as a product moderator
 
-Cayuela et al. (2015): **molar H:C_org** is a key factor—more aromatic / lower H:C_org chars tend to mitigate N₂O more strongly ([DOI](https://doi.org/10.1016/j.agee.2014.12.015)). This is one scientific reason NRCS and EBC/IBI stress **H:C_org < 0.7** ([[NRCS CPS 336 and US Ag]], [[Product Standards EBC IBI]], [[Properties]]).
+Cayuela et al. (2015): **molar H:C_org** is a key factor—more aromatic / lower H:C_org chars tend to mitigate N₂O more strongly ([DOI](https://doi.org/10.1016/j.agee.2014.12.015)). This is one scientific reason NRCS and EBC/IBI stress **H:C_org < 0.7** ([[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]], [[Product Standards EBC IBI]], [[Properties]]).
 
 ### 2.3 Rate, texture, N form
 

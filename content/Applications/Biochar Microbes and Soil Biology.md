@@ -10,7 +10,7 @@ Chapter-length note on **biochar as microbial habitat, carrier, and community fi
 
 Protocol depth for charging lives in [[Biochar Inoculation for Fertilizer]]; nutrient chemistry in [[Biochar Nutrients and Fertilizer Chemistry]]. This chapter is the **biology spine**.
 
-**Related notes:** [[Biochar Inoculation for Fertilizer]] · [[Biochar Nutrients and Fertilizer Chemistry]] · [[Biochar Compost and Manure Blends]] · [[Soil and Agriculture]] · [[GHG Fluxes]] · [[Crop Yield Effects]] · [[Application Rates and Methods]] · [[Properties]] · [[Contaminants and Quality]] · [[NRCS CPS 336 and US Ag]] · [[Applications Hub]] · [[Key Sources]]
+**Related notes:** [[Biochar Inoculation for Fertilizer]] · [[Biochar Nutrients and Fertilizer Chemistry]] · [[Biochar Compost and Manure Blends]] · [[Soil and Agriculture]] · [[GHG Fluxes]] · [[Crop Yield Effects]] · [[Application Rates and Methods]] · [[Properties]] · [[Contaminants and Quality]] · [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] · [[Applications Hub]] · [[Key Sources]]
 
 ---
 
@@ -18,7 +18,7 @@ Protocol depth for charging lives in [[Biochar Inoculation for Fertilizer]]; nut
 
 Practitioners often call biochar a “microbial hotel.” That metaphor is **partly true and partly marketing**. Lehmann et al. (2011) review how biochar alters soil biota through habitat, moisture, pH, sorption of signaling compounds and toxins, and nutrient supply ([DOI](https://doi.org/10.1016/j.soilbio.2011.04.022)). [[Charosphere Microbial Habitat|studies charosphere microbial habitat]] provide the necessary counterweight: wood biochar buried **three years** in agricultural soil showed **very sparse** internal colonization; at **50 t ha⁻¹**, biochar contributed only ~**6.5%** of topsoil pore space and ~**7.4%** of surface area, with many pores **<1 µm**—effectively uninhabitable for many microbes ([DOI](https://doi.org/10.1016/j.soilbio.2013.06.004)).
 
-NRCS and USBI still recommend **inoculating** biochar with compost, compost tea, or manure before agronomic use—because biology + nutrients must be **pre-loaded**, not assumed to self-assemble after broadcasting dry char ([CPS 336 2022](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf) · [[NRCS CPS 336 Standard 2022]]; [USBI Ag Guidelines](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf) · [[USBI Ag Guidelines 2023]]; [NRCS FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[NRCS CPS 336 FAQ 2026]]).
+NRCS and USBI still recommend **inoculating** biochar with compost, compost tea, or manure before agronomic use—because biology + nutrients must be **pre-loaded**, not assumed to self-assemble after broadcasting dry char ([CPS 336 2022](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf) · [[Soil Carbon Amendment Standard|defines NRCS practice 336]]; [USBI Ag Guidelines](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf) · [[Farm Biochar Application Guidelines|guides farm biochar application]]; [NRCS FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[Soil Carbon Amendment FAQ|answers CPS 336 planning questions]]).
 
 A 56-study meta-analysis ([[Microbial Inocula Meta-analysis|meta-analyzes microbial inocula]], *SSSAJ* 2025) finds that **microbial inocula** raise soil N, SOC, and crop productivity versus biochar alone on average—but effects concentrate in **local/research-grade** and **fungal** inocula; **commercial** products are largely weak; greenhouse responses exceed field ([DOI](https://doi.org/10.1002/saj2.20792)). That is the evidence bar for “inoculated fertilizer biochar” claims.
 
@@ -194,11 +194,11 @@ Hagemann et al. (2017): organic coating forms during co-composting; patchy hotsp
 
 Antonangelo et al. (2021): COMBI often outperforms simple post-compost blending; optimal loading band ~**10–15% w/w** in their synthesis ([DOI](https://doi.org/10.1016/j.jenvman.2020.111443)).
 
-Pacific Biochar practitioner white paper: wood biochar **5–10% by weight** early in composting ([PDF](https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf) · [[Pacific Biochar Compost White Paper 2023]]).
+Pacific Biochar practitioner white paper: wood biochar **5–10% by weight** early in composting ([PDF](https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf) · [[Biochar Compost White Paper|explains biochar plus compost practice]]).
 
 ### 10.3 Facility example
 
-Earth Foundries × Napa Recycling: **10%** (by volume) biochar in green/food compost; VOC **−33%**, process benefits ([PDF](https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf) · [[Earth Foundries Co-Composting Report 2023]]).
+Earth Foundries × Napa Recycling: **10%** (by volume) biochar in green/food compost; VOC **−33%**, process benefits ([PDF](https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf) · [[Napa Co-composting CASP Report|reports Napa CASP co-composting]]).
 
 ---
 
@@ -218,7 +218,7 @@ Earth Foundries × Napa Recycling: **10%** (by volume) biochar in green/food com
 
 | Example | Biology / inoculation angle | URL |
 |---|---|---|
-| Oasis Vineyard, CA | Compost+biochar highest 5-harvest mean (+36%) — biology+nutrients blend | https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf · [[Oasis Vineyard Trial 2023]] |
+| Oasis Vineyard, CA | Compost+biochar highest 5-harvest mean (+36%) — biology+nutrients blend | https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf · [[Oasis Vineyard Biochar Trial|vineyard biochar field trial]] |
 | Earth Foundries × Napa | 10% (by volume) biochar co-composting microbiology/process | https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf |
 | Schmidt/Pandit Nepal | Liquid enrichment; rhizosphere placement across 13 crops | https://doi.org/10.1002/ldr.2761 |
 | Carbon Gold Enriched Biochar | Marketing: minerals + microbes / mycorrhizae / *Trichoderma* / actinomyces from wormcasts | https://www.carbongold.com/biochar-soil-improver/ |
@@ -241,7 +241,7 @@ Commercial microbial claims above are **marketing pages**, not meta-analytic pro
 | Jindo enzyme activity | +30–40% | https://doi.org/10.1016/j.biortech.2012.01.120 |
 | Sanchez-Monedero compost rates | 3–50% studied; ~10% often optimal | https://doi.org/10.1016/j.biortech.2017.09.193 |
 
-Figures from [[Charosphere Microbial Habitat|studies charosphere microbial habitat]], [[Co-compost Nitrate Capture|shows co-compost nitrate capture]], [[Microbial Inocula Meta-analysis|meta-analyzes microbial inocula]], [[Stability and Priming Meta-analysis|meta-analyzes stability and priming]], [[COMBI Soil Quality Review|reviews co-composted biochar soil effects]], [[USBI Ag Guidelines 2023]], [[Earth Foundries Co-Composting Report 2023]] and [[Oasis Vineyard Trial 2023]] are kept in their source notes, with a check status for each number.
+Figures from [[Charosphere Microbial Habitat|studies charosphere microbial habitat]], [[Co-compost Nitrate Capture|shows co-compost nitrate capture]], [[Microbial Inocula Meta-analysis|meta-analyzes microbial inocula]], [[Stability and Priming Meta-analysis|meta-analyzes stability and priming]], [[COMBI Soil Quality Review|reviews co-composted biochar soil effects]], [[Farm Biochar Application Guidelines|guides farm biochar application]], [[Napa Co-composting CASP Report|reports Napa CASP co-composting]] and [[Oasis Vineyard Biochar Trial|vineyard biochar field trial]] are kept in their source notes, with a check status for each number.
 
 ---
 
@@ -325,7 +325,7 @@ Chew et al. (2020) sit at that intersection: activated BCF changed rhizosphere m
 
 ## Primary outbound links
 
-Source notes (checked figures and full citations): [[Charosphere Microbial Habitat|studies charosphere microbial habitat]] · [[Microbial Inocula Meta-analysis|meta-analyzes microbial inocula]] · [[Stability and Priming Meta-analysis|meta-analyzes stability and priming]] · [[Co-compost Nitrate Capture|shows co-compost nitrate capture]] · [[COMBI Soil Quality Review|reviews co-composted biochar soil effects]] · [[Biochar-Based Fertilizer Meta-analysis|meta-analyzes biochar fertilizers]] · [[Urine-Enhanced Biochar Field Trial|urine-enhanced biochar field trial]] · [[Liquid Nutrient Enrichment Field Trials|liquid nutrient enrichment trials]] · [[NRCS CPS 336 FAQ 2026]] · [[NRCS CPS 336 Standard 2022]] · [[USBI Ag Guidelines 2023]] · [[Pacific Biochar Compost White Paper 2023]] · [[Oasis Vineyard Trial 2023]] · [[Earth Foundries Co-Composting Report 2023]]. Other references:
+Source notes (checked figures and full citations): [[Charosphere Microbial Habitat|studies charosphere microbial habitat]] · [[Microbial Inocula Meta-analysis|meta-analyzes microbial inocula]] · [[Stability and Priming Meta-analysis|meta-analyzes stability and priming]] · [[Co-compost Nitrate Capture|shows co-compost nitrate capture]] · [[COMBI Soil Quality Review|reviews co-composted biochar soil effects]] · [[Biochar-Based Fertilizer Meta-analysis|meta-analyzes biochar fertilizers]] · [[Urine-Enhanced Biochar Field Trial|urine-enhanced biochar field trial]] · [[Liquid Nutrient Enrichment Field Trials|liquid nutrient enrichment trials]] · [[Soil Carbon Amendment FAQ|answers CPS 336 planning questions]] · [[Soil Carbon Amendment Standard|defines NRCS practice 336]] · [[Farm Biochar Application Guidelines|guides farm biochar application]] · [[Biochar Compost White Paper|explains biochar plus compost practice]] · [[Oasis Vineyard Biochar Trial|vineyard biochar field trial]] · [[Napa Co-composting CASP Report|reports Napa CASP co-composting]]. Other references:
 
 - Lehmann 2011 biota — https://doi.org/10.1016/j.soilbio.2011.04.022
 - Carrier review 2023 — https://doi.org/10.1016/j.scitotenv.2023.163968

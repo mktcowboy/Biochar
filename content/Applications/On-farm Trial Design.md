@@ -30,9 +30,9 @@ Jeffery et al. (2016) CH₄ meta required randomised, replicated designs for inc
 | **Rate chosen a priori** | Tie to NRCS scenario or literature analogue | [[Field Rates by System]] · FAQ https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf |
 | **Charge state documented** | Raw vs inoculated vs co-composted is a **treatment**, not a footnote | [[Biochar Inoculation for Fertilizer]] · Kammann contrast https://doi.org/10.1038/srep11080 |
 | **Multi-year** | Oasis needed **5 harvests** for economics narrative; Woody persistence claims cite Woolf | Oasis PDF · https://doi.org/10.1021/acs.est.1c02425 |
-| **Same inputs otherwise** | Oasis held irrigation/fertilizer constant (so did **not** monetize water/fertilizer savings) | Oasis PDF · [[Oasis Vineyard Trial 2023]] |
+| **Same inputs otherwise** | Oasis held irrigation/fertilizer constant (so did **not** monetize water/fertilizer savings) | Oasis PDF · [[Oasis Vineyard Biochar Trial|vineyard biochar field trial]] |
 
-Earth Foundries facility demo used **one pile per treatment, one cycle**—treat as demonstration, not inferential stats ([[Earth Foundries Co-Composting Report 2023]]).
+Earth Foundries facility demo used **one pile per treatment, one cycle**—treat as demonstration, not inferential stats ([[Napa Co-composting CASP Report|reports Napa CASP co-composting]]).
 
 ---
 

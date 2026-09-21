@@ -37,7 +37,7 @@ Details and more URLs: [[Real World Soil Projects]].
 
 ### Oasis Vineyard (Monterey County, CA) — multi-year
 
-Pre-plant treatments on Pinot Noir (Oceano Sand / Garey Sandy Loam, ~0.7% OM): control; compost **15 t/ac**; biochar **10 t/ac**; compost+biochar. Same irrigation/fertilizer regime. Across **five harvests**, average yield increases vs control: compost+biochar **+36%**, biochar **+25%**, compost **+29%** (combined five-season totals 41.7 / 38.2 / 40.1 vs 31.7 t/ac). Quality not significantly degraded. Primary report: https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf · [[Oasis Vineyard Trial 2023]]
+Pre-plant treatments on Pinot Noir (Oceano Sand / Garey Sandy Loam, ~0.7% OM): control; compost **15 t/ac**; biochar **10 t/ac**; compost+biochar. Same irrigation/fertilizer regime. Across **five harvests**, average yield increases vs control: compost+biochar **+36%**, biochar **+25%**, compost **+29%** (combined five-season totals 41.7 / 38.2 / 40.1 vs 31.7 t/ac). Quality not significantly degraded. Primary report: https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf · [[Oasis Vineyard Biochar Trial|vineyard biochar field trial]]
 
 ### Exomad Green field study (Santa Cruz, Bolivia) — 2025 reporting
 
@@ -77,7 +77,7 @@ Full tables, protocols, products: [[Biochar Inoculation for Fertilizer]].
 | Enriched biochar fertilizers | Often **<2 t ha⁻¹** | https://doi.org/10.1002/ldr.2761 |
 | Oasis vineyard (wet weight as applied) | Biochar **10 t/ac**; compost **15 t/ac** | https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf |
 | Dominus Estate | Biochar **25 t/ac** to 36" | https://pacificbiochar.com/case-study-biochar-application-with-dominus-estate-in-napa-valley-after-2-years-fallow/ |
-| NRCS CPS 336 planning start | **4–10 yd³/ac**; scenario baseline **4 yd³/ac** pure biochar | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf · [[NRCS CPS 336 FAQ 2026]] |
+| NRCS CPS 336 planning start | **4–10 yd³/ac**; scenario baseline **4 yd³/ac** pure biochar | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf · [[Soil Carbon Amendment FAQ|answers CPS 336 planning questions]] |
 | Exomad ag guidance | Site-specific; volume-% examples; inoculate | https://www.exomadgreen.com/biochar |
 
 Practice detail: [[Application Rates and Methods]].
@@ -94,6 +94,6 @@ Practice detail: [[Application Rates and Methods]].
 
 - GHG co-effects of the same applications: [[GHG Fluxes]]
 - Soil physical/chemical pathways: [[Soil and Agriculture]]
-- US cost-share: [[NRCS CPS 336 and US Ag]]
+- US cost-share: [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]]
 - Numbers cheat-sheet: [[Quantitative Benchmarks]]
 - Hub: [[Applications Hub]] · [[Science Hub]]

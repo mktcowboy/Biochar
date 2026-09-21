@@ -185,7 +185,7 @@ Related: [[Biochar as Durable CDR]] · [[Double Counting and Credit Ownership]].
 | Concrete / asphalt offtake | High-tech + ≥50% C + longevity evidence |
 | Want existing facility credited | Watch **v2.0**; consider [[Puro Biochar Methodology Edition 2025]] or [[Isometric Biochar Protocol]] in parallel diligence |
 
-Policy adjacency (not a credit method): [[NRCS CPS 336 and US Ag]] · [[Policy Hub]].
+Policy adjacency (not a credit method): [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] · [[Policy Hub]].
 
 ---
 

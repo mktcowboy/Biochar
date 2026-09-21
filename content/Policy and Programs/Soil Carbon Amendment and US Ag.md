@@ -1,10 +1,10 @@
 ---
 tags: [policy, US, agriculture, NRCS, applications]
-aliases: [CPS 336, NRCS, Soil Carbon Amendment]
+aliases: ["CPS 336", "NRCS CPS 336", "Soil Carbon Amendment", "NRCS CPS 336 and US Ag"]
 updated: 2026-09-16
 ---
 
-# NRCS CPS 336 and US Ag
+# Soil Carbon Amendment and US Ag
 
 USDA Natural Resources Conservation Service **Conservation Practice Standard 336 — Soil Carbon Amendment**: EQIP/CSP (and related) **cost-share for applying biochar and/or compost** to improve soil health and store carbon. This is a **conservation practice standard**, **not** a carbon-credit methodology. Pair with [[Soil and Agriculture]], [[Application Rates and Methods]], [[Biochar Compost and Manure Blends]], [[Double Counting and Credit Ownership]].
 
@@ -13,8 +13,8 @@ USDA Natural Resources Conservation Service **Conservation Practice Standard 336
 | Document | URL |
 |---|---|
 | National CPS 336 page (downloads + state links) | https://www.nrcs.usda.gov/resources/guides-and-instructions/soil-carbon-amendment-ac-336-conservation-practice-standard |
-| National standard PDF (Nov 2022) | https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf · [[NRCS CPS 336 Standard 2022]] |
-| Planning FAQ (April 2026) | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf · [[NRCS CPS 336 FAQ 2026]] |
+| National standard PDF (Nov 2022) | https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf · [[Soil Carbon Amendment Standard|defines NRCS practice 336]] |
+| Planning FAQ (April 2026) | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf · [[Soil Carbon Amendment FAQ|answers CPS 336 planning questions]] |
 | Soil Carbon Amendments overview / tools | https://www.nrcs.usda.gov/conservation-basics/natural-resource-concerns/soil/soil-health/soil-carbon-amendments |
 | Producer funding quick guide (Farmland Info hosting) | https://farmlandinfo.org/wp-content/uploads/sites/2/2023/12/biochar_funding_for_US_producers_quick_guide_.pdf |
 | ABI / biochar.org funding guidelines PDF (2026) | https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Funding-2026-final.pdf |
@@ -72,7 +72,7 @@ Full methods note: [[Application Rates and Methods]].
 |---|---|---|
 | American Biochar Institute (ex-USBI) | https://biochar.org/about-abi/ · [[US Biochar Initiative]] | Education, standards, NRCS funding guide |
 | ABI / USBI ag application guide (2026) | https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-for-Agriculture-Applications-2026.pdf | Rates / charging practice |
-| Aller et al. USBI guide (2023 mirror) | https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf · [[USBI Ag Guidelines 2023]] | Same charging lineage |
+| Aller et al. USBI guide (2023 mirror) | https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf · [[Farm Biochar Application Guidelines|guides farm biochar application]] | Same charging lineage |
 | USBI vs vault comparison | [[USBI Guidance vs Vault Notes]] | Rates, charging, NRCS packaging |
 | IBI standards | https://biochar-international.org/ | Characterization norms |
 | EBC | https://www.european-biochar.org/ | EU product classes often referenced by buyers |

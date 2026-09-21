@@ -6,7 +6,7 @@ updated: 2026-09-16
 
 # Compost Blend Safety
 
-Pathogens, maturity, salts/EC, nutrient imbalance (esp. P), contaminants, and worker/dust risks when using **biochar–compost / manure blends** or co-composted products. Mechanisms: [[Co-composting Science]]. Practice: [[Farm Co-composting Practice]]. Contaminant chemistry of the char itself: [[Contaminants and Quality]] (do not duplicate that chapter). Specs: [[Product Standards EBC IBI]], [[NRCS CPS 336 and US Ag]].
+Pathogens, maturity, salts/EC, nutrient imbalance (esp. P), contaminants, and worker/dust risks when using **biochar–compost / manure blends** or co-composted products. Mechanisms: [[Co-composting Science]]. Practice: [[Farm Co-composting Practice]]. Contaminant chemistry of the char itself: [[Contaminants and Quality]] (do not duplicate that chapter). Specs: [[Product Standards EBC IBI]], [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]].
 
 Report context: **2026-09-16**.
 
@@ -14,13 +14,13 @@ Report context: **2026-09-16**.
 
 ## 1. Immature compost and pathogens
 
-NRCS CPS 336 FAQ warns to prefer **mature** compost and manage pathogen risk when using compost or manure with biochar ([FAQ PDF](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[NRCS CPS 336 FAQ 2026]]). Composting itself is used to reduce pathogens, weed seeds, and odor in manure systems—but only when the process reaches adequate time–temperature regimes (Steiner et al. 2010 frame poultry-litter composting that way — [DOI](https://doi.org/10.2134/jeq2009.0337)).
+NRCS CPS 336 FAQ warns to prefer **mature** compost and manage pathogen risk when using compost or manure with biochar ([FAQ PDF](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[Soil Carbon Amendment FAQ|answers CPS 336 planning questions]]). Composting itself is used to reduce pathogens, weed seeds, and odor in manure systems—but only when the process reaches adequate time–temperature regimes (Steiner et al. 2010 frame poultry-litter composting that way — [DOI](https://doi.org/10.2134/jeq2009.0337)).
 
 **Practice rules of thumb (sourced):**
 
 - Do **not** treat unfinished, cool, anaerobic piles as “inoculated biochar ready for food crops.”
 - Document maturity indices your facility already uses (e.g., germination index, NH₄⁺/NO₃⁻ ratio). Maturation meta (2025) reports mean GI **+25.57%**, NH₄⁺-N **−34.96%**, NO₃⁻-N **+32.54%** when biochar is used in composting—useful as process evidence, not a substitute for site testing ([DOI](https://doi.org/10.48130/bchax-0025-0005)).
-- Earth Foundries demo: low free ammonium reached **~1 week sooner** with 10% v/v biochar ([PDF](https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf) · [[Earth Foundries Co-Composting Report 2023]]).
+- Earth Foundries demo: low free ammonium reached **~1 week sooner** with 10% v/v biochar ([PDF](https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf) · [[Napa Co-composting CASP Report|reports Napa CASP co-composting]]).
 
 ---
 
@@ -54,7 +54,7 @@ CPS 336 / FAQ:
 - IBI seal alone is **not** sufficient without a recent **spec sheet** (FAQ).
 - Residues that would normally stay on the land cannot be used as feedstock (FAQ).
 
-Deep PAH/metals/PFAS discussion: [[Contaminants and Quality]]. Product labels: [[Product Standards EBC IBI]] · [[ANSI ASABE USBI S668]].
+Deep PAH/metals/PFAS discussion: [[Contaminants and Quality]]. Product labels: [[Product Standards EBC IBI]] · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]].
 
 ---
 
@@ -74,12 +74,12 @@ NRCS: biochar is usually alkaline; most useful as liming on acid soils; on soils
 
 ## 7. Credit / claim hygiene (safety of claims)
 
-Do **not** claim soil N₂O reductions from facility VOC/NH₃ data. Earth Foundries **VOC −33%** is a **composting-process** metric ([[Earth Foundries Co-Composting Report 2023]]); soil flux evidence lives in [[GHG Fluxes]]. Do not double-claim the same tonne as CPS 336 cost-share and voluntary CDR without contractual separation ([[Matrix Pathways for Credits]], [[Double Counting and Credit Ownership]]).
+Do **not** claim soil N₂O reductions from facility VOC/NH₃ data. Earth Foundries **VOC −33%** is a **composting-process** metric ([[Napa Co-composting CASP Report|reports Napa CASP co-composting]]); soil flux evidence lives in [[GHG Fluxes]]. Do not double-claim the same tonne as CPS 336 cost-share and voluntary CDR without contractual separation ([[Matrix Pathways for Credits]], [[Double Counting and Credit Ownership]]).
 
 ---
 
 ## Related notes
 
 - [[Farm Co-composting Practice]] · [[Co-composting Science]] · [[Biochar Compost and Manure Blends]]
-- [[Contaminants and Quality]] · [[NRCS CPS 336 and US Ag]] · [[Application Rates and Methods]]
+- [[Contaminants and Quality]] · [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] · [[Application Rates and Methods]]
 - [[Applications Hub]] · [[Key Sources]]

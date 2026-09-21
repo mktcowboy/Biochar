@@ -8,7 +8,7 @@ updated: 2026-09-16
 
 A standalone chapter on **per- and polyfluoroalkyl substances (PFAS)** in biochar systems: how PFAS can enter feedstocks, what pyrolysis does and does not prove, where fluorinated material may go, how biochar can immobilize PFAS in soil, and how to test and communicate results. Regulatory snapshot: **2026-09-16**.
 
-**Related notes:** [[Contaminants and Quality]] · [[Feedstocks]] · [[Woody vs Manure Ag Feedstocks]] · [[Pyrolysis Systems and Temperatures]] · [[Testing EBC IBI S668]] · [[ANSI ASABE USBI S668]] · [[PAHs]] · [[Heavy Metals and Ash]] · [[Product Standards EBC IBI]] · [[Risks and Controversies]] · [[Key Sources]]
+**Related notes:** [[Contaminants and Quality]] · [[Feedstocks]] · [[Woody vs Manure Ag Feedstocks]] · [[Pyrolysis Systems and Temperatures]] · [[Testing EBC IBI S668]] · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]] · [[PAHs]] · [[Heavy Metals and Ash]] · [[Product Standards EBC IBI]] · [[Risks and Controversies]] · [[Key Sources]]
 
 ---
 
@@ -267,7 +267,7 @@ A nondetect should always travel with the sample dry mass, preparation, reportin
 
 ### 6.1 ANSI/ASABE/USBI S668
 
-[[ANSI ASABE USBI S668]] is a **methods standard**, not a product certificate or regulatory limit. Section 12.1.4 says PFAS are more likely in biochar from high-PFAS feedstocks such as wastewater-treatment biosolids, recommends periodic analysis for such feeds, and points to EPA Method 1633A. It sets no PFAS pass/fail number and tells users to consult applicable jurisdictional guidance ([S668 PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf)).
+[[Biochar Lab Measurement Standard|standardizes biochar lab testing]] is a **methods standard**, not a product certificate or regulatory limit. Section 12.1.4 says PFAS are more likely in biochar from high-PFAS feedstocks such as wastewater-treatment biosolids, recommends periodic analysis for such feeds, and points to EPA Method 1633A. It sets no PFAS pass/fail number and tells users to consult applicable jurisdictional guidance ([S668 PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf)).
 
 This is the most direct current biochar-standard PFAS language in the vault. Pair it with [[Testing EBC IBI S668]] for sampling and the wider analytical package.
 
@@ -446,7 +446,7 @@ Most published pyrolysis studies sit between levels 2 and 4; the 2024 thermal-ox
 ### Standards, methods, and policy
 
 - EPA Method 1633A — https://www.epa.gov/system/files/documents/2024-12/method-1633a-december-5-2024-508-compliant.pdf
-- ANSI/ASABE/USBI S668 — https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf · [[ANSI ASABE USBI S668]]
+- ANSI/ASABE/USBI S668 — https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]]
 - EPA 2026 destruction/disposal guidance — https://www.epa.gov/system/files/documents/2026-04/2026-interim-guidance-on-pfas-destruction-and-disposal.pdf
 - EPA 2025 draft sewage-sludge risk assessment — https://www.epa.gov/system/files/documents/2025-01/draft-sewage-sludge-risk-assessment-pfoa-pfos.pdf
 - EPA 2026 draft biosolids guidance — https://www.epa.gov/biosolids/draft-guidance-reducing-risk-perfluorooctanoic-acid-pfoa-and-perfluorooctane-sulfonic
@@ -459,4 +459,4 @@ Most published pyrolysis studies sit between levels 2 and 4; the 2024 thermal-ox
 - [[Contaminants and Quality]] · [[Testing EBC IBI S668]] · [[PAHs]] · [[Heavy Metals and Ash]]
 - [[Feedstocks]] · [[Woody vs Manure Ag Feedstocks]] · [[Pyrolysis Systems and Temperatures]] · [[Biochar Quality from Process]]
 - [[Biochar vs Activated Carbon]] · [[Soil and Agriculture]] · [[Biochar Compost and Manure Blends]] · [[On-farm Trial Design]]
-- [[Product Standards EBC IBI]] · [[ANSI ASABE USBI S668]] · [[Risks and Controversies]] · [[Production Hub]] · [[Key Sources]]
+- [[Product Standards EBC IBI]] · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]] · [[Risks and Controversies]] · [[Production Hub]] · [[Key Sources]]

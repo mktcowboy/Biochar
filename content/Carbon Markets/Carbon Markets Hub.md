@@ -104,7 +104,7 @@ MOC: [[Market Hub]]
 
 ## Policy (moved)
 
-- [[NRCS CPS 336 and US Ag]] — practice standard, not a credit methodology → [[Policy Hub]]
+- [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] — practice standard, not a credit methodology → [[Policy Hub]]
 
 ## Cross-links
 

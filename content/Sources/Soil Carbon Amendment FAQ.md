@@ -1,6 +1,6 @@
 ---
 tags: [source, policy, applications]
-aliases: ["NRCS FAQ", "CPS 336 FAQ", "NRCS CPS 336 FAQ", "Planning CPS 336 FAQ"]
+aliases: ["NRCS CPS 336 FAQ", "CPS 336 FAQ", "Planning CPS 336 FAQ", "NRCS FAQ"]
 source_type: guidance
 peer_reviewed: false
 authors: ["USDA Natural Resources Conservation Service"]
@@ -12,7 +12,7 @@ checked_against: full text
 verified: 2026-09-14
 ---
 
-# NRCS CPS 336 FAQ 2026
+# Soil Carbon Amendment FAQ
 
 **Citation:** USDA Natural Resources Conservation Service (2026). *Planning CPS 336 – Soil Carbon Amendment: Frequently Asked Questions*. National edition, April 2026. https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf
 
@@ -41,8 +41,8 @@ verified: 2026-09-14
 
 ## Use with care
 
-- The persistence and soil-carbon figures are NRCS's summary of research, not NRCS measurements. For permanence numbers use [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] or [[IPCC 2019 Biochar Appendix]].
+- The persistence and soil-carbon figures are NRCS's summary of research, not NRCS measurements. For permanence numbers use [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] or [[IPCC Biochar Soil Carbon Method|estimates soil C stock change from biochar]].
 - Payment scenarios are FY2024 values and can change each fiscal year.
 - A text search of the FAQ found no mention of carbon credits. Claims that the FAQ calls CPS 336 "not a carbon credit" need a different source.
 
-Related: [[NRCS CPS 336 Standard 2022]] · [[NRCS CPS 336 and US Ag]] · [[Application Rates and Methods]] · [[Key Sources]]
+Related: [[Soil Carbon Amendment Standard|defines NRCS practice 336]] · [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] · [[Application Rates and Methods]] · [[Key Sources]]

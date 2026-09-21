@@ -61,10 +61,10 @@ Source: [PDF p.5](https://www.exomadgreen.com/_files/ugd/8b0a69_153ad8a2b8244bfc
 
 | Parameter | Value | Benchmark |
 |---|---|---|
-| Organic carbon | **86.3%** | NRCS CPS 336 requires C_org > 10% ([CPS 336 PDF](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf) · [[NRCS CPS 336 Standard 2022]]) |
+| Organic carbon | **86.3%** | NRCS CPS 336 requires C_org > 10% ([CPS 336 PDF](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf) · [[Soil Carbon Amendment Standard|defines NRCS practice 336]]) |
 | H:C_org | **0.24** | Under the 0.7 limit in the IUPAC definition and NRCS ([[IUPAC Biochar Terminology\|IUPAC biochar terminology]] · [DOI](https://doi.org/10.1515/pac-2021-0106)); under Isometric soil < 0.5 ([module](https://registry.isometric.com/module/biochar-storage-soil-environments/1.3)) and CSI ≤ 0.40 for GPC ([CSI 3.3](https://www.carbon-standards.com/docs/transfer/4000039EN.pdf)) |
 | Ash | **8.6%** | — |
-| pH | **7.2** | Near-neutral; NRCS notes biochar is usually alkaline and valued for liming acid soils — liming equivalence not reported ([NRCS FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[NRCS CPS 336 FAQ 2026]]) |
+| pH | **7.2** | Near-neutral; NRCS notes biochar is usually alkaline and valued for liming acid soils — liming equivalence not reported ([NRCS FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[Soil Carbon Amendment FAQ|answers CPS 336 planning questions]]) |
 | Moisture | **18%** | Dose basis matters (below) |
 
 Values: [PDF p.2](https://www.exomadgreen.com/_files/ugd/8b0a69_153ad8a2b8244bfc8a136176be56a408.pdf#page=2). **Not reported:** feedstock, pyrolysis temperature, particle size, lab or method, sampling date, or whether H:C_org is molar. Exomad's Concepción facility listing describes sawmill hardwood residues pyrolyzed at ~600 °C ([Puro facility page](https://puro.earth/cdr-credit-suppliers/facilities/exomad-green-concepcion/)), but the report doesn't say which facility supplied the trial char. Persistence context: biochars with H/C_org < 0.5 retained a mean ~82% of C after 100 years in [[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]] ([DOI](https://doi.org/10.1038/s41561-021-00852-8)) — see [[Permanence]] and [[Properties]].

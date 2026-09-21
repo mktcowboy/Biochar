@@ -11,7 +11,7 @@ Cross-source cheat sheet. Each figure's checked home is its source note (index i
 
 | Source | Finding |
 |---|---|
-| [IPCC 2019 App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC 2019 Biochar Appendix]] | 100-yr F_perm: **0.65 / 0.80 / 0.89** (low/med/high T) |
+| [IPCC 2019 App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC Biochar Soil Carbon Method|estimates soil C stock change from biochar]] | 100-yr F_perm: **0.65 / 0.80 / 0.89** (low/med/high T) |
 | [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] ([DOI](https://doi.org/10.1021/acs.est.1c02425)) | At 14.9 °C: 100-yr ≈ **0.63 / 0.71 / 0.82**; 1000-yr high-T ~0.25 |
 | [[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]] ([DOI](https://doi.org/10.1038/s41561-021-00852-8)) | H/C_org < 0.5 subset: mean **~82%** remaining at 100 yr (95% of cases >50%); not re-checked against the paywalled full text |
 | [EBC](https://www.european-biochar.org/) / [IBI](https://biochar-international.org/) | H/C_org ≤ **0.7**; O/C_org often ≤ **0.4** |

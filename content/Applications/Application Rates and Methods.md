@@ -6,7 +6,7 @@ updated: 2026-09-16
 
 # Application Rates and Methods
 
-**Cluster hub** for **how much** biochar to apply and **how/when** to place it. Pair with [[Soil and Agriculture]], [[Biochar Inoculation for Fertilizer]], [[Biochar Compost and Manure Blends]], [[NRCS CPS 336 and US Ag]], and [[Agronomic Economics]].
+**Cluster hub** for **how much** biochar to apply and **how/when** to place it. Pair with [[Soil and Agriculture]], [[Biochar Inoculation for Fertilizer]], [[Biochar Compost and Manure Blends]], [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]], and [[Agronomic Economics]].
 
 Report context: **2026-09-16**.
 
@@ -24,8 +24,8 @@ Report context: **2026-09-16**.
 
 ## Principles
 
-1. **Soil- and product-specific.** NRCS: rates should be based on soil tests **and** carbon-amendment lab results ([CPS 336 FAQ, Apr 2026](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[NRCS CPS 336 FAQ 2026]]).
-2. **Charge / inoculate** fresh char with compost, manure, compost tea, or nutrients before or during application when agronomic response is a goal ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf); [CPS 336 2022 PDF](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf) · [[NRCS CPS 336 Standard 2022]]).
+1. **Soil- and product-specific.** NRCS: rates should be based on soil tests **and** carbon-amendment lab results ([CPS 336 FAQ, Apr 2026](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[Soil Carbon Amendment FAQ|answers CPS 336 planning questions]]).
+2. **Charge / inoculate** fresh char with compost, manure, compost tea, or nutrients before or during application when agronomic response is a goal ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf); [CPS 336 2022 PDF](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf) · [[Soil Carbon Amendment Standard|defines NRCS practice 336]]).
 3. **Incorporate** when possible; surface-only applications risk wind/water loss, especially on slopes ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)).
 4. Separate **CDR mass** goals from **agronomic optimum**—high research rates are not always economic ([[Agronomic Economics]], [[Matrix Pathways for Credits]]).
 
@@ -35,7 +35,7 @@ Report context: **2026-09-16**.
 
 | Practice | Sourced guidance | URL |
 |---|---|---|
-| USBI charge window | Inoculate/charge **1–3 weeks** with compost, manure, tea, fertilizer, urine, or microbes | https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf · [[USBI Ag Guidelines 2023]] |
+| USBI charge window | Inoculate/charge **1–3 weeks** with compost, manure, tea, fertilizer, urine, or microbes | https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf · [[Farm Biochar Application Guidelines|guides farm biochar application]] |
 | NRCS language | Inoculate with compost, compost tea, or manure | https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf |
 | Co-compost loading | Roughly **5–15%** biochar (w/w or v/v depending on source) early | https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf · https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Compost-2026-Draft-V1.pdf · [[Farm Co-composting Practice]] |
 | Enriched fertilizer rates | Often **≪2 t ha⁻¹** when nutrient-loaded and root-zone placed | https://doi.org/10.1002/ldr.2761 · [[Liquid Nutrient Enrichment Field Trials|liquid nutrient enrichment trials]] |
@@ -92,7 +92,7 @@ From CPS 336 Table 3 / FAQ ([2022 PDF](https://www.nrcs.usda.gov/sites/default/f
 - **No biosolids** feedstocks under CPS 336 (PFAS)
 
 USBI/ABI application guidelines (2026): https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-for-Agriculture-Applications-2026.pdf · [[USBI Guidance vs Vault Notes]] · [[US Biochar Initiative]]  
-USBI 2023 mirror: https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf · [[USBI Ag Guidelines 2023]]  
+USBI 2023 mirror: https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf · [[Farm Biochar Application Guidelines|guides farm biochar application]]  
 NRCS calculator / tools landing: https://www.nrcs.usda.gov/conservation-basics/natural-resource-concerns/soil/soil-health/soil-carbon-amendments
 
 ---
@@ -107,5 +107,5 @@ CPS 336 practice lifespan **1 year**; may be contracted up to **5 times** over a
 
 - [[Field Rates by System]] · [[Incorporation Topdress Banding]] · [[Equipment and Timing]] · [[On-farm Trial Design]]
 - [[Real World Soil Projects]] · [[Crop Yield Effects]] · [[GHG Fluxes]]
-- [[NRCS CPS 336 and US Ag]] · [[Contaminants and Quality]] · [[Properties]]
+- [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] · [[Contaminants and Quality]] · [[Properties]]
 - [[Applications Hub]]

@@ -10,7 +10,7 @@ Chapter on **farm-level cost and benefit** of soil-applied biochar and blends. S
 
 Report context: **2026-09-16**.
 
-**Sibling notes:** [[Cost Components]] · [[Fertilizer Displacement]] · [[Field Rates by System]] · [[Crop Yield Effects]] · [[Real World Soil Projects]] · [[Matrix Pathways for Credits]] · [[NRCS CPS 336 and US Ag]] · [[Market Volumes and Pricing]].
+**Sibling notes:** [[Cost Components]] · [[Fertilizer Displacement]] · [[Field Rates by System]] · [[Crop Yield Effects]] · [[Real World Soil Projects]] · [[Matrix Pathways for Credits]] · [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] · [[Market Volumes and Pricing]].
 
 ---
 
@@ -30,7 +30,7 @@ Exact break-even tables are in the paper; quote numbers from the PDF/HTML when d
 
 ### Oasis Vineyard Trial (Monterey County) — primary PDF
 
-Source: https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf · [[Oasis Vineyard Trial 2023]]
+Source: https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf · [[Oasis Vineyard Biochar Trial|vineyard biochar field trial]]
 
 | Item | Value (as reported) |
 |---|---|
@@ -56,11 +56,11 @@ Public case study emphasizes SOM targeting and earthworks at **25 t/ac**; it doe
 
 ## 3. US cost-share (NRCS CPS 336)
 
-- Practice is **financial assistance** (EQIP / related), **not** a carbon credit — see [[Double Counting and Credit Ownership]]. FAQ does not treat CPS 336 as a credit methodology ([FAQ PDF](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[NRCS CPS 336 FAQ 2026]]).
+- Practice is **financial assistance** (EQIP / related), **not** a carbon credit — see [[Double Counting and Credit Ownership]]. FAQ does not treat CPS 336 as a credit methodology ([FAQ PDF](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[Soil Carbon Amendment FAQ|answers CPS 336 planning questions]]).
 - Scenario payment example (Farmland Info guide): FY2023 **60/40 biochar/compost** constructed ~**$160 / cubic yard** covering average purchase + logistics + application components; **varies by state**; not matched to actual invoices ([PDF](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/12/biochar_funding_for_US_producers_quick_guide_.pdf)). Line-item framing: [[Cost Components]].
 - Ranking: 336 alone often ranks low; stack with other CSAF soil-health practices ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)).
 - Lifespan **1 year**, up to **5** contracts ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)).
-- Funding guides: ABI 2026 https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Funding-2026-final.pdf · [[NRCS CPS 336 and US Ag]].
+- Funding guides: ABI 2026 https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Funding-2026-final.pdf · [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]].
 
 ---
 

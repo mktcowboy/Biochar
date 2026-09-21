@@ -52,7 +52,7 @@ Jeffery et al. (2016): mitigation in flooded/acidic systems; possible sink weake
 
 Wang et al. (2016) overall **−3.8%** (CI includes zero); short-term negative priming; sandy soils positive **+20.8%** ([DOI](https://doi.org/10.1111/gcbb.12266) · [[Stability and Priming Meta-analysis|meta-analyzes stability and priming]]). Weng et al. (2017) decade-scale negative priming ([DOI](https://doi.org/10.1038/nclimate3276)). Detail: [[Priming and SOC Interactions]].
 
-NRCS FAQ contrasts biochar’s multi-century C persistence framing (**~60–80%** remaining at 100 years in their cited range) with compost (**~2–14%**) ([FAQ PDF](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[NRCS CPS 336 FAQ 2026]]). Cross-check F_perm in [[Permanence]] / [[Quantitative Benchmarks]] ([IPCC 2019 appendix](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC 2019 Biochar Appendix]]).
+NRCS FAQ contrasts biochar’s multi-century C persistence framing (**~60–80%** remaining at 100 years in their cited range) with compost (**~2–14%**) ([FAQ PDF](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[Soil Carbon Amendment FAQ|answers CPS 336 planning questions]]). Cross-check F_perm in [[Permanence]] / [[Quantitative Benchmarks]] ([IPCC 2019 appendix](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC Biochar Soil Carbon Method|estimates soil C stock change from biochar]]).
 
 ---
 
@@ -70,7 +70,7 @@ These claim climate benefits primarily via **soil C storage**; flux claims shoul
 
 - Exomad Green — Puro CORC soil end-use + stated N₂O co-benefit language: https://puro.earth/cdr-credit-suppliers/facilities/exomad-green-concepcion/
 - Charm Range & Plains — Isometric soil land application: https://registry.isometric.com/project/prj_1JN6XNWDQ1S0BSN7
-- Oasis Vineyard — cites Woolf 2021 persistence: https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf · [[Oasis Vineyard Trial 2023]]
+- Oasis Vineyard — cites Woolf 2021 persistence: https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf · [[Oasis Vineyard Biochar Trial|vineyard biochar field trial]]
 
 Full project list: [[Real World Soil Projects]]. Credit matrix: [[Matrix Pathways for Credits]].
 

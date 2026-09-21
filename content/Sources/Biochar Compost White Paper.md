@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: ["Pacific Biochar white paper", "Biochar + Compost white paper"]
+aliases: ["Pacific Biochar white paper", "Biochar + Compost white paper", "Pacific Biochar Compost White Paper 2023"]
 source_type: white paper
 peer_reviewed: false
 authors: ["McIntosh, Charlie", "Hunt, Josiah"]
@@ -12,7 +12,7 @@ checked_against: full text
 verified: 2026-09-14
 ---
 
-# Pacific Biochar Compost White Paper 2023
+# Biochar Compost White Paper
 
 **Citation:** McIntosh C, Hunt J (2023). *Biochar + Compost*. Pacific Biochar Benefit Corporation, January 2023. https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf
 

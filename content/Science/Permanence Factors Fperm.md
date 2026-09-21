@@ -6,7 +6,7 @@ updated: 2026-09-16
 
 # Permanence Factors (F_perm)
 
-Chapter on **inventory permanence factors**: how [[IPCC 2019 Biochar Appendix]] and [[Biochar Soil GHG Inventory Model]] turn production temperature (or H/C_org) into the fraction of biochar organic carbon remaining after a chosen time. Credit methodologies that cite these tables are mapped in [[Permanence Science for Credits]]—this note stays on the **science/model**. Report context: **2026-09-16**.
+Chapter on **inventory permanence factors**: how [[IPCC Biochar Soil Carbon Method|estimates soil C stock change from biochar]] and [[Biochar Soil GHG Inventory Model]] turn production temperature (or H/C_org) into the fraction of biochar organic carbon remaining after a chosen time. Credit methodologies that cite these tables are mapped in [[Permanence Science for Credits]]—this note stays on the **science/model**. Report context: **2026-09-16**.
 
 **Related notes:** [[Permanence]] · [[H-Corg and O-Corg]] · [[Soil Temperature and Environment]] · [[CDR Potential and IPCC Accounting]] · [[Quantitative Benchmarks]] · [[Science Hub]] · [[Key Sources]]
 
@@ -20,7 +20,7 @@ F_\mathrm{perm}(t,T_\mathrm{soil}) = \text{fraction of biochar organic C still u
 
 Both IPCC App. 4 and Woolf fit **multi-pool exponential decay** (minimum two-pool) to incubation and field datasets lasting **≥1 year**, then evaluate remaining C at policy-relevant horizons ([IPCC PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf); [Woolf DOI](https://doi.org/10.1021/acs.est.1c02425)).
 
-**Do not mix IPCC and Woolf tables in one calculation**—Woolf re-derived factors with newer data and explicit soil-temperature adjustment; values differ ([[IPCC 2019 Biochar Appendix]] “Use with care”).
+**Do not mix IPCC and Woolf tables in one calculation**—Woolf re-derived factors with newer data and explicit soil-temperature adjustment; values differ ([[IPCC Biochar Soil Carbon Method|estimates soil C stock change from biochar]] “Use with care”).
 
 ---
 
@@ -40,7 +40,7 @@ Process engineering context: [[Pyrolysis Systems and Temperatures]].
 
 ## 3. IPCC 2019 Appendix 4 (100-year factors)
 
-Source: [[IPCC 2019 Biochar Appendix]] · [PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) (full text checked in vault).
+Source: [[IPCC Biochar Soil Carbon Method|estimates soil C stock change from biochar]] · [PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) (full text checked in vault).
 
 | Production class | 100-yr \(F_\mathrm{perm}\) | Uncertainty |
 |---|---|---|
@@ -136,7 +136,7 @@ Registries interpret these science tables differently (100y vs 200y vs 1000y; T-
 
 ## Primary links
 
-- [IPCC 2019 App. 4 PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC 2019 Biochar Appendix]]
+- [IPCC 2019 App. 4 PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC Biochar Soil Carbon Method|estimates soil C stock change from biochar]]
 - [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) · [open PDF](https://open-science.canada.ca/server/api/core/bitstreams/112fc297-0352-4683-ae0e-dd1271f59d77/content) · [[Biochar Soil GHG Inventory Model]]
 - Supporting spreadsheet (Woolf SI): linked from [ACS page](https://doi.org/10.1021/acs.est.1c02425)
 

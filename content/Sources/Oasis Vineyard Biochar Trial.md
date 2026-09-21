@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: ["Oasis Vineyard Trial", "Oasis Vineyard", "Oasis Vineyard Trial Results 2023"]
+aliases: ["Oasis Vineyard Trial", "Oasis Vineyard", "Oasis Vineyard Trial Results 2023", "Oasis Vineyard Trial 2023"]
 source_type: field trial
 peer_reviewed: false
 authors: ["Hunt, Josiah", "McIntosh, Charlie", "Beck, Doug", "Baltar, Raymond"]
@@ -12,7 +12,7 @@ checked_against: full text
 verified: 2026-09-14
 ---
 
-# Oasis Vineyard Trial 2023
+# Oasis Vineyard Biochar Trial
 
 **Citation:** Hunt J, McIntosh C, Beck D, Baltar R (2023). *Oasis Vineyard Trial Results – Harvest 2023 (7th leaf) Summary*. Final draft, 12 December 2023. https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf
 
@@ -35,7 +35,7 @@ verified: 2026-09-14
 
 ## Use with care
 
-- Not peer reviewed. The authors include McIntosh and Hunt, who also wrote the supplier's [[Pacific Biochar Compost White Paper 2023]]. The summary gives few statistical details.
+- Not peer reviewed. The authors include McIntosh and Hunt, who also wrote the supplier's [[Biochar Compost White Paper|explains biochar plus compost practice]]. The summary gives few statistical details.
 - Revenue depends on the grape price. Water and fertilizer inputs were the same across treatments, so no savings are counted.
 - Compost alone out-earned biochar alone; the combination did best.
 

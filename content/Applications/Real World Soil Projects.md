@@ -42,7 +42,7 @@ Report date: **2026-09-14**.
 - Partners: Sonoma Ecology Center, **UC Riverside**, Monterey Pacific Inc., **Pacific Biochar**; funded via California Department of Water Resources.
 - Pre-plant (2016–2017): biochar **10 t/ac**, compost **15 t/ac**, combo, vs control on sandy low-OM soils; incorporation ~30" in vine row.
 - **Five harvests:** combo **+36%**, biochar **+25%**, compost **+29%** average yield vs control; positive ROI by second harvest; incremental revenue by fifth harvest **$9,752 / $12,569 / $14,937** per acre (biochar / compost / combo) at ~$1,500/ton grapes; amendment costs (2016 delivered) biochar **$240/ton**, compost **$40/ton** wet.
-- Primary source PDF: https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf · [[Oasis Vineyard Trial 2023]]
+- Primary source PDF: https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf · [[Oasis Vineyard Biochar Trial|vineyard biochar field trial]]
 
 ### Dominus Estate — Napa Valley, California
 
@@ -56,7 +56,7 @@ Report date: **2026-09-14**.
 
 ### Earth Foundries × Napa Recycling — composting with biochar
 
-- 2023 project report: **10% (by volume) biochar** addition to green/food-waste composting reduced **VOCs 33%**, accelerated curing, affected finished compost nutrient/salinity metrics ([PDF](https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf) · [[Earth Foundries Co-Composting Report 2023]]).
+- 2023 project report: **10% (by volume) biochar** addition to green/food-waste composting reduced **VOCs 33%**, accelerated curing, affected finished compost nutrient/salinity metrics ([PDF](https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf) · [[Napa Co-composting CASP Report|reports Napa CASP co-composting]]).
 
 ### Wakefield BioChar — NRCS CPS 336 channel & paper-mill partnership
 
@@ -65,7 +65,7 @@ Report date: **2026-09-14**.
 
 ## US programs / demos (practice standard)
 
-- **NRCS CPS 336** national standard & FAQ (rates, scenarios, biosolids exclusion): https://www.nrcs.usda.gov/resources/guides-and-instructions/soil-carbon-amendment-ac-336-conservation-practice-standard · https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf · [[NRCS CPS 336 FAQ 2026]]
+- **NRCS CPS 336** national standard & FAQ (rates, scenarios, biosolids exclusion): https://www.nrcs.usda.gov/resources/guides-and-instructions/soil-carbon-amendment-ac-336-conservation-practice-standard · https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf · [[Soil Carbon Amendment FAQ|answers CPS 336 planning questions]]
 - Producer funding explainer (American Farmland Trust / Farmland Info hosting USBI-style guide): https://farmlandinfo.org/wp-content/uploads/sites/2/2023/12/biochar_funding_for_US_producers_quick_guide_.pdf
 - USBI: https://biochar-us.org/
 - Note: publicly cited **acreage totals** for national EQIP 336 adoption are sparse in primary USDA statistical releases as of this research pass—treat state office reports as the authority when citing acres.
@@ -86,7 +86,7 @@ Australian mine-spoil and pasture trials exist in the peer-reviewed literature (
 1. **Credit project ≠ agronomic trial.** Exomad/Charm/Verra prove soil **sink pathways** under MRV; yield numbers need separate trial reports.
 2. **Vineyard California cases** are among the best public multi-year agronomic + economic datasets (Oasis PDF).
 3. **Composting co-benefits** (VOC, curing) are facility metrics—do not equate to field N₂O ([[GHG Fluxes]]).
-4. Always check feedstock (forest residue, urban wood, ag waste) against local residue-retention rules ([[NRCS CPS 336 and US Ag]]).
+4. Always check feedstock (forest residue, urban wood, ag waste) against local residue-retention rules ([[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]]).
 
 ## Related notes
 

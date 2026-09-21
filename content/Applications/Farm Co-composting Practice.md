@@ -14,9 +14,9 @@ Report context: **2026-09-16**.
 
 ## 1. Decision tree (practice)
 
-1. **Have an active composting operation?** → Prefer **early co-composting** (COMBI) over mixing finished compost with raw char alone ([[COMBI Soil Quality Review|reviews co-composted biochar soil effects]] · [DOI](https://doi.org/10.1016/j.jenvman.2020.111443); [[Pacific Biochar Compost White Paper 2023]]).
-2. **No compost facility, but need agronomic response?** → Charge/inoculate **1–3 weeks** with compost, manure, tea, fertilizer, urine, or microbes ([USBI Ag Guidelines](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf) · [[USBI Ag Guidelines 2023]]; NRCS inoculate language [CPS 336 2022 PDF](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf)).
-3. **Seeking EQIP/CSP CPS 336?** → Match a published **blend scenario** quantity table and state payment schedule ([NRCS FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[NRCS CPS 336 FAQ 2026]]; [[NRCS CPS 336 and US Ag]]).
+1. **Have an active composting operation?** → Prefer **early co-composting** (COMBI) over mixing finished compost with raw char alone ([[COMBI Soil Quality Review|reviews co-composted biochar soil effects]] · [DOI](https://doi.org/10.1016/j.jenvman.2020.111443); [[Biochar Compost White Paper|explains biochar plus compost practice]]).
+2. **No compost facility, but need agronomic response?** → Charge/inoculate **1–3 weeks** with compost, manure, tea, fertilizer, urine, or microbes ([USBI Ag Guidelines](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf) · [[Farm Biochar Application Guidelines|guides farm biochar application]]; NRCS inoculate language [CPS 336 2022 PDF](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf)).
+3. **Seeking EQIP/CSP CPS 336?** → Match a published **blend scenario** quantity table and state payment schedule ([NRCS FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[Soil Carbon Amendment FAQ|answers CPS 336 planning questions]]; [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]]).
 4. **Stacking voluntary CDR?** → Lock ownership / no-double-claim language ([[Matrix Pathways for Credits]], [[Double Counting and Credit Ownership]]).
 
 ---
@@ -29,7 +29,7 @@ Report context: **2026-09-16**.
 | Pacific Biochar white paper | Wood biochar **5–10% by weight** | Early | https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf |
 | Sanchez-Monedero 2018 | Benefits from **3–5%**; literature **3–50%** DW | Review synthesis | https://doi.org/10.1016/j.biortech.2017.09.193 |
 | Li et al. 2025 meta (process gases) | **10–20%** w/w dry under stated C:N / moisture / pH / EC windows | Process optimization framing | https://doi.org/10.48130/nc-0025-0003 |
-| Earth Foundries Napa demo | **10% by volume** forestry-residue char | Mixed into green/food waste CASP | https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf · [[Earth Foundries Co-Composting Report 2023]] |
+| Earth Foundries Napa demo | **10% by volume** forestry-residue char | Mixed into green/food waste CASP | https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf · [[Napa Co-composting CASP Report|reports Napa CASP co-composting]] |
 | Steiner et al. 2010 (poultry litter) | **5%** and **20%** pine-chip BC treatments | Lab/bioreactor composting 42 d | https://doi.org/10.2134/jeq2009.0337 |
 
 Convert volume ↔ mass with **measured** bulk density and moisture. NRCS: dry weight of **1 yd³** biochar roughly **135–540 lb** depending on material ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)).
@@ -78,7 +78,7 @@ Practice lifespan: **1 year**; may be contracted up to **5 times**; ranking impr
 |---|---|---|---|
 | Earth Foundries × Napa Recycling | 10% v/v biochar in green/food CASP | VOC −33%; maturity ~1 wk sooner; NPK +11% | https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf |
 | SEC / Napa Recycling American Canyon | Urban wood pyrolysis → blend into Napa Recycling compost | Startup pathway for farm/garden markets (2025) | https://sonomabiocharinitiative.org/sec-and-napa-recycling-pyrolysis-startup/ |
-| Oasis Vineyard | Field **post-blend** compost 15 t/ac ± biochar 10 t/ac (not facility COMBI) | Combo five-harvest mean **+36%** yield vs control | https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf · [[Oasis Vineyard Trial 2023]] |
+| Oasis Vineyard | Field **post-blend** compost 15 t/ac ± biochar 10 t/ac (not facility COMBI) | Combo five-harvest mean **+36%** yield vs control | https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf · [[Oasis Vineyard Biochar Trial|vineyard biochar field trial]] |
 | Pacific Biochar bulk blends | Commercial compost–biochar products | Availability page | https://pacificbiochar.com/compost-biochar-blends-available-in-bulk-maybe-near-you |
 | Wakefield Pro Garden Mix | Biochar + compost product line | Marketing page | https://wakefieldbiochar.com/biochar-for-landscapers/ |
 | ABI draft — Rexius (OR) | 5% v/v in windrow | Higher nutrients/microbes narrative; fewer turns | https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Compost-2026-Draft-V1.pdf |
@@ -97,4 +97,4 @@ If you cannot co-compost: USBI **1–3 week** inoculation/charging window ([PDF]
 
 - [[Co-composting Science]] · [[Compost Blend Safety]] · [[Biochar Compost and Manure Blends]] · [[Matrix Pathways for Credits]]
 - [[Application Rates and Methods]] · [[Equipment and Timing]] · [[Agronomic Economics]]
-- [[NRCS CPS 336 and US Ag]] · [[US Biochar Initiative]] · [[Applications Hub]]
+- [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] · [[US Biochar Initiative]] · [[Applications Hub]]

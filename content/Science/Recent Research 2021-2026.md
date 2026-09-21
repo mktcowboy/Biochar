@@ -11,7 +11,7 @@ aliases: [Recent reviews, 2021-2026 research]
 
 2. **[[Biochar Soil GHG Inventory Model|models soil GHG from biochar]].** Greenhouse Gas Inventory Model for Biochar Additions to Soil. *Environ. Sci. Technol.* 55:14795–14805. DOI: [10.1021/acs.est.1c02425](https://doi.org/10.1021/acs.est.1c02425). ~183 citations (S2). Operational EF model extending IPCC 2019; F_perm from T class or H/C_org; temperature-adjusted.
 
-3. **IPCC (2019).** *2019 Refinement…* Vol. 4 Appendix 4. [PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC 2019 Biochar Appendix]]. F_perm after 100 yr: **0.65 / 0.80 / 0.89** for low / medium / high T.
+3. **IPCC (2019).** *2019 Refinement…* Vol. 4 Appendix 4. [PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC Biochar Soil Carbon Method|estimates soil C stock change from biochar]]. F_perm after 100 yr: **0.65 / 0.80 / 0.89** for low / medium / high T.
 
 4. **[[IUPAC Biochar Terminology|IUPAC biochar terminology]].** Glossary of terms used in biochar research (IUPAC Technical Report). *Pure Appl. Chem.* DOI: [10.1515/pac-2021-0106](https://doi.org/10.1515/pac-2021-0106). Formal terminology (178 terms).
 

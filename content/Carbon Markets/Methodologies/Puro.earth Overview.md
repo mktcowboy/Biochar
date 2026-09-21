@@ -128,7 +128,7 @@ Open these as standalone chapters:
 
 **Concepts:** [[Biochar as Durable CDR]] · [[Permanence Science for Credits]] · [[MRV Stack]] · [[Double Counting and Credit Ownership]]  
 **Market:** [[Market Hub]] · [[Market Volumes and Pricing]] · [[Buyers and Offtakes]] · [[Historical Deals]] · [[Price Indexes and Benchmarks]] · [[Supply Landscape]] · [[Durable CDR Quality Tiers]] · [[Risks and Controversies]]  
-**US ag:** [[NRCS CPS 336 and US Ag]] (practice standard — not a credit methodology)  
+**US ag:** [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] (practice standard — not a credit methodology)  
 **Science:** [[Permanence]] · [[Properties]] · [[Production]] · [[Contaminants and Quality]] · [[CDR Potential and IPCC Accounting]] · [[Science Hub]]  
 **Hubs:** [[Carbon Markets Hub]] · [[Biochar Home]] · [[Key Sources]]
 

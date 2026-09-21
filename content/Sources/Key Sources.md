@@ -16,9 +16,9 @@ The most-cited papers and reports each have their own note in `Sources/`. Each n
 
 - **In Obsidian**, the embed above is a live table with three views: *All sources*, *By type*, and *Not checked against full text*. On the published site, open the Sources folder page instead (Quartz ignores `.base` files).
 - **Adding a source note:** create it from `content/templates/Source Note.md` (point Obsidian's Templates setting at `content/templates`), fill in the properties, and link to it from the topic notes that cite it.
-- **Company reports with their own note:** [[Exomad Green Corn and Bean Field Study]] · [[Oasis Vineyard Trial 2023]] · [[Earth Foundries Co-Composting Report 2023]] · [[Pacific Biochar Compost White Paper 2023]]
+- **Company reports with their own note:** [[Exomad Green Corn and Bean Field Study]] · [[Oasis Vineyard Biochar Trial|vineyard biochar field trial]] · [[Napa Co-composting CASP Report|reports Napa CASP co-composting]] · [[Biochar Compost White Paper|explains biochar plus compost practice]]
 - **Applications chapter clusters (2026-09-16):** compost ([[Biochar Compost and Manure Blends]] · [[Co-composting Science]] · [[Farm Co-composting Practice]] · [[Compost Blend Safety]] · [[Matrix Pathways for Credits]]); rates ([[Application Rates and Methods]] · [[Field Rates by System]] · [[Incorporation Topdress Banding]] · [[Equipment and Timing]] · [[On-farm Trial Design]]); economics ([[Agronomic Economics]] · [[Cost Components]] · [[Fertilizer Displacement]]); GHG ([[GHG Fluxes]] · [[Nitrous Oxide Fluxes]] · [[Methane Fluxes]] · [[Priming and SOC Interactions]])
-- **Industry org / standards / survey notes:** [[US Biochar Initiative]] · [[USBI Guidance vs Vault Notes]] · [[USBI Ag Guidelines 2023]] · [[ANSI ASABE USBI S668]] · [[ABI 2025 US Biochar Market Report]]
+- **Industry org / standards / survey notes:** [[US Biochar Initiative]] · [[USBI Guidance vs Vault Notes]] · [[Farm Biochar Application Guidelines|guides farm biochar application]] · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]] · [[US Biochar Market Report 2025|surveys the US biochar market]]
 - **PFAS chapter and research dump (2026-09-16):** [[PFAS]] · `/workspace/biochar-research/pfas-biochar.md`
 - **Biochar vs activated carbon (2026-09-21):** [[Biochar vs Activated Carbon]]
 
@@ -37,7 +37,7 @@ The most-cited papers and reports each have their own note in `Sources/`. Each n
 | Wang et al. 2016 | Cited for "short-term positive priming"; the paper found negative priming in short studies | [[Stability and Priming Meta-analysis|meta-analyzes stability and priming]] |
 | Jia et al. 2023 | Called "field-focused"; it pools lab, pot and field studies | [[Global GHG and Yield Patterns|global GHG and yield patterns]] |
 | Kammann et al. 2015 | "+305%" and "3–5 g NO₃⁻-N kg⁻¹" | Up to 305% *of* the control; ~2.1–5.2 g kg⁻¹ depending on method — [[Co-compost Nitrate Capture|shows co-compost nitrate capture]] |
-| Earth Foundries report | "10% biochar" | 10% by volume — [[Earth Foundries Co-Composting Report 2023]] |
+| Earth Foundries report | "10% biochar" | 10% by volume — [[Napa Co-composting CASP Report|reports Napa CASP co-composting]] |
 | Quilliam et al. 2013 clover caveat | Comes from a different Quilliam paper | https://doi.org/10.1007/s11104-012-1411-4 |
 
 ## Live link directory (bookmark)
@@ -61,19 +61,19 @@ The most-cited papers and reports each have their own note in `Sources/`. Each n
 | Integrity | ICVCM home | https://www.icvcm.org/ |
 | Integrity | ICVCM Puro CCP-Eligible | https://www.icvcm.org/integrity-council-confirms-carbon-crediting-program-puro-earth-as-ccp-eligible/ |
 | Integrity | ICVCM VM0044 CCP decision PDF | https://icvcm.org/wp-content/uploads/2025/08/M43_VCS_VM0044_v1.2_2025.pdf |
-| Science | IPCC 2019 biochar appendix PDF | https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf · [[IPCC 2019 Biochar Appendix]] |
+| Science | IPCC 2019 biochar appendix PDF | https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf · [[IPCC Biochar Soil Carbon Method|estimates soil C stock change from biochar]] |
 | Product standard | EBC | https://www.european-biochar.org/ |
 | Product standard | EBC Guidelines 10.5E PDF | https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf |
 | Product standard | IBI | https://biochar-international.org/ |
-| Policy | NRCS CPS 336 FAQ (April 2026) | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf · [[NRCS CPS 336 FAQ 2026]] |
-| Policy | NRCS CPS 336 standard (November 2022) | https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf · [[NRCS CPS 336 Standard 2022]] |
+| Policy | NRCS CPS 336 FAQ (April 2026) | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf · [[Soil Carbon Amendment FAQ|answers CPS 336 planning questions]] |
+| Policy | NRCS CPS 336 standard (November 2022) | https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf · [[Soil Carbon Amendment Standard|defines NRCS practice 336]] |
 | Policy | ABI NRCS funding quick guide (2026) | https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Funding-2026-final.pdf |
 | Industry org | American Biochar Institute (ex-USBI) | https://biochar.org/about-abi/ · [[US Biochar Initiative]] |
 | Industry org | USBI → ABI welcome | https://biochar.org/usbi/ |
-| Standard | ANSI/ASABE/USBI S668 | https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf · [[ANSI ASABE USBI S668]] |
-| Market report | ABI 2025 U.S. Biochar Market Report | https://biochar.org/wp-content/uploads/2026/07/2025-United-States-Biochar-Market-Report.pdf · [[ABI 2025 US Biochar Market Report]] |
+| Standard | ANSI/ASABE/USBI S668 | https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]] |
+| Market report | ABI 2025 U.S. Biochar Market Report | https://biochar.org/wp-content/uploads/2026/07/2025-United-States-Biochar-Market-Report.pdf · [[US Biochar Market Report 2025|surveys the US biochar market]] |
 | Guidance | ABI Ag Guidelines 2026 | https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-for-Agriculture-Applications-2026.pdf |
-| Guidance | USBI Ag Guidelines 2023 (Farmland Info) | https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf · [[USBI Ag Guidelines 2023]] |
+| Guidance | USBI Ag Guidelines 2023 (Farmland Info) | https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf · [[Farm Biochar Application Guidelines|guides farm biochar application]] |
 | Policy | EU CRCF Delegated Reg. 2026/285 | https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32026R0285 |
 
 Prefer these live pages for markets, pricing, registries, and standards.
@@ -121,7 +121,7 @@ Each entry appears once. Author names, years, and journals match Crossref as of 
 - Holly et al. (2024). PFAS leaching from biosolids and mitigation with biochar in undisturbed columns. *ACS ES&T Water*. [10.1021/acsestwater.3c00414](https://doi.org/10.1021/acsestwater.3c00414)
 - EPA Method 1633A (2024), 40 PFAS in aqueous, solid, biosolids, and tissue matrices. [PDF](https://www.epa.gov/system/files/documents/2024-12/method-1633a-december-5-2024-508-compliant.pdf)
 - EBC Guidelines 10.5E (2025-08-14). [PDF](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)
-- ANSI/ASABE/USBI S668 NOV2025ED. [PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[ANSI ASABE USBI S668]]
+- ANSI/ASABE/USBI S668 NOV2025ED. [PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]]
 - Phyllis2 biomass database. [https://phyllis.nl/](https://phyllis.nl/)
 
 ### Activated carbon comparison (added 2026-09-21; checked against Crossref)
@@ -276,7 +276,7 @@ Vault CSI cluster: [[CSI Global Biochar C-Sink]] · [[CSI Overview]] · [[CSI GP
 
 ## Market data — trackers and indexes
 
-- ABI 2025 United States Biochar Market Report — https://biochar.org/wp-content/uploads/2026/07/2025-United-States-Biochar-Market-Report.pdf · [[ABI 2025 US Biochar Market Report]] (physical production / revenue survey; not CDR.fyi deliveries)
+- ABI 2025 United States Biochar Market Report — https://biochar.org/wp-content/uploads/2026/07/2025-United-States-Biochar-Market-Report.pdf · [[US Biochar Market Report 2025|surveys the US biochar market]] (physical production / revenue survey; not CDR.fyi deliveries)
 - CDR.fyi Biochar Snapshot 2025 — https://www.cdr.fyi/blog/biochar-carbon-removal-market-snapshot-2025 (2025-09-09)
 - CDR.fyi 2024 Year in Review — https://www.cdr.fyi/blog/2024-year-in-review (2025-02-14)
 - CDR.fyi 2026 Q1 Durable CDR Update — https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof (2026-05-18)

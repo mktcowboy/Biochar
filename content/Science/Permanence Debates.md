@@ -34,7 +34,7 @@ Chapter on **open scientific and policy debates** about biochar permanence: deca
 
 | Camp | Core tools | Typical horizons | Exemplars |
 |---|---|---|---|
-| **Decomposition-model** | Multi-pool decay, H/C_org, T-class, soil T | 100y (IPCC/Woolf); “several centuries” / 200y in some markets | [[IPCC 2019 Biochar Appendix]], [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]], Puro CORC200+, Isometric 200y |
+| **Decomposition-model** | Multi-pool decay, H/C_org, T-class, soil T | 100y (IPCC/Woolf); “several centuries” / 200y in some markets | [[IPCC Biochar Soil Carbon Method|estimates soil C stock change from biochar]], [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]], Puro CORC200+, Isometric 200y |
 | **Inertinite / Ro** | Random reflectance, HyPy-resistant C | Millennial / “permanent” upper classes | [[Inertinite Permanence Benchmark|inertinite permanence benchmark]], Isometric 1000y, CSI upper class |
 
 [[Inertinite Permanence Benchmark|inertinite permanence benchmark]] IBRo2% (Ro = 2%) and modelled ~100 Myr half-life under stated oxidizing conditions ([DOI](https://doi.org/10.1016/j.coal.2023.104409)) energize the Ro camp. [Schmidt et al. 2025](https://doi.org/10.1111/gcbb.70092) push back: do not equate modern biochar with geological inertinite; refuse **100%** permanence declarations; recommend policy definitions on the order of **centuries** with registered material properties, traceable application, conservative modelling, and long-term field validation.

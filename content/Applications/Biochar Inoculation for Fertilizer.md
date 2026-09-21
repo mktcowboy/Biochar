@@ -10,15 +10,15 @@ Chapter on **inoculating / charging / activating / enriching** biochar before us
 
 > **Companion deep chapters (2026-09-14):** [[Biochar Nutrients and Fertilizer Chemistry]] (N/P/K, CEC, BBF chemistry, FUE) · [[Biochar Microbes and Soil Biology]] (habitat, inocula meta, AMF/PGPR, priming, disease). This note stays the **practice/protocol** spine—charge methods, COMBI, products, decision trees—without duplicating those chemistry/biology chapters.
 
-**Related notes:** [[US Biochar Initiative]] · [[USBI Guidance vs Vault Notes]] · [[Biochar Nutrients and Fertilizer Chemistry]] · [[Biochar Microbes and Soil Biology]] · [[Biochar Compost and Manure Blends]] · [[Soil and Agriculture]] · [[Application Rates and Methods]] · [[Crop Yield Effects]] · [[Agronomic Economics]] · [[Contaminants and Quality]] · [[Product Standards EBC IBI]] · [[NRCS CPS 336 and US Ag]] · [[MRV Stack]] · [[Applications Hub]] · [[Key Sources]]
+**Related notes:** [[US Biochar Initiative]] · [[USBI Guidance vs Vault Notes]] · [[Biochar Nutrients and Fertilizer Chemistry]] · [[Biochar Microbes and Soil Biology]] · [[Biochar Compost and Manure Blends]] · [[Soil and Agriculture]] · [[Application Rates and Methods]] · [[Crop Yield Effects]] · [[Agronomic Economics]] · [[Contaminants and Quality]] · [[Product Standards EBC IBI]] · [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] · [[MRV Stack]] · [[Applications Hub]] · [[Key Sources]]
 
 ---
 
 ## 1. Purpose and problem statement
 
-Raw (fresh, uninoculated) woody biochar is typically **nutrient-poor**, highly porous, and surface-reactive. Applied alone at agronomic rates it can **sorb plant-available nutrients** from soil solution and, especially in the first season, contribute to **temporary N (and other nutrient) immobilization** and yield drag. USDA NRCS states that fresh biochar “has a chance to reduce crop yields by binding and immobilizing nutrients” and recommends charging with compost or manure ([CPS 336 FAQ, Apr 2026](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[NRCS CPS 336 FAQ 2026]]). The national practice standard explicitly says to **inoculate biochar with compost, compost tea, or manure** ([CPS 336 2022 PDF](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf) · [[NRCS CPS 336 Standard 2022]]).
+Raw (fresh, uninoculated) woody biochar is typically **nutrient-poor**, highly porous, and surface-reactive. Applied alone at agronomic rates it can **sorb plant-available nutrients** from soil solution and, especially in the first season, contribute to **temporary N (and other nutrient) immobilization** and yield drag. USDA NRCS states that fresh biochar “has a chance to reduce crop yields by binding and immobilizing nutrients” and recommends charging with compost or manure ([CPS 336 FAQ, Apr 2026](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[Soil Carbon Amendment FAQ|answers CPS 336 planning questions]]). The national practice standard explicitly says to **inoculate biochar with compost, compost tea, or manure** ([CPS 336 2022 PDF](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf) · [[Soil Carbon Amendment Standard|defines NRCS practice 336]]).
 
-The US Biochar Initiative (now American Biochar Institute) agricultural guidelines likewise treat **charging / inoculating / activating / blending** as post-processing that “fills biochar surface functional groups with nutrients and microbes,” calling inoculation **critical** to minimize first-year immobilization ([USBI Ag Guidelines PDF](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf) · [[USBI Ag Guidelines 2023]]).
+The US Biochar Initiative (now American Biochar Institute) agricultural guidelines likewise treat **charging / inoculating / activating / blending** as post-processing that “fills biochar surface functional groups with nutrients and microbes,” calling inoculation **critical** to minimize first-year immobilization ([USBI Ag Guidelines PDF](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf) · [[Farm Biochar Application Guidelines|guides farm biochar application]]).
 
 **Scientific demonstration of the contrast:** [[Co-compost Nitrate Capture|shows co-compost nitrate capture]] showed that **2% (w/w) untreated** high-temperature wood biochar reduced quinoa aboveground biomass to **~60% of control**, while the **same rate of co-composted** biochar raised biomass to up to **~305% of control**, with captured **nitrate and phosphate** as central mechanisms ([DOI](https://doi.org/10.1038/srep11080); PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC4460888/).
 
@@ -35,7 +35,7 @@ Practitioners and papers use overlapping words. Map them deliberately:
 | **Inoculate** | NRCS, USBI, farm practice | Load char with **biological** media and/or microbes (compost, compost tea, manure, EM, mycorrhizae, PGP bacteria) before or during soil application ([CPS 336](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf); [USBI](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf)) |
 | **Charge / activate** | USBI, retailers, growers | Synonyms for filling pores/surfaces with **nutrients ± microbes**; USBI lists inoculating/charging/activating/blending/mixing together ([USBI](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf)) |
 | **Enrich / BCF / BBF** | Peer-reviewed literature | Produce **nutrient-enriched biochar fertilizers** via direct pyrolysis of nutrient-rich feedstocks, **pre-pyrolysis** impregnation, or **post-pyrolysis** nutrient loading ([Ndoung et al. 2021](https://doi.org/10.1016/j.heliyon.2021.e08473); PMC https://pmc.ncbi.nlm.nih.gov/articles/PMC8646155/; [[Biochar-Based Fertilizer Meta-analysis|meta-analyzes biochar fertilizers]] [DOI](https://doi.org/10.1007/s11104-021-05276-2); 2025 review [DOI](https://doi.org/10.3390/agronomy15051104)) |
-| **Co-compost / COMBI** | Science + industry | Add biochar **into** active composting so surfaces develop an **organic coating** and capture nutrients (esp. nitrate); product often outperforms simple post-compost blending ([Kammann 2015](https://doi.org/10.1038/srep11080); [[COMBI Soil Quality Review|reviews co-composted biochar soil effects]] · [DOI](https://doi.org/10.1016/j.jenvman.2020.111443); [Pacific Biochar white paper](https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf) · [[Pacific Biochar Compost White Paper 2023]]) |
+| **Co-compost / COMBI** | Science + industry | Add biochar **into** active composting so surfaces develop an **organic coating** and capture nutrients (esp. nitrate); product often outperforms simple post-compost blending ([Kammann 2015](https://doi.org/10.1038/srep11080); [[COMBI Soil Quality Review|reviews co-composted biochar soil effects]] · [DOI](https://doi.org/10.1016/j.jenvman.2020.111443); [Pacific Biochar white paper](https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf) · [[Biochar Compost White Paper|explains biochar plus compost practice]]) |
 | **Physicochemical post-processing** | Thomas 2021 and engineering literature | Leaching, grinding/sieving, aeration/heating, steam or chemical activation — **distinct** from biological inoculation; Thomas’s meta **excluded** co-composting and inoculation ([DOI](https://doi.org/10.1007/s42773-021-00115-0)) |
 
 **Takeaway:** “Inoculation” in farm language ≈ a subset of what papers call **enrichment / BBF production / co-composting**. This chapter covers the whole continuum: mineral solutions, urine/digestate, compost teas, solid co-composting, and microbial carriers.
@@ -137,7 +137,7 @@ Farm “inoculation” is mostly **post-treatment** (plus co-composting as a spe
 | Antonangelo et al. 2021 (COMBI) | **10–15% w/w** optimal | COMBI > post-blend for many soil/crop outcomes | https://doi.org/10.1016/j.jenvman.2020.111443 |
 | Pacific Biochar white paper 2023 | Wood biochar **5–10% by weight**, early stage | Practitioner synthesis citing peer literature | https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf |
 | Steiner et al. 2010 | Up to **20%** DW in poultry litter | NH₃ − up to **64%**; N loss − up to **52%** | https://doi.org/10.2134/jeq2009.0337 |
-| Earth Foundries × Napa Recycling | **10%** (by volume) in green/food compost | VOC −**33%**; process benefits | https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf · [[Earth Foundries Co-Composting Report 2023]] |
+| Earth Foundries × Napa Recycling | **10%** (by volume) in green/food compost | VOC −**33%**; process benefits | https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf · [[Napa Co-composting CASP Report|reports Napa CASP co-composting]] |
 
 **Process co-benefits of co-composting** (nutrient conservation, lower NH₃/CH₄/N₂O, faster maturity indices): see Pacific Biochar synthesis and Sanchez-Monedero 2018; also Yin et al. 2021 GHG-in-composting review ([DOI](https://doi.org/10.1016/j.scitotenv.2021.149294)). Field agronomy of COMBI: Antonangelo 2021 ([DOI](https://doi.org/10.1016/j.jenvman.2020.111443)).
 
@@ -204,7 +204,7 @@ Biochar + microbial inocula > biochar alone for soil N, SOC, crop productivity o
 |---|---|---|
 | Nepal pumpkin urine-biochar | Large yield advantage vs urine or biochar alone at **0.75 t ha⁻¹** char | https://doi.org/10.3390/agriculture5030723 |
 | Nepal 21 trials / 13 crops | Liquid-enriched biochar fertilizers | https://doi.org/10.1002/ldr.2761 |
-| Oasis Vineyard CA | Compost+biochar **+36%** 5-harvest mean vs control (combo > either alone) | https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf · [[Oasis Vineyard Trial 2023]] |
+| Oasis Vineyard CA | Compost+biochar **+36%** 5-harvest mean vs control (combo > either alone) | https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf · [[Oasis Vineyard Biochar Trial|vineyard biochar field trial]] |
 | COMBI review | Co-composted product advantages vs post-blend | https://doi.org/10.1016/j.jenvman.2020.111443 |
 | FERTIPLUS EU (Sánchez-Monedero 2019) | Biochar-blended compost enhanced fertility metrics across systems | https://doi.org/10.3390/agronomy9050225 |
 | Exomad/CIAT, Santa Cruz, Bolivia | Raw char ~+15% (both crops); with NPKS + microbes, corn +32% and beans +34% vs control (beans +25% as printed) — yield ANOVA not significant; no fertilizer-only arm | https://www.exomadgreen.com/_files/ugd/8b0a69_153ad8a2b8244bfc8a136176be56a408.pdf · [[Exomad Green Corn and Bean Field Study]] |
@@ -275,7 +275,7 @@ Pelletized / prilled biochar–fertilizer composites and NUE ranges are surveyed
 
 ### 9.2 NRCS CPS 336 (not a credit methodology)
 
-CPS 336 **cost-shares** biochar and/or compost soil carbon amendments, including explicit **inoculation** language and blend scenarios ([2022 PDF](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf); [FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf); [[NRCS CPS 336 and US Ag]]). Eligibility for EQIP/CSP is separate from Puro/Verra CORC/VCU issuance.
+CPS 336 **cost-shares** biochar and/or compost soil carbon amendments, including explicit **inoculation** language and blend scenarios ([2022 PDF](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf); [FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf); [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]]). Eligibility for EQIP/CSP is separate from Puro/Verra CORC/VCU issuance.
 
 ### 9.3 Composting GHG co-benefits vs CDR tonnes
 
@@ -299,7 +299,7 @@ Need agronomic response this season?
 
 ## 11. Key sources (outbound)
 
-Source notes (checked figures and full citations): [[Co-compost Nitrate Capture|shows co-compost nitrate capture]] · [[Biochar-Based Fertilizer Meta-analysis|meta-analyzes biochar fertilizers]] · [[Microbial Inocula Meta-analysis|meta-analyzes microbial inocula]] · [[Urine-Enhanced Biochar Field Trial|urine-enhanced biochar field trial]] · [[Liquid Nutrient Enrichment Field Trials|liquid nutrient enrichment trials]] · [[COMBI Soil Quality Review|reviews co-composted biochar soil effects]] · [[Charosphere Microbial Habitat|studies charosphere microbial habitat]] · [[USBI Ag Guidelines 2023]] · [[NRCS CPS 336 Standard 2022]] · [[NRCS CPS 336 FAQ 2026]] · [[Pacific Biochar Compost White Paper 2023]]. Other references:
+Source notes (checked figures and full citations): [[Co-compost Nitrate Capture|shows co-compost nitrate capture]] · [[Biochar-Based Fertilizer Meta-analysis|meta-analyzes biochar fertilizers]] · [[Microbial Inocula Meta-analysis|meta-analyzes microbial inocula]] · [[Urine-Enhanced Biochar Field Trial|urine-enhanced biochar field trial]] · [[Liquid Nutrient Enrichment Field Trials|liquid nutrient enrichment trials]] · [[COMBI Soil Quality Review|reviews co-composted biochar soil effects]] · [[Charosphere Microbial Habitat|studies charosphere microbial habitat]] · [[Farm Biochar Application Guidelines|guides farm biochar application]] · [[Soil Carbon Amendment Standard|defines NRCS practice 336]] · [[Soil Carbon Amendment FAQ|answers CPS 336 planning questions]] · [[Biochar Compost White Paper|explains biochar plus compost practice]]. Other references:
 
 | Topic | Citation | URL |
 |---|---|---|
@@ -432,7 +432,7 @@ From FAQ Table 1 ([PDF](https://nrcs-prod.azureedge.us/sites/default/files/2026-
 | 80% biochar / 20% compost | 1.1 tons/ac | 3.2 yd³/ac |
 | 100% biochar | — | 4 yd³/ac |
 
-Full discussion: [[Biochar Compost and Manure Blends]] · [[NRCS CPS 336 and US Ag]].
+Full discussion: [[Biochar Compost and Manure Blends]] · [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]].
 
 ### 14.5 Moisture, aeration, temperature (composting context)
 
@@ -454,7 +454,7 @@ Tripti et al. (2017) report biochar carrier maintaining high cfu with strain L2 
 | Puga BN fertilizers maize vs urea | Yield **~+26%** | https://doi.org/10.1016/j.scitotenv.2019.135375 |
 | Physicochemical post-process vs raw (meta; excludes biological) | Plant growth **+14%** | https://doi.org/10.1007/s42773-021-00115-0 |
 
-Yield and biomass figures from [[Co-compost Nitrate Capture|shows co-compost nitrate capture]], [[Biochar-Based Fertilizer Meta-analysis|meta-analyzes biochar fertilizers]], [[Fertilizer-Controlled Yield Meta-analysis|meta-analyzes yields with fertilizer controls]], [[Urine-Enhanced Biochar Field Trial|urine-enhanced biochar field trial]], [[Oasis Vineyard Trial 2023]], [[Crop Productivity Meta-analysis|meta-analyzes crop productivity]] and [[Tropical vs Temperate Yields|compares tropical vs temperate yields]] are kept in their source notes.
+Yield and biomass figures from [[Co-compost Nitrate Capture|shows co-compost nitrate capture]], [[Biochar-Based Fertilizer Meta-analysis|meta-analyzes biochar fertilizers]], [[Fertilizer-Controlled Yield Meta-analysis|meta-analyzes yields with fertilizer controls]], [[Urine-Enhanced Biochar Field Trial|urine-enhanced biochar field trial]], [[Oasis Vineyard Biochar Trial|vineyard biochar field trial]], [[Crop Productivity Meta-analysis|meta-analyzes crop productivity]] and [[Tropical vs Temperate Yields|compares tropical vs temperate yields]] are kept in their source notes.
 
 ### 15.2 NUE / nutrient retention
 
@@ -477,7 +477,7 @@ Results of the inocula meta-analysis are kept in [[Microbial Inocula Meta-analys
 |---|---|---|
 | Li et al. 2016 N₂O in composting | **−54%** N₂O with biochar (nirK suppression) | https://doi.org/10.1186/s13568-016-0208-x |
 
-Composting figures from [[Pacific Biochar Compost White Paper 2023]] and [[Earth Foundries Co-Composting Report 2023]] are kept in their source notes.
+Composting figures from [[Biochar Compost White Paper|explains biochar plus compost practice]] and [[Napa Co-composting CASP Report|reports Napa CASP co-composting]] are kept in their source notes.
 
 ---
 
@@ -523,6 +523,6 @@ Ndoung et al. (2021) and the 2025 Agronomy BCF review flag: scarce **long-term f
 - [[Crop Yield Effects]] — metas and Nepal/Oasis numbers
 - [[GHG Fluxes]] — soil N₂O/CH₄ vs composting-process GHGs
 - [[Agronomic Economics]] — cost context
-- [[NRCS CPS 336 and US Ag]] · [[Product Standards EBC IBI]] · [[Contaminants and Quality]]
+- [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] · [[Product Standards EBC IBI]] · [[Contaminants and Quality]]
 - [[Puro Biochar Methodology Edition 2025]] · [[Verra VM0044]] · [[MRV Stack]] · [[Double Counting and Credit Ownership]]
 - [[Applications Hub]] · [[Biochar Home]]

@@ -12,7 +12,7 @@ checked_against: full text
 verified: 2026-09-14
 ---
 
-# IPCC 2019 Biochar Appendix
+# IPCC Biochar Soil Carbon Method
 
 **Citation:** IPCC (2019). Appendix 4: Method for estimating the change in mineral soil organic carbon stocks from biochar amendments: basis for future methodological development. In *2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories*, Vol. 4, Ch. 2. https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf
 

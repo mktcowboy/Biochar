@@ -22,7 +22,7 @@ Report context: **2026-09-16**.
 | [[Biochar Inoculation for Fertilizer]] | Full charging / BBF / COMBI practice spine |
 | [[Biochar Nutrients and Fertilizer Chemistry]] · [[Biochar Microbes and Soil Biology]] | Chemistry / biology companions |
 
-Also: [[Application Rates and Methods]] · [[Soil and Agriculture]] · [[NRCS CPS 336 and US Ag]] · [[Agronomic Economics]] · [[GHG Fluxes]].
+Also: [[Application Rates and Methods]] · [[Soil and Agriculture]] · [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] · [[Agronomic Economics]] · [[GHG Fluxes]].
 
 ---
 
@@ -35,7 +35,7 @@ Also: [[Application Rates and Methods]] · [[Soil and Agriculture]] · [[NRCS CP
 | Microbial life | Habitat (initially often sterile) | Active community | Inoculation of pores |
 | Risk if misused | Nutrient immobilization; dust/erosion | Pathogens if immature; salinity | Manage maturity + EC |
 
-NRCS April 2026 FAQ: biochar as long-term C “sponge”; compost as nutrient/microbial engine; combination often preferred ([FAQ PDF](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[NRCS CPS 336 FAQ 2026]]). National CPS 336: “Inoculate biochar with compost, compost tea, or manure…” ([2022 PDF](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf) · [[NRCS CPS 336 Standard 2022]]).
+NRCS April 2026 FAQ: biochar as long-term C “sponge”; compost as nutrient/microbial engine; combination often preferred ([FAQ PDF](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[Soil Carbon Amendment FAQ|answers CPS 336 planning questions]]). National CPS 336: “Inoculate biochar with compost, compost tea, or manure…” ([2022 PDF](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf) · [[Soil Carbon Amendment Standard|defines NRCS practice 336]]).
 
 Persistence contrast cited by NRCS FAQ: roughly **60–80%** of biochar C remaining at 100 years vs **2–14%** of compost C; ~**10 yd³** biochar ≈ 1-year soil-C increase of ~**40 yd³** compost in their comparison ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)). Cross-check F_perm with [[Permanence]] / [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] ([DOI](https://doi.org/10.1021/acs.est.1c02425)).
 
@@ -66,7 +66,7 @@ NRCS allows mixing biochar with raw manure as inoculant; **CPS 336 does not pay 
 
 ### Oasis Vineyard (Monterey County, CA)
 
-Five-harvest means vs control: **compost+biochar +36%**, biochar +25%, compost +29% yield; combo highest five-season cumulative tonnage (**41.7 t/ac** vs control **31.7**). Economics used 2016 delivered prices compost **$40/ton**, biochar **$240/ton** wet ([Oasis PDF](https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf) · [[Oasis Vineyard Trial 2023]]). Full case: [[Real World Soil Projects]] · [[Agronomic Economics]].
+Five-harvest means vs control: **compost+biochar +36%**, biochar +25%, compost +29% yield; combo highest five-season cumulative tonnage (**41.7 t/ac** vs control **31.7**). Economics used 2016 delivered prices compost **$40/ton**, biochar **$240/ton** wet ([Oasis PDF](https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf) · [[Oasis Vineyard Biochar Trial|vineyard biochar field trial]]). Full case: [[Real World Soil Projects]] · [[Agronomic Economics]].
 
 ### Nepal enriched systems
 
@@ -82,7 +82,7 @@ Urine-loaded biochar mixed with compost outperformed urine or biochar alone in p
 
 | Project / source | Loading | Headline | URL |
 |---|---|---|---|
-| Earth Foundries × Napa Recycling 2023 | **10% by volume** | VOC **−33%**; curing ~1 wk sooner; NPK **+11%** | https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf · [[Earth Foundries Co-Composting Report 2023]] |
+| Earth Foundries × Napa Recycling 2023 | **10% by volume** | VOC **−33%**; curing ~1 wk sooner; NPK **+11%** | https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf · [[Napa Co-composting CASP Report|reports Napa CASP co-composting]] |
 | Li et al. 2025 composting-gas meta | **10–20%** w/w dry (recommended band) | Mean CH₄ **−53.7%**, N₂O **−49.8%**, NH₃ **−35.9%** | https://doi.org/10.48130/nc-0025-0003 |
 | Steiner et al. 2010 poultry litter | 5% / 20% pine-chip BC | NH₃ down up to **64%**; total N loss down up to **52%** | https://doi.org/10.2134/jeq2009.0337 |
 | SEC / Napa Recycling American Canyon | New pyrolysis → compost blend | Farm/garden market pathway (2025) | https://sonomabiocharinitiative.org/sec-and-napa-recycling-pyrolysis-startup/ |
@@ -101,7 +101,7 @@ These process metrics ≠ soil N₂O claims ([[GHG Fluxes]]).
 
 1. Test soil (pH, OM, P, EC) and char/compost lab sheets ([[Compost Blend Safety]], [[Contaminants and Quality]]).
 2. Prefer mature compost; avoid immature pathogen risk (NRCS FAQ).
-3. Prefer **early co-composting** when a pile exists ([[Farm Co-composting Practice]]); else pre-charge char **1–3 weeks** ([USBI](https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-for-Agriculture-Applications-2026.pdf) · [[USBI Ag Guidelines 2023]]).
+3. Prefer **early co-composting** when a pile exists ([[Farm Co-composting Practice]]); else pre-charge char **1–3 weeks** ([USBI](https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-for-Agriculture-Applications-2026.pdf) · [[Farm Biochar Application Guidelines|guides farm biochar application]]).
 4. Match NRCS scenario quantities if seeking EQIP/CSP cost-share.
 5. Incorporate; avoid steep erodible surface-only spreads ([[Incorporation Topdress Banding]]).
 6. If stacking voluntary CDR credits, lock ownership and no-double-claim language ([[Matrix Pathways for Credits]], [[Double Counting and Credit Ownership]]).
@@ -125,4 +125,4 @@ Habitat caveat: [[Charosphere Microbial Habitat|studies charosphere microbial ha
 - [[US Biochar Initiative]] · [[USBI Guidance vs Vault Notes]] · [ABI Compost 2026 Draft](https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Compost-2026-Draft-V1.pdf)
 - [[Co-composting Science]] · [[Farm Co-composting Practice]] · [[Compost Blend Safety]] · [[Matrix Pathways for Credits]]
 - [[Biochar Inoculation for Fertilizer]] · [[Application Rates and Methods]] · [[Real World Soil Projects]] · [[Crop Yield Effects]]
-- [[NRCS CPS 336 and US Ag]] · [[Product Standards EBC IBI]] · [[Applications Hub]]
+- [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] · [[Product Standards EBC IBI]] · [[Applications Hub]]

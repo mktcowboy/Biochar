@@ -8,7 +8,7 @@ updated: 2026-09-16
 
 Chapter on **optical random reflectance (Ro)** and **hydropyrolysis-resistant carbon (BC_HyPy)** as advanced permanence proxies beyond elemental ratios and pyrolysis-temperature class. Positions the “inertinite / Ro camp” relative to Woolf-style decay models without duplicating credit rules ([[Permanence Science for Credits]]). Report context: **2026-09-16**.
 
-**Related notes:** [[Permanence]] · [[H-Corg and O-Corg]] · [[Woolf IPCC Fperm]] · [[Permanence Debates]] · [[Inertinite Permanence Benchmark|inertinite permanence benchmark]] · [[ANSI ASABE USBI S668]] · [[CSI Global Biochar C-Sink]] · [[Science Hub]] · [[Key Sources]]
+**Related notes:** [[Permanence]] · [[H-Corg and O-Corg]] · [[Woolf IPCC Fperm]] · [[Permanence Debates]] · [[Inertinite Permanence Benchmark|inertinite permanence benchmark]] · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]] · [[CSI Global Biochar C-Sink]] · [[Science Hub]] · [[Key Sources]]
 
 ---
 
@@ -22,7 +22,7 @@ Elemental ratios and T-class \(F_\mathrm{perm}\) are accessible but imperfect: s
 
 ### 2.1 What it measures
 
-**Random reflectance** is the percentage of incident light reflected from polished carbonaceous particles under oil immersion—standard coal petrography (ISO 7404-5). Higher Ro tracks higher aromatic condensation / thermal rank. [[ANSI ASABE USBI S668]] §10.3 specifies Ro per **ISO 7404-5** (white-light microscopy) as a permanence assessment method ([PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf))—methods only, not pass/fail.
+**Random reflectance** is the percentage of incident light reflected from polished carbonaceous particles under oil immersion—standard coal petrography (ISO 7404-5). Higher Ro tracks higher aromatic condensation / thermal rank. [[Biochar Lab Measurement Standard|standardizes biochar lab testing]] §10.3 specifies Ro per **ISO 7404-5** (white-light microscopy) as a permanence assessment method ([PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf))—methods only, not pass/fail.
 
 ### 2.2 Sanei et al. 2024 inertinite benchmark
 
@@ -91,7 +91,7 @@ Synthesis for this vault: use **Ro/HyPy to document high condensation** and to s
 - [Sanei et al. 2024](https://doi.org/10.1016/j.coal.2023.104409) · [[Inertinite Permanence Benchmark|inertinite permanence benchmark]]
 - [Schmidt et al. 2025](https://doi.org/10.1111/gcbb.70092)
 - [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]]
-- [ANSI S668 PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[ANSI ASABE USBI S668]]
+- [ANSI S668 PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]]
 - [EBC 10.5E PDF](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)
 - Credit mapping: [[Permanence Science for Credits]]
 

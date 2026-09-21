@@ -57,8 +57,8 @@ See [[Supply Landscape]] for sourced supplier profiles (Exomad Green, Liferaft, 
 |---|---|
 | [[US Biochar Initiative]] | USBI → **American Biochar Institute (ABI)** — education, standards, fact sheets, conference |
 | [[USBI Guidance vs Vault Notes]] | Where ABI/USBI agrees with Applications/Policy/Markets notes — and where the vault is deeper |
-| [[ABI 2025 US Biochar Market Report]] | Survey benchmarks for U.S. physical production & revenue (2023–2025) |
-| [[ANSI ASABE USBI S668]] | ANSI testing-methods standard for biochar |
+| [[US Biochar Market Report 2025|surveys the US biochar market]] | Survey benchmarks for U.S. physical production & revenue (2023–2025) |
+| [[Biochar Lab Measurement Standard|standardizes biochar lab testing]] | ANSI testing-methods standard for biochar |
 
 ABI home: https://biochar.org/ · About: https://biochar.org/about-abi/ · Document library: https://biochar.org/document-library/
 

@@ -142,7 +142,7 @@ Market context: [[Market Volumes and Pricing]] · [[Buyers and Offtakes]] · [[H
 | Existing kiln; needs retrofit baseline; wants index pricing | **Puro** diligence first |
 | Landfill partner for daily cover; Microsoft-style 1000y buyer | **Isometric burial** |
 | Concrete/asphalt customer; Ro lab access | **Isometric built** (or Verra non-soil if 100y + high-tech OK) |
-| Stacking NRCS CPS 336 practice payments | Policy track separate — [[NRCS CPS 336 and US Ag]]; never double-claim same tonne as credit without rules counsel |
+| Stacking NRCS CPS 336 practice payments | Policy track separate — [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]]; never double-claim same tonne as credit without rules counsel |
 | Already **EBC/WBC**; EU CRCF / GPC–SPC buyer; or Artisan geography | **CSI** diligence — [[CSI Overview]] · [[Product Standards EBC IBI]] |
 
 ---

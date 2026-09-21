@@ -7,7 +7,7 @@ aliases: [CDR potential, IPCC biochar accounting]
 
 ## IPCC inventory method
 
-IPCC *2019 Refinement* Vol. 4 Appendix 4 provides a method for estimating biochar C in mineral cropland/grassland soils ([PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC 2019 Biochar Appendix]]).
+IPCC *2019 Refinement* Vol. 4 Appendix 4 provides a method for estimating biochar C in mineral cropland/grassland soils ([PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC Biochar Soil Carbon Method|estimates soil C stock change from biochar]]).
 
 **F_perm after 100 years** (conservative ~20 °C basis in appendix notes):
 

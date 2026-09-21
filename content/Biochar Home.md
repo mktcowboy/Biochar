@@ -88,10 +88,10 @@ Research vault for biochar science, production, applications, carbon markets, po
 
 | Topic | Note |
 |---|---|
-| US ag (NRCS CPS 336) | [[NRCS CPS 336 and US Ag]] |
-| Product standards | [[Product Standards EBC IBI]] · [[ANSI ASABE USBI S668]] |
+| US ag (NRCS CPS 336) | [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] |
+| Product standards | [[Product Standards EBC IBI]] · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]] |
 | USBI / American Biochar Institute | [[US Biochar Initiative]] · [[USBI Guidance vs Vault Notes]] |
-| Industry landscape | [[Industry Hub]] · [[ABI 2025 US Biochar Market Report]] |
+| Industry landscape | [[Industry Hub]] · [[US Biochar Market Report 2025|surveys the US biochar market]] |
 
 
 ## Primary links / Primary live links (outbound)
@@ -108,7 +108,7 @@ Research vault for biochar science, production, applications, carbon markets, po
 | IBI Biochar Standards | https://biochar-international.org/ |
 | American Biochar Institute (ex-USBI) | https://biochar.org/about-abi/ · [[US Biochar Initiative]] |
 | ICVCM | https://www.icvcm.org/ |
-| IPCC 2019 biochar appendix (PDF) | https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf · [[IPCC 2019 Biochar Appendix]] |
+| IPCC 2019 biochar appendix (PDF) | https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf · [[IPCC Biochar Soil Carbon Method|estimates soil C stock change from biochar]] |
 
 Prefer these live pages for markets, registries, and standards; keep claim-level citations inside topic notes (see [[Key Sources]]).
 

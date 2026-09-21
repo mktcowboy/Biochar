@@ -20,7 +20,7 @@ Thermochemical decomposition of cellulose, hemicellulose, and lignin under oxyge
 2. **Liquids** — bio-oil / pyroligneous fractions
 3. **Gases** — CO₂, CO, H₂, light hydrocarbons (syngas when oxidant is present at gasification levels)
 
-**IPCC inventory definition:** solid from heating biomass **>350 °C** under controlled/limited oxidant so it does not combust (pyrolysis **or** gasification), for mineral soils in cropland/grassland ([[IPCC 2019 Biochar Appendix]] · [PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)).
+**IPCC inventory definition:** solid from heating biomass **>350 °C** under controlled/limited oxidant so it does not combust (pyrolysis **or** gasification), for mineral soils in cropland/grassland ([[IPCC Biochar Soil Carbon Method|estimates soil C stock change from biochar]] · [PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)).
 
 **IUPAC (Bilias et al. 2024):** solid multifunctional porous carbonaceous product of agricultural biomass pyrolysis typically **350–1000 °C**, with molar **H/C_org < 0.7** and **O/C_org < 0.4** ([[IUPAC Biochar Terminology|IUPAC biochar terminology]] · [DOI](https://doi.org/10.1515/pac-2021-0106)).
 
@@ -90,7 +90,7 @@ For EBC-certified production ([EBC 10.5E](https://www.european-biochar.org/media
 ## Primary links
 
 - [Bilias et al. 2024 IUPAC](https://doi.org/10.1515/pac-2021-0106) · [[IUPAC Biochar Terminology|IUPAC biochar terminology]]
-- [IPCC 2019 App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC 2019 Biochar Appendix]]
+- [IPCC 2019 App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC Biochar Soil Carbon Method|estimates soil C stock change from biochar]]
 - [Keiluweit et al. 2010](https://doi.org/10.1021/es9031419)
 - [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]]
 - [EBC 10.5E PDF](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)

@@ -20,7 +20,7 @@ Keep these layers separate when reading methodologies or offtake contracts.
 
 | Note | Role |
 |---|---|
-| [[NRCS CPS 336 and US Ag]] | US conservation practice standard for biochar; not a credit methodology |
+| [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] | US conservation practice standard for biochar; not a credit methodology |
 | [[Product Standards EBC IBI]] | Brief hub — EBC / WBC / IBI roles; ANSI S668 testing methods; links Contaminants, CSI, Puro |
 | [[US Biochar Initiative]] | ABI/USBI — NRCS funding guide, lab-report guidance, ANSI S668 host |
 | [[USBI Guidance vs Vault Notes]] | Comparison of ABI practice PDFs vs vault Policy/Applications notes |
@@ -43,9 +43,9 @@ Keep these layers separate when reading methodologies or offtake contracts.
 
 | Resource | URL |
 |---|---|
-| NRCS CPS 336 FAQ (Apr 2026 PDF) | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf · [[NRCS CPS 336 FAQ 2026]] |
+| NRCS CPS 336 FAQ (Apr 2026 PDF) | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf · [[Soil Carbon Amendment FAQ|answers CPS 336 planning questions]] |
 | ABI NRCS funding quick guide (2026 PDF) | https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Funding-2026-final.pdf |
-| ANSI/ASABE/USBI S668 (testing methods PDF) | https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf · [[ANSI ASABE USBI S668]] |
+| ANSI/ASABE/USBI S668 (testing methods PDF) | https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]] |
 | American Biochar Institute | https://biochar.org/about-abi/ · [[US Biochar Initiative]] |
 | EBC | https://www.european-biochar.org/ |
 | IBI | https://biochar-international.org/ |

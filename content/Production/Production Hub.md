@@ -37,11 +37,11 @@ Credit programs and product standards ([EBC](https://www.european-biochar.org/)/
 
 - Permanence science: [[Permanence]] cluster (H/C, Woolf/IPCC, Ro/HyPy, soil T, debates)
 - Credit permanence interpretations: [[Permanence Science for Credits]] (do not duplicate method text here)
-- Product standards: [[Product Standards EBC IBI]] · [[ANSI ASABE USBI S668]]
+- Product standards: [[Product Standards EBC IBI]] · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]]
 
 ## Primary links
 
-- [IPCC 2019 biochar appendix](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC 2019 Biochar Appendix]]
+- [IPCC 2019 biochar appendix](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC Biochar Soil Carbon Method|estimates soil C stock change from biochar]]
 - [Bilias et al. 2024 IUPAC](https://doi.org/10.1515/pac-2021-0106) · [[IUPAC Biochar Terminology|IUPAC biochar terminology]]
 - [Keiluweit et al. 2010](https://doi.org/10.1021/es9031419)
 - [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] ([DOI](https://doi.org/10.1021/acs.est.1c02425))

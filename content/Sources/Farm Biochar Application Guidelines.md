@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: ["USBI guidelines", "USBI Ag Guidelines"]
+aliases: ["USBI Ag Guidelines", "USBI guidelines", "USBI Ag Guidelines 2023"]
 source_type: guidance
 peer_reviewed: false
 authors: ["Aller, D.", "Trippe, K.", "Smith, B.", "Seman-Varner, R.", "Delaney, M.", "Miles, T."]
@@ -12,7 +12,7 @@ checked_against: full text
 verified: 2026-09-16
 ---
 
-# USBI Ag Guidelines 2023
+# Farm Biochar Application Guidelines
 
 **Citation:** Aller D, Trippe K, Smith B, Seman-Varner R, Delaney M, Miles T (2023). *Biochar Guidelines for Agricultural Applications: Practical insights for applying biochar to annual and perennial crops*. United States Biochar Initiative, in partnership with the Nebraska Forest Service. https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf
 
@@ -39,4 +39,4 @@ verified: 2026-09-16
 
 ABI hosts an updated **Biochar Guidelines for Agriculture Applications** PDF (Nebraska Forest Service partnership) that retains the same charging / rate framing: https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-for-Agriculture-Applications-2026.pdf · org note [[US Biochar Initiative]] · comparison [[USBI Guidance vs Vault Notes]].
 
-Related: [[Biochar Inoculation for Fertilizer]] · [[NRCS CPS 336 FAQ 2026]] · [[Key Sources]]
+Related: [[Biochar Inoculation for Fertilizer]] · [[Soil Carbon Amendment FAQ|answers CPS 336 planning questions]] · [[Key Sources]]

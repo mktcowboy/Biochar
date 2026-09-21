@@ -14,7 +14,7 @@ Report context: **2026-09-16**.
 
 ## 1. Why placement matters
 
-NRCS FAQ: incorporate “the same ways soil amendments are normally incorporated” including tillage, trenching, no-till drill, permanent beds, surface apply, or mixed into water; **best results** with incorporation; surface-only applications risk wind/water loss, especially on slopes ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[NRCS CPS 336 FAQ 2026]]). USBI: incorporate when possible to limit wind erosion ([Ag Guidelines](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf) · [[USBI Ag Guidelines 2023]]).
+NRCS FAQ: incorporate “the same ways soil amendments are normally incorporated” including tillage, trenching, no-till drill, permanent beds, surface apply, or mixed into water; **best results** with incorporation; surface-only applications risk wind/water loss, especially on slopes ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[Soil Carbon Amendment FAQ|answers CPS 336 planning questions]]). USBI: incorporate when possible to limit wind erosion ([Ag Guidelines](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf) · [[Farm Biochar Application Guidelines|guides farm biochar application]]).
 
 Root-zone placement lets **low doses** of enriched chars work ([[Urine-Enhanced Biochar Field Trial|urine-enhanced biochar field trial]] · [DOI](https://doi.org/10.3390/agriculture5030723)).
 
@@ -34,7 +34,7 @@ Concentrate char where roots explore.
 
 | Example | Placement | URL |
 |---|---|---|
-| Oasis Vineyard | GPS-ripped delve down vine row; winged plow to **~30"** in bowl ~**2 ft wide × 2.5 ft deep** | https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf · [[Oasis Vineyard Trial 2023]] |
+| Oasis Vineyard | GPS-ripped delve down vine row; winged plow to **~30"** in bowl ~**2 ft wide × 2.5 ft deep** | https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf · [[Oasis Vineyard Biochar Trial|vineyard biochar field trial]] |
 | USBI perennial guidance | Incorporate directly into planting row | https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf |
 | Exomad | Planting-row incorporation and trenching for perennials | https://www.exomadgreen.com/biochar |
 | Nepal urine-biochar | Localized root-zone pits with compost | https://doi.org/10.3390/agriculture5030723 |

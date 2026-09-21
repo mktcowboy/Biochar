@@ -10,7 +10,7 @@ Hub for **environmental contaminants and product-quality framing** of biochar: P
 
 > **Companion chapters (2026-09-16):** [[PAHs]] · [[Heavy Metals and Ash]] · [[PFAS]] · [[Testing EBC IBI S668]]. This note is the **spine**—risk map, standards roles, and practice takeaway.
 
-**Related notes:** [[Properties]] · [[Production]] · [[Biochar Quality from Process]] · [[Product Standards EBC IBI]] · [[ANSI ASABE USBI S668]] · [[MRV Stack]] · [[Risks and Controversies]] · [[Production Hub]] · [[Key Sources]]
+**Related notes:** [[Properties]] · [[Production]] · [[Biochar Quality from Process]] · [[Product Standards EBC IBI]] · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]] · [[MRV Stack]] · [[Risks and Controversies]] · [[Production Hub]] · [[Key Sources]]
 
 ---
 
@@ -37,9 +37,9 @@ Biochar’s climate and soil value collapses if products introduce **PAHs**, **h
 | Layer | Examples | Role |
 |---|---|---|
 | **Product standards** | [EBC](https://www.european-biochar.org/) / [IBI](https://biochar-international.org/) | Pass/fail material classes, H/C_org, contaminant limits |
-| **Test methods (U.S.)** | [[ANSI ASABE USBI S668]] · [PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) | How to measure (incl. PFAS EPA 1633A)—**not** pass/fail by itself |
+| **Test methods (U.S.)** | [[Biochar Lab Measurement Standard|standardizes biochar lab testing]] · [PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) | How to measure (incl. PFAS EPA 1633A)—**not** pass/fail by itself |
 | **Carbon methodologies** | Verra / Puro / Isometric / CSI | May **require** EBC/IBI or equivalent characterization |
-| **Farm practice** | [[NRCS CPS 336 and US Ag]] | Eligibility, not tradable credits |
+| **Farm practice** | [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] | Eligibility, not tradable credits |
 
 CSI Global Biochar C-Sink requires **EBC- or WBC-certified** biochar—see [[CSI Global Biochar C-Sink]]. Detail: [[Testing EBC IBI S668]] · [[Product Standards EBC IBI]].
 
@@ -82,7 +82,7 @@ Full discussion: [[PAHs]] · [[Heavy Metals and Ash]] · [[Testing EBC IBI S668]
 
 - [EBC Guidelines PDF](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf) · [EBC home](https://www.european-biochar.org/)
 - [IBI Biochar Standards](https://biochar-international.org/biochar-standards/)
-- [ANSI S668 PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[ANSI ASABE USBI S668]]
+- [ANSI S668 PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]]
 - [Bilias et al. 2024 IUPAC](https://doi.org/10.1515/pac-2021-0106) · [[IUPAC Biochar Terminology|IUPAC biochar terminology]]
 
 ## Related notes

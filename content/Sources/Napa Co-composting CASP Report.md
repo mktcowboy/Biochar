@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: ["Earth Foundries report", "Earth Foundries Napa Recycling report"]
+aliases: ["Earth Foundries report", "Earth Foundries Napa Recycling report", "Earth Foundries Co-Composting Report 2023"]
 source_type: report
 peer_reviewed: false
 authors: ["Earth Foundries, Inc."]
@@ -12,7 +12,7 @@ checked_against: full text
 verified: 2026-09-14
 ---
 
-# Earth Foundries Co-Composting Report 2023
+# Napa Co-composting CASP Report
 
 **Citation:** Earth Foundries, Inc. (2023). *Final report: Co-composting biochar at Napa Recycling in an upflow covered aerated static pile (CASP) engineered composting system*. 23 August 2023. https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf
 

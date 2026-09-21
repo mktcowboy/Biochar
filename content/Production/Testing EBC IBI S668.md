@@ -8,7 +8,7 @@ updated: 2026-09-16
 
 Chapter on **how biochar is tested and certified**: European Biochar Certificate (EBC), IBI Biochar Standards, and ANSI/ASABE/USBI S668 test methods. Clarifies pass/fail product standards vs methods-only standards vs carbon methodologies. Report context: **2026-09-16**.
 
-**Related notes:** [[Contaminants and Quality]] · [[Product Standards EBC IBI]] · [[ANSI ASABE USBI S668]] · [[PAHs]] · [[Heavy Metals and Ash]] · [[PFAS]] · [[H-Corg and O-Corg]] · [[Properties]] · [[Key Sources]]
+**Related notes:** [[Contaminants and Quality]] · [[Product Standards EBC IBI]] · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]] · [[PAHs]] · [[Heavy Metals and Ash]] · [[PFAS]] · [[H-Corg and O-Corg]] · [[Properties]] · [[Key Sources]]
 
 ---
 
@@ -17,7 +17,7 @@ Chapter on **how biochar is tested and certified**: European Biochar Certificate
 | Layer | Instrument | Sets pass/fail limits? | Vault home |
 |---|---|---|---|
 | Product certification | **EBC**; legacy **IBI** (retired April 2024) | **Yes** — H/C_org, PAH, metals, use classes | [[Product Standards EBC IBI]] |
-| Test methods | **ANSI/ASABE/USBI S668** (Nov 2025) | **No** — recommended methods only | [[ANSI ASABE USBI S668]] |
+| Test methods | **ANSI/ASABE/USBI S668** (Nov 2025) | **No** — recommended methods only | [[Biochar Lab Measurement Standard|standardizes biochar lab testing]] |
 | Carbon crediting | Verra / Puro / Isometric / CSI | Eligibility + MRV (may require EBC/IBI) | [[MRV Stack]] · methodology notes |
 
 CSI Global Biochar C-Sink requires **EBC- or WBC-certified** biochar ([CSI docs](https://www.carbon-standards.com/docs/transfer/4000039EN.pdf) · [[CSI Global Biochar C-Sink]]).
@@ -54,7 +54,7 @@ The IBI Biochar Standard was retired in **April 2024** and will not be updated (
 
 ## 4. ANSI/ASABE/USBI S668 (NOV2025ED)
 
-Source note: [[ANSI ASABE USBI S668]] · [PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [doc page](https://biochar.org/document/ansi-s668/).
+Source note: [[Biochar Lab Measurement Standard|standardizes biochar lab testing]] · [PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [doc page](https://biochar.org/document/ansi-s668/).
 
 **Scope highlights:**
 
@@ -95,7 +95,7 @@ Front matter: ASABE standards are informational/advisory/voluntary. S668 **does 
 
 - [EBC 10.5E PDF](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf) · [EBC home](https://www.european-biochar.org/)
 - [IBI Biochar Standards](https://biochar-international.org/biochar-standards/)
-- [ANSI S668 PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[ANSI ASABE USBI S668]]
+- [ANSI S668 PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]]
 - [ABI Interpreting Lab Reports](https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Lab-Report-2026.pdf)
 - [Bilias et al. 2024](https://doi.org/10.1515/pac-2021-0106) · [[IUPAC Biochar Terminology|IUPAC biochar terminology]]
 - [CSI C-Sink PDF](https://www.carbon-standards.com/docs/transfer/4000039EN.pdf)

@@ -26,10 +26,10 @@ A short comparison of two chars that look alike and do different jobs. **Activat
 
 | Term | Meaning in this note | Source |
 |---|---|---|
-| Biochar | Pyrolysis or gasification solid kept for carbon preservation. S668 says biochar, charcoal, and biocoal can look identical and differ by **end use** | [S668 §4.1](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[ANSI ASABE USBI S668]] |
+| Biochar | Pyrolysis or gasification solid kept for carbon preservation. S668 says biochar, charcoal, and biocoal can look identical and differ by **end use** | [S668 §4.1](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]] |
 | Activated carbon | Char plus an activation step: steam or CO₂ ("physical"), or chemicals such as KOH, ZnCl₂, or H₃PO₄ ("chemical") | [Gold Book](https://goldbook.iupac.org/terms/view/A00090); [Wei & Li 2021](https://doi.org/10.1021/acsomega.0c06032) (steam); [Sørmo et al. 2021](https://doi.org/10.1016/j.scitotenv.2020.144034) (steam, CO₂); [Gale et al. 2021](https://doi.org/10.1021/acsomega.1c00530) (KOH); [Li et al. 2025](https://doi.org/10.1021/acssuschemeng.5c04447) (H₃PO₄) |
 | Activated biochar | Biochar that has been activated. Every activated biochar is AC; not every AC is biochar, because some AC is coal-derived | [Gęca et al. 2022](https://doi.org/10.1016/j.cis.2022.102687); [Li et al. 2025](https://doi.org/10.1021/acssuschemeng.5c04447) |
-| "Activated" on a farm bag | USBI usage: charged with nutrients and microbes. No pores are built | [[USBI Ag Guidelines 2023]] · [PDF](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf) |
+| "Activated" on a farm bag | USBI usage: charged with nutrients and microbes. No pores are built | [[Farm Biochar Application Guidelines|guides farm biochar application]] · [PDF](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf) |
 
 ---
 

@@ -10,7 +10,7 @@ aliases: [Double counting, Credit ownership]
 1. **Same tonne, multiple claims** — product “carbon footprint reduction,” voluntary credit, and compliance instrument simultaneously.
 2. **Value-chain ambiguity** — grower, pyrolyzer, farmer, and credit buyer without clear ownership contracts. Isometric and CSI emphasize single credit owner + registry tracking.
 3. **Methodology overlap** — soil-carbon farming methodologies and biochar CDR both claiming the same C.
-4. **Practice stacking** — [[NRCS CPS 336 and US Ag]] cost-share payments coexist with voluntary CDR credits only if contracts prevent double claiming the same tonne.
+4. **Practice stacking** — [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] cost-share payments coexist with voluntary CDR credits only if contracts prevent double claiming the same tonne.
 
 ## Practical safeguards
 
@@ -30,7 +30,7 @@ aliases: [Double counting, Credit ownership]
 ## Related notes
 
 - [[Risks and Controversies]]
-- [[NRCS CPS 336 and US Ag]]
+- [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]]
 - [[Buyers and Offtakes]]
 - [[CSI Global Biochar C-Sink]]
 - [[Isometric Biochar Protocol]]
