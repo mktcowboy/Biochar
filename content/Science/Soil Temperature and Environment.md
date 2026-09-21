@@ -8,7 +8,7 @@ updated: 2026-09-16
 
 Chapter on **environmental controls** on biochar carbon persistence—especially soil temperature (Q10), with notes on moisture, minerals, microbes, and aging. Complements material proxies in [[H-Corg and O-Corg]] and [[Reflectance Ro and HyPy]]. Report context: **2026-09-16**.
 
-**Related notes:** [[Permanence]] · [[Woolf IPCC Fperm]] · [[Permanence Debates]] · [[CDR Potential and IPCC Accounting]] · [[Consensus vs Debates]] · [[Science Hub]] · [[Key Sources]]
+**Related notes:** [[Permanence]] · [[Permanence Factors Fperm|inventory permanence factors]] · [[Permanence Debates]] · [[CDR Potential and IPCC Accounting]] · [[Consensus vs Debates]] · [[Science Hub]] · [[Key Sources]]
 
 ---
 
@@ -91,4 +91,4 @@ From IPCC App. 4 and Woolf:
 
 ## Related notes
 
-- [[Permanence]] · [[Woolf IPCC Fperm]] · [[Permanence Debates]] · [[Consensus vs Debates]] · [[GHG Fluxes]]
+- [[Permanence]] · [[Permanence Factors Fperm|inventory permanence factors]] · [[Permanence Debates]] · [[Consensus vs Debates]] · [[GHG Fluxes]]

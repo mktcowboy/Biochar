@@ -8,7 +8,7 @@ updated: 2026-09-16
 
 Chapter on **reactor modes, temperature classes, residence time, and heat management**—the controllable engineering variables that set biochar yield and chemistry. Report context: **2026-09-16**.
 
-**Related notes:** [[Production]] · [[Biochar Quality from Process]] · [[Gasification Residues]] · [[Feedstocks]] · [[Woolf IPCC Fperm]] · [[PAHs]] · [[Production Hub]] · [[Key Sources]]
+**Related notes:** [[Production]] · [[Biochar Quality from Process]] · [[Gasification Residues]] · [[Feedstocks]] · [[Permanence Factors Fperm|inventory permanence factors]] · [[PAHs]] · [[Production Hub]] · [[Key Sources]]
 
 ---
 
@@ -68,7 +68,7 @@ From Woolf life-cycle framing and EBC:
 | Higher peak T / longer residence | Typical effect | Notes |
 |---|---|---|
 | H/C_org, O/C_org | ↓ | [[H-Corg and O-Corg]] |
-| \(F_\mathrm{perm}\) | ↑ | [[Woolf IPCC Fperm]] |
+| \(F_\mathrm{perm}\) | ↑ | [[Permanence Factors Fperm|inventory permanence factors]] |
 | Mass yield | Often ↓ | Trade-off vs C per tonne feedstock |
 | BET surface area | ↑ then may ↓ at very high T | [[Properties]] |
 | PAH | **Not** a simple T function—**vapor condensation** dominates | [[PAHs]] |
@@ -78,7 +78,7 @@ From Woolf life-cycle framing and EBC:
 ## 6. Practice takeaway
 
 1. Log **peak T + residence + feedstock blend** for every batch (EBC Biochar Tool culture).
-2. Prefer measured **H/C_org** over T-class alone for CDR math ([[Woolf IPCC Fperm]]).
+2. Prefer measured **H/C_org** over T-class alone for CDR math ([[Permanence Factors Fperm|inventory permanence factors]]).
 3. Design **vapor–solid separation** before cooling to control PAHs ([[PAHs]]).
 
 ---

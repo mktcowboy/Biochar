@@ -1,6 +1,6 @@
 ---
 tags: [carbon-markets, market, pricing, volumes, cdr-fyi]
-aliases: [CDR.fyi volumes, BCR volumes, Market volumes, Biochar pricing]
+aliases: [CDR.fyi volumes, BCR volumes, Market volumes, BCR market pricing]
 updated: 2026-09-14
 ---
 
@@ -9,6 +9,8 @@ updated: 2026-09-14
 Chapter-length synthesis of **biochar carbon removal (BCR)** market volumes and price signals as of **2026-09-14**. Figures are from primary / high-signal public sources only—chiefly CDR.fyi abridged reports and Puro × Nasdaq indexes. **Do not treat this note as live market data**; re-pull sources before diligence.
 
 **Related:** [[Market Hub]] · [[Buyers and Offtakes]] · [[Historical Deals]] · [[Price Indexes and Benchmarks]] · [[Supply Landscape]] · [[Durable CDR Quality Tiers]] · [[Puro Pricing and CORC Indexes]] · [[Risks and Controversies]]
+
+**Units:** this note is **credit $/tCO₂e** (and Mt volumes). Physical biochar **product $/ton** (bulk/retail soil amendment) lives in [[Biochar Pricing]]—do not mix the two in a budget.
 
 ---
 

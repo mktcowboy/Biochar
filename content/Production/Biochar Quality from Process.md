@@ -21,7 +21,7 @@ Feedstock chemistry + Peak T + Residence + Heating rate + Vapor path
         → permanence proxies + agronomic behavior + contaminant load
 ```
 
-Molecular transitions with charring temperature: [Keiluweit et al. 2010](https://doi.org/10.1021/es9031419). Inventory mapping of T / H/C → \(F_\mathrm{perm}\): [[Woolf IPCC Fperm]].
+Molecular transitions with charring temperature: [Keiluweit et al. 2010](https://doi.org/10.1021/es9031419). Inventory mapping of T / H/C → \(F_\mathrm{perm}\): [[Permanence Factors Fperm|inventory permanence factors]].
 
 ---
 
@@ -42,7 +42,7 @@ FC sensitivity to T is **weak for high-ash feedstocks** because ash concentratio
 
 - **pH / liming:** many lignocellulosic biochars become alkaline as acidic functional groups are lost and ash oxides/carbonates remain ([[Properties]]; agronomic liming narrative in [[Soil and Agriculture]]).
 - **BET surface area:** generally rises with T into mid/high range, then can collapse at very high T as pores sinter ([[Properties]]; measurement caveats in [S668](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) §11.3 and [EBC §7.9](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)).
-- **Volatile matter / labile C:** higher at low T → more short-term mineralization and immobilization risk ([[Zimmerman 2010]] pattern via [DOI](https://doi.org/10.1021/es903140c); inoculation context [[Biochar Inoculation for Fertilizer]]).
+- **Volatile matter / labile C:** higher at low T → more short-term mineralization and immobilization risk ([[Biochar Oxidation Kinetics|measures abiotic and microbial oxidation]] pattern via [DOI](https://doi.org/10.1021/es903140c); inoculation context [[Biochar Inoculation for Fertilizer]]).
 
 ---
 

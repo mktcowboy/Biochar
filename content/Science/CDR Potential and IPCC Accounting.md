@@ -25,7 +25,7 @@ Uncertainty roughly ±11–15%. Guidance / basis for future Tier 1—**not** a c
 
 | Source | Estimate |
 |---|---|
-| [Woolf et al. 2010](https://doi.org/10.1038/ncomms1053) | Max **1.8 Pg CO₂-Cₑ yr⁻¹** (≈ **~6.6 Pg CO₂e** if ×44/12); century total **130 Pg CO₂-Cₑ**. Prefer [[Biochar in Climate Change Mitigation\|reviews biochar climate mitigation]] / Weng 2025 for updated framing. |
+| [Woolf et al. 2010](https://doi.org/10.1038/ncomms1053) | Max **1.8 Pg CO₂-Cₑ yr⁻¹** (≈ **~6.6 Pg CO₂e** if ×44/12); century total **130 Pg CO₂-Cₑ**. Prefer [[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]] / Weng 2025 for updated framing. |
 | [Lehmann et al. 2021](https://doi.org/10.1038/s41561-021-00852-8) | Emission reductions **3.4–6.3 Pg CO₂e yr⁻¹** (~half CDR); residues-only **2.4–3.9**; with land sparing + CCS up to **~7.4–10.3** |
 | [Weng & Cowie 2025](https://doi.org/10.1038/s43247-025-02228-x) | Literature **0.03–11**; credible multi-Gt scale |
 | [State of CDR 2026 (Fuss & Lunstrum)](https://doi.org/10.17605/OSF.IO/FBZ4X) · [[CDR Costs and Potentials|CDR costs and potentials]] | Sustainable removal **≤~2.7 GtCO₂ yr⁻¹**; total mitigation **≤~10.3**; IAM 2050 **<0.1–1.1** |

@@ -6,7 +6,7 @@ updated: 2026-09-16
 
 # Biochar
 
-Research vault for biochar science, production, applications, carbon markets, policy, and industry. Notes synthesize primary literature and registry documents (see [[Key Sources]]). Report date context: 2026-09-16. **User rule:** every data claim should carry an outbound `https://…` or `https://doi.org/…` in the note body—not only `[[wikilinks]]`.
+Research vault for biochar science, production, applications, carbon markets, policy, and industry. Notes synthesize primary literature and registry documents (see [[Key Sources]]). Report date context: 2026-09-16. **User rule:** every data claim should carry an outbound `https://…` or `https://doi.org/…` in the note body—not only `wikilinks`.
 
 ## Domain map
 
@@ -25,7 +25,7 @@ Research vault for biochar science, production, applications, carbon markets, po
 | Topic | Note |
 |---|---|
 | What biochar is | [[Overview and Definition]] |
-| Persistence (**hub + chapters**) | [[Permanence]] · [[H-Corg and O-Corg]] · [[Woolf IPCC Fperm]] · [[Reflectance Ro and HyPy]] · [[Soil Temperature and Environment]] · [[Permanence Debates]] |
+| Persistence (**hub + chapters**) | [[Permanence]] · [[H-Corg and O-Corg]] · [[Permanence Factors Fperm|inventory permanence factors]] · [[Reflectance Ro and HyPy]] · [[Soil Temperature and Environment]] · [[Permanence Debates]] |
 | Foundational literature | [[Foundational Papers]] |
 | Recent reviews (2021–2026) | [[Recent Research 2021-2026]] |
 | IPCC & gigaton potential | [[CDR Potential and IPCC Accounting]] |
@@ -42,6 +42,7 @@ Research vault for biochar science, production, applications, carbon markets, po
 | Feedstocks | [[Feedstocks]] · [[Woody vs Manure Ag Feedstocks]] |
 | Process → quality | [[Biochar Quality from Process]] · [[Gasification Residues]] |
 | Material properties | [[Properties]] · [[Biochar vs Activated Carbon]] |
+| Product pricing ($/ton) | [[Biochar Pricing]] |
 | Contaminants (**hub + chapters**) | [[Contaminants and Quality]] · [[PAHs]] · [[Heavy Metals and Ash]] · [[PFAS|PFAS and Biochar]] · [[Testing EBC IBI S668]] |
 
 ## Applications

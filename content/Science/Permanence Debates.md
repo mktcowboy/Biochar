@@ -8,7 +8,7 @@ updated: 2026-09-16
 
 Chapter on **open scientific and policy debates** about biochar permanence: decay-model form, inertinite/Ro claims, horizon choice, and what “permanent” should mean for CDR accounting. Complements the settled mechanism snapshot in [[Permanence]] and the proxy chapters. Report context: **2026-09-16**.
 
-**Related notes:** [[Consensus vs Debates]] · [[Permanence Science for Credits]] · [[Reflectance Ro and HyPy]] · [[Woolf IPCC Fperm]] · [[Risks and Controversies]] · [[Science Hub]] · [[Key Sources]]
+**Related notes:** [[Consensus vs Debates]] · [[Permanence Science for Credits]] · [[Reflectance Ro and HyPy]] · [[Permanence Factors Fperm|inventory permanence factors]] · [[Risks and Controversies]] · [[Science Hub]] · [[Key Sources]]
 
 ---
 

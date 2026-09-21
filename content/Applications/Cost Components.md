@@ -23,7 +23,7 @@ Report context: **2026-09-16**.
 | **MRV / credit** | Sampling, audits, registry fees (if CDR stacked) | Methodology-specific — [[Matrix Pathways for Credits]], [[MRV Stack]]; not farmgate amendment price |
 | **Opportunity / tillage** | One-time deep tillage vs no-till constraints | NRCS notes deep tillage as one-time vs multi-century C — FAQ PDF above |
 
-Do **not** treat CDR literature costs (**~$70–360/tCO₂** in [[CDR Costs and Potentials|CDR costs and potentials]] — [DOI](https://doi.org/10.17605/OSF.IO/FBZ4X)) as bag retail prices ([[Market Volumes and Pricing]], https://www.cdr.fyi/).
+Ranked US bulk/retail product prices: [[Biochar Pricing]]. Do **not** treat CDR literature costs (**~$70–360/tCO₂** in [[CDR Costs and Potentials|CDR costs and potentials]] — [DOI](https://doi.org/10.17605/OSF.IO/FBZ4X)) as bag retail prices ([[Market Volumes and Pricing]], https://www.cdr.fyi/).
 
 ---
 
@@ -38,7 +38,7 @@ ABI funding guide 2026: https://biochar.org/wp-content/uploads/2026/06/Biochar-G
 ## 3. Unit traps that break budgets
 
 - **Wet vs dry tons** — Oasis prices are **wet** as-applied (biochar 38% moisture, compost 49% in report) ([Oasis PDF](https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf)).
-- **yd³ ↔ tons** — NRCS dry weight **135–540 lb per yd³** ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)).
+- **yd³ ↔ tons** — NRCS dry weight **135–540 lb per yd³** ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)). Retail conversion tables in [[Biochar Pricing]] use **825 lb/yd³** (Urban Worm tote) — https://shop.urbanwormcompany.com/collections/all/products/bulk-biochar.
 - **Banding vs broadcast** — same in-band concentration can cut total tonnes ([[Incorporation Topdress Banding]]).
 - **Supplier packaging** — Wakefield cites 2 yd³ supersacks and 2–3 sacks/ac without a public $/t on that page (https://wakefieldbiochar.com/biochar-for-landscapers/).
 
@@ -53,4 +53,4 @@ ABI Compost Guidelines 2026 draft: operators report **fuel/labor savings from fe
 ## Related notes
 
 - [[Agronomic Economics]] · [[Fertilizer Displacement]] · [[Farm Co-composting Practice]]
-- [[Application Rates and Methods]] · [[Market Volumes and Pricing]] · [[Applications Hub]]
+- [[Biochar Pricing]] · [[Application Rates and Methods]] · [[Market Volumes and Pricing]] · [[Applications Hub]]

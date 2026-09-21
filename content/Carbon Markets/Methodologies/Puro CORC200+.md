@@ -11,11 +11,11 @@ updated: 2026-09-14
 
 | | |
 |---|---|
-| **Operator** | [[Puro.earth Overview\|Puro.earth]] (Puro Standard + Registry) |
+| **Operator** | [[Puro.earth Overview|Puro.earth]] (Puro Standard + Registry) |
 | **Unit** | CO₂ Removal Certificate labelled **CORC200+** = **1 tCO₂e** net removal |
 | **Current biochar method** | [[Puro Biochar Methodology Edition 2025]] — V1 **12 Jun 2025**; **v2** (retail R3) **27 Nov 2025** |
 | **Prior biochar label** | **CORC100+** under Edition 2022 |
-| **Index** | [[Puro Pricing and CORC Indexes\|CORCCHAR]] |
+| **Index** | [[Puro Pricing and CORC Indexes|CORCCHAR]] |
 | **Compare** | [[Puro vs Other Standards]] |
 
 Science: [[Permanence]] · [[Permanence Science for Credits]] · [[Biochar as Durable CDR]] · [[Properties]]
@@ -137,7 +137,7 @@ Detail: [[Puro Biochar Methodology Edition 2025]] · ops: [[Puro Project Cycle a
 
 | Signal | Note |
 |---|---|
-| Public price | [[Puro Pricing and CORC Indexes\|CORCCHAR]] Aug 2026 **€135.35**; all-CORC **CORCX €150.40** |
+| Public price | [[Puro Pricing and CORC Indexes|CORCCHAR]] Aug 2026 **€135.35**; all-CORC **CORCX €150.40** |
 | Liquidity | Issuance→transfer/retirement **95 → 22 days** (2021 → mid-2025, CDR.fyi via Puro) |
 | Scale | ~1.88M issued / ~1.08M retired / 119 projects (all methods, registry 2026-09-14); **70+** biochar projects since 2019 |
 | Buyers | Early Microsoft CORCs; CDR.fyi BCR leaders include Microsoft, Google, BCG, JPMorgan, Swiss Re, SEB (Puro narrative) — [[Buyers and Offtakes]] |

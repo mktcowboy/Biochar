@@ -160,8 +160,8 @@ Desorption depends on N loading, soil hydraulic regime, plant demand, and method
 | **Fresh high-C wood, uncharged** | SIN ↓ (~10%); hungry sponge; possible yield drag | Charge or co-apply fertilizer; or apply ≥1 month pre-plant | Nguyen 2017; NRCS FAQ; Kammann untreated |
 | **Fresh manure/bone char** | Intrinsic N/P/K/ash; high EC risk | Soil-test P/EC; may still blend for biology | Ndoung direct-treatment; NRCS FAQ |
 | **Field-aged / oxidized** | ↑ oxygenated groups, organo-mineral phases | Better CEC; still may need fertility program | Cheng 2008; Joseph 2010 lineage |
-| **Co-composted (COMBI)** | Organic coating; NO₃⁻/PO₄ capture; growth ↑↑ | Prefer over raw for agronomy | Kammann 2015; Hagemann 2017; [[COMBI Soil Quality Review\|reviews co-composted biochar soil effects]] ([DOI](https://doi.org/10.1016/j.jenvman.2020.111443)) |
-| **Post-pyrolysis BBF (NPK/urine/digestate)** | Designed payload; slow release; low dose | Band/root-zone; NUE gains | Melo 2022; [[Urine-Enhanced Biochar Field Trial\|urine-enhanced biochar field trial]]/2017; Puga 2020 |
+| **Co-composted (COMBI)** | Organic coating; NO₃⁻/PO₄ capture; growth ↑↑ | Prefer over raw for agronomy | Kammann 2015; Hagemann 2017; [[COMBI Soil Quality Review|reviews co-composted biochar soil effects]] ([DOI](https://doi.org/10.1016/j.jenvman.2020.111443)) |
+| **Post-pyrolysis BBF (NPK/urine/digestate)** | Designed payload; slow release; low dose | Band/root-zone; NUE gains | Melo 2022; [[Urine-Enhanced Biochar Field Trial|urine-enhanced biochar field trial]]/2017; Puga 2020 |
 | **Physicochemical post-process only** | Particle size / heating / leaching; **not** biological charge | Thomas meta +14% plant growth vs raw; excluded co-compost | Thomas 2021 ([DOI](https://doi.org/10.1007/s42773-021-00115-0)) |
 
 ---
@@ -184,7 +184,7 @@ Desorption depends on N loading, soil hydraulic regime, plant demand, and method
 | Biochar-coated urea | Controlled N loss; ↑ NUE (Jia et al. 2021) | https://doi.org/10.1186/s40538-020-00205-4 |
 | Eucalyptus biochar + urea (field) | NUE **+12%** vs urea; maize yield **+26%**; GHG intensity −14% (Puga et al. 2020) | https://doi.org/10.1016/j.scitotenv.2019.135375 |
 | Urine 1:1 vol + compost, root-zone | Pumpkin **82.6 t ha⁻¹**; >300% vs urine-only (Schmidt 2015); biochar DM **0.75 t ha⁻¹** | https://doi.org/10.3390/agriculture5030723 |
-| Liquid enrichment 21 trials / 13 crops | Framework for biochar-based fertilization ([[Liquid Nutrient Enrichment Field Trials\|liquid nutrient enrichment trials]]) | https://doi.org/10.1002/ldr.2761 |
+| Liquid enrichment 21 trials / 13 crops | Framework for biochar-based fertilization ([[Liquid Nutrient Enrichment Field Trials|liquid nutrient enrichment trials]]) | https://doi.org/10.1002/ldr.2761 |
 | Digestate impregnation | ↑ SOM/macronutrients vs unenriched char (Kizito 2019 via Ndoung) | https://doi.org/10.1016/j.heliyon.2021.e08473 |
 | Struvite–biochar composites | Longer N/P release cycle (Hu et al. via Ndoung) | same |
 | Rasse 2022 review | Sorption alone often insufficient for high-N BCF; coatings needed | https://doi.org/10.1007/s11104-022-05365-w |
@@ -219,7 +219,7 @@ Agronomy BCF advancements review (2025): https://doi.org/10.3390/agronomy1505110
 | Melo 2022 | BBF +10% vs fertilized controls at ~0.9 t ha⁻¹ | https://doi.org/10.1007/s11104-021-05276-2 |
 | Puga 2020 | NUE +12%; yield +26% vs urea | https://doi.org/10.1016/j.scitotenv.2019.135375 |
 | Liao et al. 2020 (via Ndoung) | Controlled-release biochar-N: rape NUE ~**+58.8%**, yield ~**+16.6%** vs urea framing in review table | https://doi.org/10.1016/j.heliyon.2021.e08473 |
-| [[Tropical vs Temperate Yields\|compares tropical vs temperate yields]] | Temperate mean raw-char benefit weak — fertilizer/compost co-management matter more | https://doi.org/10.1088/1748-9326/aa67bd |
+| [[Tropical vs Temperate Yields|compares tropical vs temperate yields]] | Temperate mean raw-char benefit weak — fertilizer/compost co-management matter more | https://doi.org/10.1088/1748-9326/aa67bd |
 
 ### 9.2 Antagonism / risks
 

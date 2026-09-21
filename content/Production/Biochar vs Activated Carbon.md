@@ -8,7 +8,7 @@ updated: 2026-09-21
 
 A short comparison of two chars that look alike and do different jobs. **Activated carbon (AC)** gets an extra step, activation, that builds pores so it can adsorb. **Biochar** is made and tested to go into soil or another long-lived use and keep its carbon. Snapshot: **2026-09-21**.
 
-**Related notes:** [[Overview and Definition]] · [[Properties]] · [[Pyrolysis Systems and Temperatures]] · [[Biochar Quality from Process]] · [[PFAS]] · [[Testing EBC IBI S668]] · [[Verra VM0044 Methodology and Eligibility]] · [[Puro Biochar Methodology Edition 2025]] · [[Key Sources]]
+**Related notes:** [[Overview and Definition]] · [[Properties]] · [[Biochar Pricing]] · [[Pyrolysis Systems and Temperatures]] · [[Biochar Quality from Process]] · [[PFAS]] · [[Testing EBC IBI S668]] · [[Verra VM0044 Methodology and Eligibility]] · [[Puro Biochar Methodology Edition 2025]] · [[Key Sources]]
 
 ---
 
@@ -44,7 +44,7 @@ A short comparison of two chars that look alike and do different jobs. **Activat
 | Price signal | About $246/ton non-activated ([Inyang & Dickenson 2015](https://doi.org/10.1016/j.chemosphere.2015.03.072)); $1.06/kg modeled production cost ([Shaheen et al. 2022](https://doi.org/10.1016/j.heliyon.2022.e12388)) | About $1,500/ton ([Inyang & Dickenson 2015](https://doi.org/10.1016/j.chemosphere.2015.03.072)); $1.34/kg modeled production cost ([Shaheen et al. 2022](https://doi.org/10.1016/j.heliyon.2022.e12388)) |
 | Main use | Soil amendment and long-lived carbon storage ([S668 §4.1](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf)) | Adsorption, for example drinking-water PFAS, VOCs, taste and odor ([EPA 2024](https://www.epa.gov/system/files/documents/2024-04/pfas-npdwr_fact-sheet_treatment_4.8.24.pdf)) |
 
-Prices are study-specific, not spot quotes. For a vault example of delivered biochar, see $240/ton wet in [[Agronomic Economics]].
+Prices are study-specific, not spot quotes. Product $/ton detail (bulk/retail biochar tables): [[Biochar Pricing]]. For a vault example of delivered biochar, see $240/ton wet in [[Agronomic Economics]].
 
 ---
 

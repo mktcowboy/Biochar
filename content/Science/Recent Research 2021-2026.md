@@ -37,7 +37,7 @@ aliases: [Recent reviews, 2021-2026 research]
 
 ## Permanence cluster (expanded 2026-09-16)
 
-See [[Permanence]] hub and chapters [[H-Corg and O-Corg]], [[Woolf IPCC Fperm]], [[Reflectance Ro and HyPy]], [[Soil Temperature and Environment]], [[Permanence Debates]]. Schmidt policy commentary: [DOI](https://doi.org/10.1111/gcbb.70092). Sanei Ro benchmark: [[Inertinite Permanence Benchmark|inertinite permanence benchmark]] · [DOI](https://doi.org/10.1016/j.coal.2023.104409).
+See [[Permanence]] hub and chapters [[H-Corg and O-Corg]], [[Permanence Factors Fperm|inventory permanence factors]], [[Reflectance Ro and HyPy]], [[Soil Temperature and Environment]], [[Permanence Debates]]. Schmidt policy commentary: [DOI](https://doi.org/10.1111/gcbb.70092). Sanei Ro benchmark: [[Inertinite Permanence Benchmark|inertinite permanence benchmark]] · [DOI](https://doi.org/10.1016/j.coal.2023.104409).
 
 ## Contaminants / process
 

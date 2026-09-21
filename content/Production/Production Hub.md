@@ -30,6 +30,7 @@ Credit programs and product standards ([EBC](https://www.european-biochar.org/)/
 | [[Gasification Residues]] | High-ash gasifier solids and accounting |
 | [[Properties]] | Aromatic C, H/C_org, O/C_org, porosity, pH, CEC; EBC/IBI thresholds |
 | [[Biochar vs Activated Carbon]] | Where activation changes the material: surface area, cost, carbon accounting, credit rules |
+| [[Biochar Pricing]] | Bulk/retail product $/ton tables (soil amendment); not CDR credit prices |
 | [[Contaminants and Quality]] | Hub for PAH, metals, PFAS, testing standards |
 | [[PAHs]] · [[Heavy Metals and Ash]] · [[PFAS]] · [[Testing EBC IBI S668]] | Contaminant deep chapters; PFAS covers feedstocks, process mass balance, soils, testing, and regulation |
 

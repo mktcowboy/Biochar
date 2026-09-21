@@ -6,15 +6,13 @@ updated: 2026-09-16
 
 # Key Sources
 
-Primary and high-signal references used in this vault. Don't invent papers, DOIs, volumes, or prices beyond this list and the linked notes. **Rule:** every data claim in a note carries an outbound `https://…` or `https://doi.org/…` link, not only a `[[wikilink]]`.
+Primary and high-signal references used in this vault. Don't invent papers, DOIs, volumes, or prices beyond this list and the linked notes. **Rule:** every data claim in a note carries an outbound `https://…` or `https://doi.org/…` link, not only a `wikilink`.
 
 ## Source notes
 
 The most-cited papers and reports each have their own note in `Sources/`. Each note holds the figures the vault uses from that source, where in the source each figure appears, and whether it was checked against the full text or only the abstract. Topic notes link to these notes instead of restating the numbers, and each source note's backlinks (Obsidian's backlinks pane, or the Backlinks section on the published site) list the notes that rely on it.
 
-![[Source Index.base]]
-
-- **In Obsidian**, the embed above is a live table with three views: *All sources*, *By type*, and *Not checked against full text*. On the published site, open the Sources folder page instead (Quartz ignores `.base` files).
+- **In Obsidian**, open `Sources/Source Index.base` for a live Bases table (*All sources*, *By type*, *Not checked against full text*). On the published site, open the Sources folder page instead (Quartz ignores `.base` files—no graph wikilink to the Bases file).
 - **Adding a source note:** create it from `content/templates/Source Note.md` (point Obsidian's Templates setting at `content/templates`), fill in the properties, and link to it from the topic notes that cite it.
 - **Company reports with their own note:** [[Exomad Green Corn and Bean Field Study]] · [[Oasis Vineyard Biochar Trial|vineyard biochar field trial]] · [[Napa Co-composting CASP Report|reports Napa CASP co-composting]] · [[Biochar Compost White Paper|explains biochar plus compost practice]]
 - **Applications chapter clusters (2026-09-16):** compost ([[Biochar Compost and Manure Blends]] · [[Co-composting Science]] · [[Farm Co-composting Practice]] · [[Compost Blend Safety]] · [[Matrix Pathways for Credits]]); rates ([[Application Rates and Methods]] · [[Field Rates by System]] · [[Incorporation Topdress Banding]] · [[Equipment and Timing]] · [[On-farm Trial Design]]); economics ([[Agronomic Economics]] · [[Cost Components]] · [[Fertilizer Displacement]]); GHG ([[GHG Fluxes]] · [[Nitrous Oxide Fluxes]] · [[Methane Fluxes]] · [[Priming and SOC Interactions]])
@@ -78,6 +76,8 @@ The most-cited papers and reports each have their own note in `Sources/`. Each n
 
 Prefer these live pages for markets, pricing, registries, and standards.
 
+Vault product-price chapter (bulk/retail $/ton, not credits): [[Biochar Pricing]].
+
 ## Literature without a source note
 
 Each entry appears once. Author names, years, and journals match Crossref as of 2026-09-14. Papers and reports that have a source note are in the index above, not here.
@@ -91,7 +91,7 @@ Each entry appears once. Author names, years, and journals match Crossref as of 
 - Cheng et al. (2008). Natural oxidation of black carbon in soils. *Geochim. Cosmochim. Acta*. [10.1016/j.gca.2008.01.010](https://doi.org/10.1016/j.gca.2008.01.010)
 - Roberts et al. (2010). Life cycle assessment of biochar systems. *Environ. Sci. Technol.* [10.1021/es902266r](https://doi.org/10.1021/es902266r)
 - Woolf et al. (2010). Sustainable biochar to mitigate global climate change. *Nat. Commun.* [10.1038/ncomms1053](https://doi.org/10.1038/ncomms1053)
-- Keiluweit et al. (2010). Dynamic molecular structure of biochar. *Environ. Sci. Technol.* [10.1021/es9031419](https://doi.org/10.1021/es9031419)
+- Keiluweit et al. (2010). Dynamic molecular structure of biochar. *Environ. Sci. Technol.* [10.1021/es9031419](https://doi.org/10.1021/es9031419) · [[Biochar Structure vs Charring Temperature|maps structure vs charring temperature]]
 - Spokas (2010). Biochar stability and O:C molar ratios. *Carbon Management*. [10.4155/cmt.10.32](https://doi.org/10.4155/cmt.10.32)
 - Zimmerman (2010). Abiotic and microbial oxidation of biochar. *Environ. Sci. Technol.* [10.1021/es903140c](https://doi.org/10.1021/es903140c)
 - Major et al. (2010). Fate of soil-applied black carbon. *Glob. Change Biol.* [10.1111/j.1365-2486.2009.02044.x](https://doi.org/10.1111/j.1365-2486.2009.02044.x)

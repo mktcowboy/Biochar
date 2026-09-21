@@ -12,11 +12,11 @@ Yield responses to biochar are **context-specific**—stronger in acid, coarse-t
 
 | Source | Design | Effect | URL |
 |---|---|---|---|
-| [[Crop Productivity Meta-analysis\|meta-analyzes crop productivity]] *Agric. Ecosyst. Environ.* | Meta of productivity (yield or aboveground biomass) | Grand mean **~+10%**; subgroup means roughly **−28% to +39%** | https://doi.org/10.1016/j.agee.2011.08.015 |
-| [[Tropical vs Temperate Yields\|compares tropical vs temperate yields]] *Environ. Res. Lett.* 12:053001 | Tropical vs temperate | Tropical mean ~**+25%**; temperate mean little/no benefit | https://doi.org/10.1088/1748-9326/aa67bd |
-| [[Fertilizer-Controlled Yield Meta-analysis\|meta-analyzes yields with fertilizer controls]] *Soil Use Manage.* 36:2–18 | Field studies; separate fertilizer controls | Biochar **+ inorganic fertilizer** ~**+15%** vs fertilizer alone; biochar alone often weak | https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf |
-| [[Biochar in Climate Change Mitigation\|reviews biochar climate mitigation]] *Nat. Geosci.* | Synthesis citing Ye and related field work | Fertilised field contexts can show ~**+15%**-class responses **not** 1:1 correlated with fertilizer response | https://doi.org/10.1038/s41561-021-00852-8 |
-| [[Global GHG and Yield Patterns\|global GHG and yield patterns]] *Land Degrad. Dev.* | Global patterns GHG + crop yield | Crop yield **+9.4%** overall | https://doi.org/10.1002/ldr.4868 |
+| [[Crop Productivity Meta-analysis|meta-analyzes crop productivity]] *Agric. Ecosyst. Environ.* | Meta of productivity (yield or aboveground biomass) | Grand mean **~+10%**; subgroup means roughly **−28% to +39%** | https://doi.org/10.1016/j.agee.2011.08.015 |
+| [[Tropical vs Temperate Yields|compares tropical vs temperate yields]] *Environ. Res. Lett.* 12:053001 | Tropical vs temperate | Tropical mean ~**+25%**; temperate mean little/no benefit | https://doi.org/10.1088/1748-9326/aa67bd |
+| [[Fertilizer-Controlled Yield Meta-analysis|meta-analyzes yields with fertilizer controls]] *Soil Use Manage.* 36:2–18 | Field studies; separate fertilizer controls | Biochar **+ inorganic fertilizer** ~**+15%** vs fertilizer alone; biochar alone often weak | https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf |
+| [[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]] *Nat. Geosci.* | Synthesis citing Ye and related field work | Fertilised field contexts can show ~**+15%**-class responses **not** 1:1 correlated with fertilizer response | https://doi.org/10.1038/s41561-021-00852-8 |
+| [[Global GHG and Yield Patterns|global GHG and yield patterns]] *Land Degrad. Dev.* | Global patterns GHG + crop yield | Crop yield **+9.4%** overall | https://doi.org/10.1002/ldr.4868 |
 
 ### Mechanistic subgroups (Jeffery 2011)
 
@@ -60,8 +60,8 @@ Yield metas that mix raw and fertilized biochar understate the **charging** effe
 
 | Contrast | Result | URL |
 |---|---|---|
-| Co-composted vs untreated ([[Co-compost Nitrate Capture\|shows co-compost nitrate capture]]) | Up to **305%** vs **~60%** of control | https://doi.org/10.1038/srep11080 |
-| BBF meta ([[Biochar-Based Fertilizer Meta-analysis\|meta-analyzes biochar fertilizers]]) | **+10%** vs fertilized; **+186%** vs unfertilized | https://doi.org/10.1007/s11104-021-05276-2 |
+| Co-composted vs untreated ([[Co-compost Nitrate Capture|shows co-compost nitrate capture]]) | Up to **305%** vs **~60%** of control | https://doi.org/10.1038/srep11080 |
+| BBF meta ([[Biochar-Based Fertilizer Meta-analysis|meta-analyzes biochar fertilizers]]) | **+10%** vs fertilized; **+186%** vs unfertilized | https://doi.org/10.1007/s11104-021-05276-2 |
 | Microbial inocula + biochar meta | ↑ productivity vs biochar alone (commercial inocula weak) | https://doi.org/10.1002/saj2.20792 · [[Microbial Inocula Meta-analysis|meta-analyzes microbial inocula]] |
 | Zheng BCF maize | Grain **+10.7%**; N-AE **+43.1%** vs ICF | https://doi.org/10.1016/j.agee.2017.02.034 |
 

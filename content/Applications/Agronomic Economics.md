@@ -10,7 +10,7 @@ Chapter on **farm-level cost and benefit** of soil-applied biochar and blends. S
 
 Report context: **2026-09-16**.
 
-**Sibling notes:** [[Cost Components]] · [[Fertilizer Displacement]] · [[Field Rates by System]] · [[Crop Yield Effects]] · [[Real World Soil Projects]] · [[Matrix Pathways for Credits]] · [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] · [[Market Volumes and Pricing]].
+**Sibling notes:** [[Cost Components]] · [[Biochar Pricing]] · [[Fertilizer Displacement]] · [[Field Rates by System]] · [[Crop Yield Effects]] · [[Real World Soil Projects]] · [[Matrix Pathways for Credits]] · [[Soil Carbon Amendment and US Ag|NRCS soil carbon amendment in US ag]] · [[Market Volumes and Pricing]].
 
 ---
 

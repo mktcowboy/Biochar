@@ -29,9 +29,9 @@ Cross-source cheat sheet. Each figure's checked home is its source note (index i
 
 | Gas | Benchmark |
 |---|---|
-| N₂O | [[Nitrous Oxide Mitigation Meta-analysis\|meta-analyzes N2O mitigation]] **−54%** (lab and field studies from 2007–2013; [DOI](https://doi.org/10.1016/j.agee.2013.10.009)); [[Global GHG and Yield Patterns\|global GHG and yield patterns]] **−26.8%** (incubation, pot and field pooled; [DOI](https://doi.org/10.1002/ldr.4868)); [[Biochar Soil GHG Inventory Model\|models soil GHG from biochar]] field-trial fit **−23%**, first year only |
+| N₂O | [[Nitrous Oxide Mitigation Meta-analysis|meta-analyzes N2O mitigation]] **−54%** (lab and field studies from 2007–2013; [DOI](https://doi.org/10.1016/j.agee.2013.10.009)); [[Global GHG and Yield Patterns|global GHG and yield patterns]] **−26.8%** (incubation, pot and field pooled; [DOI](https://doi.org/10.1002/ldr.4868)); [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] field-trial fit **−23%**, first year only |
 | CH₄ | [Jia 2023](https://doi.org/10.1002/ldr.4868) **−13.0%**; mixed/paddies study-dependent |
-| Priming | [[Stability and Priming Meta-analysis\|meta-analyzes stability and priming]] ([DOI](https://doi.org/10.1111/gcbb.12266)) mean SOC mineralization **−3.8%** (CI crosses zero; negative in studies under six months, **+20.8%** in sandy soils); [Weng 2017](https://doi.org/10.1038/nclimate3276) decade-scale accrual |
+| Priming | [[Stability and Priming Meta-analysis|meta-analyzes stability and priming]] ([DOI](https://doi.org/10.1111/gcbb.12266)) mean SOC mineralization **−3.8%** (CI crosses zero; negative in studies under six months, **+20.8%** in sandy soils); [Weng 2017](https://doi.org/10.1038/nclimate3276) decade-scale accrual |
 
 ## CDR / mitigation (Gt or Pg CO₂e yr⁻¹)
 
@@ -66,7 +66,7 @@ Cross-source cheat sheet. Each figure's checked home is its source note (index i
 
 ## Related notes
 
-- [[Permanence]] · [[Woolf IPCC Fperm]] · [[H-Corg and O-Corg]]
+- [[Permanence]] · [[Permanence Factors Fperm|inventory permanence factors]] · [[H-Corg and O-Corg]]
 - [[Crop Yield Effects]]
 - [[GHG Fluxes]]
 - [[CDR Potential and IPCC Accounting]]

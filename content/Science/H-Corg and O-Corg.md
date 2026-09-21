@@ -6,7 +6,7 @@ updated: 2026-09-16
 
 # H/C_org and O/C_org
 
-Chapter on **molar hydrogen-to-organic-carbon** and **oxygen-to-organic-carbon** ratios as the primary chemical proxies for biochar aromatic condensation and soil persistence. Companion to [[Permanence]] · [[Woolf IPCC Fperm]] · [[Properties]]. Report context: **2026-09-16**.
+Chapter on **molar hydrogen-to-organic-carbon** and **oxygen-to-organic-carbon** ratios as the primary chemical proxies for biochar aromatic condensation and soil persistence. Companion to [[Permanence]] · [[Permanence Factors Fperm|inventory permanence factors]] · [[Properties]]. Report context: **2026-09-16**.
 
 **Related notes:** [[Reflectance Ro and HyPy]] · [[Biochar Quality from Process]] · [[Product Standards EBC IBI]] · [[Testing EBC IBI S668]] · [[Permanence Science for Credits]] · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]] · [[Science Hub]] · [[Key Sources]]
 
@@ -14,7 +14,7 @@ Chapter on **molar hydrogen-to-organic-carbon** and **oxygen-to-organic-carbon**
 
 ## 1. Why elemental ratios track permanence
 
-Pyrolysis drives condensation reactions that grow fused aromatic domains. As aromatic sheets enlarge, C–C bonds replace C–H and C–O bonds, so **H/C_org** and **O/C_org** fall ([[Keiluweit et al.|Keiluweit et al., 2010]] · [DOI](https://doi.org/10.1021/es9031419); [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] · [DOI](https://doi.org/10.1021/acs.est.1c02425)). Lower ratios therefore indicate a more condensed, typically more persistent solid—**relative** indicators, not absolute half-lives by themselves ([Schmidt et al., 2025](https://doi.org/10.1111/gcbb.70092)).
+Pyrolysis drives condensation reactions that grow fused aromatic domains. As aromatic sheets enlarge, C–C bonds replace C–H and C–O bonds, so **H/C_org** and **O/C_org** fall ([[Biochar Structure vs Charring Temperature|maps structure vs charring temperature]] · [DOI](https://doi.org/10.1021/es9031419); [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] · [DOI](https://doi.org/10.1021/acs.est.1c02425)). Lower ratios therefore indicate a more condensed, typically more persistent solid—**relative** indicators, not absolute half-lives by themselves ([Schmidt et al., 2025](https://doi.org/10.1111/gcbb.70092)).
 
 IUPAC’s biochar glossary frames biochar as a pyrolysis solid with molar **H/C_org < 0.7** and **O/C_org < 0.4** to ensure abundant fused aromatics and distinguish inadequately carbonized materials ([[IUPAC Biochar Terminology|IUPAC biochar terminology]] · [DOI](https://doi.org/10.1515/pac-2021-0106)).
 
@@ -52,7 +52,7 @@ Permanence is fit as a linear regression:
 F_\mathrm{perm} = c_\mathrm{hc} - m_\mathrm{hc}\,(H/C_\mathrm{org})
 \]
 
-Coefficients \(c_\mathrm{hc}\), \(m_\mathrm{hc}\) depend on **soil temperature** and **time horizon** (Woolf Table 3). Example at **14.9 °C**, 100 years: \(c_\mathrm{hc}=1.04\), \(m_\mathrm{hc}=-0.64\), \(R^2=0.32\) ([open PDF](https://open-science.canada.ca/server/api/core/bitstreams/112fc297-0352-4683-ae0e-dd1271f59d77/content) Table 3). Full coefficient grid: [[Woolf IPCC Fperm]].
+Coefficients \(c_\mathrm{hc}\), \(m_\mathrm{hc}\) depend on **soil temperature** and **time horizon** (Woolf Table 3). Example at **14.9 °C**, 100 years: \(c_\mathrm{hc}=1.04\), \(m_\mathrm{hc}=-0.64\), \(R^2=0.32\) ([open PDF](https://open-science.canada.ca/server/api/core/bitstreams/112fc297-0352-4683-ae0e-dd1271f59d77/content) Table 3). Full coefficient grid: [[Permanence Factors Fperm|inventory permanence factors]].
 
 **Gasification** chars often combine high process temperature with **low H/C_org** despite low carbon fraction—persistence of the organic C can still be high even when FC is low ([Woolf 2021](https://doi.org/10.1021/acs.est.1c02425) §3.2; [[Gasification Residues]]).
 
@@ -107,7 +107,7 @@ Credit programs map these ratios into **different** permanence tables and horizo
 ## 8. Practice takeaway
 
 1. Measure **H/C_org** (and report O/C_org) on every batch destined for CDR accounting or EBC/IBI labeling.
-2. Use H/C_org → Woolf \(F_\mathrm{perm}\) when soil T and horizon are known ([[Woolf IPCC Fperm]]).
+2. Use H/C_org → Woolf \(F_\mathrm{perm}\) when soil T and horizon are known ([[Permanence Factors Fperm|inventory permanence factors]]).
 3. Treat Spokas O/C bins as **orientation**, not as Verra/Puro/Isometric factors.
 4. For high-ash manure/sludge/gasification solids, prefer H/C_org and direct C_org measurement over default FC tables ([[Woody vs Manure Ag Feedstocks]], [[Gasification Residues]]).
 
@@ -126,4 +126,4 @@ Credit programs map these ratios into **different** permanence tables and horizo
 
 ## Related notes
 
-- [[Permanence]] · [[Woolf IPCC Fperm]] · [[Properties]] · [[Permanence Debates]] · [[Permanence Science for Credits]] · [[Science Hub]]
+- [[Permanence]] · [[Permanence Factors Fperm|inventory permanence factors]] · [[Properties]] · [[Permanence Debates]] · [[Permanence Science for Credits]] · [[Science Hub]]

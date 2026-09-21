@@ -8,7 +8,7 @@ updated: 2026-09-16
 
 Chapter on **optical random reflectance (Ro)** and **hydropyrolysis-resistant carbon (BC_HyPy)** as advanced permanence proxies beyond elemental ratios and pyrolysis-temperature class. Positions the “inertinite / Ro camp” relative to Woolf-style decay models without duplicating credit rules ([[Permanence Science for Credits]]). Report context: **2026-09-16**.
 
-**Related notes:** [[Permanence]] · [[H-Corg and O-Corg]] · [[Woolf IPCC Fperm]] · [[Permanence Debates]] · [[Inertinite Permanence Benchmark|inertinite permanence benchmark]] · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]] · [[CSI Global Biochar C-Sink]] · [[Science Hub]] · [[Key Sources]]
+**Related notes:** [[Permanence]] · [[H-Corg and O-Corg]] · [[Permanence Factors Fperm|inventory permanence factors]] · [[Permanence Debates]] · [[Inertinite Permanence Benchmark|inertinite permanence benchmark]] · [[Biochar Lab Measurement Standard|standardizes biochar lab testing]] · [[CSI Global Biochar C-Sink]] · [[Science Hub]] · [[Key Sources]]
 
 ---
 
@@ -82,7 +82,7 @@ Synthesis for this vault: use **Ro/HyPy to document high condensation** and to s
 
 1. If a buyer or methodology asks for Ro, specify **ISO 7404-5** and report the **distribution**, not only a mean ([S668](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf); [Sanei 2024](https://doi.org/10.1016/j.coal.2023.104409)).
 2. Never equate “Ro ≥ 2%” with “zero decay forever” ([Schmidt 2025](https://doi.org/10.1111/gcbb.70092)).
-3. For inventory-style tonnes CO₂e, still need \(F_C \times F_\mathrm{perm}\) logic ([[Woolf IPCC Fperm]]) unless the governing protocol replaces it.
+3. For inventory-style tonnes CO₂e, still need \(F_C \times F_\mathrm{perm}\) logic ([[Permanence Factors Fperm|inventory permanence factors]]) unless the governing protocol replaces it.
 
 ---
 

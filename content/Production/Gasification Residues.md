@@ -8,7 +8,7 @@ updated: 2026-09-16
 
 Chapter on **solids from biomass gasification**—often high-ash, lower organic-carbon materials that may still qualify as biochar when organic C meets definitional and permanence criteria. Report context: **2026-09-16**.
 
-**Related notes:** [[Production]] · [[Woody vs Manure Ag Feedstocks]] · [[Biochar Quality from Process]] · [[Heavy Metals and Ash]] · [[Woolf IPCC Fperm]] · [[Production Hub]] · [[Key Sources]]
+**Related notes:** [[Production]] · [[Woody vs Manure Ag Feedstocks]] · [[Biochar Quality from Process]] · [[Heavy Metals and Ash]] · [[Permanence Factors Fperm|inventory permanence factors]] · [[Production Hub]] · [[Key Sources]]
 
 ---
 

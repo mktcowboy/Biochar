@@ -1,6 +1,6 @@
 ---
 tags: [science, permanence, accounting, IPCC]
-aliases: [F_perm, Woolf Fperm, IPCC permanence factors, Permanence factors, Woolf IPCC Fperm]
+aliases: [F_perm, IPCC permanence factors, Permanence factors, inventory permanence factors]
 updated: 2026-09-16
 ---
 

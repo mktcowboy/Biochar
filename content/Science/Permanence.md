@@ -8,7 +8,7 @@ updated: 2026-09-16
 
 Hub for **persistence / permanence science**: how long biochar organic carbon remains in soil after application, which material and environmental factors control that longevity, and which laboratory proxies inventories and markets use. Credit-program thresholds and issuance rules live in [[Permanence Science for Credits]] — this cluster stays on the **science**. Report context: **2026-09-16**.
 
-> **Companion chapters (2026-09-16):** [[H-Corg and O-Corg]] · [[Woolf IPCC Fperm]] · [[Reflectance Ro and HyPy]] · [[Soil Temperature and Environment]] · [[Permanence Debates]]. This note is the **spine**—definitions, mechanism snapshot, chapter map, and practice takeaway—without duplicating registry methodology text.
+> **Companion chapters (2026-09-16):** [[H-Corg and O-Corg]] · [[Permanence Factors Fperm|inventory permanence factors]] · [[Reflectance Ro and HyPy]] · [[Soil Temperature and Environment]] · [[Permanence Debates]]. This note is the **spine**—definitions, mechanism snapshot, chapter map, and practice takeaway—without duplicating registry methodology text.
 
 **Related notes:** [[Properties]] · [[Quantitative Benchmarks]] · [[CDR Potential and IPCC Accounting]] · [[Consensus vs Debates]] · [[Permanence Science for Credits]] · [[Production]] · [[Biochar Quality from Process]] · [[Science Hub]] · [[Key Sources]]
 
@@ -18,13 +18,13 @@ Hub for **persistence / permanence science**: how long biochar organic carbon re
 
 Biochar carbon mineralizes **1–2 orders of magnitude more slowly** than unpyrolysed biomass because pyrolysis builds **fused aromatic** structures that microbes oxidize poorly ([[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]] · [DOI](https://doi.org/10.1038/s41561-021-00852-8); [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] · [DOI](https://doi.org/10.1021/acs.est.1c02425)). Persistence is **not** literal forever: it is probabilistic over **centennial–millennial** horizons for well-made chars, and it depends on **material chemistry** (aromatic condensation) **and** environment (soil temperature, moisture, minerals, microbes) ([Schmidt et al., 2025](https://doi.org/10.1111/gcbb.70092); [Woolf 2021](https://doi.org/10.1021/acs.est.1c02425)).
 
-Policy and inventory practice usually compress that dynamics into a single **permanence factor** \(F_\mathrm{perm}\) = fraction of biochar organic C still unmineralized after a chosen horizon—commonly **100 years** for IPCC-style accounting ([[IPCC Biochar Soil Carbon Method|estimates soil C stock change from biochar]] · [PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)). Always state **horizon + soil temperature** with any \(F_\mathrm{perm}\) number ([[Woolf IPCC Fperm]], [[Soil Temperature and Environment]]).
+Policy and inventory practice usually compress that dynamics into a single **permanence factor** \(F_\mathrm{perm}\) = fraction of biochar organic C still unmineralized after a chosen horizon—commonly **100 years** for IPCC-style accounting ([[IPCC Biochar Soil Carbon Method|estimates soil C stock change from biochar]] · [PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)). Always state **horizon + soil temperature** with any \(F_\mathrm{perm}\) number ([[Permanence Factors Fperm|inventory permanence factors]], [[Soil Temperature and Environment]]).
 
 ---
 
 ## 2. Mechanism in one paragraph
 
-During pyrolysis, cellulose/hemicellulose/lignin rearrange into **condensed aromatic** domains; H and O are lost relative to C, so **H/C_org** and **O/C_org** fall as condensation rises ([[Keiluweit et al.|Keiluweit et al., 2010]] · [DOI](https://doi.org/10.1021/es9031419); [[H-Corg and O-Corg]]). Labile aliphatic / incompletely carbonized fractions mineralize in months–years; the recalcitrant aromatic pool decays much more slowly, so multi-pool (at least two-pool exponential) models are the inventory workhorse ([IPCC App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf); [Woolf 2021](https://doi.org/10.1021/acs.est.1c02425)). Aging in soil also includes **stabilization** pathways (organo-mineral associations, aggregation)—decomposition and stabilization run in parallel ([Schmidt 2025](https://doi.org/10.1111/gcbb.70092)).
+During pyrolysis, cellulose/hemicellulose/lignin rearrange into **condensed aromatic** domains; H and O are lost relative to C, so **H/C_org** and **O/C_org** fall as condensation rises ([[Biochar Structure vs Charring Temperature|maps structure vs charring temperature]] · [DOI](https://doi.org/10.1021/es9031419); [[H-Corg and O-Corg]]). Labile aliphatic / incompletely carbonized fractions mineralize in months–years; the recalcitrant aromatic pool decays much more slowly, so multi-pool (at least two-pool exponential) models are the inventory workhorse ([IPCC App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf); [Woolf 2021](https://doi.org/10.1021/acs.est.1c02425)). Aging in soil also includes **stabilization** pathways (organo-mineral associations, aggregation)—decomposition and stabilization run in parallel ([Schmidt 2025](https://doi.org/10.1111/gcbb.70092)).
 
 ---
 
@@ -34,7 +34,7 @@ During pyrolysis, cellulose/hemicellulose/lignin rearrange into **condensed arom
 |---|---|---|---|
 | **H/C_org** | Aromatic condensation (H lost as fused rings grow) | Preferred inventory input when measured; EBC/IBI quality gate | [[H-Corg and O-Corg]] |
 | **O/C_org** | Oxygenation / condensation (Spokas half-life classes) | Historical rule-of-thumb; standards often ≤0.4 | [[H-Corg and O-Corg]] |
-| **Pyrolysis T class** | Process intensity when elemental analysis unavailable | IPCC / Woolf temperature bins → \(F_\mathrm{perm}\) | [[Woolf IPCC Fperm]] · [[Pyrolysis Systems and Temperatures]] |
+| **Pyrolysis T class** | Process intensity when elemental analysis unavailable | IPCC / Woolf temperature bins → \(F_\mathrm{perm}\) | [[Permanence Factors Fperm|inventory permanence factors]] · [[Pyrolysis Systems and Temperatures]] |
 | **BC_HyPy** | Hydropyrolysis-resistant C | CSI / advanced MRV “inert” fraction | [[Reflectance Ro and HyPy]] |
 | **Random reflectance Ro** | Optical rank / inertinite-like condensation | Isometric 1000y / CSI upper class / Sanei benchmark | [[Reflectance Ro and HyPy]] |
 | **Solid EC** | Batch homogeneity / condensation correlate (EBC) | Process QC, not a standalone \(F_\mathrm{perm}\) | [[Properties]] · EBC Guidelines ([PDF](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)) |
@@ -74,7 +74,7 @@ Cross-sheet: [[Quantitative Benchmarks]].
 | Chapter | Role |
 |---|---|
 | [[H-Corg and O-Corg]] | Elemental-ratio proxies, Spokas classes, EBC/IBI gates, Woolf H/C regression |
-| [[Woolf IPCC Fperm]] | Temperature bins, Table 3 values, how IPCC and Woolf relate (do not mix tables) |
+| [[Permanence Factors Fperm|inventory permanence factors]] | Temperature bins, Table 3 values, how IPCC and Woolf relate (do not mix tables) |
 | [[Reflectance Ro and HyPy]] | Petrographic Ro, hydropyrolysis-resistant C, inertinite debate pointer |
 | [[Soil Temperature and Environment]] | Q10, cropland means, moisture/minerals/aging |
 | [[Permanence Debates]] | Two-pool overestimation, Ro vs decay-model camps, policy commentary |

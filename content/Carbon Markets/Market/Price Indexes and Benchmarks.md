@@ -10,6 +10,7 @@ Public price discovery for biochar / engineered CDR is thin. The main **open** b
 
 **Deep Puro fee + index companion:** [[Puro Pricing and CORC Indexes]]  
 **Volume context:** [[Market Volumes and Pricing]] · [[Historical Deals]] · [[Durable CDR Quality Tiers]]  
+**Product (not credit) $/ton:** [[Biochar Pricing]]  
 **Parent MOC:** [[Market Hub]]
 
 ---
