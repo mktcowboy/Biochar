@@ -42,7 +42,7 @@ Research vault for biochar science, production, applications, carbon markets, po
 | How it is made | [[Production]] · [[Pyrolysis Systems and Temperatures]] |
 | Feedstocks | [[Feedstocks]] · [[Woody vs Manure Ag Feedstocks]] |
 | Process → quality | [[Biochar Quality from Process]] · [[Gasification Residues]] |
-| Material properties | [[Properties]] |
+| Material properties | [[Properties]] · [[Biochar vs Activated Carbon]] |
 | Contaminants (**hub + chapters**) | [[Contaminants and Quality]] · [[PAHs]] · [[Heavy Metals and Ash]] · [[PFAS|PFAS and Biochar]] · [[Testing EBC IBI S668]] |
 
 ## Applications

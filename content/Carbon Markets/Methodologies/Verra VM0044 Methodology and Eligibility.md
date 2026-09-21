@@ -141,6 +141,7 @@ Contrast Isometric soil module: **H/Corg < 0.5** and **O/Corg < 0.2** ([soil mod
 | Carbon content | Biochar ≥ **50% C** dry weight |
 | Longevity proof | Lab results, peer-reviewed papers, or third-party product assessment including lifetime |
 | End-of-life | Must demonstrate biochar in the product is **not combusted** at end of life |
+| Activated carbon | Conditions 14–15 bar biochar “processed into activated carbon” and non-soil uses that lose >**50%** of the carbon (same text in v1.1 and v1.2; [v1.2 PDF](https://verra.org/wp-content/uploads/2025/06/VM44_v1.2_clean-1.pdf) pp. 8, 14) — [[Biochar vs Activated Carbon]] |
 
 Isometric’s dedicated [[Isometric Modules Soil Built Burial|built-environment module]] adds Ro-based 1000y math and demolition/abrasion reversal modeling — different architecture than Verra’s non-soil PR_de path.
 

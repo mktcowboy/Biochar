@@ -30,7 +30,7 @@ aliases: [H/C_org, O/C_org, Biochar properties]
 
 ## Related notes
 
-- [[Production]]
+- [[Production]] · [[Biochar vs Activated Carbon]]
 - [[Permanence]] · [[H-Corg and O-Corg]]
 - [[Contaminants and Quality]] · [[Testing EBC IBI S668]]
 - [[Quantitative Benchmarks]]

@@ -18,7 +18,7 @@ aliases: [What is biochar, Biochar definition]
 | Material | Distinction |
 |---|---|
 | Charcoal | Traditionally fuel / metallurgy |
-| Activated carbon | Further activated for sorption |
+| Activated carbon | Char given an extra activation step to build pores for sorption; see [[Biochar vs Activated Carbon]] |
 | Hydrochar | Hydrothermal carbonization; typically higher H/C, less aromatic |
 | Biocoal / torrefied biomass | Mainly energy fuel |
 

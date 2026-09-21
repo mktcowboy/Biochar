@@ -20,6 +20,7 @@ The most-cited papers and reports each have their own note in `Sources/`. Each n
 - **Applications chapter clusters (2026-09-16):** compost ([[Biochar Compost and Manure Blends]] · [[Co-composting Science]] · [[Farm Co-composting Practice]] · [[Compost Blend Safety]] · [[Matrix Pathways for Credits]]); rates ([[Application Rates and Methods]] · [[Field Rates by System]] · [[Incorporation Topdress Banding]] · [[Equipment and Timing]] · [[On-farm Trial Design]]); economics ([[Agronomic Economics]] · [[Cost Components]] · [[Fertilizer Displacement]]); GHG ([[GHG Fluxes]] · [[Nitrous Oxide Fluxes]] · [[Methane Fluxes]] · [[Priming and SOC Interactions]])
 - **Industry org / standards / survey notes:** [[US Biochar Initiative]] · [[USBI Guidance vs Vault Notes]] · [[USBI Ag Guidelines 2023]] · [[ANSI ASABE USBI S668]] · [[ABI 2025 US Biochar Market Report]]
 - **PFAS chapter and research dump (2026-09-16):** [[PFAS]] · `/workspace/biochar-research/pfas-biochar.md`
+- **Biochar vs activated carbon (2026-09-21):** [[Biochar vs Activated Carbon]]
 
 ### Corrections made while building the source notes (2026-09-14)
 
@@ -122,6 +123,27 @@ Each entry appears once. Author names, years, and journals match Crossref as of 
 - EBC Guidelines 10.5E (2025-08-14). [PDF](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)
 - ANSI/ASABE/USBI S668 NOV2025ED. [PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[ANSI ASABE USBI S668]]
 - Phyllis2 biomass database. [https://phyllis.nl/](https://phyllis.nl/)
+
+### Activated carbon comparison (added 2026-09-21; checked against Crossref)
+
+- Fitzer et al. (1995). Recommended terminology for the description of carbon as a solid (IUPAC Recommendations 1995). *Pure Appl. Chem.* [10.1351/pac199567030473](https://doi.org/10.1351/pac199567030473) · [Gold Book: activated carbon](https://goldbook.iupac.org/terms/view/A00090)
+- Ippolito et al. (2020). Feedstock choice, pyrolysis temperature and type influence biochar characteristics: a comprehensive meta-data analysis review. *Biochar*. [10.1007/s42773-020-00067-x](https://doi.org/10.1007/s42773-020-00067-x)
+- Gale et al. (2021). Physiochemical properties of biochar and activated carbon from biomass residue: influence of process conditions to adsorbent properties. *ACS Omega*. [10.1021/acsomega.1c00530](https://doi.org/10.1021/acsomega.1c00530) — a different paper from the mis-cited “Gale 2021” in the corrections table above (that one is Thomas 2021)
+- Mopoung & Dejang (2021). Activated carbon preparation from eucalyptus wood chips using continuous carbonization–steam activation process in a batch intermittent rotary kiln. *Sci. Rep.* [10.1038/s41598-021-93249-x](https://doi.org/10.1038/s41598-021-93249-x)
+- Wei & Li (2021). Wooden activated carbon production for dioxin removal via a two-step process of carbonization coupled with steam activation from biomass wastes. *ACS Omega*. [10.1021/acsomega.0c06032](https://doi.org/10.1021/acsomega.0c06032)
+- Gęca et al. (2022). Biochars and activated carbons as adsorbents of inorganic and organic compounds from multicomponent systems: a review. *Adv. Colloid Interface Sci.* [10.1016/j.cis.2022.102687](https://doi.org/10.1016/j.cis.2022.102687)
+- Alhashimi & Aktas (2017). Life cycle environmental and economic performance of biochar compared with activated carbon: a meta-analysis. *Resour. Conserv. Recycl.* [10.1016/j.resconrec.2016.11.016](https://doi.org/10.1016/j.resconrec.2016.11.016)
+- Shaheen et al. (2022). Performance, life cycle assessment, and economic comparison between date palm waste biochar and activated carbon derived from woody biomass. *Heliyon*. [10.1016/j.heliyon.2022.e12388](https://doi.org/10.1016/j.heliyon.2022.e12388)
+- Li et al. (2025). Life cycle sustainability assessment of activated carbon production technologies in China: coal-derived versus biomass-derived pathways. *ACS Sustain. Chem. Eng.* [10.1021/acssuschemeng.5c04447](https://doi.org/10.1021/acssuschemeng.5c04447)
+- Inyang & Dickenson (2015). The potential role of biochar in the removal of organic and microbial contaminants from potable and reuse water: a review. *Chemosphere*. [10.1016/j.chemosphere.2015.03.072](https://doi.org/10.1016/j.chemosphere.2015.03.072)
+- Pathy et al. (2023). Activation methods increase biochar’s potential for heavy-metal adsorption and environmental remediation: a global meta-analysis. *Sci. Total Environ.* [10.1016/j.scitotenv.2022.161252](https://doi.org/10.1016/j.scitotenv.2022.161252)
+- Kabiri et al. (2026). Effect of physical, chemical, and biological aging on activated carbon and biochar properties and PFAS immobilisation in soils. *J. Hazard. Mater.* [10.1016/j.jhazmat.2026.142258](https://doi.org/10.1016/j.jhazmat.2026.142258)
+- Kookana (2010). The role of biochar in modifying the environmental fate, bioavailability, and efficacy of pesticides in soils: a review. *Soil Research*. [10.1071/sr10007](https://doi.org/10.1071/sr10007)
+- Clay et al. (2016). Maize, switchgrass, and ponderosa pine biochar added to soil increased herbicide sorption and decreased herbicide efficacy. *J. Environ. Sci. Health B*. [10.1080/03601234.2016.1170540](https://doi.org/10.1080/03601234.2016.1170540)
+- Svejcar et al. (2024). A test of activated carbon and soil seed enhancements for improved sub-shrub and grass seedling survival with and without herbicide application. *Plants*. [10.3390/plants13213074](https://doi.org/10.3390/plants13213074)
+- EPA (2024). Treatment options for removing PFAS from drinking water (fact sheet, April 2024). [PDF](https://www.epa.gov/system/files/documents/2024-04/pfas-npdwr_fact-sheet_treatment_4.8.24.pdf)
+- Verra VM0044 v1.2 clean text (effective 2025-06-27). [PDF](https://verra.org/wp-content/uploads/2025/06/VM44_v1.2_clean-1.pdf)
+- Puro Biochar Methodology, Edition 2025 (version 2). [PDF](https://7518557.fs1.hubspotusercontent-na1.net/hubfs/7518557/Puro%20Biochar%20Methodology%20-%20Edition%202025%20%28version%202%29%20-%20For%20Publication.pdf)
 
 ### Soil, yields, water and economics
 

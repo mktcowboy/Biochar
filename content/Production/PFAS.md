@@ -458,5 +458,5 @@ Most published pyrolysis studies sit between levels 2 and 4; the 2024 thermal-ox
 
 - [[Contaminants and Quality]] · [[Testing EBC IBI S668]] · [[PAHs]] · [[Heavy Metals and Ash]]
 - [[Feedstocks]] · [[Woody vs Manure Ag Feedstocks]] · [[Pyrolysis Systems and Temperatures]] · [[Biochar Quality from Process]]
-- [[Soil and Agriculture]] · [[Biochar Compost and Manure Blends]] · [[On-farm Trial Design]]
+- [[Biochar vs Activated Carbon]] · [[Soil and Agriculture]] · [[Biochar Compost and Manure Blends]] · [[On-farm Trial Design]]
 - [[Product Standards EBC IBI]] · [[ANSI ASABE USBI S668]] · [[Risks and Controversies]] · [[Production Hub]] · [[Key Sources]]
