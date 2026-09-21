@@ -23,7 +23,7 @@ Report context: **2026-09-16**.
 | **MRV / credit** | Sampling, audits, registry fees (if CDR stacked) | Methodology-specific — [[Matrix Pathways for Credits]], [[MRV Stack]]; not farmgate amendment price |
 | **Opportunity / tillage** | One-time deep tillage vs no-till constraints | NRCS notes deep tillage as one-time vs multi-century C — FAQ PDF above |
 
-Do **not** treat CDR literature costs (**~$70–360/tCO₂** in [[Fuss & Lunstrum 2026]] — [DOI](https://doi.org/10.17605/OSF.IO/FBZ4X)) as bag retail prices ([[Market Volumes and Pricing]], https://www.cdr.fyi/).
+Do **not** treat CDR literature costs (**~$70–360/tCO₂** in [[CDR Costs and Potentials|CDR costs and potentials]] — [DOI](https://doi.org/10.17605/OSF.IO/FBZ4X)) as bag retail prices ([[Market Volumes and Pricing]], https://www.cdr.fyi/).
 
 ---
 

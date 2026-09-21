@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: [Antonangelo 2021, Antonangelo et al. (2021), COMBI review, Antonangelo et al. 2021]
+aliases: ["COMBI soil quality review", "co-composted biochar soil effects"]
 source_type: review
 peer_reviewed: true
 authors: ["Antonangelo, João A.", "Sun, Xiao", "Zhang, Hailin"]
@@ -35,4 +35,4 @@ verified: 2026-09-14
 - This is a review, not a meta-analysis: "up to 300%" is a best case from individual studies, not an average.
 - Check the loading and temperature ranges above against the full text before quoting them as this paper's recommendations.
 
-Related: [[Biochar Compost and Manure Blends]] · [[Kammann et al. 2015]] · [[Key Sources]]
+Related: [[Biochar Compost and Manure Blends]] · [[Co-compost Nitrate Capture|shows co-compost nitrate capture]] · [[Key Sources]]

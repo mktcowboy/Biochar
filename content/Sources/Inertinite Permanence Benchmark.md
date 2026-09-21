@@ -1,6 +1,6 @@
 ---
 tags: [source, science, carbon-markets]
-aliases: [Sanei 2024, Sanei et al. (2024), Inertinite benchmark, Sanei et al. 2024]
+aliases: ["inertinite permanence benchmark", "IBRo2% inertinite", "Inertinite benchmark"]
 source_type: method
 peer_reviewed: true
 authors: ["Sanei, Hamed", "Rudra, Arka", "Przyswitt, Zia Møller Moltesen", "Kousted, Sofie", "Sindlev, Marco Benkhettab", "Zheng, Xiaowei", "Nielsen, Søren Bom", "Petersen, Henrik Ingermann"]
@@ -34,4 +34,4 @@ verified: 2026-09-14
 - The half-life comes from a kinetic model for inertinite under stated conditions. It isn't a field measurement of biochar decay.
 - Crediting reflectance is a standards decision; see [[Permanence Science for Credits]] and [[Puro vs Other Standards]]. Critiques of the approach: [[Risks and Controversies]].
 
-Related: [[Permanence]] · [[Reflectance Ro and HyPy]] · [[Permanence Debates]] · [[Woolf et al. 2021]] · [[Key Sources]]
+Related: [[Permanence]] · [[Reflectance Ro and HyPy]] · [[Permanence Debates]] · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] · [[Key Sources]]

@@ -31,7 +31,7 @@ verified: 2026-09-14
 | Average yield increase vs control | Compost + biochar **+36%**; compost **+29%**; biochar **+25%** | [Trial summary PDF](https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf), results | ✓ full text |
 | Grape quality | No significant differences | [Trial summary PDF](https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf), grape quality | ✓ full text |
 | Economics | Positive return by the 2nd harvest. By the 5th, extra revenue per acre of **$9,752** (biochar), **$12,569** (compost), and **$14,937** (both), at ~$1,500/t grapes (October 2023) and 2016 delivered prices of $40/t compost and $240/t biochar (wet weight) | [Trial summary PDF](https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf), economic impact | ✓ full text |
-| Persistence claim | Woody biochar made above 600 °C; more than 80% projected to persist at least 100 years, citing [[Woolf et al. 2021]] | [Trial summary PDF](https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf), carbon section | ✓ full text |
+| Persistence claim | Woody biochar made above 600 °C; more than 80% projected to persist at least 100 years, citing [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] | [Trial summary PDF](https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf), carbon section | ✓ full text |
 
 ## Use with care
 

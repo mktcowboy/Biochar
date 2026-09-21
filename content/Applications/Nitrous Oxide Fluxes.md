@@ -16,9 +16,9 @@ Report context: **2026-09-16**.
 
 | Source | Mean / rule | Scope | URL |
 |---|---|---|---|
-| Cayuela et al. 2014 | **−54%** | 30 studies, 261 treatments; lab + field mixed (2007–2013 window) | https://doi.org/10.1016/j.agee.2013.10.009 · [[Cayuela et al. 2014]] · author PDF https://digital.csic.es/bitstream/10261/273052/4/Cayuela2014AgricEcosysEnv.pdf |
-| Jia et al. 2023 | **−26.8%** | Global meta; 3,883 paired obs / 220 studies; pools incubation, pot, **and** field | https://doi.org/10.1002/ldr.4868 · [[Jia et al. 2023]] |
-| Woolf et al. 2021 inventory | Optional **−23%** (95% CI 5–41%), **year 1 only**, only if **>10 Mg C ha⁻¹**; field-fitted | https://doi.org/10.1021/acs.est.1c02425 · [[Woolf et al. 2021]] |
+| Cayuela et al. 2014 | **−54%** | 30 studies, 261 treatments; lab + field mixed (2007–2013 window) | https://doi.org/10.1016/j.agee.2013.10.009 · [[Nitrous Oxide Mitigation Meta-analysis|meta-analyzes N2O mitigation]] · author PDF https://digital.csic.es/bitstream/10261/273052/4/Cayuela2014AgricEcosysEnv.pdf |
+| Jia et al. 2023 | **−26.8%** | Global meta; 3,883 paired obs / 220 studies; pools incubation, pot, **and** field | https://doi.org/10.1002/ldr.4868 · [[Global GHG and Yield Patterns|global GHG and yield patterns]] |
+| Woolf et al. 2021 inventory | Optional **−23%** (95% CI 5–41%), **year 1 only**, only if **>10 Mg C ha⁻¹**; field-fitted | https://doi.org/10.1021/acs.est.1c02425 · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] |
 | Woolf weighing of prior metas | Cites Cayuela −54%; Verhoeven −12.4%; Borchard −38%; Verhoeven reanalysis −9.2% ns | same §3.3.2 | same |
 
 **Farm takeaway:** treat −54% as an early lab-heavy ceiling, −26.8% as a broader modern mean (still mixing study types), and Woolf’s −23% as a **conservative inventory option** that most CPS 336 planning rates **do not unlock**.
@@ -41,7 +41,7 @@ Cayuela 2014: application rate directly correlated with N₂O reductions; soil t
 
 ### 2.4 Fertilizer N baselines
 
-[[Ye et al. 2020]] emphasize fertilizer interactions for yield ([PDF](https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf)); N rate also modulates N₂O baselines. Nutrient chemistry: [[Biochar Nutrients and Fertilizer Chemistry]].
+[[Fertilizer-Controlled Yield Meta-analysis|meta-analyzes yields with fertilizer controls]] emphasize fertilizer interactions for yield ([PDF](https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf)); N rate also modulates N₂O baselines. Nutrient chemistry: [[Biochar Nutrients and Fertilizer Chemistry]].
 
 ---
 
@@ -56,7 +56,7 @@ Woolf et al. (2021) greenhouse-gas inventory method for biochar soil additions:
 - **Mineral soils only** — organic/forest soils with organic horizons **out of scope** (positive priming possible)
 - Priming of native SOC **not credited** (net negative priming not statistically robust in metas they cite)
 
-([DOI](https://doi.org/10.1021/acs.est.1c02425); open PDF https://open-science.canada.ca/server/api/core/bitstreams/112fc297-0352-4683-ae0e-dd1271f59d77/content · [[Woolf et al. 2021]])
+([DOI](https://doi.org/10.1021/acs.est.1c02425); open PDF https://open-science.canada.ca/server/api/core/bitstreams/112fc297-0352-4683-ae0e-dd1271f59d77/content · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]])
 
 **Rate reality check:** CPS 336 planning often starts at **4–10 yd³/ac** ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)). With dry bulk density ~135–540 lb/yd³, many farm rates are **below** 10 Mg C ha⁻¹—so the optional inventory N₂O term often **does not apply**. Credit programs primarily remunerate **durable C**, not flux co-benefits ([[MRV Stack]], [[Matrix Pathways for Credits]]).
 
@@ -105,5 +105,5 @@ Economics framing: [[Agronomic Economics]]. Credit ownership: [[Double Counting 
 ## Related notes
 
 - [[GHG Fluxes]] · [[Methane Fluxes]] · [[Priming and SOC Interactions]]
-- [[Crop Yield Effects]] · [[Soil and Agriculture]] · [[Cayuela et al. 2014]] · [[Jia et al. 2023]] · [[Woolf et al. 2021]]
+- [[Crop Yield Effects]] · [[Soil and Agriculture]] · [[Nitrous Oxide Mitigation Meta-analysis|meta-analyzes N2O mitigation]] · [[Global GHG and Yield Patterns|global GHG and yield patterns]] · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]]
 - [[Applications Hub]] · [[Science Hub]]

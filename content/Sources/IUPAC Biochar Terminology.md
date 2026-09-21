@@ -1,6 +1,6 @@
 ---
 tags: [source, science]
-aliases: [Bilias 2024, Bilias et al. (2024), IUPAC biochar glossary, Bilias et al. 2024]
+aliases: ["IUPAC biochar terminology", "IUPAC biochar glossary"]
 source_type: glossary
 peer_reviewed: true
 authors: ["Bilias, Fotis", "Sewu, Divine Damertey", "Woo, Seung Han", "Anastopoulos, Ioannis", "Verheijen, Frank", "Lehmann, Johannes", "Teixeira, Wenceslau Geraldes", "Gasparatos, Dionisios", "Draper, Kathleen", "Kalderis, Dimitrios"]

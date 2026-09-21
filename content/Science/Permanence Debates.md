@@ -14,8 +14,8 @@ Chapter on **open scientific and policy debates** about biochar permanence: deca
 
 ## 1. What is largely settled
 
-- Well-made biochar (adequate T / low H/C_org) persists **far longer** than raw biomass; fused aromatics are the mechanistic basis ([[Lehmann et al. 2021]] · [DOI](https://doi.org/10.1038/s41561-021-00852-8)).
-- Persistence is **probabilistic** and environment-dependent, not literal immortality ([Schmidt et al. 2025](https://doi.org/10.1111/gcbb.70092); [[Woolf et al. 2021]] · [DOI](https://doi.org/10.1021/acs.est.1c02425)).
+- Well-made biochar (adequate T / low H/C_org) persists **far longer** than raw biomass; fused aromatics are the mechanistic basis ([[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]] · [DOI](https://doi.org/10.1038/s41561-021-00852-8)).
+- Persistence is **probabilistic** and environment-dependent, not literal immortality ([Schmidt et al. 2025](https://doi.org/10.1111/gcbb.70092); [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] · [DOI](https://doi.org/10.1021/acs.est.1c02425)).
 - Inventory practice can use mass × \(F_C\) × \(F_\mathrm{perm}\) with kiln/gate MRV ([[CDR Potential and IPCC Accounting]]).
 
 ---
@@ -34,10 +34,10 @@ Chapter on **open scientific and policy debates** about biochar permanence: deca
 
 | Camp | Core tools | Typical horizons | Exemplars |
 |---|---|---|---|
-| **Decomposition-model** | Multi-pool decay, H/C_org, T-class, soil T | 100y (IPCC/Woolf); “several centuries” / 200y in some markets | [[IPCC 2019 Biochar Appendix]], [[Woolf et al. 2021]], Puro CORC200+, Isometric 200y |
-| **Inertinite / Ro** | Random reflectance, HyPy-resistant C | Millennial / “permanent” upper classes | [[Sanei et al. 2024]], Isometric 1000y, CSI upper class |
+| **Decomposition-model** | Multi-pool decay, H/C_org, T-class, soil T | 100y (IPCC/Woolf); “several centuries” / 200y in some markets | [[IPCC 2019 Biochar Appendix]], [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]], Puro CORC200+, Isometric 200y |
+| **Inertinite / Ro** | Random reflectance, HyPy-resistant C | Millennial / “permanent” upper classes | [[Inertinite Permanence Benchmark|inertinite permanence benchmark]], Isometric 1000y, CSI upper class |
 
-[[Sanei et al. 2024]] IBRo2% (Ro = 2%) and modelled ~100 Myr half-life under stated oxidizing conditions ([DOI](https://doi.org/10.1016/j.coal.2023.104409)) energize the Ro camp. [Schmidt et al. 2025](https://doi.org/10.1111/gcbb.70092) push back: do not equate modern biochar with geological inertinite; refuse **100%** permanence declarations; recommend policy definitions on the order of **centuries** with registered material properties, traceable application, conservative modelling, and long-term field validation.
+[[Inertinite Permanence Benchmark|inertinite permanence benchmark]] IBRo2% (Ro = 2%) and modelled ~100 Myr half-life under stated oxidizing conditions ([DOI](https://doi.org/10.1016/j.coal.2023.104409)) energize the Ro camp. [Schmidt et al. 2025](https://doi.org/10.1111/gcbb.70092) push back: do not equate modern biochar with geological inertinite; refuse **100%** permanence declarations; recommend policy definitions on the order of **centuries** with registered material properties, traceable application, conservative modelling, and long-term field validation.
 
 Puro’s public permanence post (2025-07-03) explicitly chose **centuries not millennia** pending more integrated science ([puro.earth permanence post](https://puro.earth/insights/post/biochar-permanence/))—a market illustration of Debate B, detailed on the credit side in [[Permanence Science for Credits]] / [[Puro CORC200+]].
 
@@ -62,7 +62,7 @@ Choosing 100y vs 1000y changes both the **number** and the **narrative**. Neithe
 
 1. Lead with **mechanism + proxies + \(F_\mathrm{perm}\)** chapters, not slogans.
 2. Cross-link markets via [[Permanence Science for Credits]] without pasting registry tables into science notes.
-3. Flag Lehmann H/C < 0.5 subset figures as **full-text not re-checked** ([[Lehmann et al. 2021]]).
+3. Flag Lehmann H/C < 0.5 subset figures as **full-text not re-checked** ([[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]]).
 4. Align with Schmidt 2025 on rejecting absolute millennial zero-decay claims unless a specific protocol’s evidence bar is met and disclosed.
 
 ---
@@ -70,8 +70,8 @@ Choosing 100y vs 1000y changes both the **number** and the **narrative**. Neithe
 ## Primary links
 
 - [Schmidt et al. 2025](https://doi.org/10.1111/gcbb.70092)
-- [Sanei et al. 2024](https://doi.org/10.1016/j.coal.2023.104409) · [[Sanei et al. 2024]]
-- [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) · [[Woolf et al. 2021]]
+- [Sanei et al. 2024](https://doi.org/10.1016/j.coal.2023.104409) · [[Inertinite Permanence Benchmark|inertinite permanence benchmark]]
+- [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]]
 - [IPCC 2019 App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)
 - [Azzi et al. 2024](https://doi.org/10.1016/j.geoderma.2023.116761)
 - [Puro permanence post](https://puro.earth/insights/post/biochar-permanence/)

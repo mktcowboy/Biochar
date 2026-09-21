@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: [Quilliam 2013, Quilliam et al. (2013), Quilliam et al. 2013]
+aliases: ["charosphere microbial habitat", "charosphere colonization"]
 source_type: field study
 peer_reviewed: true
 authors: ["Quilliam, Richard S.", "Glanville, Helen C.", "Wade, Stephen C.", "Jones, Davey L."]
@@ -36,4 +36,4 @@ verified: 2026-09-14
 - One wood biochar, one site, up to three years. It doesn't rule out habitat effects for other chars, or for biochar charged with compost ([[Biochar Inoculation for Fertilizer]]).
 - **Attribution fix:** the clover-nodulation finding cited in [[Biochar Nutrients and Fertilizer Chemistry]] comes from a different paper: Quilliam, DeLuca & Jones (2013), *Plant and Soil* 366: 83–92, https://doi.org/10.1007/s11104-012-1411-4.
 
-Related: [[Biochar Microbes and Soil Biology]] · [[Ross & Emery 2025]] · [[Key Sources]]
+Related: [[Biochar Microbes and Soil Biology]] · [[Microbial Inocula Meta-analysis|meta-analyzes microbial inocula]] · [[Key Sources]]

@@ -22,7 +22,7 @@ Thermochemical decomposition of cellulose, hemicellulose, and lignin under oxyge
 
 **IPCC inventory definition:** solid from heating biomass **>350 °C** under controlled/limited oxidant so it does not combust (pyrolysis **or** gasification), for mineral soils in cropland/grassland ([[IPCC 2019 Biochar Appendix]] · [PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)).
 
-**IUPAC (Bilias et al. 2024):** solid multifunctional porous carbonaceous product of agricultural biomass pyrolysis typically **350–1000 °C**, with molar **H/C_org < 0.7** and **O/C_org < 0.4** ([[Bilias et al. 2024]] · [DOI](https://doi.org/10.1515/pac-2021-0106)).
+**IUPAC (Bilias et al. 2024):** solid multifunctional porous carbonaceous product of agricultural biomass pyrolysis typically **350–1000 °C**, with molar **H/C_org < 0.7** and **O/C_org < 0.4** ([[IUPAC Biochar Terminology|IUPAC biochar terminology]] · [DOI](https://doi.org/10.1515/pac-2021-0106)).
 
 **Not biochar under these definitions:** torrefaction / HTC solids (typically <350 °C or wet pressurized; not sufficiently persistent for Woolf/IPCC methods — [Woolf 2021](https://doi.org/10.1021/acs.est.1c02425) §2.1.1), fossil chars, open wildfire charcoal without process control.
 
@@ -44,7 +44,7 @@ Controls on properties: feedstock class, peak temperature, residence time, heati
 
 ## 3. Carbon content (FC) — Woolf examples
 
-Organic carbon mass fraction on dry matter varies from as low as **~7%** (gasified biosolids) to **~79%** (wood pyrolysed >600 °C) in Woolf’s abstract range ([[Woolf et al. 2021]] · [DOI](https://doi.org/10.1021/acs.est.1c02425)). Table 2 class means ([open PDF](https://open-science.canada.ca/server/api/core/bitstreams/112fc297-0352-4683-ae0e-dd1271f59d77/content)):
+Organic carbon mass fraction on dry matter varies from as low as **~7%** (gasified biosolids) to **~79%** (wood pyrolysed >600 °C) in Woolf’s abstract range ([[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] · [DOI](https://doi.org/10.1021/acs.est.1c02425)). Table 2 class means ([open PDF](https://open-science.canada.ca/server/api/core/bitstreams/112fc297-0352-4683-ae0e-dd1271f59d77/content)):
 
 | Feedstock / process | Approx. FC |
 |---|---|
@@ -89,10 +89,10 @@ For EBC-certified production ([EBC 10.5E](https://www.european-biochar.org/media
 
 ## Primary links
 
-- [Bilias et al. 2024 IUPAC](https://doi.org/10.1515/pac-2021-0106) · [[Bilias et al. 2024]]
+- [Bilias et al. 2024 IUPAC](https://doi.org/10.1515/pac-2021-0106) · [[IUPAC Biochar Terminology|IUPAC biochar terminology]]
 - [IPCC 2019 App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC 2019 Biochar Appendix]]
 - [Keiluweit et al. 2010](https://doi.org/10.1021/es9031419)
-- [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) · [[Woolf et al. 2021]]
+- [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]]
 - [EBC 10.5E PDF](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)
 - [Phyllis2](https://phyllis.nl/)
 

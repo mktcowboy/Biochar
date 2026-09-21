@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: [Schmidt 2015, Schmidt et al. (2015), Schmidt et al. 2015]
+aliases: ["urine-enhanced biochar field trial", "urine-enhanced pumpkin trial"]
 source_type: field trial
 peer_reviewed: true
 authors: ["Schmidt, Hans-Peter", "Pandit, Bishnu Hari", "Martinsen, Vegard", "Cornelissen, Gerard", "Conte, Pellegrino", "Kammann, Claudia I."]
@@ -35,7 +35,7 @@ verified: 2026-09-14
 
 ## Use with care
 
-- One site, one crop, one season: a strong demonstration, not an average effect. The multi-site follow-up is [[Schmidt et al. 2017]].
+- One site, one crop, one season: a strong demonstration, not an average effect. The multi-site follow-up is [[Liquid Nutrient Enrichment Field Trials|liquid nutrient enrichment trials]].
 - The authors *tentatively* attribute the gain to an organic coating that urine loading forms on pore surfaces. The abstract offers this as an explanation, not a measured cause.
 
-Related: [[Schmidt et al. 2017]] · [[Biochar Inoculation for Fertilizer]] · [[Biochar Nutrients and Fertilizer Chemistry]] · [[Key Sources]]
+Related: [[Liquid Nutrient Enrichment Field Trials|liquid nutrient enrichment trials]] · [[Biochar Inoculation for Fertilizer]] · [[Biochar Nutrients and Fertilizer Chemistry]] · [[Key Sources]]

@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: [Kammann 2015, Kammann et al. (2015), Kammann et al. 2015]
+aliases: ["co-compost nitrate capture", "nitrate capture in co-composted biochar"]
 source_type: pot trial
 peer_reviewed: true
 authors: ["Kammann, Claudia I.", "Schmidt, Hans-Peter", "Messerschmidt, Nicole", "Linsel, Sebastian", "Steffens, Diedrich", "Müller, Christoph", "Koyro, Hans-Werner", "Conte, Pellegrino", "Joseph, Stephen"]
@@ -38,4 +38,4 @@ verified: 2026-09-14
 - The vault's "~3–5 g NO₃⁻-N kg⁻¹" range isn't this paper's number. It reports ~2.1–2.2 g kg⁻¹ by the standard method and ~5.2 g kg⁻¹ by exhaustive washing.
 - A pot study in one soil at 2% w/w: a demonstration of mechanism, not a field yield estimate.
 
-Related: [[Biochar Inoculation for Fertilizer]] · [[Biochar Nutrients and Fertilizer Chemistry]] · [[Antonangelo et al. 2021]] · [[Key Sources]]
+Related: [[Biochar Inoculation for Fertilizer]] · [[Biochar Nutrients and Fertilizer Chemistry]] · [[COMBI Soil Quality Review|reviews co-composted biochar soil effects]] · [[Key Sources]]

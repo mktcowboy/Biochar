@@ -8,7 +8,7 @@ updated: 2026-09-16
 
 **Parent hub:** [[Isometric Biochar Protocol]]  
 **Modules:** [[Isometric Modules Soil Built Burial]]  
-**Science:** [[Permanence Science for Credits]] · [[Woolf et al. 2021]] · [[Sanei et al. 2024]] · [[Permanence]]  
+**Science:** [[Permanence Science for Credits]] · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] · [[Inertinite Permanence Benchmark|inertinite permanence benchmark]] · [[Permanence]]  
 **Compare:** [[Verra VM0044 Permanence and Quantification]] · [[Puro CORC200+]] · [[CSI Global Biochar C-Sink]]
 
 Primary source for soil equations: [Biochar Storage in Soil Environments v1.3](https://registry.isometric.com/module/biochar-storage-soil-environments/1.3). Protocol framing: [Biochar Production and Storage v1.3](https://registry.isometric.com/protocol/biochar/1.3). Launch rationale: [Isometric science article (2024-10-10)](https://isometric.com/writing-articles/certified-protocol-for-biochar-production-and-storage).
@@ -77,7 +77,7 @@ Isometric’s science article links the 200-year option to the EU Carbon Removal
 
 ## Option 2 — 1000-year (Ro / inertinite)
 
-Science basis: [[Sanei et al. 2024]] ([DOI](https://doi.org/10.1016/j.coal.2023.104409)) — biochars with mean **R₀ ≥ 2%** structurally akin to inertinite macerals with geological persistence.
+Science basis: [[Inertinite Permanence Benchmark|inertinite permanence benchmark]] ([DOI](https://doi.org/10.1016/j.coal.2023.104409)) — biochars with mean **R₀ ≥ 2%** structurally akin to inertinite macerals with geological persistence.
 
 ### Measurement requirements
 

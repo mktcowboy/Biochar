@@ -63,7 +63,7 @@ Documented changes (methodology intro, permanence post, retail post, transition 
 | # | Theme | Edition 2022 | Edition 2025 |
 |---|---|---|---|
 | 1 | **Durability claim** | CORC100+ | **CORC200+** (“several centuries”) |
-| 2 | **Permanence model** | [[Woolf et al. 2021\|Woolf 2021]] multi-pool exponential | Revised **power model** over **200 years**, then soil-depth protection assumed for further centuries; **80% confidence interval** lower bound; H/C_org domain 0–0.7; soil T floor **7 °C**; open-source on GitHub |
+| 2 | **Permanence model** | [[Biochar Soil GHG Inventory Model\|models soil GHG from biochar]] multi-pool exponential | Revised **power model** over **200 years**, then soil-depth protection assumed for further centuries; **80% confidence interval** lower bound; H/C_org domain 0–0.7; soil T floor **7 °C**; open-source on GitHub |
 | 3 | **Random reflectance (Ro)** | — | Reporting **encouraged**; **does not affect quantification** yet |
 | 4 | **Biomass sourcing** | Prior rules | Stricter alignment with **Puro Biomass Sourcing Criteria** (category A MSW excluded; category J food crops excluded; category P land-clearing processable but **no CORCs**; etc.) |
 | 5 | **Mobile pyrolyzers** | Limited treatment | Explicit **Stationary vs Mobile** facility definitions; spatial extent within one host country; fleet rules |
@@ -286,7 +286,7 @@ Science anchors:
 
 - [Puro permanence post](https://puro.earth/insights/post/biochar-permanence/)
 - Woolf et al. 2021 — [DOI 10.1021/acs.est.1c02425](https://doi.org/10.1021/acs.est.1c02425)
-- [[Sanei et al. 2024]] — [DOI 10.1016/j.coal.2023.104409](https://doi.org/10.1016/j.coal.2023.104409)
+- [[Inertinite Permanence Benchmark|inertinite permanence benchmark]] — [DOI 10.1016/j.coal.2023.104409](https://doi.org/10.1016/j.coal.2023.104409)
 - Azzi et al. 2024 — [DOI 10.1016/j.geoderma.2023.116761](https://doi.org/10.1016/j.geoderma.2023.116761)
 - Vault: [[Permanence]] · [[Permanence Science for Credits]] · [[Properties]]
 

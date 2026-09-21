@@ -1,6 +1,6 @@
 ---
 tags: [sources, bibliography, hub]
-aliases: [Bibliography, Sources, References, Source index]
+aliases: ["Bibliography", "Sources", "References", "Source index"]
 updated: 2026-09-16
 ---
 
@@ -26,17 +26,17 @@ The most-cited papers and reports each have their own note in `Sources/`. Each n
 
 | Cited as | Problem | Fix |
 |---|---|---|
-| Ye et al. 2020 | DOI 10.1111/sum.12555 is a different paper | https://doi.org/10.1111/sum.12546 · [[Ye et al. 2020]] |
+| Ye et al. 2020 | DOI 10.1111/sum.12555 is a different paper | https://doi.org/10.1111/sum.12546 · [[Fertilizer-Controlled Yield Meta-analysis|meta-analyzes yields with fertilizer controls]] |
 | Archanjo et al. 2017 | DOI ending 01.038 didn't resolve | https://doi.org/10.1016/j.geoderma.2017.01.037 |
 | Ndoung et al. 2021 | One link used e08501, an unrelated medical paper | https://doi.org/10.1016/j.heliyon.2021.e08473 |
 | Jaiswal et al. 2014 | DOI ending 10.047 is an unrelated priming paper | https://doi.org/10.1016/j.soilbio.2013.10.051 |
 | Vandecasteele et al. 2016 | DOI ending 11.059 is a paper on VOCs in surface coatings | https://doi.org/10.1016/j.jenvman.2015.11.045 |
 | "Gale 2021" post-processing meta-analysis | Crossref lists the author as Thomas | Thomas (2021) — https://doi.org/10.1007/s42773-021-00115-0 |
 | "Marschner et al. 2022" N-uptake review | Crossref lists the authors as Rasse et al. | Rasse et al. (2022) — https://doi.org/10.1007/s11104-022-05365-w |
-| "Fuss et al. 2026" | The chapter has two authors | [[Fuss & Lunstrum 2026]] |
-| Wang et al. 2016 | Cited for "short-term positive priming"; the paper found negative priming in short studies | [[Wang et al. 2016]] |
-| Jia et al. 2023 | Called "field-focused"; it pools lab, pot and field studies | [[Jia et al. 2023]] |
-| Kammann et al. 2015 | "+305%" and "3–5 g NO₃⁻-N kg⁻¹" | Up to 305% *of* the control; ~2.1–5.2 g kg⁻¹ depending on method — [[Kammann et al. 2015]] |
+| "Fuss et al. 2026" | The chapter has two authors | [[CDR Costs and Potentials|CDR costs and potentials]] |
+| Wang et al. 2016 | Cited for "short-term positive priming"; the paper found negative priming in short studies | [[Stability and Priming Meta-analysis|meta-analyzes stability and priming]] |
+| Jia et al. 2023 | Called "field-focused"; it pools lab, pot and field studies | [[Global GHG and Yield Patterns|global GHG and yield patterns]] |
+| Kammann et al. 2015 | "+305%" and "3–5 g NO₃⁻-N kg⁻¹" | Up to 305% *of* the control; ~2.1–5.2 g kg⁻¹ depending on method — [[Co-compost Nitrate Capture|shows co-compost nitrate capture]] |
 | Earth Foundries report | "10% biochar" | 10% by volume — [[Earth Foundries Co-Composting Report 2023]] |
 | Quilliam et al. 2013 clover caveat | Comes from a different Quilliam paper | https://doi.org/10.1007/s11104-012-1411-4 |
 

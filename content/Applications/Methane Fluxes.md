@@ -40,13 +40,13 @@ Jeffery, Verheijen, Kammann & Abalos (2016), *Soil Biology & Biochemistry* 101:2
 
 ## 3. Jia et al. 2023 global mean
 
-Jia et al. (2023): mean **CH₄ emissions −13.0%**; CH₄ **uptake unchanged** in that analysis; pools incubation, pot, and field ([DOI](https://doi.org/10.1002/ldr.4868) · [[Jia et al. 2023]]). GHG intensity **−14.3%** overall (−18.7% upland, −14.5% paddy) in the same paper. Field responses were weaker than lab/pot—treat headline % cautiously.
+Jia et al. (2023): mean **CH₄ emissions −13.0%**; CH₄ **uptake unchanged** in that analysis; pools incubation, pot, and field ([DOI](https://doi.org/10.1002/ldr.4868) · [[Global GHG and Yield Patterns|global GHG and yield patterns]]). GHG intensity **−14.3%** overall (−18.7% upland, −14.5% paddy) in the same paper. Field responses were weaker than lab/pot—treat headline % cautiously.
 
 ---
 
 ## 4. Inventory default (Woolf 2021)
 
-Woolf et al. (2021) assume **no net CH₄ change** for national inventory–style accounting—too few field data to predict size or direction reliably ([DOI](https://doi.org/10.1021/acs.est.1c02425) · [[Woolf et al. 2021]]). Farm NPV and credit calculators should not invent a CH₄ co-benefit unless the methodology and site data support it.
+Woolf et al. (2021) assume **no net CH₄ change** for national inventory–style accounting—too few field data to predict size or direction reliably ([DOI](https://doi.org/10.1021/acs.est.1c02425) · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]]). Farm NPV and credit calculators should not invent a CH₄ co-benefit unless the methodology and site data support it.
 
 ---
 
@@ -99,5 +99,5 @@ Pair with N₂O mechanisms ([[Nitrous Oxide Fluxes]]) and priming ([[Priming and
 ## Related notes
 
 - [[GHG Fluxes]] · [[Nitrous Oxide Fluxes]] · [[Priming and SOC Interactions]]
-- [[Jeffery et al. 2011]] · [[Jia et al. 2023]] · [[Woolf et al. 2021]]
+- [[Crop Productivity Meta-analysis|meta-analyzes crop productivity]] · [[Global GHG and Yield Patterns|global GHG and yield patterns]] · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]]
 - [[Soil and Agriculture]] · [[Applications Hub]]

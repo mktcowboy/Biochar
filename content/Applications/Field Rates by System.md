@@ -41,9 +41,9 @@ USBI Ag Guidelines cite field application rates of **1–10 tons/acre** as a pra
 
 | System | Rate | Notes | URL |
 |---|---|---|---|
-| Historical research literature | **~5–50+ t ha⁻¹** (extremes **100**) | Not farm default | https://doi.org/10.1016/j.agee.2011.08.015 · [[Jeffery et al. 2011]] |
-| Enriched biochar fertilizers (Nepal) | Often **≪2 t ha⁻¹**; pumpkin example **0.75 t ha⁻¹** DM biochar | Root-zone / liquid enrichment | https://doi.org/10.1002/ldr.2761 · [[Schmidt et al. 2017]] · https://doi.org/10.3390/agriculture5030723 · [[Schmidt et al. 2015]] |
-| BBF meta mean rate | Mean **0.9 t ha⁻¹** associated with **+10%** productivity vs fertilized controls | [[Melo et al. 2022]] | https://doi.org/10.1007/s11104-021-05276-2 |
+| Historical research literature | **~5–50+ t ha⁻¹** (extremes **100**) | Not farm default | https://doi.org/10.1016/j.agee.2011.08.015 · [[Crop Productivity Meta-analysis|meta-analyzes crop productivity]] |
+| Enriched biochar fertilizers (Nepal) | Often **≪2 t ha⁻¹**; pumpkin example **0.75 t ha⁻¹** DM biochar | Root-zone / liquid enrichment | https://doi.org/10.1002/ldr.2761 · [[Liquid Nutrient Enrichment Field Trials|liquid nutrient enrichment trials]] · https://doi.org/10.3390/agriculture5030723 · [[Urine-Enhanced Biochar Field Trial|urine-enhanced biochar field trial]] |
+| BBF meta mean rate | Mean **0.9 t ha⁻¹** associated with **+10%** productivity vs fertilized controls | [[Biochar-Based Fertilizer Meta-analysis|meta-analyzes biochar fertilizers]] | https://doi.org/10.1007/s11104-021-05276-2 |
 | Oasis Vineyard (wet as-applied) | Biochar **10 t/ac**; compost **15 t/ac** | Row-ripped bowl | https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf · [[Oasis Vineyard Trial 2023]] |
 | Dominus Estate | Biochar **25 t/ac** to **36"** | Redevelopment / SOM target | https://pacificbiochar.com/case-study-biochar-application-with-dominus-estate-in-napa-valley-after-2-years-fallow/ |
 | Exomad/CIAT Santa Cruz | **4 t ha⁻¹** once, 30 days pre-plant | Corn after beans; company report | https://www.exomadgreen.com/_files/ugd/8b0a69_153ad8a2b8244bfc8a136176be56a408.pdf · [[Exomad Green Corn and Bean Field Study]] |
@@ -52,7 +52,7 @@ USBI Ag Guidelines cite field application rates of **1–10 tons/acre** as a pra
 | Hort / planting holes (USBI) | **5–25% by volume** in planting substrates cited | Guidelines | https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf |
 | Gady Farm wheat (USBI case) | Biochar **8 ton/acre** (~1.2% by mass top 4") vs lime 1 t/ac | WA case history in guidelines | https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf |
 | Brazil degraded pasture | Rates in paper tables — use DOI, don’t invent | CBA included | https://doi.org/10.1038/s41598-019-47647-x |
-| Woolf optional N₂O inventory credit | Only if **>10 Mg C ha⁻¹** year 1 | Inventory rule, **not** agronomic optimum | https://doi.org/10.1021/acs.est.1c02425 · [[Woolf et al. 2021]] |
+| Woolf optional N₂O inventory credit | Only if **>10 Mg C ha⁻¹** year 1 | Inventory rule, **not** agronomic optimum | https://doi.org/10.1021/acs.est.1c02425 · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] |
 
 ---
 
@@ -60,9 +60,9 @@ USBI Ag Guidelines cite field application rates of **1–10 tons/acre** as a pra
 
 Yield metas (full tables [[Crop Yield Effects]]):
 
-- Stronger mean responses in **acidic**, **coarse**, **tropical/subtropical**, low-fertility soils ([[Jeffery et al. 2011]] · [DOI](https://doi.org/10.1016/j.agee.2011.08.015); [[Jeffery et al. 2017]] tropical ~**+25%** vs temperate little mean benefit — [DOI](https://doi.org/10.1088/1748-9326/aa67bd)).
+- Stronger mean responses in **acidic**, **coarse**, **tropical/subtropical**, low-fertility soils ([[Crop Productivity Meta-analysis|meta-analyzes crop productivity]] · [DOI](https://doi.org/10.1016/j.agee.2011.08.015); [[Tropical vs Temperate Yields|compares tropical vs temperate yields]] tropical ~**+25%** vs temperate little mean benefit — [DOI](https://doi.org/10.1088/1748-9326/aa67bd)).
 - Temperate fertile systems often need **blends**, **banding**, or **policy/CDR stack** to pencil ([[Agronomic Economics]], Galinato et al. 2011 [DOI](https://doi.org/10.1016/j.enpol.2011.07.035)).
-- Biochar **+ fertilizer** field synergy ~**+15%** vs fertilizer alone ([[Ye et al. 2020]] · [PDF](https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf)).
+- Biochar **+ fertilizer** field synergy ~**+15%** vs fertilizer alone ([[Fertilizer-Controlled Yield Meta-analysis|meta-analyzes yields with fertilizer controls]] · [PDF](https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf)).
 
 ---
 
@@ -86,7 +86,7 @@ Example arithmetic (illustrative bounds, not a recommendation):
 
 Wet as-applied masses (Oasis biochar 38% moisture) are higher than dry tonnes ([Oasis PDF](https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf)). Always use the **batch** bulk density and moisture.
 
-Woolf’s **10 Mg C ha⁻¹** N₂O threshold is carbon mass, not biochar mass—divide by FC (e.g. wood FC ~0.7–0.81 in Woolf Table 2) to estimate biochar tonnes ([DOI](https://doi.org/10.1021/acs.est.1c02425) · [[Woolf et al. 2021]]).
+Woolf’s **10 Mg C ha⁻¹** N₂O threshold is carbon mass, not biochar mass—divide by FC (e.g. wood FC ~0.7–0.81 in Woolf Table 2) to estimate biochar tonnes ([DOI](https://doi.org/10.1021/acs.est.1c02425) · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]]).
 
 ---
 

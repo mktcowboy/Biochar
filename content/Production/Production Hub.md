@@ -42,9 +42,9 @@ Credit programs and product standards ([EBC](https://www.european-biochar.org/)/
 ## Primary links
 
 - [IPCC 2019 biochar appendix](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC 2019 Biochar Appendix]]
-- [Bilias et al. 2024 IUPAC](https://doi.org/10.1515/pac-2021-0106) · [[Bilias et al. 2024]]
+- [Bilias et al. 2024 IUPAC](https://doi.org/10.1515/pac-2021-0106) · [[IUPAC Biochar Terminology|IUPAC biochar terminology]]
 - [Keiluweit et al. 2010](https://doi.org/10.1021/es9031419)
-- [[Woolf et al. 2021]] ([DOI](https://doi.org/10.1021/acs.est.1c02425))
+- [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] ([DOI](https://doi.org/10.1021/acs.est.1c02425))
 - [EBC 10.5E PDF](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf) · [IBI](https://biochar-international.org/)
 - [ANSI S668 PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf)
 

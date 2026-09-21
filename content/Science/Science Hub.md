@@ -15,14 +15,14 @@ Synthesized from the science research report (2026-09-14) plus permanence expans
 | Resource | URL |
 |---|---|
 | IPCC 2019 biochar appendix (PDF) | https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf · [[IPCC 2019 Biochar Appendix]] |
-| [[Lehmann et al. 2021]] (*Nat. Geosci.*) | https://doi.org/10.1038/s41561-021-00852-8 |
+| [[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]] (*Nat. Geosci.*) | https://doi.org/10.1038/s41561-021-00852-8 |
 | [[Biochar Soil GHG Inventory Model]] (*ES&T*) | https://doi.org/10.1021/acs.est.1c02425 |
 | Woolf et al. 2010 (*Nat. Commun.*) | https://doi.org/10.1038/ncomms1053 |
-| [[Bilias et al. 2024]] IUPAC glossary | https://doi.org/10.1515/pac-2021-0106 |
+| [[IUPAC Biochar Terminology|IUPAC biochar terminology]] IUPAC glossary | https://doi.org/10.1515/pac-2021-0106 |
 | Weng & Cowie 2025 | https://doi.org/10.1038/s43247-025-02228-x |
-| State of CDR Ch. 10 ([[Fuss & Lunstrum 2026]]) | https://doi.org/10.17605/OSF.IO/FBZ4X |
+| State of CDR Ch. 10 ([[CDR Costs and Potentials|CDR costs and potentials]]) | https://doi.org/10.17605/OSF.IO/FBZ4X |
 | Schmidt et al. 2025 permanence commentary | https://doi.org/10.1111/gcbb.70092 |
-| [[Sanei et al. 2024]] inertinite / Ro | https://doi.org/10.1016/j.coal.2023.104409 |
+| [[Inertinite Permanence Benchmark|inertinite permanence benchmark]] inertinite / Ro | https://doi.org/10.1016/j.coal.2023.104409 |
 | EBC | https://www.european-biochar.org/ |
 | IBI | https://biochar-international.org/ |
 

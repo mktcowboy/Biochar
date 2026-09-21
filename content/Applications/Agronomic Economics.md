@@ -20,7 +20,7 @@ Galinato, Yoder & Granatstein (2011), *Energy Policy* — “The economic value 
 
 - Evaluates biochar for **Washington winter wheat** with and without carbon payments.
 - Finds profitability generally requires **low biochar prices** and/or a **carbon offset market**; agronomic value alone is often insufficient at then-prevailing prices and the high application rates modeled.
-- Use as a caution against assuming fertilizer-like payback from bulk raw char in temperate systems—consistent with weak temperate mean yields in [[Jeffery et al. 2017]] ([DOI](https://doi.org/10.1088/1748-9326/aa67bd)).
+- Use as a caution against assuming fertilizer-like payback from bulk raw char in temperate systems—consistent with weak temperate mean yields in [[Tropical vs Temperate Yields|compares tropical vs temperate yields]] ([DOI](https://doi.org/10.1088/1748-9326/aa67bd)).
 
 Exact break-even tables are in the paper; quote numbers from the PDF/HTML when doing diligence rather than secondary paraphrases. This vault does **not** invent those table cells without full-text check.
 
@@ -46,7 +46,7 @@ Source: https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-
 | Payback | Positive ROI by **second harvest** for all treatments |
 | Illustrative extrapolation (biochar alone) | Authors’ scenario: if next 5 years at half observed gain → ~**$12,228/ac** over 10 yr (~5× biochar investment); 20-harvest stretch ~**$21,980/ac** |
 
-**Caveats stated in report:** revenue highly dependent on grape price; same irrigation/fertilizer cost across treatments (so water/fertilizer savings **not** monetized — see [[Fertilizer Displacement]]); woody high-T char persistence cited via [[Woolf et al. 2021]]. Compost alone out-earned biochar alone; combination did best on revenue.
+**Caveats stated in report:** revenue highly dependent on grape price; same irrigation/fertilizer cost across treatments (so water/fertilizer savings **not** monetized — see [[Fertilizer Displacement]]); woody high-T char persistence cited via [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]]. Compost alone out-earned biochar alone; combination did best on revenue.
 
 ### Dominus Estate
 
@@ -73,7 +73,7 @@ Public case study emphasizes SOM targeting and earthworks at **25 t/ac**; it doe
 | Farmland Info FY2023 scenario | ~$160/yd³ average cost components | https://farmlandinfo.org/wp-content/uploads/sites/2/2023/12/biochar_funding_for_US_producers_quick_guide_.pdf | Payment construction, not invoice |
 | Wakefield bulk packaging | 2 yd³ supersacks; 2–3 sacks/ac typical farm cite | https://wakefieldbiochar.com/biochar-for-landscapers/ | No public $/ton on that page |
 | CDR credit prices | See market notes | [[Market Volumes and Pricing]] · https://www.cdr.fyi/ | Credit ≠ farmgate amendment price |
-| State of CDR / science cost bands | ~$70–360/tCO₂ (removal cost literature) | https://doi.org/10.17605/OSF.IO/FBZ4X · [[Fuss & Lunstrum 2026]] · [[Quantitative Benchmarks]] | System CDR cost, not retail bag price |
+| State of CDR / science cost bands | ~$70–360/tCO₂ (removal cost literature) | https://doi.org/10.17605/OSF.IO/FBZ4X · [[CDR Costs and Potentials|CDR costs and potentials]] · [[Quantitative Benchmarks]] | System CDR cost, not retail bag price |
 
 ---
 
@@ -88,7 +88,7 @@ Latawiec et al. (2019) include an environmental and **cost-benefit analysis** fo
 | Lever | Why it can help | URL / note |
 |---|---|---|
 | **Blends / COMBI** | Oasis combo highest revenue; Kammann co-composted >> raw | Oasis PDF · https://doi.org/10.1038/srep11080 · [[Biochar Compost and Manure Blends]] |
-| **Low-dose enriched fertilizers** | ≪2 t ha⁻¹ possible when nutrient-loaded | https://doi.org/10.1002/ldr.2761 · [[Melo et al. 2022]] https://doi.org/10.1007/s11104-021-05276-2 |
+| **Low-dose enriched fertilizers** | ≪2 t ha⁻¹ possible when nutrient-loaded | https://doi.org/10.1002/ldr.2761 · [[Biochar-Based Fertilizer Meta-analysis|meta-analyzes biochar fertilizers]] https://doi.org/10.1007/s11104-021-05276-2 |
 | **Banding / root-zone** | Cuts total tonnes vs whole-field broadcast | [[Incorporation Topdress Banding]] · Oasis row placement |
 | **Target acid / coarse / tropical soils** | Stronger mean yield metas | https://doi.org/10.1088/1748-9326/aa67bd · [[Crop Yield Effects]] |
 | **Fertilizer co-application** | Ye ~+15% vs fertilizer alone | https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf · [[Fertilizer Displacement]] |
@@ -105,7 +105,7 @@ Do **not** bank multi-year soil N₂O co-benefits in NPV unless measured—Woolf
 2. **Price the amendment** delivered + incorporation ([[Cost Components]]; Oasis and NRCS scenario docs as templates).
 3. **Add policy stack:** CPS 336 cost-share and/or voluntary CDR offtake—with legal separation of claims.
 4. **Stress-test** crop price and zero-yield-response cases (Galinato caution for temperate wheat systems).
-5. Prefer **blends / enriched fertilizers / banding** when aiming to cut rate and cost ([[Biochar Compost and Manure Blends]], Nepal low-dose evidence https://doi.org/10.1002/ldr.2761 · [[Schmidt et al. 2017]]).
+5. Prefer **blends / enriched fertilizers / banding** when aiming to cut rate and cost ([[Biochar Compost and Manure Blends]], Nepal low-dose evidence https://doi.org/10.1002/ldr.2761 · [[Liquid Nutrient Enrichment Field Trials|liquid nutrient enrichment trials]]).
 6. Run a local strip trial before scaling ([[On-farm Trial Design]]).
 
 ---
@@ -145,7 +145,7 @@ CDR market prices ([[Market Volumes and Pricing]], https://www.cdr.fyi/) can clo
 2. Ownership is clear if CPS 336 also paid ([[Double Counting and Credit Ownership]]),
 3. You do not count flux co-benefits twice ([[GHG Fluxes]]).
 
-Literature removal **cost** bands (~$70–360/tCO₂ — [[Fuss & Lunstrum 2026]] · [DOI](https://doi.org/10.17605/OSF.IO/FBZ4X)) are not credit bid/ask.
+Literature removal **cost** bands (~$70–360/tCO₂ — [[CDR Costs and Potentials|CDR costs and potentials]] · [DOI](https://doi.org/10.17605/OSF.IO/FBZ4X)) are not credit bid/ask.
 
 ## Related notes
 

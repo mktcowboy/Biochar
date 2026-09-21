@@ -46,13 +46,13 @@ Meta-analyses generally show **larger hydrological benefits in coarse-textured s
 
 ### 1.2 Nutrients, CEC, and liming / pH
 
-[[Jeffery et al. 2011|Jeffery et al. (2011)]] interpreted stronger productivity responses in **acidic** (+14%) and **coarse/medium** soils as consistent with **liming** and **water-holding** mechanisms, plus improved nutrient availability ([DOI](https://doi.org/10.1016/j.agee.2011.08.015)). [[Jeffery et al. 2017|Jeffery et al. (2017)]] found mean tropical yield benefits (~**+25%**) versus little mean benefit in temperate systems, again consistent with acid / low-fertility soil chemistry ([DOI](https://doi.org/10.1088/1748-9326/aa67bd)).
+[[Crop Productivity Meta-analysis|meta-analyzes crop productivity]] interpreted stronger productivity responses in **acidic** (+14%) and **coarse/medium** soils as consistent with **liming** and **water-holding** mechanisms, plus improved nutrient availability ([DOI](https://doi.org/10.1016/j.agee.2011.08.015)). [[Tropical vs Temperate Yields|compares tropical vs temperate yields]] found mean tropical yield benefits (~**+25%**) versus little mean benefit in temperate systems, again consistent with acid / low-fertility soil chemistry ([DOI](https://doi.org/10.1088/1748-9326/aa67bd)).
 
 USDA NRCS CPS 336 guidance (April 2026 FAQ) states biochar is **usually alkaline** and most useful as a liming agent on acid soils; on soils already **pH > 7**, check **liming equivalency** and add cautiously. The FAQ walks liming-offset arithmetic (e.g., 1 ton biochar/acre at 9% CaCO₃ liming equivalency offsets ~9% of a 1 ton lime recommendation) ([NRCS FAQ PDF](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[NRCS CPS 336 FAQ 2026]]).
 
 NRCS also flags **electrical conductivity (EC) / salts**: high-ash manure chars can raise salinity; wood chars are typically lower EC. Spec-sheet examples in the FAQ contrast high-C wood char (low EC) vs poultry-manure char (high EC, high P/K, high liming) ([same FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)).
 
-CEC and nutrient sorption are feedstock- and aging-dependent; [[Lehmann et al. 2021|Lehmann et al. (2021)]] summarize nutrient and liming co-benefits in the broader CDR/agronomy framing ([DOI](https://doi.org/10.1038/s41561-021-00852-8)). Fresh, uninoculated biochar can temporarily **immobilize nutrients**—NRCS explicitly warns that “fresh biochar … has a chance to reduce crop yields by binding and immobilizing nutrients” and recommends compost/manure charging ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf); national standard also: inoculate with compost, compost tea, or manure — [CPS 336 2022 PDF](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf) · [[NRCS CPS 336 Standard 2022]]).
+CEC and nutrient sorption are feedstock- and aging-dependent; [[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]] summarize nutrient and liming co-benefits in the broader CDR/agronomy framing ([DOI](https://doi.org/10.1038/s41561-021-00852-8)). Fresh, uninoculated biochar can temporarily **immobilize nutrients**—NRCS explicitly warns that “fresh biochar … has a chance to reduce crop yields by binding and immobilizing nutrients” and recommends compost/manure charging ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf); national standard also: inoculate with compost, compost tea, or manure — [CPS 336 2022 PDF](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf) · [[NRCS CPS 336 Standard 2022]]).
 
 ### 1.2b Inoculation, charging, and biochar-based fertilizers
 
@@ -60,17 +60,17 @@ Fresh biochar can temporarily **immobilize nutrients**; NRCS and USBI therefore 
 
 **Three modes** (full chapter [[Biochar Inoculation for Fertilizer]]):
 
-1. **Nutrient charging** — soak/impregnate with NPK solutions, urine, digestate, or manufacture BBFs (pre/post-pyrolysis). [[Melo et al. 2022|Melo et al. (2022)]] meta: BBFs **+10%** productivity vs fertilized controls ([DOI](https://doi.org/10.1007/s11104-021-05276-2)). Scoping review of enrichment methods: [Ndoung 2021](https://doi.org/10.1016/j.heliyon.2021.e08473).
-2. **Microbial inoculation** — compost tea, PGP/AMF/EM on char carriers; meta shows gains vs biochar alone but weak commercial-field consistency ([DOI](https://doi.org/10.1002/saj2.20792) · [[Ross & Emery 2025]]). Habitat in raw field-aged char can be sparse ([[Quilliam et al. 2013|Quilliam 2013]] · [DOI](https://doi.org/10.1016/j.soilbio.2013.06.004)).
-3. **Co-composting (COMBI)** — organic coating + nitrate capture; [[Kammann et al. 2015|Kammann et al. (2015)]] untreated BC ~**60%** of control biomass vs co-composted up to **~305%** of control ([DOI](https://doi.org/10.1038/srep11080)); coating chemistry ([Hagemann 2017](https://doi.org/10.1038/s41467-017-01123-0)); COMBI review ([[Antonangelo et al. 2021|Antonangelo 2021]] · [DOI](https://doi.org/10.1016/j.jenvman.2020.111443)).
+1. **Nutrient charging** — soak/impregnate with NPK solutions, urine, digestate, or manufacture BBFs (pre/post-pyrolysis). [[Biochar-Based Fertilizer Meta-analysis|meta-analyzes biochar fertilizers]] meta: BBFs **+10%** productivity vs fertilized controls ([DOI](https://doi.org/10.1007/s11104-021-05276-2)). Scoping review of enrichment methods: [Ndoung 2021](https://doi.org/10.1016/j.heliyon.2021.e08473).
+2. **Microbial inoculation** — compost tea, PGP/AMF/EM on char carriers; meta shows gains vs biochar alone but weak commercial-field consistency ([DOI](https://doi.org/10.1002/saj2.20792) · [[Microbial Inocula Meta-analysis|meta-analyzes microbial inocula]]). Habitat in raw field-aged char can be sparse ([[Charosphere Microbial Habitat|studies charosphere microbial habitat]] · [DOI](https://doi.org/10.1016/j.soilbio.2013.06.004)).
+3. **Co-composting (COMBI)** — organic coating + nitrate capture; [[Co-compost Nitrate Capture|shows co-compost nitrate capture]] untreated BC ~**60%** of control biomass vs co-composted up to **~305%** of control ([DOI](https://doi.org/10.1038/srep11080)); coating chemistry ([Hagemann 2017](https://doi.org/10.1038/s41467-017-01123-0)); COMBI review ([[COMBI Soil Quality Review|reviews co-composted biochar soil effects]] · [DOI](https://doi.org/10.1016/j.jenvman.2020.111443)).
 
-**Practice ranges (sourced):** charge **1–3 weeks** ([USBI](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf)); co-compost roughly **5–15%** biochar w/w early ([Pacific white paper](https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf) · [[Pacific Biochar Compost White Paper 2023]]; [Antonangelo](https://doi.org/10.1016/j.jenvman.2020.111443)); enriched fertilizers can work at **≪2 t ha⁻¹** root-zone ([[Schmidt et al. 2017|Schmidt 2017]] · [DOI](https://doi.org/10.1002/ldr.2761); urine protocol [[Schmidt et al. 2015|Schmidt 2015]] · [DOI](https://doi.org/10.3390/agriculture5030723)).
+**Practice ranges (sourced):** charge **1–3 weeks** ([USBI](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf)); co-compost roughly **5–15%** biochar w/w early ([Pacific white paper](https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf) · [[Pacific Biochar Compost White Paper 2023]]; [Antonangelo](https://doi.org/10.1016/j.jenvman.2020.111443)); enriched fertilizers can work at **≪2 t ha⁻¹** root-zone ([[Liquid Nutrient Enrichment Field Trials|liquid nutrient enrichment trials]] · [DOI](https://doi.org/10.1002/ldr.2761); urine protocol [[Urine-Enhanced Biochar Field Trial|urine-enhanced biochar field trial]] · [DOI](https://doi.org/10.3390/agriculture5030723)).
 
 Credit/MRV: Puro soil amendment **pure/mixed** (AF1–AF2) remains eligible end-use; co-composting does not erase aromatic C stability for permanence chemistry ([Hagemann 2017](https://doi.org/10.1038/s41467-017-01123-0); [[Puro Biochar Methodology Edition 2025]]). Details: [[Biochar Inoculation for Fertilizer]] §9.
 
 ### 1.2c Nutrients & fertilizer chemistry (chapter pointer)
 
-Deep chemistry of N/P/K, CEC/AEC, liming, BBF formulations, and fertilizer-use efficiency: [[Biochar Nutrients and Fertilizer Chemistry]]. Headline metas: soil inorganic N mean ~**−11% NH₄⁺ / −10% NO₃⁻** in the first year class of evidence ([Nguyen 2017](https://doi.org/10.1016/j.geoderma.2016.11.004)); BBFs at mean **0.9 t ha⁻¹** give **+10%** productivity vs fertilized controls ([Melo 2022](https://doi.org/10.1007/s11104-021-05276-2)); biochar+fertilizer field synergy ~**+15%** ([[Ye et al. 2020|Ye 2020]] · [PDF](https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf)).
+Deep chemistry of N/P/K, CEC/AEC, liming, BBF formulations, and fertilizer-use efficiency: [[Biochar Nutrients and Fertilizer Chemistry]]. Headline metas: soil inorganic N mean ~**−11% NH₄⁺ / −10% NO₃⁻** in the first year class of evidence ([Nguyen 2017](https://doi.org/10.1016/j.geoderma.2016.11.004)); BBFs at mean **0.9 t ha⁻¹** give **+10%** productivity vs fertilized controls ([Melo 2022](https://doi.org/10.1007/s11104-021-05276-2)); biochar+fertilizer field synergy ~**+15%** ([[Fertilizer-Controlled Yield Meta-analysis|meta-analyzes yields with fertilizer controls]] · [PDF](https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf)).
 
 ### 1.2d Microbes & soil biology (chapter pointer)
 
@@ -80,10 +80,10 @@ Habitat vs sparse colonization, inocula efficacy, AMF/PGPR, priming, and disease
 
 Porous carbon provides habitat and alters redox / sorption environments that shape N cycling (see [[GHG Fluxes]]). For native soil organic carbon:
 
-- [[Wang et al. 2016|Wang et al. (2016)]] meta-analysis finds a slight, non-significant mean slowdown of SOC mineralization (**−3.8%**, 95% CI −8.1% to +0.8%), with significant **negative** priming in studies under six months (**−8.6%**) and **positive** priming in sandy soils (**+20.8%**) ([DOI](https://doi.org/10.1111/gcbb.12266)).
+- [[Stability and Priming Meta-analysis|meta-analyzes stability and priming]] meta-analysis finds a slight, non-significant mean slowdown of SOC mineralization (**−3.8%**, 95% CI −8.1% to +0.8%), with significant **negative** priming in studies under six months (**−8.6%**) and **positive** priming in sandy soils (**+20.8%**) ([DOI](https://doi.org/10.1111/gcbb.12266)).
 - Weng et al. (2017) document **decade-scale negative priming** and SOC accrual under biochar in a field context ([DOI](https://doi.org/10.1038/nclimate3276)).
 
-NRCS positions biochar as long-lived SOM support versus compost’s shorter labile pulse: FAQ cites research that roughly **60–80%** of biochar C can remain after 100 years versus **2–14%** for compost C, and that ~10 yd³ biochar can match 1-year soil-C increase of ~40 yd³ compost in their comparison framing ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)). Cross-check permanence math with [[Permanence]] and [[Woolf et al. 2021]] ([DOI](https://doi.org/10.1021/acs.est.1c02425)).
+NRCS positions biochar as long-lived SOM support versus compost’s shorter labile pulse: FAQ cites research that roughly **60–80%** of biochar C can remain after 100 years versus **2–14%** for compost C, and that ~10 yd³ biochar can match 1-year soil-C increase of ~40 yd³ compost in their comparison framing ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)). Cross-check permanence math with [[Permanence]] and [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] ([DOI](https://doi.org/10.1021/acs.est.1c02425)).
 
 ## 2. Crop / agronomic evidence (summary)
 
@@ -94,7 +94,7 @@ Full tables live in [[Crop Yield Effects]]. Headline metas:
 | Jeffery et al. 2011 | Grand mean **~+10%** (subgroup means **−28% to +39%**) | https://doi.org/10.1016/j.agee.2011.08.015 |
 | Jeffery et al. 2017 | Tropical mean ~**+25%**; temperate mean little/no benefit | https://doi.org/10.1088/1748-9326/aa67bd |
 | Ye et al. 2020 | Biochar **+ fertilizer** ~**+15%** vs fertilizer alone in field set | https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf |
-| [[Jia et al. 2023]] | Overall crop yield **+9.4%** | https://doi.org/10.1002/ldr.4868 |
+| [[Global GHG and Yield Patterns|global GHG and yield patterns]] | Overall crop yield **+9.4%** | https://doi.org/10.1002/ldr.4868 |
 | Schmidt et al. 2015 (Nepal pumpkin) | Large gains from **urine-enhanced** low-dose biochar | https://doi.org/10.3390/agriculture5030723 |
 | Pandit/Schmidt et al. (21 Nepal trials) | Biochar-based fertilizers across 13 crops | https://doi.org/10.1002/ldr.2761 |
 
@@ -104,7 +104,7 @@ Full tables live in [[Crop Yield Effects]]. Headline metas:
 
 Deep dive: [[GHG Fluxes]] · [[Nitrous Oxide Fluxes]] · [[Methane Fluxes]] · [[Priming and SOC Interactions]]. For farm planning:
 
-- **N₂O:** [[Cayuela et al. 2014|Cayuela et al. (2014)]] classic meta ~**−54%** across lab and field studies ([DOI](https://doi.org/10.1016/j.agee.2013.10.009)); Jia et al. (2023) ~**−26.8%** across incubation, pot and field studies ([DOI](https://doi.org/10.1002/ldr.4868)). H:C_org of the char is a key moderator ([Cayuela 2015](https://doi.org/10.1016/j.agee.2014.12.015)).
+- **N₂O:** [[Nitrous Oxide Mitigation Meta-analysis|meta-analyzes N2O mitigation]] classic meta ~**−54%** across lab and field studies ([DOI](https://doi.org/10.1016/j.agee.2013.10.009)); Jia et al. (2023) ~**−26.8%** across incubation, pot and field studies ([DOI](https://doi.org/10.1002/ldr.4868)). H:C_org of the char is a key moderator ([Cayuela 2015](https://doi.org/10.1016/j.agee.2014.12.015)).
 - **CH₄:** Mixed; Jia 2023 global mean **−13.0%**; paddies and flooded systems need site-specific reading ([DOI](https://doi.org/10.1002/ldr.4868)). Woolf et al. (2021) inventory method assumes **no net CH₄ change** for simplicity ([DOI](https://doi.org/10.1021/acs.est.1c02425)).
 - **Inventory conservatism:** Woolf 2021 optional N₂O credit only for applications **>10 Mg C ha⁻¹** in year 1 (illustrative **−23%**), and **not** for organic/forest soils ([DOI](https://doi.org/10.1021/acs.est.1c02425)).
 
@@ -252,7 +252,7 @@ Biochar’s surface functional groups and porosity can increase effective nutrie
 
 ## Primary outbound links (hub)
 
-Source notes (checked figures and full citations): [[Jeffery et al. 2011]] · [[Jeffery et al. 2017]] · [[Jia et al. 2023]] · [[Lehmann et al. 2021]] · [[Woolf et al. 2021]] · [[NRCS CPS 336 FAQ 2026]] · [[NRCS CPS 336 Standard 2022]]. Other references:
+Source notes (checked figures and full citations): [[Crop Productivity Meta-analysis|meta-analyzes crop productivity]] · [[Tropical vs Temperate Yields|compares tropical vs temperate yields]] · [[Global GHG and Yield Patterns|global GHG and yield patterns]] · [[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]] · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] · [[NRCS CPS 336 FAQ 2026]] · [[NRCS CPS 336 Standard 2022]]. Other references:
 
 - Omondi 2016 — https://doi.org/10.1016/j.geoderma.2016.03.029
 - Wei 2023 — https://doi.org/10.1016/j.geoderma.2023.116591

@@ -14,7 +14,7 @@ Chapter on **reactor modes, temperature classes, residence time, and heat manage
 
 ## 1. Temperature classes used in inventories
 
-[[Woolf et al. 2021]] / [[IPCC 2019 Biochar Appendix]] permanence and FC tables use:
+[[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] / [[IPCC 2019 Biochar Appendix]] permanence and FC tables use:
 
 | Class | Peak temperature | Typical role |
 |---|---|---|

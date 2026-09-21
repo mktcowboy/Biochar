@@ -1,6 +1,6 @@
 ---
 tags: [source, applications, GHG]
-aliases: [Jeffery 2016, Jeffery et al. (2016), Jeffery CH4 meta, Jeffery et al. 2016]
+aliases: ["soil methane meta-analysis", "biochar CH4 meta-analysis"]
 source_type: meta-analysis
 peer_reviewed: true
 authors: ["Jeffery, Simon", "Verheijen, Frank G. A.", "Kammann, Claudia", "Abalos, Diego"]

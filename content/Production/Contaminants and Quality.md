@@ -47,7 +47,7 @@ CSI Global Biochar C-Sink requires **EBC- or WBC-certified** biochar—see [[CSI
 
 ## 4. Elemental-ratio quality gates (reminder)
 
-- H/C_org ≤ **0.7** (EBC/IBI/IUPAC biochar definition); FeedPlus / manure **< 0.4** ([EBC 10.5E](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf); [[Bilias et al. 2024]] · [DOI](https://doi.org/10.1515/pac-2021-0106))
+- H/C_org ≤ **0.7** (EBC/IBI/IUPAC biochar definition); FeedPlus / manure **< 0.4** ([EBC 10.5E](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf); [[IUPAC Biochar Terminology|IUPAC biochar terminology]] · [DOI](https://doi.org/10.1515/pac-2021-0106))
 - O/C_org often / should be ≤ **0.4** ([[Properties]] · [[H-Corg and O-Corg]])
 
 These are **quality/definition** gates; permanence factors are separate ([[Permanence]]).
@@ -83,7 +83,7 @@ Full discussion: [[PAHs]] · [[Heavy Metals and Ash]] · [[Testing EBC IBI S668]
 - [EBC Guidelines PDF](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf) · [EBC home](https://www.european-biochar.org/)
 - [IBI Biochar Standards](https://biochar-international.org/biochar-standards/)
 - [ANSI S668 PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[ANSI ASABE USBI S668]]
-- [Bilias et al. 2024 IUPAC](https://doi.org/10.1515/pac-2021-0106) · [[Bilias et al. 2024]]
+- [Bilias et al. 2024 IUPAC](https://doi.org/10.1515/pac-2021-0106) · [[IUPAC Biochar Terminology|IUPAC biochar terminology]]
 
 ## Related notes
 

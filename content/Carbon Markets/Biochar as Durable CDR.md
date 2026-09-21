@@ -21,8 +21,8 @@ This is **carbon dioxide removal (CDR)** / **biochar carbon removal (BCR)** when
 
 - Higher pyrolysis severity → lower H/C_org (and often O/C_org) → slower mineralization.
 - [IPCC 2019](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC 2019 Biochar Appendix]] F_perm ≈ 0.65 / 0.80 / 0.89 by temperature class at ~20 °C baseline.
-- [[Woolf et al. 2021|Woolf et al. (2021)]] refined with H/C_org + soil temperature. DOI: [10.1021/acs.est.1c02425](https://doi.org/10.1021/acs.est.1c02425)
-- Petrographic approaches (Ro / inertinite) argue millennial persistence for highly condensed fractions ([[Sanei et al. 2024]]; DOI: [10.1016/j.coal.2023.104409](https://doi.org/10.1016/j.coal.2023.104409)).
+- [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] refined with H/C_org + soil temperature. DOI: [10.1021/acs.est.1c02425](https://doi.org/10.1021/acs.est.1c02425)
+- Petrographic approaches (Ro / inertinite) argue millennial persistence for highly condensed fractions ([[Inertinite Permanence Benchmark|inertinite permanence benchmark]]; DOI: [10.1016/j.coal.2023.104409](https://doi.org/10.1016/j.coal.2023.104409)).
 
 **Important:** Standards do **not** typically credit 100% of biochar C—they apply permanence factors, LCA deductions, leakage, and (in some programs) mandatory offsetting of process emissions.
 
@@ -33,7 +33,7 @@ Dominant voluntary-market pathway for ag operators: **soil application** (direct
 ## Primary links
 
 - [IPCC 2019 App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)
-- [[Lehmann et al. 2021]] ([DOI](https://doi.org/10.1038/s41561-021-00852-8))
+- [[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]] ([DOI](https://doi.org/10.1038/s41561-021-00852-8))
 - [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425)
 - [CDR.fyi](https://www.cdr.fyi/)
 

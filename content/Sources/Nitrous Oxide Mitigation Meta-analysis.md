@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: [Cayuela 2014, Cayuela et al. (2014), Cayuela et al. 2014]
+aliases: ["nitrous oxide mitigation meta-analysis", "N2O mitigation meta-analysis"]
 source_type: meta-analysis
 peer_reviewed: true
 authors: ["Cayuela, M. L.", "van Zwieten, L.", "Singh, B. P.", "Jeffery, S.", "Roig, A.", "Sánchez-Monedero, M. A."]
@@ -32,7 +32,7 @@ verified: 2026-09-14
 
 ## Use with care
 
-- The −54% mixes lab and field studies from an early literature base. The larger later synthesis [[Jia et al. 2023]] reports −26.8%.
+- The −54% mixes lab and field studies from an early literature base. The larger later synthesis [[Global GHG and Yield Patterns|global GHG and yield patterns]] reports −26.8%.
 - The finding that the char's **H:C_org** ratio moderates N₂O comes from a *separate* paper, Cayuela et al. 2015 (https://doi.org/10.1016/j.agee.2014.12.015), not this one.
 
 Related: [[GHG Fluxes]] · [[Foundational Papers]] · [[Key Sources]]

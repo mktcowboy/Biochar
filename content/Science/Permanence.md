@@ -16,7 +16,7 @@ Hub for **persistence / permanence science**: how long biochar organic carbon re
 
 ## 1. What “permanence” means here
 
-Biochar carbon mineralizes **1–2 orders of magnitude more slowly** than unpyrolysed biomass because pyrolysis builds **fused aromatic** structures that microbes oxidize poorly ([[Lehmann et al. 2021|Lehmann et al., 2021]] · [DOI](https://doi.org/10.1038/s41561-021-00852-8); [[Woolf et al. 2021|Woolf et al., 2021]] · [DOI](https://doi.org/10.1021/acs.est.1c02425)). Persistence is **not** literal forever: it is probabilistic over **centennial–millennial** horizons for well-made chars, and it depends on **material chemistry** (aromatic condensation) **and** environment (soil temperature, moisture, minerals, microbes) ([Schmidt et al., 2025](https://doi.org/10.1111/gcbb.70092); [Woolf 2021](https://doi.org/10.1021/acs.est.1c02425)).
+Biochar carbon mineralizes **1–2 orders of magnitude more slowly** than unpyrolysed biomass because pyrolysis builds **fused aromatic** structures that microbes oxidize poorly ([[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]] · [DOI](https://doi.org/10.1038/s41561-021-00852-8); [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] · [DOI](https://doi.org/10.1021/acs.est.1c02425)). Persistence is **not** literal forever: it is probabilistic over **centennial–millennial** horizons for well-made chars, and it depends on **material chemistry** (aromatic condensation) **and** environment (soil temperature, moisture, minerals, microbes) ([Schmidt et al., 2025](https://doi.org/10.1111/gcbb.70092); [Woolf 2021](https://doi.org/10.1021/acs.est.1c02425)).
 
 Policy and inventory practice usually compress that dynamics into a single **permanence factor** \(F_\mathrm{perm}\) = fraction of biochar organic C still unmineralized after a chosen horizon—commonly **100 years** for IPCC-style accounting ([[IPCC 2019 Biochar Appendix]] · [PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)). Always state **horizon + soil temperature** with any \(F_\mathrm{perm}\) number ([[Woolf IPCC Fperm]], [[Soil Temperature and Environment]]).
 
@@ -49,10 +49,10 @@ Test-method recipes (how to measure H:C_org, O:C_org, Ro): [[ANSI ASABE USBI S66
 | Source | Finding | Link |
 |---|---|---|
 | **[IPCC 2019 App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)** · [[IPCC 2019 Biochar Appendix]] | 100-yr \(F_\mathrm{perm}\): **0.65** (350–450 °C), **0.80** (450–600 °C), **0.89** (>600 °C); ±~11–15%; ~20 °C basis | Full text ✓ |
-| **[[Woolf et al. 2021]]** ([DOI](https://doi.org/10.1021/acs.est.1c02425); [open PDF](https://open-science.canada.ca/server/api/core/bitstreams/112fc297-0352-4683-ae0e-dd1271f59d77/content)) | At **14.9 °C** (global cropland mean): 100-yr ≈ **0.63 / 0.71 / 0.82**; 1000-yr high-T ~**0.25** | Full text ✓ |
-| **[[Lehmann et al. 2021]]** ([DOI](https://doi.org/10.1038/s41561-021-00852-8)) | Of chars with **H/C_org < 0.5**, 95% showed >50% C remaining after 100 yr (mean **~82%** in that subset) | Full-text figure **not re-checked** (paywalled)—use with care |
+| **[[Biochar Soil GHG Inventory Model|models soil GHG from biochar]]** ([DOI](https://doi.org/10.1021/acs.est.1c02425); [open PDF](https://open-science.canada.ca/server/api/core/bitstreams/112fc297-0352-4683-ae0e-dd1271f59d77/content)) | At **14.9 °C** (global cropland mean): 100-yr ≈ **0.63 / 0.71 / 0.82**; 1000-yr high-T ~**0.25** | Full text ✓ |
+| **[[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]]** ([DOI](https://doi.org/10.1038/s41561-021-00852-8)) | Of chars with **H/C_org < 0.5**, 95% showed >50% C remaining after 100 yr (mean **~82%** in that subset) | Full-text figure **not re-checked** (paywalled)—use with care |
 | **[Spokas 2010](https://doi.org/10.4155/cmt.10.32)** | O/C half-life classes (approximate; not inventory-grade alone) | See [[H-Corg and O-Corg]] |
-| **[[Sanei et al. 2024]]** ([DOI](https://doi.org/10.1016/j.coal.2023.104409)) | Inertinite benchmark **Ro = 2%** (IBRo2%); 76% of studied commercial chars entirely above 2% | Abstract ✓ |
+| **[[Inertinite Permanence Benchmark|inertinite permanence benchmark]]** ([DOI](https://doi.org/10.1016/j.coal.2023.104409)) | Inertinite benchmark **Ro = 2%** (IBRo2%); 76% of studied commercial chars entirely above 2% | Abstract ✓ |
 | **[Schmidt et al. 2025](https://doi.org/10.1111/gcbb.70092)** | Policy: estimate persistence on **centuries**, not millennia; refuse 100% permanence claims | Abstract ✓ |
 
 Cross-sheet: [[Quantitative Benchmarks]].
@@ -84,10 +84,10 @@ Cross-sheet: [[Quantitative Benchmarks]].
 ## 7. Primary links
 
 - [IPCC 2019 App. 4 PDF](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC 2019 Biochar Appendix]]
-- [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) · [open PDF](https://open-science.canada.ca/server/api/core/bitstreams/112fc297-0352-4683-ae0e-dd1271f59d77/content) · [[Woolf et al. 2021]]
-- [Lehmann et al. 2021](https://doi.org/10.1038/s41561-021-00852-8) · [[Lehmann et al. 2021]]
+- [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) · [open PDF](https://open-science.canada.ca/server/api/core/bitstreams/112fc297-0352-4683-ae0e-dd1271f59d77/content) · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]]
+- [Lehmann et al. 2021](https://doi.org/10.1038/s41561-021-00852-8) · [[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]]
 - [Schmidt et al. 2025](https://doi.org/10.1111/gcbb.70092)
-- [Sanei et al. 2024](https://doi.org/10.1016/j.coal.2023.104409) · [[Sanei et al. 2024]]
+- [Sanei et al. 2024](https://doi.org/10.1016/j.coal.2023.104409) · [[Inertinite Permanence Benchmark|inertinite permanence benchmark]]
 - [Spokas 2010](https://doi.org/10.4155/cmt.10.32)
 - [Keiluweit et al. 2010](https://doi.org/10.1021/es9031419)
 - [EBC Guidelines 10.5E PDF](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)

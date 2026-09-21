@@ -37,7 +37,7 @@ Also: [[Application Rates and Methods]] · [[Soil and Agriculture]] · [[NRCS CP
 
 NRCS April 2026 FAQ: biochar as long-term C “sponge”; compost as nutrient/microbial engine; combination often preferred ([FAQ PDF](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[NRCS CPS 336 FAQ 2026]]). National CPS 336: “Inoculate biochar with compost, compost tea, or manure…” ([2022 PDF](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf) · [[NRCS CPS 336 Standard 2022]]).
 
-Persistence contrast cited by NRCS FAQ: roughly **60–80%** of biochar C remaining at 100 years vs **2–14%** of compost C; ~**10 yd³** biochar ≈ 1-year soil-C increase of ~**40 yd³** compost in their comparison ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)). Cross-check F_perm with [[Permanence]] / [[Woolf et al. 2021]] ([DOI](https://doi.org/10.1021/acs.est.1c02425)).
+Persistence contrast cited by NRCS FAQ: roughly **60–80%** of biochar C remaining at 100 years vs **2–14%** of compost C; ~**10 yd³** biochar ≈ 1-year soil-C increase of ~**40 yd³** compost in their comparison ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)). Cross-check F_perm with [[Permanence]] / [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] ([DOI](https://doi.org/10.1021/acs.est.1c02425)).
 
 ---
 
@@ -70,11 +70,11 @@ Five-harvest means vs control: **compost+biochar +36%**, biochar +25%, compost +
 
 ### Nepal enriched systems
 
-Urine-loaded biochar mixed with compost outperformed urine or biochar alone in pumpkin trials ([DOI](https://doi.org/10.3390/agriculture5030723) · [[Schmidt et al. 2015]]); multi-crop liquid-enriched fertilizers ([DOI](https://doi.org/10.1002/ldr.2761) · [[Schmidt et al. 2017]]).
+Urine-loaded biochar mixed with compost outperformed urine or biochar alone in pumpkin trials ([DOI](https://doi.org/10.3390/agriculture5030723) · [[Urine-Enhanced Biochar Field Trial|urine-enhanced biochar field trial]]); multi-crop liquid-enriched fertilizers ([DOI](https://doi.org/10.1002/ldr.2761) · [[Liquid Nutrient Enrichment Field Trials|liquid nutrient enrichment trials]]).
 
 ### Landmark COMBI contrast
 
-[[Kammann et al. 2015]]: untreated 2% w/w → ~**60%** of control biomass; co-composted → up to ~**305%** of control ([DOI](https://doi.org/10.1038/srep11080)). Science depth: [[Co-composting Science]].
+[[Co-compost Nitrate Capture|shows co-compost nitrate capture]]: untreated 2% w/w → ~**60%** of control biomass; co-composted → up to ~**305%** of control ([DOI](https://doi.org/10.1038/srep11080)). Science depth: [[Co-composting Science]].
 
 ---
 
@@ -110,13 +110,13 @@ These process metrics ≠ soil N₂O claims ([[GHG Fluxes]]).
 
 | Effect | Sourced finding | URL |
 |---|---|---|
-| Plant growth vs raw char | Untreated BC ~60% of control; co-composted up to ~305% of control (Kammann quinoa) | https://doi.org/10.1038/srep11080 · [[Kammann et al. 2015]] |
+| Plant growth vs raw char | Untreated BC ~60% of control; co-composted up to ~305% of control (Kammann quinoa) | https://doi.org/10.1038/srep11080 · [[Co-compost Nitrate Capture|shows co-compost nitrate capture]] |
 | Nitrate capture | ~2.1–5.2 g NO₃⁻-N kg⁻¹ depending on extraction | https://doi.org/10.1371/journal.pone.0171214 · https://doi.org/10.1038/srep11080 |
 | Organic coating | Coating—not bulk oxidation—drives nutrient retention; aromatic stability largely preserved | https://doi.org/10.1038/s41467-017-01123-0 |
-| COMBI vs post-blend | Co-composted product often outperforms blending after composting | https://doi.org/10.1016/j.jenvman.2020.111443 · [[Antonangelo et al. 2021]] |
+| COMBI vs post-blend | Co-composted product often outperforms blending after composting | https://doi.org/10.1016/j.jenvman.2020.111443 · [[COMBI Soil Quality Review|reviews co-composted biochar soil effects]] |
 | Practical loading | Wood **5–10%** w/w early (Pacific); benefits from **3–5%** (Sanchez-Monedero); ABI draft **5–10%** v/v | https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf · https://doi.org/10.1016/j.biortech.2017.09.193 · https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Compost-2026-Draft-V1.pdf |
 
-Habitat caveat: [[Quilliam et al. 2013]] sparse colonization of 3-year field-aged wood biochar ([DOI](https://doi.org/10.1016/j.soilbio.2013.06.004)).
+Habitat caveat: [[Charosphere Microbial Habitat|studies charosphere microbial habitat]] sparse colonization of 3-year field-aged wood biochar ([DOI](https://doi.org/10.1016/j.soilbio.2013.06.004)).
 
 ---
 

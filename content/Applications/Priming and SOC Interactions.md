@@ -19,13 +19,13 @@ Report context: **2026-09-16**.
 | **Positive priming** | Biochar addition **speeds** mineralization of native SOC (more CO₂ from soil C) | Framing in Zimmerman et al. 2011 https://doi.org/10.1016/j.soilbio.2011.02.005 |
 | **Negative priming** | Biochar addition **slows** native SOC mineralization | Wang et al. 2016 https://doi.org/10.1111/gcbb.12266 |
 | **Labile C priming potential** | Fresh biochar’s easily mineralizable fraction can stimulate microbes | Cross & Sohi 2011 https://doi.org/10.1016/j.soilbio.2011.06.016 |
-| **Biochar’s own decomposition** | Separate from priming—two-pool story in Wang 2016 | https://doi.org/10.1111/gcbb.12266 · [[Wang et al. 2016]] |
+| **Biochar’s own decomposition** | Separate from priming—two-pool story in Wang 2016 | https://doi.org/10.1111/gcbb.12266 · [[Stability and Priming Meta-analysis|meta-analyzes stability and priming]] |
 
 ---
 
 ## 2. Wang et al. 2016 meta-analysis (core)
 
-Wang, Xiong & Kuzyakov (2016), *GCB Bioenergy* ([DOI](https://doi.org/10.1111/gcbb.12266) · [[Wang et al. 2016]]):
+Wang, Xiong & Kuzyakov (2016), *GCB Bioenergy* ([DOI](https://doi.org/10.1111/gcbb.12266) · [[Stability and Priming Meta-analysis|meta-analyzes stability and priming]]):
 
 ### Biochar C decomposition (isotope studies)
 
@@ -58,7 +58,7 @@ Zimmerman et al. (2011) explore positive and negative priming among biochar-amen
 
 ## 4. Jia et al. 2023 CO₂ / soil C pool
 
-Jia et al. (2023) ([DOI](https://doi.org/10.1002/ldr.4868) · [[Jia et al. 2023]]):
+Jia et al. (2023) ([DOI](https://doi.org/10.1002/ldr.4868) · [[Global GHG and Yield Patterns|global GHG and yield patterns]]):
 
 - CO₂ emissions **+7.4%** overall; increase mainly from **incubation and pot** experiments—**not significant in field studies**
 - Soil carbon pool **+38.1%** upland, **+33.4%** paddy (includes biochar C contribution—read paper boundaries)
@@ -68,7 +68,7 @@ Jia et al. (2023) ([DOI](https://doi.org/10.1002/ldr.4868) · [[Jia et al. 2023]
 
 ## 5. Inventory treatment (Woolf 2021)
 
-Woolf et al. (2021) **do not credit** priming of native soil carbon because net negative priming was not statistically significant in the metas they rely on; method applies to **mineral soils only**—not organic soils (Histosols) or forest soils with an organic horizon, where **positive priming is possible** ([DOI](https://doi.org/10.1021/acs.est.1c02425) · [[Woolf et al. 2021]]).
+Woolf et al. (2021) **do not credit** priming of native soil carbon because net negative priming was not statistically significant in the metas they rely on; method applies to **mineral soils only**—not organic soils (Histosols) or forest soils with an organic horizon, where **positive priming is possible** ([DOI](https://doi.org/10.1021/acs.est.1c02425) · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]]).
 
 ---
 
@@ -87,5 +87,5 @@ Woolf et al. (2021) **do not credit** priming of native soil carbon because net 
 ## Related notes
 
 - [[GHG Fluxes]] · [[Nitrous Oxide Fluxes]] · [[Methane Fluxes]]
-- [[Wang et al. 2016]] · [[Permanence]] · [[Biochar Microbes and Soil Biology]]
+- [[Stability and Priming Meta-analysis|meta-analyzes stability and priming]] · [[Permanence]] · [[Biochar Microbes and Soil Biology]]
 - [[Soil and Agriculture]] · [[Applications Hub]] · [[Science Hub]]

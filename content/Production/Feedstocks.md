@@ -44,7 +44,7 @@ EBC positive list governs which biomasses enter which certification classes; fos
 
 ## 3. Property consequences (already quantified in vault)
 
-- FC extremes and class means: [[Production]] · [[Woody vs Manure Ag Feedstocks]] · [[Woolf et al. 2021]]
+- FC extremes and class means: [[Production]] · [[Woody vs Manure Ag Feedstocks]] · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]]
 - Ash concentration effect on metals: [[Heavy Metals and Ash]]
 - Gasification of high-ash feeds → FC ~0.10–0.14: [[Gasification Residues]]
 
@@ -56,7 +56,7 @@ C_org of finished biochar commonly **<20% to ~95%** DM depending on feedstock/pr
 
 Before claiming climate benefit:
 
-- No deforestation / clear-cuts for feedstock ([EBC §4.7](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf); [[Lehmann et al. 2021]] energy/land framing · [DOI](https://doi.org/10.1038/s41561-021-00852-8))
+- No deforestation / clear-cuts for feedstock ([EBC §4.7](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf); [[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]] energy/land framing · [DOI](https://doi.org/10.1038/s41561-021-00852-8))
 - Plastic/rubber contamination limits (EBC: ≤1% for soil classes; up to 10% materials with approval — [§4.5](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf))
 - Food vs fuel competition and ILUC — evaluate in LCA; do not invent vault thresholds
 - Baseline fate (decay, open burn, landfill CH₄) dominates system GHG ([[CDR Potential and IPCC Accounting]])
@@ -84,8 +84,8 @@ Registry feedstock rules: point to [[Puro Biochar Methodology Edition 2025]], [[
 
 ## Primary links
 
-- [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) · [[Woolf et al. 2021]]
-- [Lehmann et al. 2021](https://doi.org/10.1038/s41561-021-00852-8) · [[Lehmann et al. 2021]]
+- [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]]
+- [Lehmann et al. 2021](https://doi.org/10.1038/s41561-021-00852-8) · [[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]]
 - [IPCC 2019 App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC 2019 Biochar Appendix]]
 - [EBC 10.5E](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)
 - [Phyllis2](https://phyllis.nl/)

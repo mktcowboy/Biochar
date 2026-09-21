@@ -41,7 +41,7 @@ verified: 2026-09-14
 
 ## Use with care
 
-- The persistence and soil-carbon figures are NRCS's summary of research, not NRCS measurements. For permanence numbers use [[Woolf et al. 2021]] or [[IPCC 2019 Biochar Appendix]].
+- The persistence and soil-carbon figures are NRCS's summary of research, not NRCS measurements. For permanence numbers use [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] or [[IPCC 2019 Biochar Appendix]].
 - Payment scenarios are FY2024 values and can change each fiscal year.
 - A text search of the FAQ found no mention of carbon credits. Claims that the FAQ calls CPS 336 "not a carbon credit" need a different source.
 

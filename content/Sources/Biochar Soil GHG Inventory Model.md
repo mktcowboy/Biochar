@@ -1,6 +1,6 @@
 ---
 tags: [source, science, carbon-markets]
-aliases: [Woolf 2021, Woolf et al. (2021), Woolf et al. 2021]
+aliases: ["soil GHG inventory model", "biochar GHG inventory"]
 source_type: model
 peer_reviewed: true
 authors: ["Woolf, Dominic", "Lehmann, Johannes", "Ogle, Stephen", "Kishimoto-Mo, Ayaka W.", "McConkey, Brian", "Baldock, Jeffrey"]
@@ -209,7 +209,7 @@ Field papers go both ways on methane. One meta-analysis found paddy CH₄ **up 1
 
 ### 6.3 Nitrous oxide: first year only, and only at high rates
 
-Biochar often cuts soil N₂O, but the size of the cut depends on how you average the literature, and the cut fades. The paper walks through three inverse-variance metas: [[Cayuela et al. 2014]] **−54%** (n = 261, 30 studies), Verhoeven et al. **−12.4%** (n = 122, 40 studies), and Borchard et al. **−38%** (n = 435, 48 studies). Inverse-variance weighting treats many treatments from the same site as independent. When Verhoeven re-weighted by the inverse of observations-per-site, the effect shrank to **−9.2%** and was no longer significant at *p* < 0.05 ([§3.3.2](https://open-science.canada.ca/server/api/core/bitstreams/112fc297-0352-4683-ae0e-dd1271f59d77/content)).
+Biochar often cuts soil N₂O, but the size of the cut depends on how you average the literature, and the cut fades. The paper walks through three inverse-variance metas: [[Nitrous Oxide Mitigation Meta-analysis|meta-analyzes N2O mitigation]] **−54%** (n = 261, 30 studies), Verhoeven et al. **−12.4%** (n = 122, 40 studies), and Borchard et al. **−38%** (n = 435, 48 studies). Inverse-variance weighting treats many treatments from the same site as independent. When Verhoeven re-weighted by the inverse of observations-per-site, the effect shrank to **−9.2%** and was no longer significant at *p* < 0.05 ([§3.3.2](https://open-science.canada.ca/server/api/core/bitstreams/112fc297-0352-4683-ae0e-dd1271f59d77/content)).
 
 Persistence over time is the other problem. The N₂O reduction has not been shown to be statistically significant after **one year**, partly because the effect gets smaller and partly because long field series are scarce ([§3.3.2](https://open-science.canada.ca/server/api/core/bitstreams/112fc297-0352-4683-ae0e-dd1271f59d77/content)).
 

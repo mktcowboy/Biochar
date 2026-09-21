@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: [Jeffery 2011, Jeffery et al. (2011), Jeffery et al. 2011]
+aliases: ["crop productivity meta-analysis", "biochar crop productivity"]
 source_type: meta-analysis
 peer_reviewed: true
 authors: ["Jeffery, S.", "Verheijen, F. G. A.", "van der Velde, M.", "Bastos, A. C."]
@@ -38,4 +38,4 @@ verified: 2026-09-14
 - The 100 t ha⁻¹ result is a research extreme, not a farm rate.
 - Every underlying study ran only 1–2 years, so this says nothing about long-term yield effects.
 
-Related: [[Jeffery et al. 2017]] · [[Crop Yield Effects]] · [[Key Sources]]
+Related: [[Tropical vs Temperate Yields|compares tropical vs temperate yields]] · [[Crop Yield Effects]] · [[Key Sources]]

@@ -104,7 +104,7 @@ Chooser context: [[Puro vs Other Standards]] · [[Verra vs Isometric vs Puro]].
 - [IBI Biochar Standards](https://biochar-international.org/)
 - [ANSI/ASABE/USBI S668 PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[ANSI ASABE USBI S668]]
 - [ABI Interpreting Lab Reports](https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Lab-Report-2026.pdf)
-- [Bilias et al. 2024 IUPAC glossary](https://doi.org/10.1515/pac-2021-0106) · [[Bilias et al. 2024]]
+- [Bilias et al. 2024 IUPAC glossary](https://doi.org/10.1515/pac-2021-0106) · [[IUPAC Biochar Terminology|IUPAC biochar terminology]]
 - [CSI Global Biochar C-Sink 3.3](https://www.carbon-standards.com/docs/transfer/4000039EN.pdf)
 
 ## Related notes

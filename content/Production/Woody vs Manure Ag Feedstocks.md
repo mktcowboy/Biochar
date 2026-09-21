@@ -14,7 +14,7 @@ Chapter contrasting **woody / lignocellulosic** vs **manure and other high-ash a
 
 ## 1. Why the contrast matters
 
-Feedstock sets baseline **ash**, **lignin**, and **nutrient** loads that pyrolysis concentrates or transforms. Woody biomass → high-C, low-ash chars optimized for CDR mass per tonne product. Manures / sludges → lower FC, higher ash and nutrients, tighter contaminant and certification constraints ([[Woolf et al. 2021]] · [DOI](https://doi.org/10.1021/acs.est.1c02425); [EBC 10.5E](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf) §4).
+Feedstock sets baseline **ash**, **lignin**, and **nutrient** loads that pyrolysis concentrates or transforms. Woody biomass → high-C, low-ash chars optimized for CDR mass per tonne product. Manures / sludges → lower FC, higher ash and nutrients, tighter contaminant and certification constraints ([[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] · [DOI](https://doi.org/10.1021/acs.est.1c02425); [EBC 10.5E](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf) §4).
 
 ---
 
@@ -80,7 +80,7 @@ EBC notes nutrient contents can reach ~**one-third** of biochar mass; first-year
 
 ## Primary links
 
-- [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) · [[Woolf et al. 2021]]
+- [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]]
 - [Phyllis2](https://phyllis.nl/)
 - [EBC 10.5E](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)
 - [IPCC 2019 App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)

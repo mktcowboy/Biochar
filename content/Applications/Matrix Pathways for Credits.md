@@ -50,7 +50,7 @@ A text search framing in vault notes: CPS 336 FAQ does **not** discuss carbon cr
 
 ## 3. Does co-composting erase permanence?
 
-**No — not in the chemistry framing used by this vault.** Hagemann et al. (2017) find co-composting **does not substantially change bulk carbon speciation**; aromatic stability underpinning persistence is not erased by the organic coating ([DOI](https://doi.org/10.1038/s41467-017-01123-0)). Credit **quantification** still follows each methodology’s persistence / F_perm / monitoring rules on **measured biochar carbon** ([[Permanence]], [[Woolf et al. 2021]] · [DOI](https://doi.org/10.1021/acs.est.1c02425); [[Permanence Science for Credits]], [[MRV Stack]]).
+**No — not in the chemistry framing used by this vault.** Hagemann et al. (2017) find co-composting **does not substantially change bulk carbon speciation**; aromatic stability underpinning persistence is not erased by the organic coating ([DOI](https://doi.org/10.1038/s41467-017-01123-0)). Credit **quantification** still follows each methodology’s persistence / F_perm / monitoring rules on **measured biochar carbon** ([[Permanence]], [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] · [DOI](https://doi.org/10.1021/acs.est.1c02425); [[Permanence Science for Credits]], [[MRV Stack]]).
 
 NRCS FAQ contrast (practice education, not a credit equation): roughly **60–80%** of biochar C remaining at 100 years vs **2–14%** of compost C in their cited research summary ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)). Do not paste that FAQ range into a credit calculator without the methodology’s own tables.
 
@@ -63,7 +63,7 @@ Facility reductions such as:
 - Earth Foundries non-methane **VOC −33%** at 10% v/v biochar ([PDF](https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf)),
 - Composting CH₄/N₂O/NH₃ metas (e.g. Li et al. 2025 mean CH₄ **−53.7%**, N₂O **−49.8%**, NH₃ **−35.9%** — [DOI](https://doi.org/10.48130/nc-0025-0003)),
 
-are **process-boundary** benefits. They are **not automatically** soil-storage CORCs and are **not** interchangeable with Woolf’s optional soil N₂O inventory term ([[Nitrous Oxide Fluxes]], [[GHG Fluxes]], [[Woolf et al. 2021]]). Separate MRV if claiming facility emission reductions under a different instrument.
+are **process-boundary** benefits. They are **not automatically** soil-storage CORCs and are **not** interchangeable with Woolf’s optional soil N₂O inventory term ([[Nitrous Oxide Fluxes]], [[GHG Fluxes]], [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]]). Separate MRV if claiming facility emission reductions under a different instrument.
 
 ---
 

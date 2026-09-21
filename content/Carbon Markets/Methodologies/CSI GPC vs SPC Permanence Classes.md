@@ -89,7 +89,7 @@ SPC is described as having a **minimum half-life of ~50 years** (MRT ~83 years) 
 | **BC_HyPy** | Alternate upper-class gate (≥90%) | Operational fraction; availability differs by lab |
 | **Soil temperature (Woolf-style)** | **Not** used as a global adjustment in v3.3 ops | Footnote: lab vs field stabilizing mechanisms; data insufficient for global T effect ([v3.3 Ch. 3 footnote](https://www.carbon-standards.com/docs/transfer/4000039EN.pdf)) |
 
-Literature cited in-standard includes [[Woolf et al. 2021]] ([DOI](https://doi.org/10.1021/acs.est.1c02425)), [[Sanei et al. 2024]] ([DOI](https://doi.org/10.1016/j.coal.2023.104409)), Schmidt et al. 2025 ([DOI](https://doi.org/10.1111/gcbb.70092)), Azzi et al. 2024 ([DOI](https://doi.org/10.1016/j.geoderma.2023.116761)).
+Literature cited in-standard includes [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] ([DOI](https://doi.org/10.1021/acs.est.1c02425)), [[Inertinite Permanence Benchmark|inertinite permanence benchmark]] ([DOI](https://doi.org/10.1016/j.coal.2023.104409)), Schmidt et al. 2025 ([DOI](https://doi.org/10.1111/gcbb.70092)), Azzi et al. 2024 ([DOI](https://doi.org/10.1016/j.geoderma.2023.116761)).
 
 **Forward look:** v3.3 says classes will be refined in the **2026/27** update; higher GPC for a batch may be adjusted retrospectively under future rules ([§3.7](https://www.carbon-standards.com/docs/transfer/4000039EN.pdf)). Draft **v4.0** existed in consultation (closed 30 Apr 2026) but **v3.3 is the live standard** ([service page](https://www.carbon-standards.com/en/standards/service-501~global-biochar-c-sink.html)).
 

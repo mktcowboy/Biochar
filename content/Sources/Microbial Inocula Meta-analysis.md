@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: [Tapp Ross & Emery 2025, Ross and Emery 2025, Ross & Emery (2025), Ross & Emery 2025]
+aliases: ["microbial inocula meta-analysis", "biochar inocula meta-analysis"]
 source_type: meta-analysis
 peer_reviewed: true
 authors: ["Ross, Aysha Tapp", "Emery, Sarah M."]

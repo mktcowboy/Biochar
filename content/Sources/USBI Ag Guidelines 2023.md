@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: ["USBI guidelines", "USBI Ag Guidelines", "Aller et al. 2023"]
+aliases: ["USBI guidelines", "USBI Ag Guidelines"]
 source_type: guidance
 peer_reviewed: false
 authors: ["Aller, D.", "Trippe, K.", "Smith, B.", "Seman-Varner, R.", "Delaney, M.", "Miles, T."]

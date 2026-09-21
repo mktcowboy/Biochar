@@ -29,14 +29,14 @@ Oasis Vineyard explicitly held irrigation and fertilizer **constant** across tre
 
 | Source | Finding | URL |
 |---|---|---|
-| Ye et al. 2020 | Biochar **+ fertilizer** ~**+15%** yield vs fertilizer alone in field set | https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf · [[Ye et al. 2020]] |
-| Melo et al. 2022 | BBFs **+10%** productivity vs fertilized controls at mean **0.9 t ha⁻¹** | https://doi.org/10.1007/s11104-021-05276-2 · [[Melo et al. 2022]] |
+| Ye et al. 2020 | Biochar **+ fertilizer** ~**+15%** yield vs fertilizer alone in field set | https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf · [[Fertilizer-Controlled Yield Meta-analysis|meta-analyzes yields with fertilizer controls]] |
+| Melo et al. 2022 | BBFs **+10%** productivity vs fertilized controls at mean **0.9 t ha⁻¹** | https://doi.org/10.1007/s11104-021-05276-2 · [[Biochar-Based Fertilizer Meta-analysis|meta-analyzes biochar fertilizers]] |
 | Schmidt et al. 2015 / 2017 | Urine- / liquid-enriched low-dose chars outperform urine or biochar alone | https://doi.org/10.3390/agriculture5030723 · https://doi.org/10.1002/ldr.2761 |
 | Kammann et al. 2015 | Co-composted char loads nitrate/phosphate; untreated char can cut biomass | https://doi.org/10.1038/srep11080 |
 | Nguyen et al. 2017 | Soil inorganic N meta: mean ~**−11% NH₄⁺ / −10% NO₃⁻** (first-year class of evidence) | https://doi.org/10.1016/j.geoderma.2016.11.004 |
 | Steiner et al. 2010 | Co-composting poultry litter: total N losses down up to **52%** | https://doi.org/10.2134/jeq2009.0337 |
 
-Jeffery temperate null mean for raw char ([[Jeffery et al. 2017]] · [DOI](https://doi.org/10.1088/1748-9326/aa67bd)) implies fertilizer displacement is **unlikely** as a standalone temperate story without blends/BBFs or liming value on acid soils.
+Jeffery temperate null mean for raw char ([[Tropical vs Temperate Yields|compares tropical vs temperate yields]] · [DOI](https://doi.org/10.1088/1748-9326/aa67bd)) implies fertilizer displacement is **unlikely** as a standalone temperate story without blends/BBFs or liming value on acid soils.
 
 ---
 

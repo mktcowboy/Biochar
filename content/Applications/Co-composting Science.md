@@ -16,10 +16,10 @@ Report context: **2026-09-16**.
 
 | Term | Working definition | Primary URL |
 |---|---|---|
-| **Co-composting / COMBI** | Biochar mixed **at the start** (or early) of composting so surfaces age with the pile | https://doi.org/10.1016/j.jenvman.2020.111443 · [[Antonangelo et al. 2021]] |
+| **Co-composting / COMBI** | Biochar mixed **at the start** (or early) of composting so surfaces age with the pile | https://doi.org/10.1016/j.jenvman.2020.111443 · [[COMBI Soil Quality Review|reviews co-composted biochar soil effects]] |
 | **Post-blend** | Finished compost mixed with biochar **after** composting | Contrast in Vandecasteele et al. 2016 https://doi.org/10.1016/j.jenvman.2015.11.045 |
 | **Organic coating** | Patchy organo-mineral layer on char surfaces/pores formed during co-composting; drives nutrient retention more than bulk aromatic oxidation | https://doi.org/10.1038/s41467-017-01123-0 |
-| **Nitrate capture** | Enrichment of NO₃⁻ in co-composted particles beyond what standard AEC predicts | https://doi.org/10.1038/srep11080 · https://doi.org/10.1371/journal.pone.0171214 · [[Kammann et al. 2015]] |
+| **Nitrate capture** | Enrichment of NO₃⁻ in co-composted particles beyond what standard AEC predicts | https://doi.org/10.1038/srep11080 · https://doi.org/10.1371/journal.pone.0171214 · [[Co-compost Nitrate Capture|shows co-compost nitrate capture]] |
 
 Antonangelo et al. (2021) define COMBI as biochar added at the **beginning** of composting and conclude COMBI often outperforms using compost and biochar separately or mixing them after composting ([DOI](https://doi.org/10.1016/j.jenvman.2020.111443)).
 
@@ -29,7 +29,7 @@ Antonangelo et al. (2021) define COMBI as biochar added at the **beginning** of 
 
 ### 2.1 Landmark plant-growth contrast
 
-[[Kammann et al. 2015|Kammann et al. (2015)]]: at **2% (w/w)** in a nutrient-poor sandy substrate, **untreated** high-temperature wood biochar cut quinoa aboveground biomass to **~60% of control**, while **co-composted** biochar at the same rate raised biomass to up to **~305% of control**, with nitrate/phosphate capture central to the interpretation ([DOI](https://doi.org/10.1038/srep11080); PMC https://pmc.ncbi.nlm.nih.gov/articles/PMC4460888/).
+[[Co-compost Nitrate Capture|shows co-compost nitrate capture]]: at **2% (w/w)** in a nutrient-poor sandy substrate, **untreated** high-temperature wood biochar cut quinoa aboveground biomass to **~60% of control**, while **co-composted** biochar at the same rate raised biomass to up to **~305% of control**, with nitrate/phosphate capture central to the interpretation ([DOI](https://doi.org/10.1038/srep11080); PMC https://pmc.ncbi.nlm.nih.gov/articles/PMC4460888/).
 
 ### 2.2 Before vs after composting
 
@@ -77,7 +77,7 @@ Yin et al. (2021) note crop-residue and woody biochars tend to mitigate CH₄/N�
 |---|---|---|---|
 | Sanchez-Monedero et al. 2018 | **3–50%** DW cited range; benefits from **3–5%**; ~**10%** often discussed as practical | Review of biochar as composting additive | https://doi.org/10.1016/j.biortech.2017.09.193 |
 | Pacific Biochar white paper | Wood biochar **5–10% by weight**, early | Practitioner synthesis | https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf |
-| Antonangelo framing (vault use) | **10–15%** w/w often treated as COMBI optimal band in secondary citations | Verify against full text before quoting as this paper’s recommendation | https://doi.org/10.1016/j.jenvman.2020.111443 · [[Antonangelo et al. 2021]] |
+| Antonangelo framing (vault use) | **10–15%** w/w often treated as COMBI optimal band in secondary citations | Verify against full text before quoting as this paper’s recommendation | https://doi.org/10.1016/j.jenvman.2020.111443 · [[COMBI Soil Quality Review|reviews co-composted biochar soil effects]] |
 | ABI Compost Guidelines 2026 draft | **5–10% by volume** at start; **>20–30%** not recommended (can interfere with biodegradation) | Industry org draft | https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Compost-2026-Draft-V1.pdf |
 | Earth Foundries demo | **10% by volume** | One pile vs control, one cycle | https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf |
 | Li et al. 2025 meta recommendation | **10–20%** w/w dry with C:N 20–30, moisture 55–65%, pH 7.5–8.5, EC <4 mS cm⁻¹ | Composting-process optimization framing | https://doi.org/10.48130/nc-0025-0003 |
@@ -91,7 +91,7 @@ Yin et al. (2021) note crop-residue and woody biochars tend to mitigate CH₄/N�
 - Maturation meta (2025): germination index **+25.57%**, NO₃⁻-N **+32.54%**, NH₄⁺-N **−34.96%**, C/N **−5.44%** under biochar amendment of composting ([DOI](https://doi.org/10.48130/bchax-0025-0005)).
 - Sanchez-Monedero et al. (2018) review aeration, N conservation, and maturity pathways ([DOI](https://doi.org/10.1016/j.biortech.2017.09.193)); Sánchez-Monedero et al. (2019) place biochar, compost, and biochar-blended compost across cropping systems ([DOI](https://doi.org/10.3390/agronomy9050225)).
 - Earth Foundries: low free ammonium reached **~1 week sooner**; finished NPK **+11%** ([PDF](https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf)).
-- Habitat caveat for **raw buried** char remains ([[Quilliam et al. 2013]] · [DOI](https://doi.org/10.1016/j.soilbio.2013.06.004)); co-composting is the reliable way to **pre-load** surfaces — [[Biochar Microbes and Soil Biology]].
+- Habitat caveat for **raw buried** char remains ([[Charosphere Microbial Habitat|studies charosphere microbial habitat]] · [DOI](https://doi.org/10.1016/j.soilbio.2013.06.004)); co-composting is the reliable way to **pre-load** surfaces — [[Biochar Microbes and Soil Biology]].
 
 Pathogens, salts, immature compost: [[Compost Blend Safety]].
 
@@ -99,7 +99,7 @@ Pathogens, salts, immature compost: [[Compost Blend Safety]].
 
 ## 7. Agronomic implications (pointer)
 
-COMBI products often outperform raw char and sometimes outperform post-blends for plant growth in controlled and field contexts ([[Antonangelo et al. 2021]]; Oasis compost+biochar five-harvest mean **+36%** vs control — [Oasis PDF](https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf) · [[Oasis Vineyard Trial 2023]]). Field rates and economics: [[Field Rates by System]], [[Agronomic Economics]], [[Crop Yield Effects]].
+COMBI products often outperform raw char and sometimes outperform post-blends for plant growth in controlled and field contexts ([[COMBI Soil Quality Review|reviews co-composted biochar soil effects]]; Oasis compost+biochar five-harvest mean **+36%** vs control — [Oasis PDF](https://pacificbiochar.com/wp-content/uploads/Oasis-Vineyard-Trial_-5th-harvest_-Final-Draft_12.12.2023.pdf) · [[Oasis Vineyard Trial 2023]]). Field rates and economics: [[Field Rates by System]], [[Agronomic Economics]], [[Crop Yield Effects]].
 
 ---
 
@@ -112,18 +112,18 @@ COMBI products often outperform raw char and sometimes outperform post-blends fo
 |---|---|---|
 | Kammann untreated vs co-composted biomass contrast | **High** (controlled experiment, open access) | Clear same-rate contrast ([DOI](https://doi.org/10.1038/srep11080)) |
 | Organic coating / aromatic stability preserved | **High** | Nature Communications full paper ([DOI](https://doi.org/10.1038/s41467-017-01123-0)) |
-| COMBI “often beats post-blend” | **Medium** | Narrative review ([[Antonangelo et al. 2021]]); limited primary trials |
+| COMBI “often beats post-blend” | **Medium** | Narrative review ([[COMBI Soil Quality Review|reviews co-composted biochar soil effects]]); limited primary trials |
 | Composting-gas meta means (CH₄/N₂O/NH₃) | **Medium–high** | Large metas ([DOI](https://doi.org/10.48130/nc-0025-0003); [DOI](https://doi.org/10.48130/bchax-0025-0005)) but composting ≠ soil |
 | Earth Foundries VOC −33% | **Demonstration** | One pile, one cycle ([[Earth Foundries Co-Composting Report 2023]]) |
 | Pacific white paper best-case % cuts | **Practitioner synthesis** | Cite primary papers for diligence ([[Pacific Biochar Compost White Paper 2023]]) |
-| Antonangelo 10–15% / 400–700 °C bands | **Needs full-text** | Source note flags abstract-only for those rows | [[Antonangelo et al. 2021]] |
+| Antonangelo 10–15% / 400–700 °C bands | **Needs full-text** | Source note flags abstract-only for those rows | [[COMBI Soil Quality Review|reviews co-composted biochar soil effects]] |
 
 ---
 
 ## 9. Links to nutrient and microbe chapters
 
 - Nitrate / ammonium chemistry after charging: [[Biochar Nutrients and Fertilizer Chemistry]] (Nguyen SIN meta https://doi.org/10.1016/j.geoderma.2016.11.004; Hagemann PLOS https://doi.org/10.1371/journal.pone.0171214).
-- Habitat vs sparse colonization: [[Biochar Microbes and Soil Biology]] · [[Quilliam et al. 2013]] ([DOI](https://doi.org/10.1016/j.soilbio.2013.06.004)) · Lehmann biota review ([DOI](https://doi.org/10.1016/j.soilbio.2011.04.022)).
+- Habitat vs sparse colonization: [[Biochar Microbes and Soil Biology]] · [[Charosphere Microbial Habitat|studies charosphere microbial habitat]] ([DOI](https://doi.org/10.1016/j.soilbio.2013.06.004)) · Lehmann biota review ([DOI](https://doi.org/10.1016/j.soilbio.2011.04.022)).
 - Immobilization risk framing for raw char: NRCS FAQ ([PDF](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)); Bruun et al. 2012 C/N turnover ([DOI](https://doi.org/10.1016/j.soilbio.2011.11.019)).
 
 ---

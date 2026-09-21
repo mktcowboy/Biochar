@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: [Melo 2022, Melo et al. (2022), Melo et al. 2022]
+aliases: ["biochar-based fertilizer meta-analysis", "BBF meta-analysis"]
 source_type: meta-analysis
 peer_reviewed: true
 authors: ["Melo, Leônidas Carrijo Azevedo", "Lehmann, Johannes", "Carneiro, Jefferson Santana da Silva", "Camps-Arbestain, Marta"]
@@ -34,4 +34,4 @@ None of these could be checked. The paper is paywalled, and no abstract was avai
 
 - Treat these four numbers as unconfirmed until someone with access checks the paper. They appear in [[Biochar Inoculation for Fertilizer]], [[Biochar Nutrients and Fertilizer Chemistry]], [[Soil and Agriculture]], and [[Crop Yield Effects]].
 
-Related: [[Schmidt et al. 2017]] · [[Ye et al. 2020]] · [[Key Sources]]
+Related: [[Liquid Nutrient Enrichment Field Trials|liquid nutrient enrichment trials]] · [[Fertilizer-Controlled Yield Meta-analysis|meta-analyzes yields with fertilizer controls]] · [[Key Sources]]

@@ -16,7 +16,7 @@ Report context: **2026-09-16**.
 
 NRCS FAQ: incorporate “the same ways soil amendments are normally incorporated” including tillage, trenching, no-till drill, permanent beds, surface apply, or mixed into water; **best results** with incorporation; surface-only applications risk wind/water loss, especially on slopes ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[NRCS CPS 336 FAQ 2026]]). USBI: incorporate when possible to limit wind erosion ([Ag Guidelines](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf) · [[USBI Ag Guidelines 2023]]).
 
-Root-zone placement lets **low doses** of enriched chars work ([[Schmidt et al. 2015]] · [DOI](https://doi.org/10.3390/agriculture5030723)).
+Root-zone placement lets **low doses** of enriched chars work ([[Urine-Enhanced Biochar Field Trial|urine-enhanced biochar field trial]] · [DOI](https://doi.org/10.3390/agriculture5030723)).
 
 ---
 

@@ -44,7 +44,7 @@ General marketing still frames “**100+ year durability**” as the baseline CO
 | Label | Biochar methodology | Permanence framing | Decay basis |
 |---|---|---|---|
 | Early (Edition 2019) | Spokas 2010 O:C framing | 100-year style | Spokas |
-| **CORC100+** | Edition 2022 | ~100 years | [[Woolf et al. 2021]] multi-pool exponential; H/C_org + soil T |
+| **CORC100+** | Edition 2022 | ~100 years | [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] multi-pool exponential; H/C_org + soil T |
 | **CORC200+** | **Edition 2025** (v1 Jun 2025; v2 Nov 2025) | **Several centuries** (≥200 years; EU “permanent removal” alignment cited) | Revised **power-law** decay; H/C_org + soil T; **80% CI lower bound**; open-source notebook |
 
 Source: [Puro permanence explainer, 2025-07-03](https://puro.earth/insights/post/biochar-permanence/); Edition 2025 v2 methodology §1.1, §6.2.  

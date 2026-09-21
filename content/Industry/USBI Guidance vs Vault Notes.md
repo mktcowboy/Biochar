@@ -34,7 +34,7 @@ Explicit comparison between **U.S. Biochar Initiative / American Biochar Institu
 | **1–3 week** activation window commonly recommended | Same PDF; [[USBI Ag Guidelines 2023]] | [[Biochar Inoculation for Fertilizer]] · [[Application Rates and Methods]] |
 | NRCS practice language requires inoculation with compost / tea / manure | ABI Funding Guide cites CPS 336 pathway — https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Funding-2026-final.pdf | [[NRCS CPS 336 Standard 2022]] — https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf |
 
-**Mechanistic agreement (vault goes deeper):** Vault cites Kammann et al. untreated vs co-composted contrast ([DOI](https://doi.org/10.1038/srep11080) · [[Kammann et al. 2015]]) — same “don’t apply hungry char” conclusion USBI states in practice language.
+**Mechanistic agreement (vault goes deeper):** Vault cites Kammann et al. untreated vs co-composted contrast ([DOI](https://doi.org/10.1038/srep11080) · [[Co-compost Nitrate Capture|shows co-compost nitrate capture]]) — same “don’t apply hungry char” conclusion USBI states in practice language.
 
 ### 1.2 Application rates — same order of magnitude
 
@@ -56,7 +56,7 @@ Explicit comparison between **U.S. Biochar Initiative / American Biochar Institu
 
 | Theme | USBI | Vault |
 |---|---|---|
-| Stronger response on poorer soils | Ag Guidelines: low pH / SOM / CEC soils → higher likelihood of yield response — https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-for-Agriculture-Applications-2026.pdf | [[Crop Yield Effects]] · [[Soil and Agriculture]] — Jeffery temperate vs tropical contrast — https://doi.org/10.1088/1748-9326/aa67bd · [[Jeffery et al. 2017]] |
+| Stronger response on poorer soils | Ag Guidelines: low pH / SOM / CEC soils → higher likelihood of yield response — https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-for-Agriculture-Applications-2026.pdf | [[Crop Yield Effects]] · [[Soil and Agriculture]] — Jeffery temperate vs tropical contrast — https://doi.org/10.1088/1748-9326/aa67bd · [[Tropical vs Temperate Yields|compares tropical vs temperate yields]] |
 | Moisture, SOC, microbes, acidity moderation | Ag Guidelines / Beyond Application marketing copy — https://biochar.org/document/biochar-guidelines-for-agriculture-applications/ | Mechanism metas in [[Soil and Agriculture]] (water: Omondi/Wei/Razzaghi DOIs on Applications Hub) |
 
 ### 1.5 Policy — NRCS CPS 336
@@ -93,7 +93,7 @@ Vault: [[Product Standards EBC IBI]] · [[Contaminants and Quality]] · [[Proper
 
 | Topic | Vault strength | USBI / ABI coverage |
 |---|---|---|
-| Immobilization / coating / nitrate-capture mechanisms | [[Biochar Inoculation for Fertilizer]] · [[Kammann et al. 2015]] · Hagemann coating DOI https://doi.org/10.1038/s41467-017-01123-0 | States the practice rule; does not walk mechanisms at paper depth |
+| Immobilization / coating / nitrate-capture mechanisms | [[Biochar Inoculation for Fertilizer]] · [[Co-compost Nitrate Capture|shows co-compost nitrate capture]] · Hagemann coating DOI https://doi.org/10.1038/s41467-017-01123-0 | States the practice rule; does not walk mechanisms at paper depth |
 | Microbial habitat debate | [[Biochar Microbes and Soil Biology]] · Quilliam sparse colonization https://doi.org/10.1016/j.soilbio.2013.06.004 | Habitat narrative in Ag Guidelines; limited counter-evidence |
 | BBF chemistry / FUE metas | [[Biochar Nutrients and Fertilizer Chemistry]] · Melo/Ndoung DOIs | Mentions BBFs; points to pellet/prill literature via Gao cite in 2023 guide ([[USBI Ag Guidelines 2023]]) |
 | Permanence science & IPCC accounting | [[Permanence]] · [[CDR Potential and IPCC Accounting]] · [[IPCC 2019 Biochar Appendix]] | Beyond Application discusses H/Corg–stability narrative and points to carbon Learning Center materials; not an IPCC deep dive |
@@ -107,7 +107,7 @@ Vault: [[Product Standards EBC IBI]] · [[Contaminants and Quality]] · [[Proper
 
 1. **Tons vs cubic yards:** USBI leads with **t/ac**; NRCS payment scenarios lead with **yd³/ac**. Convert only with measured bulk density/moisture ([NRCS FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)).
 2. **Compost % volume vs % weight:** USBI compost sheet is **volume**-based ([Compost PDF](https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Compost-2026-Draft-V1.pdf)); some vault literature bands are **w/w** (Pacific / Antonangelo). Same intent, different basis — don’t mix without density.
-3. **“1–10 t/ac consistent positives” vs temperate meta-analyses:** Vault yield metas show **context dependence** (weaker mean temperate responses — [[Jeffery et al. 2017]] https://doi.org/10.1088/1748-9326/aa67bd). USBI’s own poorer-soil framing and the vault’s inoculation chapter reconcile this: raw high-C wood char on fertile temperate soils is exactly where charging matters most.
+3. **“1–10 t/ac consistent positives” vs temperate meta-analyses:** Vault yield metas show **context dependence** (weaker mean temperate responses — [[Tropical vs Temperate Yields|compares tropical vs temperate yields]] https://doi.org/10.1088/1748-9326/aa67bd). USBI’s own poorer-soil framing and the vault’s inoculation chapter reconcile this: raw high-C wood char on fertile temperate soils is exactly where charging matters most.
 4. **Market numbers:** ABI **151 kt physical biochar (2025 survey)** ≠ CDR.fyi **credit tonnes delivered**. Keep [[ABI 2025 US Biochar Market Report]] and [[Market Volumes and Pricing]] side-by-side, not merged.
 5. **IBI seal vs CPS 336:** ABI funding guide emphasizes IBI seal/criteria; NRCS FAQ stresses **spec sheet still required** even with certification — vault already captured ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)).
 

@@ -1,6 +1,6 @@
 ---
 tags: [source, science]
-aliases: [Lehmann 2021, Lehmann et al. (2021), Lehmann et al. 2021]
+aliases: ["biochar climate mitigation review", "climate change mitigation biochar"]
 source_type: review
 peer_reviewed: true
 authors: ["Lehmann, Johannes", "Cowie, Annette", "Masiello, Caroline A.", "Kammann, Claudia", "Woolf, Dominic", "Amonette, James E.", "Cayuela, Maria L.", "Camps-Arbestain, Marta", "Whitman, Thea"]
@@ -35,4 +35,4 @@ verified: 2026-09-14
 - Two of the vault's most-quoted numbers from this paper, the H/C_org persistence subset and the land-sparing range, come from the full text, which wasn't accessible. Check them before relying on them.
 - The energy trade-off means biochar's climate advantage depends on what energy it displaces; it isn't a fixed number.
 
-Related: [[CDR Potential and IPCC Accounting]] · [[Permanence]] · [[Woolf et al. 2021]] · [[Key Sources]]
+Related: [[CDR Potential and IPCC Accounting]] · [[Permanence]] · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] · [[Key Sources]]

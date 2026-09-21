@@ -68,7 +68,7 @@ Leachate electrical conductivity estimates **salt content**—a feedstock contam
 ## Primary links
 
 - [EBC 10.5E PDF](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)
-- [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) · [[Woolf et al. 2021]]
+- [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]]
 - [ANSI S668 PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[ANSI ASABE USBI S668]]
 - [EU 2019/1009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1009)
 

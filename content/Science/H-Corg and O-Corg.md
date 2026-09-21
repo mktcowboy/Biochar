@@ -14,9 +14,9 @@ Chapter on **molar hydrogen-to-organic-carbon** and **oxygen-to-organic-carbon**
 
 ## 1. Why elemental ratios track permanence
 
-Pyrolysis drives condensation reactions that grow fused aromatic domains. As aromatic sheets enlarge, C–C bonds replace C–H and C–O bonds, so **H/C_org** and **O/C_org** fall ([[Keiluweit et al.|Keiluweit et al., 2010]] · [DOI](https://doi.org/10.1021/es9031419); [[Woolf et al. 2021|Woolf et al., 2021]] · [DOI](https://doi.org/10.1021/acs.est.1c02425)). Lower ratios therefore indicate a more condensed, typically more persistent solid—**relative** indicators, not absolute half-lives by themselves ([Schmidt et al., 2025](https://doi.org/10.1111/gcbb.70092)).
+Pyrolysis drives condensation reactions that grow fused aromatic domains. As aromatic sheets enlarge, C–C bonds replace C–H and C–O bonds, so **H/C_org** and **O/C_org** fall ([[Keiluweit et al.|Keiluweit et al., 2010]] · [DOI](https://doi.org/10.1021/es9031419); [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] · [DOI](https://doi.org/10.1021/acs.est.1c02425)). Lower ratios therefore indicate a more condensed, typically more persistent solid—**relative** indicators, not absolute half-lives by themselves ([Schmidt et al., 2025](https://doi.org/10.1111/gcbb.70092)).
 
-IUPAC’s biochar glossary frames biochar as a pyrolysis solid with molar **H/C_org < 0.7** and **O/C_org < 0.4** to ensure abundant fused aromatics and distinguish inadequately carbonized materials ([[Bilias et al. 2024]] · [DOI](https://doi.org/10.1515/pac-2021-0106)).
+IUPAC’s biochar glossary frames biochar as a pyrolysis solid with molar **H/C_org < 0.7** and **O/C_org < 0.4** to ensure abundant fused aromatics and distinguish inadequately carbonized materials ([[IUPAC Biochar Terminology|IUPAC biochar terminology]] · [DOI](https://doi.org/10.1515/pac-2021-0106)).
 
 ---
 
@@ -44,7 +44,7 @@ EBC accepts calculating O from C, H, N, S, and ash when direct O measurement is 
 
 ## 3. H/C_org as inventory input (Woolf)
 
-[[Woolf et al. 2021]] recommends **H/C_org over pyrolysis temperature** when elemental analysis is available, because H/C_org correlates more tightly with condensation (temperature alone ignores residence time and other process factors) ([DOI](https://doi.org/10.1021/acs.est.1c02425); [open PDF](https://open-science.canada.ca/server/api/core/bitstreams/112fc297-0352-4683-ae0e-dd1271f59d77/content) §3.2).
+[[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] recommends **H/C_org over pyrolysis temperature** when elemental analysis is available, because H/C_org correlates more tightly with condensation (temperature alone ignores residence time and other process factors) ([DOI](https://doi.org/10.1021/acs.est.1c02425); [open PDF](https://open-science.canada.ca/server/api/core/bitstreams/112fc297-0352-4683-ae0e-dd1271f59d77/content) §3.2).
 
 Permanence is fit as a linear regression:
 
@@ -78,7 +78,7 @@ Woolf argues **H/C_org is preferred over O/C_org** for high-ash materials becaus
 
 | Framework | H/C_org | O/C_org | Source |
 |---|---|---|---|
-| **IUPAC glossary** | < **0.7** | < **0.4** | [[Bilias et al. 2024]] · [DOI](https://doi.org/10.1515/pac-2021-0106) |
+| **IUPAC glossary** | < **0.7** | < **0.4** | [[IUPAC Biochar Terminology|IUPAC biochar terminology]] · [DOI](https://doi.org/10.1515/pac-2021-0106) |
 | **EBC all classes** | < **0.7** | should be < **0.4** | [EBC 10.5E](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf) §7.2–7.3 |
 | **EBC-FeedPlus** | < **0.4** (proxy for ≥500 °C / ≥10 min) | — | Same PDF §10.4 |
 | **EBC manure chars** | < **0.4** required | — | Same PDF §4.8 |
@@ -91,7 +91,7 @@ Credit programs map these ratios into **different** permanence tables and horizo
 
 ## 6. Lehmann H/C_org < 0.5 subset (use with care)
 
-[[Lehmann et al. 2021]] is widely cited for: among biochars with **H/C_org < 0.5**, **95%** showed **>50%** C remaining after 100 years, with mean remaining ~**82%** in that subset ([DOI](https://doi.org/10.1038/s41561-021-00852-8)). The vault’s source note flags these figures as **not re-checked against the paywalled full text**—confirm before diligence use ([[Lehmann et al. 2021]]). Abstract-checked claim that remains solid: persistence is **1–2 orders of magnitude** longer than source biomass ([same DOI](https://doi.org/10.1038/s41561-021-00852-8)).
+[[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]] is widely cited for: among biochars with **H/C_org < 0.5**, **95%** showed **>50%** C remaining after 100 years, with mean remaining ~**82%** in that subset ([DOI](https://doi.org/10.1038/s41561-021-00852-8)). The vault’s source note flags these figures as **not re-checked against the paywalled full text**—confirm before diligence use ([[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]]). Abstract-checked claim that remains solid: persistence is **1–2 orders of magnitude** longer than source biomass ([same DOI](https://doi.org/10.1038/s41561-021-00852-8)).
 
 ---
 
@@ -115,14 +115,14 @@ Credit programs map these ratios into **different** permanence tables and horizo
 
 ## Primary links
 
-- [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) · [[Woolf et al. 2021]]
+- [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]]
 - [Spokas 2010](https://doi.org/10.4155/cmt.10.32)
 - [Keiluweit et al. 2010](https://doi.org/10.1021/es9031419)
-- [Bilias et al. 2024](https://doi.org/10.1515/pac-2021-0106) · [[Bilias et al. 2024]]
+- [Bilias et al. 2024](https://doi.org/10.1515/pac-2021-0106) · [[IUPAC Biochar Terminology|IUPAC biochar terminology]]
 - [EBC 10.5E PDF](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)
 - [IBI Biochar Standards](https://biochar-international.org/biochar-standards/)
 - [ANSI S668 PDF](https://biochar.org/wp-content/uploads/2026/05/ANSI-S668.pdf) · [[ANSI ASABE USBI S668]]
-- [Lehmann et al. 2021](https://doi.org/10.1038/s41561-021-00852-8) · [[Lehmann et al. 2021]]
+- [Lehmann et al. 2021](https://doi.org/10.1038/s41561-021-00852-8) · [[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]]
 
 ## Related notes
 

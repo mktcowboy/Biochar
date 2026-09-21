@@ -1,6 +1,6 @@
 ---
 tags: [source, science]
-aliases: [Wang 2016, Wang et al. (2016), Wang et al. 2016]
+aliases: ["stability and priming meta-analysis", "biochar priming meta-analysis"]
 source_type: meta-analysis
 peer_reviewed: true
 authors: ["Wang, Jinyang", "Xiong, Zhengqin", "Kuzyakov, Yakov"]

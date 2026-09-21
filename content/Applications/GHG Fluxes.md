@@ -27,7 +27,7 @@ Sibling practice notes: [[Soil and Agriculture]] · [[Crop Yield Effects]] · [[
 
 | Gas / process | Typical cited ranges | Caveats | Primary URL |
 |---|---|---|---|
-| **N₂O** | Classic meta ~**−54%** ([[Cayuela et al. 2014]]); [[Jia et al. 2023]] **−26.8%**; Woolf inventory optional **−23%** year 1 only if **>10 Mg C ha⁻¹** | Effect fades / uncertain beyond year 1; H:C_org matters; lab-heavy vs field | https://doi.org/10.1016/j.agee.2013.10.009 · https://doi.org/10.1002/ldr.4868 · https://doi.org/10.1021/acs.est.1c02425 · [[Woolf et al. 2021]] |
+| **N₂O** | Classic meta ~**−54%** ([[Nitrous Oxide Mitigation Meta-analysis|meta-analyzes N2O mitigation]]); [[Global GHG and Yield Patterns|global GHG and yield patterns]] **−26.8%**; Woolf inventory optional **−23%** year 1 only if **>10 Mg C ha⁻¹** | Effect fades / uncertain beyond year 1; H:C_org matters; lab-heavy vs field | https://doi.org/10.1016/j.agee.2013.10.009 · https://doi.org/10.1002/ldr.4868 · https://doi.org/10.1021/acs.est.1c02425 · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] |
 | **CH₄** | Jia 2023 global **−13.0%**; Jeffery 2016 flooded *d*=**−0.87**, non-flooded *d*=**+0.65** | System-dependent (paddy vs upland); Woolf default **no net change** | https://doi.org/10.1002/ldr.4868 · https://doi.org/10.1016/j.soilbio.2016.07.021 · https://doi.org/10.1021/acs.est.1c02425 |
 | **CO₂ / priming** | Wang 2016 mean SOC mineralization **−3.8%** (ns); significant negative priming <6 mo (**−8.6%**); positive priming in sandy soils (**+20.8%**); Weng 2017 decade-scale negative priming | Do **not** apply Woolf N₂O method to organic/forest soils; priming not credited in Woolf inventory | https://doi.org/10.1111/gcbb.12266 · https://doi.org/10.1038/nclimate3276 · https://doi.org/10.1021/acs.est.1c02425 |
 | **GWP (Jia 2023)** | Combined GWP **−7.7%**; GHGI **−14.3%** | Bundled metric; pools lab/pot/field | https://doi.org/10.1002/ldr.4868 |
@@ -50,7 +50,7 @@ Jeffery et al. (2016): mitigation in flooded/acidic systems; possible sink weake
 
 ## Priming — one-paragraph pointer
 
-Wang et al. (2016) overall **−3.8%** (CI includes zero); short-term negative priming; sandy soils positive **+20.8%** ([DOI](https://doi.org/10.1111/gcbb.12266) · [[Wang et al. 2016]]). Weng et al. (2017) decade-scale negative priming ([DOI](https://doi.org/10.1038/nclimate3276)). Detail: [[Priming and SOC Interactions]].
+Wang et al. (2016) overall **−3.8%** (CI includes zero); short-term negative priming; sandy soils positive **+20.8%** ([DOI](https://doi.org/10.1111/gcbb.12266) · [[Stability and Priming Meta-analysis|meta-analyzes stability and priming]]). Weng et al. (2017) decade-scale negative priming ([DOI](https://doi.org/10.1038/nclimate3276)). Detail: [[Priming and SOC Interactions]].
 
 NRCS FAQ contrasts biochar’s multi-century C persistence framing (**~60–80%** remaining at 100 years in their cited range) with compost (**~2–14%**) ([FAQ PDF](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[NRCS CPS 336 FAQ 2026]]). Cross-check F_perm in [[Permanence]] / [[Quantitative Benchmarks]] ([IPCC 2019 appendix](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC 2019 Biochar Appendix]]).
 
@@ -60,7 +60,7 @@ NRCS FAQ contrasts biochar’s multi-century C persistence framing (**~60–80%*
 
 - **Rate:** Woolf’s optional N₂O inventory term only at **>10 Mg C ha⁻¹** year 1 — far above many CPS 336 planning rates (~4 yd³/ac baseline) ([Woolf](https://doi.org/10.1021/acs.est.1c02425); [NRCS FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)).
 - **Compost / manure blends:** change labile C, moisture, and N — [[Biochar Compost and Manure Blends]]; facility VOC −33% at 10% v/v biochar ([Earth Foundries PDF](https://www.earthfoundriesinc.com/wp-content/uploads/2024/02/Earth-Foundries-Green-Compost-Biochar-Composting-Project-Report-2023.pdf)) is **not** soil N₂O.
-- **Fertilizer N:** [[Ye et al. 2020]] ([PDF](https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf)); [[Fertilizer Displacement]].
+- **Fertilizer N:** [[Fertilizer-Controlled Yield Meta-analysis|meta-analyzes yields with fertilizer controls]] ([PDF](https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf)); [[Fertilizer Displacement]].
 
 ---
 

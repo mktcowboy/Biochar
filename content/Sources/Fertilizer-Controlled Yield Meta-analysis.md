@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: [Ye 2020, Ye et al. (2020), Ye et al. 2020]
+aliases: ["fertilizer-controlled yield meta-analysis", "yield with fertilizer controls"]
 source_type: meta-analysis
 peer_reviewed: true
 authors: ["Ye, Lili", "Camps-Arbestain, Marta", "Shen, Qinhua", "Lehmann, Johannes", "Singh, Balwant", "Sabir, Muhammad"]
@@ -36,4 +36,4 @@ verified: 2026-09-14
 - **DOI correction:** [[Key Sources]] listed this paper as 10.1111/sum.12555, which is a different article. The correct DOI is **10.1111/sum.12546**.
 - The +15% is biochar's added effect *on top of* fertilizer. It doesn't apply to biochar used instead of fertilizer.
 
-Related: [[Crop Yield Effects]] · [[Lehmann et al. 2021]] · [[Melo et al. 2022]] · [[Key Sources]]
+Related: [[Crop Yield Effects]] · [[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]] · [[Biochar-Based Fertilizer Meta-analysis|meta-analyzes biochar fertilizers]] · [[Key Sources]]

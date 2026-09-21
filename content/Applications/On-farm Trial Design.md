@@ -14,7 +14,7 @@ Report context: **2026-09-16**.
 
 ## 1. Why design matters
 
-Meta-analyses show **large context dependence** (soil pH, texture, climate, fertilizer co-application) ([[Jeffery et al. 2011]] · [DOI](https://doi.org/10.1016/j.agee.2011.08.015); [[Jeffery et al. 2017]] · [DOI](https://doi.org/10.1088/1748-9326/aa67bd); [[Jia et al. 2023]] · [DOI](https://doi.org/10.1002/ldr.4868)). A single unreplicated strip cannot overturn those patterns—but a well-logged strip trial *can* answer “does **this** char × **this** blend × **this** rate work **here**?”
+Meta-analyses show **large context dependence** (soil pH, texture, climate, fertilizer co-application) ([[Crop Productivity Meta-analysis|meta-analyzes crop productivity]] · [DOI](https://doi.org/10.1016/j.agee.2011.08.015); [[Tropical vs Temperate Yields|compares tropical vs temperate yields]] · [DOI](https://doi.org/10.1088/1748-9326/aa67bd); [[Global GHG and Yield Patterns|global GHG and yield patterns]] · [DOI](https://doi.org/10.1002/ldr.4868)). A single unreplicated strip cannot overturn those patterns—but a well-logged strip trial *can* answer “does **this** char × **this** blend × **this** rate work **here**?”
 
 Jeffery et al. (2016) CH₄ meta required randomised, replicated designs for inclusion (**42** of 62 screened studies; **189** pairwise comparisons) ([DOI](https://doi.org/10.1016/j.soilbio.2016.07.021))—a reminder that weak designs get filtered from science, and weak farm demos get filtered from lenders.
 

@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: [Schmidt 2017, Schmidt et al. (2017), Schmidt et al. 2017]
+aliases: ["liquid nutrient enrichment field trials", "Nepal liquid enrichment trials"]
 source_type: field trial
 peer_reviewed: true
 authors: ["Schmidt, Hans-Peter", "Pandit, Bishnu Hari", "Cornelissen, Gerard", "Kammann, Claudia I."]
@@ -37,4 +37,4 @@ verified: 2026-09-14
 - The +123% comparison is against local organic practice, not mineral NPK, and its spread (±76.7%) is wide.
 - The full text wasn't accessible for this check. Trial-level details (crop list, sites, enrichment timing) still need confirming against the paper.
 
-Related: [[Schmidt et al. 2015]] (the pumpkin trial before this program) · [[Biochar Inoculation for Fertilizer]] · [[Key Sources]]
+Related: [[Urine-Enhanced Biochar Field Trial|urine-enhanced biochar field trial]] (the pumpkin trial before this program) · [[Biochar Inoculation for Fertilizer]] · [[Key Sources]]

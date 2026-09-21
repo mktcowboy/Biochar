@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: ["Pacific Biochar white paper", "McIntosh & Hunt 2023", "Biochar + Compost white paper"]
+aliases: ["Pacific Biochar white paper", "Biochar + Compost white paper"]
 source_type: white paper
 peer_reviewed: false
 authors: ["McIntosh, Charlie", "Hunt, Josiah"]
@@ -30,6 +30,6 @@ verified: 2026-09-14
 ## Use with care
 
 - **Not peer reviewed**, and written by a biochar seller. The emission reductions are best cases from cited studies, so check the primary paper before quoting one as typical.
-- It restates [[Kammann et al. 2015]] as a "yield increase of 305%". That paper's results put biomass at up to **305% *of* the control** (about 3×).
+- It restates [[Co-compost Nitrate Capture|shows co-compost nitrate capture]] as a "yield increase of 305%". That paper's results put biomass at up to **305% *of* the control** (about 3×).
 
 Related: [[Biochar Compost and Manure Blends]] · [[Biochar Inoculation for Fertilizer]] · [[Key Sources]]

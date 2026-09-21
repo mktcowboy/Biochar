@@ -14,7 +14,7 @@ Report context: **2026-09-16**.
 
 ## 1. Decision tree (practice)
 
-1. **Have an active composting operation?** → Prefer **early co-composting** (COMBI) over mixing finished compost with raw char alone ([[Antonangelo et al. 2021]] · [DOI](https://doi.org/10.1016/j.jenvman.2020.111443); [[Pacific Biochar Compost White Paper 2023]]).
+1. **Have an active composting operation?** → Prefer **early co-composting** (COMBI) over mixing finished compost with raw char alone ([[COMBI Soil Quality Review|reviews co-composted biochar soil effects]] · [DOI](https://doi.org/10.1016/j.jenvman.2020.111443); [[Pacific Biochar Compost White Paper 2023]]).
 2. **No compost facility, but need agronomic response?** → Charge/inoculate **1–3 weeks** with compost, manure, tea, fertilizer, urine, or microbes ([USBI Ag Guidelines](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf) · [[USBI Ag Guidelines 2023]]; NRCS inoculate language [CPS 336 2022 PDF](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf)).
 3. **Seeking EQIP/CSP CPS 336?** → Match a published **blend scenario** quantity table and state payment schedule ([NRCS FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[NRCS CPS 336 FAQ 2026]]; [[NRCS CPS 336 and US Ag]]).
 4. **Stacking voluntary CDR?** → Lock ownership / no-double-claim language ([[Matrix Pathways for Credits]], [[Double Counting and Credit Ownership]]).
@@ -89,7 +89,7 @@ Full project list: [[Real World Soil Projects]].
 
 ## 6. Charging without co-composting (bridge)
 
-If you cannot co-compost: USBI **1–3 week** inoculation/charging window ([PDF](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf)); urine 1:1 volume ≥1 h protocols ([[Schmidt et al. 2015]] · [DOI](https://doi.org/10.3390/agriculture5030723)); multi-crop liquid enrichment ([[Schmidt et al. 2017]] · [DOI](https://doi.org/10.1002/ldr.2761)). Full protocols: [[Biochar Inoculation for Fertilizer]].
+If you cannot co-compost: USBI **1–3 week** inoculation/charging window ([PDF](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf)); urine 1:1 volume ≥1 h protocols ([[Urine-Enhanced Biochar Field Trial|urine-enhanced biochar field trial]] · [DOI](https://doi.org/10.3390/agriculture5030723)); multi-crop liquid enrichment ([[Liquid Nutrient Enrichment Field Trials|liquid nutrient enrichment trials]] · [DOI](https://doi.org/10.1002/ldr.2761)). Full protocols: [[Biochar Inoculation for Fertilizer]].
 
 ---
 

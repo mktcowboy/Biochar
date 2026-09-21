@@ -16,11 +16,11 @@ Protocol depth for charging lives in [[Biochar Inoculation for Fertilizer]]; nut
 
 ## 1. Purpose and problem statement
 
-Practitioners often call biochar a “microbial hotel.” That metaphor is **partly true and partly marketing**. Lehmann et al. (2011) review how biochar alters soil biota through habitat, moisture, pH, sorption of signaling compounds and toxins, and nutrient supply ([DOI](https://doi.org/10.1016/j.soilbio.2011.04.022)). [[Quilliam et al. 2013|Quilliam et al. (2013)]] provide the necessary counterweight: wood biochar buried **three years** in agricultural soil showed **very sparse** internal colonization; at **50 t ha⁻¹**, biochar contributed only ~**6.5%** of topsoil pore space and ~**7.4%** of surface area, with many pores **<1 µm**—effectively uninhabitable for many microbes ([DOI](https://doi.org/10.1016/j.soilbio.2013.06.004)).
+Practitioners often call biochar a “microbial hotel.” That metaphor is **partly true and partly marketing**. Lehmann et al. (2011) review how biochar alters soil biota through habitat, moisture, pH, sorption of signaling compounds and toxins, and nutrient supply ([DOI](https://doi.org/10.1016/j.soilbio.2011.04.022)). [[Charosphere Microbial Habitat|studies charosphere microbial habitat]] provide the necessary counterweight: wood biochar buried **three years** in agricultural soil showed **very sparse** internal colonization; at **50 t ha⁻¹**, biochar contributed only ~**6.5%** of topsoil pore space and ~**7.4%** of surface area, with many pores **<1 µm**—effectively uninhabitable for many microbes ([DOI](https://doi.org/10.1016/j.soilbio.2013.06.004)).
 
 NRCS and USBI still recommend **inoculating** biochar with compost, compost tea, or manure before agronomic use—because biology + nutrients must be **pre-loaded**, not assumed to self-assemble after broadcasting dry char ([CPS 336 2022](https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf) · [[NRCS CPS 336 Standard 2022]]; [USBI Ag Guidelines](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf) · [[USBI Ag Guidelines 2023]]; [NRCS FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf) · [[NRCS CPS 336 FAQ 2026]]).
 
-A 56-study meta-analysis ([[Ross & Emery 2025|Ross & Emery / Tapp Ross]], *SSSAJ* 2025) finds that **microbial inocula** raise soil N, SOC, and crop productivity versus biochar alone on average—but effects concentrate in **local/research-grade** and **fungal** inocula; **commercial** products are largely weak; greenhouse responses exceed field ([DOI](https://doi.org/10.1002/saj2.20792)). That is the evidence bar for “inoculated fertilizer biochar” claims.
+A 56-study meta-analysis ([[Microbial Inocula Meta-analysis|meta-analyzes microbial inocula]], *SSSAJ* 2025) finds that **microbial inocula** raise soil N, SOC, and crop productivity versus biochar alone on average—but effects concentrate in **local/research-grade** and **fungal** inocula; **commercial** products are largely weak; greenhouse responses exceed field ([DOI](https://doi.org/10.1002/saj2.20792)). That is the evidence bar for “inoculated fertilizer biochar” claims.
 
 ---
 
@@ -84,7 +84,7 @@ Chew et al. (2020) report that a wheat-straw-based activated biochar fertilizer 
 
 Effects on soil fauna are **context-dependent**. A meta-analysis of biochar addition on soil fauna communities provides the quantitative synthesis for abundance/diversity responses across taxa ([DOI](https://doi.org/10.1111/sum.13096)). A focused review on earthworm activity changes under biochar discusses avoidance, casting, and feeding responses as functions of feedstock, rate, and aging ([DOI](https://doi.org/10.1007/s42773-023-00287-x)).
 
-[[Kammann et al. 2015|Kammann et al. (2015)]] note earthworm preference (ISO-17512 avoidance test) favoring biochar-compost over pure compost in their composting program’s quality testing narrative ([DOI](https://doi.org/10.1038/srep11080) and associated production notes). Prefer meta/review DOIs above for general claims; treat single preference tests as case evidence.
+[[Co-compost Nitrate Capture|shows co-compost nitrate capture]] note earthworm preference (ISO-17512 avoidance test) favoring biochar-compost over pure compost in their composting program’s quality testing narrative ([DOI](https://doi.org/10.1038/srep11080) and associated production notes). Prefer meta/review DOIs above for general claims; treat single preference tests as case evidence.
 
 **Practice note:** high rates of fresh, dusty, high-pH, or high-PAH char can deter fauna; composted/charged products are the lower-risk entry (link [[Contaminants and Quality]]).
 
@@ -99,7 +99,7 @@ Rhizosphere biology and fertilizer chemistry are one system:
 3. PGPR/AMF on char carriers improve acquisition efficiency (Ross & Emery [DOI](https://doi.org/10.1002/saj2.20792); PeerJ AMF review).
 4. Root exudates interact with priming (Weng field negative priming [DOI](https://doi.org/10.1038/nclimate3276)).
 
-Schmidt et al. low-dose urine/liquid-enriched biochars place biology and nutrients **in planting pits**—a rhizosphere-first design ([DOI](https://doi.org/10.3390/agriculture5030723) · [[Schmidt et al. 2015]]; [DOI](https://doi.org/10.1002/ldr.2761) · [[Schmidt et al. 2017]]).
+Schmidt et al. low-dose urine/liquid-enriched biochars place biology and nutrients **in planting pits**—a rhizosphere-first design ([DOI](https://doi.org/10.3390/agriculture5030723) · [[Urine-Enhanced Biochar Field Trial|urine-enhanced biochar field trial]]; [DOI](https://doi.org/10.1002/ldr.2761) · [[Liquid Nutrient Enrichment Field Trials|liquid nutrient enrichment trials]]).
 
 ---
 
@@ -114,7 +114,7 @@ Schmidt et al. low-dose urine/liquid-enriched biochars place biology and nutrien
 | EM / bokashi-style | Fermentation consortia | Example EMBF tobacco physiology gains in Ndoung table (Li et al.) | https://doi.org/10.1016/j.heliyon.2021.e08473 |
 | Single-strain PGP bacteria | e.g. *Burkholderia*, *Bacillus* | Tripti et al. 2017: **10⁷ cfu g⁻¹**, viability to **240 d** on ag-waste biochar | PMC https://pmc.ncbi.nlm.nih.gov/articles/PMC8646155/ |
 | AMF / mycorrhizal inocula | Fungal propagules | Stronger meta effects than bacterial on average | https://doi.org/10.1002/saj2.20792 |
-| Co-composting (COMBI) | Community + coating + nutrients | Often outperforms post-blend | https://doi.org/10.1016/j.jenvman.2020.111443 · [[Antonangelo et al. 2021]] |
+| Co-composting (COMBI) | Community + coating + nutrients | Often outperforms post-blend | https://doi.org/10.1016/j.jenvman.2020.111443 · [[COMBI Soil Quality Review|reviews co-composted biochar soil effects]] |
 
 USBI recommends roughly **1–3 weeks** moist activation before use ([USBI PDF](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf)).
 
@@ -146,7 +146,7 @@ Priming = change in mineralization rate of native soil organic matter after amen
 |---|---|---|
 | Cross & Sohi 2011 | Priming potential linked to labile C contents of biochar products | https://doi.org/10.1016/j.soilbio.2011.06.016 |
 | Zimmerman et al. 2011 | Positive and negative priming among biochars/soils; time-dependent | https://doi.org/10.1016/j.soilbio.2011.02.005 |
-| [[Wang et al. 2016]] meta | Mean SOC mineralization **−3.8%** (95% CI crosses zero); significant negative priming in studies under six months (**−8.6%**); positive priming in sandy soils (**+20.8%**) | https://doi.org/10.1111/gcbb.12266 |
+| [[Stability and Priming Meta-analysis|meta-analyzes stability and priming]] meta | Mean SOC mineralization **−3.8%** (95% CI crosses zero); significant negative priming in studies under six months (**−8.6%**); positive priming in sandy soils (**+20.8%**) | https://doi.org/10.1111/gcbb.12266 |
 | Weng et al. 2017 | Decade-scale negative priming / SOC accrual in field | https://doi.org/10.1038/nclimate3276 |
 
 **Link to fertilizer use:** positive priming + immobilization can coincide in the first weeks after fresh low-T char—plants see less inorganic N even as microbes burn labile C (Bruun [DOI](https://doi.org/10.1016/j.soilbio.2011.11.019); Nguyen [DOI](https://doi.org/10.1016/j.geoderma.2016.11.004)). Longer-term negative priming supports SOC goals ([[GHG Fluxes]]; [[Permanence]]). Charging with compost shifts the early labile-C / nutrient stoichiometry toward plant-available supply (NRCS FAQ framing).
@@ -241,7 +241,7 @@ Commercial microbial claims above are **marketing pages**, not meta-analytic pro
 | Jindo enzyme activity | +30–40% | https://doi.org/10.1016/j.biortech.2012.01.120 |
 | Sanchez-Monedero compost rates | 3–50% studied; ~10% often optimal | https://doi.org/10.1016/j.biortech.2017.09.193 |
 
-Figures from [[Quilliam et al. 2013]], [[Kammann et al. 2015]], [[Ross & Emery 2025]], [[Wang et al. 2016]], [[Antonangelo et al. 2021]], [[USBI Ag Guidelines 2023]], [[Earth Foundries Co-Composting Report 2023]] and [[Oasis Vineyard Trial 2023]] are kept in their source notes, with a check status for each number.
+Figures from [[Charosphere Microbial Habitat|studies charosphere microbial habitat]], [[Co-compost Nitrate Capture|shows co-compost nitrate capture]], [[Microbial Inocula Meta-analysis|meta-analyzes microbial inocula]], [[Stability and Priming Meta-analysis|meta-analyzes stability and priming]], [[COMBI Soil Quality Review|reviews co-composted biochar soil effects]], [[USBI Ag Guidelines 2023]], [[Earth Foundries Co-Composting Report 2023]] and [[Oasis Vineyard Trial 2023]] are kept in their source notes, with a check status for each number.
 
 ---
 
@@ -291,7 +291,7 @@ Full protocols: [[Biochar Inoculation for Fertilizer]].
 
 ## 18. Deep dive — connecting microbial inocula to BBF chemistry
 
-Ndoung et al. (2021) list post-pyrolysis microbial enrichment alongside mineral enrichment ([DOI](https://doi.org/10.1016/j.heliyon.2021.e08473)). [[Melo et al. 2022|Melo et al. (2022)]] show BBFs raise productivity at low rates ([DOI](https://doi.org/10.1007/s11104-021-05276-2))—mostly nutrient-matrix studies, not always live inocula. The Ross & Emery meta isolates the **live inoculum increment** atop biochar ([DOI](https://doi.org/10.1002/saj2.20792)). Optimal products likely combine:
+Ndoung et al. (2021) list post-pyrolysis microbial enrichment alongside mineral enrichment ([DOI](https://doi.org/10.1016/j.heliyon.2021.e08473)). [[Biochar-Based Fertilizer Meta-analysis|meta-analyzes biochar fertilizers]] show BBFs raise productivity at low rates ([DOI](https://doi.org/10.1007/s11104-021-05276-2))—mostly nutrient-matrix studies, not always live inocula. The Ross & Emery meta isolates the **live inoculum increment** atop biochar ([DOI](https://doi.org/10.1002/saj2.20792)). Optimal products likely combine:
 
 - Mineral/organic nutrient charge (chemistry chapter),
 - Living inoculum or compost community (this chapter),
@@ -325,7 +325,7 @@ Chew et al. (2020) sit at that intersection: activated BCF changed rhizosphere m
 
 ## Primary outbound links
 
-Source notes (checked figures and full citations): [[Quilliam et al. 2013]] · [[Ross & Emery 2025]] · [[Wang et al. 2016]] · [[Kammann et al. 2015]] · [[Antonangelo et al. 2021]] · [[Melo et al. 2022]] · [[Schmidt et al. 2015]] · [[Schmidt et al. 2017]] · [[NRCS CPS 336 FAQ 2026]] · [[NRCS CPS 336 Standard 2022]] · [[USBI Ag Guidelines 2023]] · [[Pacific Biochar Compost White Paper 2023]] · [[Oasis Vineyard Trial 2023]] · [[Earth Foundries Co-Composting Report 2023]]. Other references:
+Source notes (checked figures and full citations): [[Charosphere Microbial Habitat|studies charosphere microbial habitat]] · [[Microbial Inocula Meta-analysis|meta-analyzes microbial inocula]] · [[Stability and Priming Meta-analysis|meta-analyzes stability and priming]] · [[Co-compost Nitrate Capture|shows co-compost nitrate capture]] · [[COMBI Soil Quality Review|reviews co-composted biochar soil effects]] · [[Biochar-Based Fertilizer Meta-analysis|meta-analyzes biochar fertilizers]] · [[Urine-Enhanced Biochar Field Trial|urine-enhanced biochar field trial]] · [[Liquid Nutrient Enrichment Field Trials|liquid nutrient enrichment trials]] · [[NRCS CPS 336 FAQ 2026]] · [[NRCS CPS 336 Standard 2022]] · [[USBI Ag Guidelines 2023]] · [[Pacific Biochar Compost White Paper 2023]] · [[Oasis Vineyard Trial 2023]] · [[Earth Foundries Co-Composting Report 2023]]. Other references:
 
 - Lehmann 2011 biota — https://doi.org/10.1016/j.soilbio.2011.04.022
 - Carrier review 2023 — https://doi.org/10.1016/j.scitotenv.2023.163968

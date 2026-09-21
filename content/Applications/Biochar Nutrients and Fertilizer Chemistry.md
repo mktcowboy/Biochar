@@ -20,7 +20,7 @@ Woody biochars used for durable carbon are typically **nutrient-poor**, porous, 
 
 USBI (American Biochar Institute) agricultural guidelines treat charging / inoculating / activating as post-processing that fills surface functional groups with nutrients and microbes, calling inoculation **critical** to minimize first-year immobilization ([USBI Ag Guidelines](https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf) · [[USBI Ag Guidelines 2023]]).
 
-The controlled contrast that frames this chemistry for practitioners: [[Kammann et al. 2015|Kammann et al. (2015)]] showed **2% (w/w) untreated** high-temperature wood biochar reduced quinoa aboveground biomass to **~60% of control**, while the **same rate of co-composted** biochar raised biomass to up to **~305% of control**, with captured **nitrate and phosphate** as central mechanisms ([DOI](https://doi.org/10.1038/srep11080); [PMC4460888](https://pmc.ncbi.nlm.nih.gov/articles/PMC4460888/)).
+The controlled contrast that frames this chemistry for practitioners: [[Co-compost Nitrate Capture|shows co-compost nitrate capture]] showed **2% (w/w) untreated** high-temperature wood biochar reduced quinoa aboveground biomass to **~60% of control**, while the **same rate of co-composted** biochar raised biomass to up to **~305% of control**, with captured **nitrate and phosphate** as central mechanisms ([DOI](https://doi.org/10.1038/srep11080); [PMC4460888](https://pmc.ncbi.nlm.nih.gov/articles/PMC4460888/)).
 
 This chapter answers: *what does biochar do to each nutrient pool, how does aging/enrichment change that, and how do BBF formulations and fertilizer co-management convert chemistry into fertilizer-use efficiency?*
 
@@ -33,7 +33,7 @@ This chapter answers: *what does biochar do to each nutrient pool, how does agin
 | **Ash / mineral fraction** | K, Ca, Mg, Na, P (feedstock-dependent); liming bases (carbonates, oxides) | Immediate base cation supply; raises pH/EC; can precipitate P with Ca/Mg/Fe/Al | Ippolito et al. 2020 meta ([DOI](https://doi.org/10.1007/s42773-020-00067-x)); NRCS FAQ wood vs manure contrast ([PDF](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)); NPK cycle review ([DOI](https://doi.org/10.1186/s40538-020-00182-8)) |
 | **Organic C matrix** | Condensed aromatic C; labile residual C (esp. low-T); surface functional groups | Sorption / desorption; CEC evolution with aging; habitat & priming | Keiluweit-type chemistry lineage via [[Properties]]; Nguyen 2017 ([DOI](https://doi.org/10.1016/j.geoderma.2016.11.004)); Cheng et al. 2008 oxidation ([DOI](https://doi.org/10.1016/j.gca.2008.01.010)) |
 | **Organic coating (co-compost / field aging)** | DOC, nitrate, phosphate, Ca/K hotspots on patchy surfaces | Non-conventional anion retention; slow release; fertility stimulation without bulk aromatic change | Hagemann et al. 2017 *Nat. Commun.* ([DOI](https://doi.org/10.1038/s41467-017-01123-0)); Archanjo et al. 2017 ([DOI](https://doi.org/10.1016/j.geoderma.2017.01.037)); Joseph et al. 2018 ([DOI](https://doi.org/10.1016/j.scitotenv.2017.09.200)) |
-| **Engineered enrichment (BBF)** | Added NPK, clays, Mg, struvite, urine, digestate, microbes | Designed slow-release; lower agronomic rates | Ndoung et al. 2021 ([DOI](https://doi.org/10.1016/j.heliyon.2021.e08473)); [[Melo et al. 2022]] ([DOI](https://doi.org/10.1007/s11104-021-05276-2)) |
+| **Engineered enrichment (BBF)** | Added NPK, clays, Mg, struvite, urine, digestate, microbes | Designed slow-release; lower agronomic rates | Ndoung et al. 2021 ([DOI](https://doi.org/10.1016/j.heliyon.2021.e08473)); [[Biochar-Based Fertilizer Meta-analysis|meta-analyzes biochar fertilizers]] ([DOI](https://doi.org/10.1007/s11104-021-05276-2)) |
 
 **Practice takeaway:** high-C wood chars are mostly a **C matrix + sponge**; manure/bone chars are partly **ash fertilizers**. Enrichment / co-composting adds the **coating + nutrient payload** that turns sponge into slow-release carrier ([[Biochar Inoculation for Fertilizer]]).
 
@@ -123,7 +123,7 @@ High extractable K in many ash-rich chars contributes directly to soil K supply 
 
 ### 5.2 Ca / Mg and liming couples
 
-Ash Ca/Mg carbonates and oxides drive liming. [[Jeffery et al. 2011|Jeffery et al. (2011)]] linked stronger yield responses in **acidic** soils (+14% subgroup) to liming + water-holding mechanisms ([DOI](https://doi.org/10.1016/j.agee.2011.08.015)). NRCS FAQ: biochar is usually alkaline; on soils already **pH > 7**, check liming equivalency and add cautiously; worked example—1 ton biochar/acre at **9% CaCO₃** liming equivalency offsets ~**9%** of a 1 ton lime/acre recommendation ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)).
+Ash Ca/Mg carbonates and oxides drive liming. [[Crop Productivity Meta-analysis|meta-analyzes crop productivity]] linked stronger yield responses in **acidic** soils (+14% subgroup) to liming + water-holding mechanisms ([DOI](https://doi.org/10.1016/j.agee.2011.08.015)). NRCS FAQ: biochar is usually alkaline; on soils already **pH > 7**, check liming equivalency and add cautiously; worked example—1 ton biochar/acre at **9% CaCO₃** liming equivalency offsets ~**9%** of a 1 ton lime/acre recommendation ([FAQ](https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf)).
 
 Kammann composting raised Ca on particles (BCpure ~3735 → BCcomp ~6077 mg kg⁻¹ in EUF totals reported) while Mg was low and slightly reduced ([DOI](https://doi.org/10.1038/srep11080)).
 
@@ -160,8 +160,8 @@ Desorption depends on N loading, soil hydraulic regime, plant demand, and method
 | **Fresh high-C wood, uncharged** | SIN ↓ (~10%); hungry sponge; possible yield drag | Charge or co-apply fertilizer; or apply ≥1 month pre-plant | Nguyen 2017; NRCS FAQ; Kammann untreated |
 | **Fresh manure/bone char** | Intrinsic N/P/K/ash; high EC risk | Soil-test P/EC; may still blend for biology | Ndoung direct-treatment; NRCS FAQ |
 | **Field-aged / oxidized** | ↑ oxygenated groups, organo-mineral phases | Better CEC; still may need fertility program | Cheng 2008; Joseph 2010 lineage |
-| **Co-composted (COMBI)** | Organic coating; NO₃⁻/PO₄ capture; growth ↑↑ | Prefer over raw for agronomy | Kammann 2015; Hagemann 2017; [[Antonangelo et al. 2021\|Antonangelo 2021]] ([DOI](https://doi.org/10.1016/j.jenvman.2020.111443)) |
-| **Post-pyrolysis BBF (NPK/urine/digestate)** | Designed payload; slow release; low dose | Band/root-zone; NUE gains | Melo 2022; [[Schmidt et al. 2015\|Schmidt 2015]]/2017; Puga 2020 |
+| **Co-composted (COMBI)** | Organic coating; NO₃⁻/PO₄ capture; growth ↑↑ | Prefer over raw for agronomy | Kammann 2015; Hagemann 2017; [[COMBI Soil Quality Review\|reviews co-composted biochar soil effects]] ([DOI](https://doi.org/10.1016/j.jenvman.2020.111443)) |
+| **Post-pyrolysis BBF (NPK/urine/digestate)** | Designed payload; slow release; low dose | Band/root-zone; NUE gains | Melo 2022; [[Urine-Enhanced Biochar Field Trial\|urine-enhanced biochar field trial]]/2017; Puga 2020 |
 | **Physicochemical post-process only** | Particle size / heating / leaching; **not** biological charge | Thomas meta +14% plant growth vs raw; excluded co-compost | Thomas 2021 ([DOI](https://doi.org/10.1007/s42773-021-00115-0)) |
 
 ---
@@ -184,7 +184,7 @@ Desorption depends on N loading, soil hydraulic regime, plant demand, and method
 | Biochar-coated urea | Controlled N loss; ↑ NUE (Jia et al. 2021) | https://doi.org/10.1186/s40538-020-00205-4 |
 | Eucalyptus biochar + urea (field) | NUE **+12%** vs urea; maize yield **+26%**; GHG intensity −14% (Puga et al. 2020) | https://doi.org/10.1016/j.scitotenv.2019.135375 |
 | Urine 1:1 vol + compost, root-zone | Pumpkin **82.6 t ha⁻¹**; >300% vs urine-only (Schmidt 2015); biochar DM **0.75 t ha⁻¹** | https://doi.org/10.3390/agriculture5030723 |
-| Liquid enrichment 21 trials / 13 crops | Framework for biochar-based fertilization ([[Schmidt et al. 2017\|Schmidt 2017]]) | https://doi.org/10.1002/ldr.2761 |
+| Liquid enrichment 21 trials / 13 crops | Framework for biochar-based fertilization ([[Liquid Nutrient Enrichment Field Trials\|liquid nutrient enrichment trials]]) | https://doi.org/10.1002/ldr.2761 |
 | Digestate impregnation | ↑ SOM/macronutrients vs unenriched char (Kizito 2019 via Ndoung) | https://doi.org/10.1016/j.heliyon.2021.e08473 |
 | Struvite–biochar composites | Longer N/P release cycle (Hu et al. via Ndoung) | same |
 | Rasse 2022 review | Sorption alone often insufficient for high-N BCF; coatings needed | https://doi.org/10.1007/s11104-022-05365-w |
@@ -215,11 +215,11 @@ Agronomy BCF advancements review (2025): https://doi.org/10.3390/agronomy1505110
 
 | Source | Finding | URL |
 |---|---|---|
-| [[Ye et al. 2020]] field meta | Biochar **+ inorganic fertilizer** ~**+15%** yield vs fertilizer alone | https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf |
+| [[Fertilizer-Controlled Yield Meta-analysis|meta-analyzes yields with fertilizer controls]] field meta | Biochar **+ inorganic fertilizer** ~**+15%** yield vs fertilizer alone | https://www.css.cornell.edu/faculty/lehmann/publ/SoilUseManage%2036%2C%202-18%202020%20Ye.pdf |
 | Melo 2022 | BBF +10% vs fertilized controls at ~0.9 t ha⁻¹ | https://doi.org/10.1007/s11104-021-05276-2 |
 | Puga 2020 | NUE +12%; yield +26% vs urea | https://doi.org/10.1016/j.scitotenv.2019.135375 |
 | Liao et al. 2020 (via Ndoung) | Controlled-release biochar-N: rape NUE ~**+58.8%**, yield ~**+16.6%** vs urea framing in review table | https://doi.org/10.1016/j.heliyon.2021.e08473 |
-| [[Jeffery et al. 2017\|Jeffery 2017]] | Temperate mean raw-char benefit weak — fertilizer/compost co-management matter more | https://doi.org/10.1088/1748-9326/aa67bd |
+| [[Tropical vs Temperate Yields\|compares tropical vs temperate yields]] | Temperate mean raw-char benefit weak — fertilizer/compost co-management matter more | https://doi.org/10.1088/1748-9326/aa67bd |
 
 ### 9.2 Antagonism / risks
 
@@ -258,7 +258,7 @@ Oasis vineyard evidence that **compost+biochar** beat either alone (+36% five-ha
 | Puga maize yield vs urea | +26% | same |
 | Steiner compost NH₃ reduction | up to −64% | https://doi.org/10.2134/jeq2009.0337 |
 
-Figures from [[Kammann et al. 2015]], [[Melo et al. 2022]], [[Ye et al. 2020]], [[Jeffery et al. 2011]] and [[Jeffery et al. 2017]] are kept in their source notes, with a check status for each number.
+Figures from [[Co-compost Nitrate Capture|shows co-compost nitrate capture]], [[Biochar-Based Fertilizer Meta-analysis|meta-analyzes biochar fertilizers]], [[Fertilizer-Controlled Yield Meta-analysis|meta-analyzes yields with fertilizer controls]], [[Crop Productivity Meta-analysis|meta-analyzes crop productivity]] and [[Tropical vs Temperate Yields|compares tropical vs temperate yields]] are kept in their source notes, with a check status for each number.
 
 ---
 
@@ -311,7 +311,7 @@ Without that bridge, high-C CDR char remains a sponge; with it, the same carbon 
 
 ## Primary outbound links
 
-Source notes (checked figures and full citations): [[Kammann et al. 2015]] · [[Melo et al. 2022]] · [[Ye et al. 2020]] · [[Jeffery et al. 2011]] · [[Jeffery et al. 2017]] · [[Schmidt et al. 2015]] · [[Schmidt et al. 2017]] · [[Lehmann et al. 2021]] · [[Antonangelo et al. 2021]] · [[NRCS CPS 336 FAQ 2026]] · [[NRCS CPS 336 Standard 2022]] · [[USBI Ag Guidelines 2023]] · [[Oasis Vineyard Trial 2023]] · [[Pacific Biochar Compost White Paper 2023]]. Other references:
+Source notes (checked figures and full citations): [[Co-compost Nitrate Capture|shows co-compost nitrate capture]] · [[Biochar-Based Fertilizer Meta-analysis|meta-analyzes biochar fertilizers]] · [[Fertilizer-Controlled Yield Meta-analysis|meta-analyzes yields with fertilizer controls]] · [[Crop Productivity Meta-analysis|meta-analyzes crop productivity]] · [[Tropical vs Temperate Yields|compares tropical vs temperate yields]] · [[Urine-Enhanced Biochar Field Trial|urine-enhanced biochar field trial]] · [[Liquid Nutrient Enrichment Field Trials|liquid nutrient enrichment trials]] · [[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]] · [[COMBI Soil Quality Review|reviews co-composted biochar soil effects]] · [[NRCS CPS 336 FAQ 2026]] · [[NRCS CPS 336 Standard 2022]] · [[USBI Ag Guidelines 2023]] · [[Oasis Vineyard Trial 2023]] · [[Pacific Biochar Compost White Paper 2023]]. Other references:
 
 - Nguyen 2017 SIN meta — https://doi.org/10.1016/j.geoderma.2016.11.004
 - Clough 2013 N dynamics — https://doi.org/10.3390/agronomy3020275
@@ -379,7 +379,7 @@ Kammann et al. note thermophilic composting (60–70 °C) may strengthen nutrien
 | Mineralization / positive priming | Can ↑ SIN briefly | Stronger with low-T / manure chars | Zimmerman 2011 ([DOI](https://doi.org/10.1016/j.soilbio.2011.02.005)); Luo et al. cited in Nguyen |
 | Immobilization | ↓ SIN | C:N threshold ~20–32; labile C matters more than bulk C:N of wood | Chan & Xu / Kuzyakov framing in Nguyen; Bruun 2012 |
 | Nitrification | NH₄⁺ → NO₃⁻ | Liming of acid soils; AOA/AOB increases may take >1 year | Prommer / Bai lineage in Nguyen; Clough 2013 |
-| Denitrification / N₂O | ↓ NO₃⁻; GHG co-benefit | Cayuela metas; H:C_org moderator | [[GHG Fluxes]]; https://doi.org/10.1016/j.agee.2013.10.009 · [[Cayuela et al. 2014]] |
+| Denitrification / N₂O | ↓ NO₃⁻; GHG co-benefit | Cayuela metas; H:C_org moderator | [[GHG Fluxes]]; https://doi.org/10.1016/j.agee.2013.10.009 · [[Nitrous Oxide Mitigation Meta-analysis|meta-analyzes N2O mitigation]] |
 | Biological N₂ fixation | Can offset SIN decline in legumes | Nodulation responses mixed; clover caveat from Quilliam, DeLuca & Jones (2013) | Clough 2013; https://doi.org/10.1007/s11104-012-1411-4 |
 
 Fertilizer chemistry takeaway: **organic co-amendments** change the biotic balance toward mineralization (Nguyen), which is why compost charging simultaneously addresses abiotic sorption and biotic immobilization ([[Biochar Compost and Manure Blends]]).

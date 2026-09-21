@@ -65,7 +65,7 @@ Hansen et al. (2015) discuss gasification biochar as a co-product for sequestrat
 
 ## Primary links
 
-- [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) · [[Woolf et al. 2021]]
+- [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]]
 - [IPCC 2019 App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf)
 - [Hansen et al. 2015](https://doi.org/10.1016/j.biombioe.2014.11.010)
 - [EBC 10.5E](https://www.european-biochar.org/media/doc/7/ebc_en_10_5_red.pdf)

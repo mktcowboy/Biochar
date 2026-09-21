@@ -38,8 +38,8 @@ Report context: **2026-09-16**.
 | USBI charge window | Inoculate/charge **1–3 weeks** with compost, manure, tea, fertilizer, urine, or microbes | https://farmlandinfo.org/wp-content/uploads/sites/2/2023/06/usbi-biochar-guidelines-for-ag-application.pdf · [[USBI Ag Guidelines 2023]] |
 | NRCS language | Inoculate with compost, compost tea, or manure | https://www.nrcs.usda.gov/sites/default/files/2022-11/336-NHCP-CPS-Soil-Carbon-Amendment-2022.pdf |
 | Co-compost loading | Roughly **5–15%** biochar (w/w or v/v depending on source) early | https://pacificbiochar.com/wp-content/uploads/Pacific-Biochar_Biochar-Compost_white-paper.pdf · https://biochar.org/wp-content/uploads/2026/06/Biochar-Guidelines-Compost-2026-Draft-V1.pdf · [[Farm Co-composting Practice]] |
-| Enriched fertilizer rates | Often **≪2 t ha⁻¹** when nutrient-loaded and root-zone placed | https://doi.org/10.1002/ldr.2761 · [[Schmidt et al. 2017]] |
-| Immobilization risk if skipped | Fresh wood char can bind nutrients; Kammann untreated 2% w/w cut biomass to ~60% of control | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf · https://doi.org/10.1038/srep11080 · [[Kammann et al. 2015]] |
+| Enriched fertilizer rates | Often **≪2 t ha⁻¹** when nutrient-loaded and root-zone placed | https://doi.org/10.1002/ldr.2761 · [[Liquid Nutrient Enrichment Field Trials|liquid nutrient enrichment trials]] |
+| Immobilization risk if skipped | Fresh wood char can bind nutrients; Kammann untreated 2% w/w cut biomass to ~60% of control | https://nrcs-prod.azureedge.us/sites/default/files/2026-04/soil-carbon-amendment-ac-336-faq.pdf · https://doi.org/10.1038/srep11080 · [[Co-compost Nitrate Capture|shows co-compost nitrate capture]] |
 
 Full mechanisms: **[[Biochar Inoculation for Fertilizer]]**. Blends: [[Biochar Compost and Manure Blends]].
 

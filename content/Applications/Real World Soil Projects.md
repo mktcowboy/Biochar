@@ -74,7 +74,7 @@ Report date: **2026-09-14**.
 
 | Location | What | URL |
 |---|---|---|
-| **Nepal** | Urine-enhanced / liquid-enriched biochar fertilizers; pumpkin trial + 21 multi-crop trials | https://doi.org/10.3390/agriculture5030723 · [[Schmidt et al. 2015]] · https://doi.org/10.1002/ldr.2761 · [[Schmidt et al. 2017]] |
+| **Nepal** | Urine-enhanced / liquid-enriched biochar fertilizers; pumpkin trial + 21 multi-crop trials | https://doi.org/10.3390/agriculture5030723 · [[Urine-Enhanced Biochar Field Trial|urine-enhanced biochar field trial]] · https://doi.org/10.1002/ldr.2761 · [[Liquid Nutrient Enrichment Field Trials|liquid nutrient enrichment trials]] |
 | **Brazil (Seropédica)** | Biochar on degraded pastures; environmental + CBA | https://doi.org/10.1038/s41598-019-47647-x |
 | **Bolivia (Exomad)** | Industrial production + farm soil use + yield trials | links above · [[Exomad Green Corn and Bean Field Study]] |
 | **India (Odisha, Verra 4679)** | Farm-waste biochar returned to farms | https://verra.org/verra-registers-first-biochar-project/ |

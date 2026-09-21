@@ -57,7 +57,7 @@ Sources: [[Verra VM0044]] cluster; [[Isometric Biochar Protocol]] cluster; [[Pur
 | **Decay model / centuries** | Puro CORC200+; Isometric 200y | EU CRCF-adjacent “permanent” centuries narrative |
 | **Inertinite / Ro millennial** | Isometric 1000y (Ro≥**2%**); CSI upper GPC (Ro≥**3.8%** or HyPy≥**90%**) | Petrographic proof; higher lab cost; premium durability story — [[CSI GPC vs SPC Permanence Classes]] |
 
-Deep science: [[Permanence Science for Credits]] · [[Woolf et al. 2021]] ([DOI](https://doi.org/10.1021/acs.est.1c02425)) · [[Sanei et al. 2024]] ([DOI](https://doi.org/10.1016/j.coal.2023.104409)).
+Deep science: [[Permanence Science for Credits]] · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] ([DOI](https://doi.org/10.1021/acs.est.1c02425)) · [[Inertinite Permanence Benchmark|inertinite permanence benchmark]] ([DOI](https://doi.org/10.1016/j.coal.2023.104409)).
 
 ---
 

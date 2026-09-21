@@ -14,13 +14,13 @@ Chapter on **environmental controls** on biochar carbon persistence—especially
 
 ## 1. Material × environment
 
-Persistence is jointly controlled by **intrinsic chemistry** (aromatic condensation) and **extrinsic environment** (temperature, moisture, mineralogy, biology) ([[Lehmann et al. 2021]] · [DOI](https://doi.org/10.1038/s41561-021-00852-8); [Schmidt et al. 2025](https://doi.org/10.1111/gcbb.70092)). A high-T wood char in cool temperate mineral soil will outlast the same chemistry in warm tropical soil on a 100-year \(F_\mathrm{perm}\) basis ([[Woolf et al. 2021]] · [DOI](https://doi.org/10.1021/acs.est.1c02425)).
+Persistence is jointly controlled by **intrinsic chemistry** (aromatic condensation) and **extrinsic environment** (temperature, moisture, mineralogy, biology) ([[Biochar in Climate Change Mitigation|reviews biochar climate mitigation]] · [DOI](https://doi.org/10.1038/s41561-021-00852-8); [Schmidt et al. 2025](https://doi.org/10.1111/gcbb.70092)). A high-T wood char in cool temperate mineral soil will outlast the same chemistry in warm tropical soil on a 100-year \(F_\mathrm{perm}\) basis ([[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] · [DOI](https://doi.org/10.1021/acs.est.1c02425)).
 
 ---
 
 ## 2. Temperature and Q10 (Woolf framework)
 
-[[Woolf et al. 2021]] rescale mineralization studies to a common soil temperature using a **temperature-dependent Q10**:
+[[Biochar Soil GHG Inventory Model|models soil GHG from biochar]] rescale mineralization studies to a common soil temperature using a **temperature-dependent Q10**:
 
 \[
 Q_{10} = 1.1 + 12.0\,e^{-0.19\,T}
@@ -60,7 +60,7 @@ Schmidt et al. (2025) emphasize that longevity is not chemistry alone: **soil mi
 | Moisture extremes | Can limit or enhance oxidation | Site-specific; sparse in inventory EFs |
 | Organic soils / forest organic horizons | Risk of positive priming / out-of-scope | Woolf: **do not apply** method on Histosols or organic horizons ([DOI](https://doi.org/10.1021/acs.est.1c02425) §3.3) |
 
-Priming of native SOC is conservatively **excluded** from Woolf’s GHG method because meta-mean negative priming was not significant at p<0.05 ([DOI](https://doi.org/10.1021/acs.est.1c02425); [[Wang et al. 2016]] · [DOI](https://doi.org/10.1111/gcbb.12266)).
+Priming of native SOC is conservatively **excluded** from Woolf’s GHG method because meta-mean negative priming was not significant at p<0.05 ([DOI](https://doi.org/10.1021/acs.est.1c02425); [[Stability and Priming Meta-analysis|meta-analyzes stability and priming]] · [DOI](https://doi.org/10.1111/gcbb.12266)).
 
 ---
 
@@ -84,10 +84,10 @@ From IPCC App. 4 and Woolf:
 
 ## Primary links
 
-- [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) · [open PDF](https://open-science.canada.ca/server/api/core/bitstreams/112fc297-0352-4683-ae0e-dd1271f59d77/content) · [[Woolf et al. 2021]]
+- [Woolf et al. 2021](https://doi.org/10.1021/acs.est.1c02425) · [open PDF](https://open-science.canada.ca/server/api/core/bitstreams/112fc297-0352-4683-ae0e-dd1271f59d77/content) · [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]]
 - [IPCC 2019 App. 4](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf) · [[IPCC 2019 Biochar Appendix]]
 - [Schmidt et al. 2025](https://doi.org/10.1111/gcbb.70092)
-- [Wang et al. 2016](https://doi.org/10.1111/gcbb.12266) · [[Wang et al. 2016]]
+- [Wang et al. 2016](https://doi.org/10.1111/gcbb.12266) · [[Stability and Priming Meta-analysis|meta-analyzes stability and priming]]
 
 ## Related notes
 

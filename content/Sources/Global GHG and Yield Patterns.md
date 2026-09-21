@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: [Jia 2023, Jia et al. (2023), Jia et al. 2023]
+aliases: ["global GHG and yield patterns", "biochar GHG yield patterns"]
 source_type: meta-analysis
 peer_reviewed: true
 authors: ["Jia, Xiaoyu", "Yan, Weiming", "Yang, Jingyi", "Chen, Weiguang", "Ma, Hongze", "Chen, Xi", "Liu, Jin", "Zhong, Yangquanwei", "Shangguan, Zhouping"]
@@ -38,4 +38,4 @@ verified: 2026-09-14
 - These averages **pool incubation, pot, and field experiments**. GHG responses were more sensitive in incubation and pot studies than in the field, so field effects are likely smaller than the headline numbers. Earlier vault notes called this meta-analysis "field-focused"; it isn't.
 - Warming potential and GHG intensity are bundled metrics. Check the paper's system boundaries before comparing them with other studies.
 
-Related: [[GHG Fluxes]] · [[Crop Yield Effects]] · [[Cayuela et al. 2014]] · [[Key Sources]]
+Related: [[GHG Fluxes]] · [[Crop Yield Effects]] · [[Nitrous Oxide Mitigation Meta-analysis|meta-analyzes N2O mitigation]] · [[Key Sources]]

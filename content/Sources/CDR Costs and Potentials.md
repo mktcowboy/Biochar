@@ -1,6 +1,6 @@
 ---
 tags: [source, science]
-aliases: [Fuss et al. 2026, Fuss 2026, State of CDR 2026 Chapter 10, Fuss & Lunstrum 2026]
+aliases: ["CDR costs and potentials", "State of CDR Chapter 10"]
 source_type: book chapter
 peer_reviewed: false
 authors: ["Fuss, Sabine", "Lunstrum, Abby"]

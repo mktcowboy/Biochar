@@ -19,7 +19,7 @@ Cross-standards: [[Verra vs Isometric vs Puro]] · [[Puro vs Other Standards]] �
 
 ## Why it matters for biochar
 
-Isometric is a **modular CDR** program: one production/storage protocol plus specialized **soil**, **low-oxygen burial**, and **built-environment** modules (plus production variants for mobile / distributed / combustion co-product). It is currently the clearest mainstream path to **1000-year** biochar claims via **random reflectance (R₀)** / inertinite science ([[Sanei et al. 2024]]), while still offering a **200-year** Woolf-style path for projects without petrographic labs.
+Isometric is a **modular CDR** program: one production/storage protocol plus specialized **soil**, **low-oxygen burial**, and **built-environment** modules (plus production variants for mobile / distributed / combustion co-product). It is currently the clearest mainstream path to **1000-year** biochar claims via **random reflectance (R₀)** / inertinite science ([[Inertinite Permanence Benchmark|inertinite permanence benchmark]]), while still offering a **200-year** Woolf-style path for projects without petrographic labs.
 
 Registry positioning claim: “largest certifier of carbon removal by contracted volume”; “fully accredited by **ICVCM, ICROA, and CORSIA**” ([protocol page](https://registry.isometric.com/protocol/biochar/1.3)) — treat as operator claims; confirm category-level CCP status separately for diligence.
 

@@ -1,6 +1,6 @@
 ---
 tags: [source, applications]
-aliases: [Jeffery 2017, Jeffery et al. (2017), Jeffery et al. 2017]
+aliases: ["tropical vs temperate yields", "tropical temperate yield contrast"]
 source_type: meta-analysis
 peer_reviewed: true
 authors: ["Jeffery, Simon", "Abalos, Diego", "Prodana, Marija", "Bastos, Ana Catarina", "van Groenigen, Jan Willem", "Hungate, Bruce A.", "Verheijen, Frank"]
@@ -33,6 +33,6 @@ verified: 2026-09-14
 ## Use with care
 
 - "No effect on average" in temperate soils hides variation. The authors discuss over-liming, which can tie up micronutrients, as one possible reason for yield decreases.
-- Charged or enriched products are a different question; see [[Melo et al. 2022]] and [[Schmidt et al. 2017]].
+- Charged or enriched products are a different question; see [[Biochar-Based Fertilizer Meta-analysis|meta-analyzes biochar fertilizers]] and [[Liquid Nutrient Enrichment Field Trials|liquid nutrient enrichment trials]].
 
-Related: [[Jeffery et al. 2011]] · [[Crop Yield Effects]] · [[Soil and Agriculture]] · [[Key Sources]]
+Related: [[Crop Productivity Meta-analysis|meta-analyzes crop productivity]] · [[Crop Yield Effects]] · [[Soil and Agriculture]] · [[Key Sources]]

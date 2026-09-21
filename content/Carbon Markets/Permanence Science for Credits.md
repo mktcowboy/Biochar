@@ -19,8 +19,8 @@ Same science, different program interpretations. Do not mix thresholds across re
 
 ## Two camps (active divergence)
 
-- **Decomposition-model camp:** IPCC appendix, [[Woolf et al. 2021|Woolf 2021]], Puro CORC200+, Isometric 200y
-- **Inertinite / Ro camp:** [[Sanei et al. 2024]]; Isometric 1000y; CSI upper class
+- **Decomposition-model camp:** IPCC appendix, [[Biochar Soil GHG Inventory Model|models soil GHG from biochar]], Puro CORC200+, Isometric 200y
+- **Inertinite / Ro camp:** [[Inertinite Permanence Benchmark|inertinite permanence benchmark]]; Isometric 1000y; CSI upper class
 
 Puro explicitly chose **centuries not millennia** pending more integrated science ([Puro permanence post, 2025-07-03](https://puro.earth/insights/post/biochar-permanence/)).
 
